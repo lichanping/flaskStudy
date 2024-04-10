@@ -19,6 +19,8 @@
 /* Style for word text */
 .word {
     cursor: pointer; /* Make the word text clickable */
+    text-align: left; /* Align the word text to the left */
+    flex-grow: 1; /* Allow the word text to grow and fill the available space */
 }
 
 /* Style for buttons */
@@ -39,6 +41,13 @@
 /* Style for close button */
 .closeButton {
     color: white;
+}
+
+.index {
+    display: inline-block;
+    width: 10px;
+    text-align: left;
+    margin-right: 15px; /* Add 5px of space after the index */
 }
 
 /* Added styles for checkButton and closeButton */
@@ -62,4 +71,5 @@
 
 .translation {
     display: none;
+    text-align: left !important; /* Align translation text to the left */
 }

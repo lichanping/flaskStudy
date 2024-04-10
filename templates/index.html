@@ -8,23 +8,26 @@
 </head>
 <body>
 <h1>English Words</h1>
-<form id="word_form" action="/" method="get">
+<form id="word_form" action="/" method="post">
+    <input type="hidden" name="action" id="action" value="">
     <label for="file_select">词库选择:</label>
     <select id="file_select" name="file_name">
         <option value="words.txt">Words</option>
         <option value="悠然.txt">悠然</option>
         <option value="中考词汇1.txt">中考词汇1</option>
-
-        <!-- Add more options for other TXT files if needed -->
     </select>
-    <button type="submit">学前检测</button>
+    <input type="hidden" name="selected_file" id="selected_file" value="">
+    <button type="submit" onclick="document.getElementById('action').value = 'check';">学前检测</button>
     <button id="autoSelectButton">自动选择</button>
-    <button id="startLearningButton">开始识记</button>
+    <button id="startLearningButton" type="submit" onclick="document.getElementById('action').value = 'learn';">开始识记
+    </button>
+    <button type="submit" onclick="document.getElementById('action').value = 'resist_forgetting';">抗遗忘</button>
 </form>
 
 <ul id="wordList">
     {% for word in words %}
     <li class="wordItem">
+        <div class="index">{{ word.索引 }}</div>
         <div class="word">{{ word.单词 }}</div>
         <div class="translation">{{ word.释意 }}</div>
         <div class="buttons">
@@ -37,6 +40,25 @@
 <audio id="audioPlayer" src="" preload="auto"></audio>
 <div id="floatingBarPlaceholder"></div>
 <script>
+    // Function to update the value of the hidden input field with the selected option
+    function updateSelectedFile() {
+        var selectedOption = document.getElementById('file_select').value;
+        document.getElementById('selected_file').value = selectedOption;
+    }
+
+    // Add event listener to the change event of the file_select element
+    document.getElementById('file_select').addEventListener('change', function () {
+        updateSelectedFile(); // Update selected file when the selection changes
+    });
+    // Trigger the change event of the file_select element after the page is loaded
+    document.addEventListener('DOMContentLoaded', function () {
+        updateSelectedFile(); // Update selected file when the page is loaded
+    });
+    // Add event listener to the form's submit event
+    document.getElementById('word_form').addEventListener('submit', function () {
+        updateSelectedFile(); // Update selected file just before the form is submitted
+    });
+
     function playAudio(audioSrc) {
         var audioPlayer = document.getElementById('audioPlayer');
         const audio = new Audio(audioSrc);
@@ -49,25 +71,37 @@
     }
 
     document.getElementById('startLearningButton').addEventListener('click', function () {
-        // Initialize empty arrays to store words
-        var selectedCheckWords = [];
-        var selectedCloseWords = [];
-
+        event.preventDefault(); // Prevent the default form submission behavior
+        var selectedWords = [];
         // Loop through all word items
         document.querySelectorAll('.wordItem').forEach(wordItem => {
             // Check if the checkButton is selected
             if (wordItem.querySelector('.checkButton').classList.contains('clicked')) {
-                selectedCheckWords.push(wordItem.querySelector('.word').textContent.trim());
+                // selectedCheckWords.push(wordItem.querySelector('.word').textContent.trim());
+                // Add a hidden input field with the selected word value to the form
+                var hiddenInput = document.createElement('input');
+                hiddenInput.type = 'hidden';
+                hiddenInput.name = 'check_word'; // This will be used to retrieve the values on the server side
+                hiddenInput.value = wordItem.querySelector('.word').textContent.trim();
+                document.getElementById('word_form').appendChild(hiddenInput);
             }
             // Check if the closeButton is selected
             if (wordItem.querySelector('.closeButton').classList.contains('clicked')) {
-                selectedCloseWords.push(wordItem.querySelector('.word').textContent.trim());
+                // selectedCloseWords.push(wordItem.querySelector('.word').textContent.trim());
+                // Add a hidden input field with the selected word value to the form
+                var index = wordItem.querySelector('.index').textContent.trim();
+                var word = wordItem.querySelector('.word').textContent.trim();
+                var translation = wordItem.querySelector('.translation').textContent.trim();
+                selectedWords.push({'索引': index, '单词': word, '释意': translation});
             }
         });
-
-        // Log the summarized lists to the console
-        console.log("Words with checkButton selected:", selectedCheckWords);
-        console.log("Words with closeButton selected:", selectedCloseWords);
+        // Add the selected words as a hidden input field to the form
+        var hiddenInput = document.createElement('input');
+        hiddenInput.type = 'hidden';
+        hiddenInput.name = 'selected_words'; // This will be used to retrieve the values on the server side
+        hiddenInput.value = JSON.stringify(selectedWords);
+        document.getElementById('word_form').appendChild(hiddenInput);
+        document.getElementById('word_form').submit();
     });
 
     // Function to automatically click all closeButton elements
