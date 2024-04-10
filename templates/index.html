@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>English Words</title>
+    <link rel="stylesheet" href="../static/css/styles.css">
+</head>
+<body>
+<h1>English Words</h1>
+<form id="word_form" action="/" method="get">
+    <label for="file_select">词库选择:</label>
+    <select id="file_select" name="file_name">
+        <option value="words.txt">Words</option>
+        <option value="悠然.txt">悠然</option>
+        <option value="中考词汇1.txt">中考词汇1</option>
+
+        <!-- Add more options for other TXT files if needed -->
+    </select>
+    <button type="submit">学前检测</button>
+    <button id="autoSelectButton">自动选择</button>
+    <button id="startLearningButton">开始识记</button>
+</form>
+
+<ul id="wordList">
+    {% for word in words %}
+    <li class="wordItem">
+        <div class="word">{{ word.单词 }}</div>
+        <div class="translation">{{ word.释意 }}</div>
+        <div class="buttons">
+            <button class="checkButton">✓</button>
+            <button class="closeButton">×</button>
+        </div>
+    </li>
+    {% endfor %}
+</ul>
+<audio id="audioPlayer" src="" preload="auto"></audio>
+<div id="floatingBarPlaceholder"></div>
+<script>
+    function playAudio(audioSrc) {
+        var audioPlayer = document.getElementById('audioPlayer');
+        const audio = new Audio(audioSrc);
+        audio.onerror = () => {
+            const msg = `Sound of '${audio.src}' failed to load!`;
+            console.error(msg);
+        };
+        console.log(audio.src);
+        audio.play();
+    }
+
+    document.getElementById('startLearningButton').addEventListener('click', function () {
+        // Initialize empty arrays to store words
+        var selectedCheckWords = [];
+        var selectedCloseWords = [];
+
+        // Loop through all word items
+        document.querySelectorAll('.wordItem').forEach(wordItem => {
+            // Check if the checkButton is selected
+            if (wordItem.querySelector('.checkButton').classList.contains('clicked')) {
+                selectedCheckWords.push(wordItem.querySelector('.word').textContent.trim());
+            }
+            // Check if the closeButton is selected
+            if (wordItem.querySelector('.closeButton').classList.contains('clicked')) {
+                selectedCloseWords.push(wordItem.querySelector('.word').textContent.trim());
+            }
+        });
+
+        // Log the summarized lists to the console
+        console.log("Words with checkButton selected:", selectedCheckWords);
+        console.log("Words with closeButton selected:", selectedCloseWords);
+    });
+
+    // Function to automatically click all closeButton elements
+    function autoSelect(event) {
+        event.preventDefault(); // Prevent the default form submission behavior
+        document.querySelectorAll('.closeButton').forEach(closeButton => {
+            closeButton.click();
+        });
+    }
+
+    // Add event listener to the "自动选择" button
+    document.getElementById('autoSelectButton').addEventListener('click', autoSelect);
+    document.querySelectorAll('.wordItem').forEach(wordItem => {
+        // Get the checkButton and closeButton within the wordItem
+        const checkButton = wordItem.querySelector('.checkButton');
+        const closeButton = wordItem.querySelector('.closeButton');
+
+        // Add event listener to the checkButton
+        checkButton.addEventListener('click', event => {
+            // Remove "clicked" class from closeButton
+            closeButton.classList.remove('clicked');
+            // Add "clicked" class to checkButton
+            checkButton.classList.add('clicked');
+        });
+
+        // Add event listener to the closeButton
+        closeButton.addEventListener('click', event => {
+            // Remove "clicked" class from checkButton
+            checkButton.classList.remove('clicked');
+            // Add "clicked" class to closeButton
+            closeButton.classList.add('clicked');
+        });
+    });
+
+    document.addEventListener('DOMContentLoaded', function () {
+        document.querySelectorAll('.wordItem').forEach(item => {
+            item.addEventListener('click', event => {
+                // Check if the clicked element is not the closeButton
+                if (!event.target.classList.contains('closeButton')) {
+                    var word = item.querySelector('.word').textContent.trim().toLowerCase();
+                    var audioSrc = "{{ url_for('static', filename='sounds/') }}" + word + ".mp3";
+                    playAudio(audioSrc);
+                    // Toggle visibility of translation
+                    var translation = item.querySelector('.translation');
+                    translation.style.display = translation.style.display === 'none' ? 'block' : 'none';
+                }
+            });
+        });
+    });
+
+    document.getElementById('word_form').addEventListener('submit', function (event) {
+        var selectElement = document.getElementById('file_select');
+        var selectedValue = selectElement.options[selectElement.selectedIndex].value;
+        sessionStorage.setItem('selectedFile', selectedValue);
+    });
+
+    // Restore selected option after page reload
+    window.onload = function () {
+        var selectElement = document.getElementById('file_select');
+        var selectedFile = sessionStorage.getItem('selectedFile');
+        if (selectedFile) {
+            selectElement.value = selectedFile;
+        }
+    };
+</script>
+</body>
+</html>

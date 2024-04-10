@@ -1,0 +1,65 @@
+/* Style for word list */
+#wordList {
+    list-style-type: none;
+    padding: 0;
+    width: 30%;
+}
+
+/* Style for each word item */
+.wordItem {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #f0f0f0;
+    margin-bottom: 5px;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+/* Style for word text */
+.word {
+    cursor: pointer; /* Make the word text clickable */
+}
+
+/* Style for buttons */
+.buttons button {
+    padding: 5px 10px;
+    margin-left: 5px;
+    border: none;
+    background-color: gray;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+/* Style for check button */
+.checkButton {
+    color: white;
+}
+
+/* Style for close button */
+.closeButton {
+    color: white;
+}
+
+/* Added styles for checkButton and closeButton */
+.checkButton, .closeButton {
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    border: none;
+    cursor: pointer;
+    background-color: grey;
+}
+
+/* Added styles for clicked buttons */
+.checkButton.clicked {
+    background-color: green;
+}
+
+.closeButton.clicked {
+    background-color: red;
+}
+
+.translation {
+    display: none;
+}
