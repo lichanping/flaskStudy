@@ -2,10 +2,94 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta http-equiv="refresh" content="0; url=/">
-    <title>Redirecting...</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>WordWise: Your English Learning Hub</title>
+    <link rel="stylesheet" href="learn-words.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css"
+          integrity="sha384-4jyxlJMI6IazG++WDjSlbSz/0qbSjoRxWzf4Jov4vhGJRO8/ndXw+ByMIvXCFj5Y" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css"
+          integrity="sha512-xxxxxx" crossorigin="anonymous"/>
+    <link rel="icon" type="image/png" href="sounds/tick-mark.png">
 </head>
 <body>
-    <p>If you are not redirected automatically, follow <a href="/templates/index.html">this link</a>.</p>
+<div id="container">
+    <div id="file-and-button">
+        <select id="file">
+        </select>
+        <span id="fileCountLabel"></span>
+        <button id="renderQuestion">播放</button>
+    </div>
+    <div id="english-word">
+        <input type="text" id="englishWordTextBox" readonly>
+        <span class="fas fa-volume-up speaker-icon" id="playWord"></span>
+        <label class="switch">
+            <input type="checkbox" id="random-toggle">
+            <span class="slider"></span>
+        </label>
+
+    </div>
+    <div id="spellingContainer">
+        <input type="text" id="spellingInput" placeholder="Spell the word..." style="margin-left: 10px;">
+        <button id="checkSpellingButton">
+            <i class="fas fa-check"></i>
+        </button>
+    </div>
+    <div id="options-line">
+    </div>
+    <div id="statistics-container">
+        <div id="score-container">
+            <label for="score">最高分:</label>
+            <div id="score">
+                <span id="scoreNumber">0</span>
+                <i class="fas fa-arrow-up" id="scoreArrow"></i>
+            </div>
+        </div>
+        <div id="error-count-container">
+            <label for="errorCount">选错:</label>
+            <div id="errorCount">0</div>
+        </div>
+        <div id="spelling-errors-container">
+            <label for="spellingErrors">拼错:</label>
+            <div id="spellingErrors">0</div>
+        </div>
+    </div>
+
+    <span id="incorrectWords"></span>
+    <input type="hidden" id="correctIndexValue">
+</div>
+<script type="module">
+    import * as script from './learnWords.js';
+    document.getElementById("file").addEventListener("change", script.renderQuestion);
+    let autoRenderInterval; // Variable to hold the interval ID
+    const renderButton = document.getElementById("renderQuestion");
+    document.getElementById("renderQuestion").addEventListener("click", function () {
+        if (autoRenderInterval) {
+            clearInterval(autoRenderInterval); // Stop auto-rendering
+            autoRenderInterval = null; // Reset the interval variable
+            renderButton.innerText = "播放";
+        } else {
+            startAutoRender(); // Start auto-rendering
+            renderButton.innerText = "停止";
+        }
+    });
+
+    function startAutoRender() {
+        autoRenderInterval = setInterval(function () {
+            script.renderQuestion();
+        }, 5000);
+    }
+
+    document.getElementById("playWord").addEventListener("click", script.play_audio);
+    document.getElementById("checkSpellingButton").addEventListener("click", script.checkSpelling);
+    document.getElementById("options-line").addEventListener("click", (event) => {
+        if (event.target.classList.contains("banner")) {
+            script.compareOptionIndex(event);
+        }
+    });
+</script>
+<footer>
+    <p>© Shirley - All rights reserved.</p>
+</footer>
 </body>
 </html>

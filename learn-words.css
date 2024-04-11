@@ -1,0 +1,279 @@
+/* Define a common font size */
+body {
+    font-size: 16px; /* Base font size */
+    background-color: #2F4F4F; /* Dark background color with green tint */
+    color: #ffffff; /* White font color */
+}
+.switch {
+  position: relative;
+  display: inline-block;
+  width: 30px; /* Set the width of the switch */
+  height: 15px; /* Set the height of the switch */
+}
+
+.switch input {
+  display: none;
+}
+
+.slider {
+  position: absolute;
+  cursor: pointer;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: #ccc; /* Grey background */
+  border-radius: 15px; /* Rounded corners */
+  transition: .4s;
+}
+
+.slider:before {
+  position: absolute;
+  content: "";
+  height: 13px; /* Set the height of the knob */
+  width: 13px; /* Set the width of the knob */
+  left: 2px;
+  bottom: 1px;
+  background-color: white;
+  border-radius: 50%; /* Circular knob */
+  transition: .4s;
+}
+
+input:checked + .slider {
+  background-color: #2196F3; /* Blue background when toggled on */
+}
+
+input:checked + .slider:before {
+  transform: translateX(15px); /* Move the knob to the right when toggled on */
+}
+
+/* Basic CSS for the thumb up icon */
+.thumb-up {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    opacity: 0;
+    font-size: 100px; /* Adjust the size of the icon */
+    color: #F8C471; /* Light Orange for the icon */
+    transition: opacity 0.3s ease; /* Adding transition for smooth opacity change */
+}
+
+/* Styles for clickable elements */
+#goBackButton,
+#renderQuestion,
+#file {
+    border-radius: 10px; /* Adjust the value as needed */
+    color: #ffffff; /* White font color */
+    background-color: inherit; /* Dark background color */
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5); /* Add shadow for a 3D effect */
+}
+
+/* Toast notification */
+.toast {
+    position: fixed;
+    bottom: 20px; /* Adjust as needed */
+    left: 50%;
+    transform: translateX(-50%);
+    background-color: rgba(0, 0, 0, 0.8);
+    color: #ffffff;
+    padding: 10px 20px;
+    border-radius: 5px;
+    z-index: 9999; /* Ensure it appears above other content */
+    font-size: 20px;
+}
+
+/* Score and error count containers */
+#score-container,
+#error-count-container {
+    display: inline-block;
+    margin-left: 20px; /* Add margin between score and error count */
+    color: #ffffff; /* White font color */
+}
+
+/* Individual score and error count */
+#errorCount {
+    display: inline-block;
+    margin-left: 5px; /* Add margin between label and value */
+}
+
+/* Score display */
+#score {
+    display: flex;
+    align-items: center; /* Align items vertically */
+    margin-left: 5px; /* Add margin between label and value */
+}
+
+#scoreNumber {
+    margin-right: 5px; /* Adjust margin as needed */
+}
+
+/* Container styles */
+#container {
+    width: 100%; /* Set width to full width for smaller screens */
+    max-width: 600px; /* Maximum width for larger screens */
+    text-align: left;
+    margin: 0 auto; /* Center the container horizontally */
+    padding: 0 10px; /* Add some padding to the sides */
+    color: #ffffff; /* White font color */
+}
+
+/* File and button container */
+#file-and-button {
+    display: flex;
+    align-items: center; /* Center align items vertically */
+    flex-wrap: wrap; /* Allow items to wrap to the next line */
+}
+
+/* File selection */
+#file {
+    margin: 0 10px; /* Add margin on both left and right sides */
+    font-size: 20px; /* Make the file text bigger */
+    height: 40px;
+}
+
+/* Go back button */
+#goBackButton {
+    font-size: 18px; /* Increase font size */
+    padding: 10px 20px; /* Increase padding */
+    border: none;
+    height: 40px;
+}
+
+/* Render question button */
+#renderQuestion {
+    font-size: inherit; /* Inherit font size from the body */
+    height: 40px;
+}
+
+/* English word text box */
+#englishWordTextBox {
+    height: 40px; /* Match height to the button */
+    font-size: 24px; /* Adjust the font size for the English word */
+    display: inline-block;
+    vertical-align: middle;
+    width: calc(100% - 130px); /* Set width to auto */
+    max-width: 380px; /* Maximum width for larger screens */
+    text-align: center;
+    border: none;
+    background-color: inherit; /* Dark background color */
+    margin: 10px 0; /* Add margin above and below */
+    margin-right: 5px; /* Add margin to the right of the textbox */
+    border-radius: 10px; /* Add border radius */
+    color: #ffffff; /* White font color */
+}
+
+/* Speaker icon */
+.speaker-icon {
+    font-size: 24px; /* Adjust the size of the speaker icon */
+    vertical-align: middle; /* Align the icon vertically with the text */
+    color: #333333; /* Dark background color */
+}
+
+/* Spelling input and check button */
+#spellingInput,
+#checkSpellingButton {
+    font-size: 20px; /* Set font size */
+    height: 40px; /* Set height */
+    border-radius: 10px; /* Add border-radius */
+    margin: 0 10px;
+}
+
+/* Spelling input */
+#spellingInput {
+    width: calc(100% - 140px); /* Set width to auto */
+}
+
+/* Banner styles */
+.banner {
+    height: 55px; /* Set a fixed height */
+    margin: 5px;
+    padding: 5px;
+    border: 1px solid #000;
+    text-align: center;
+    display: flex; /* Use flexbox */
+    align-items: center; /* Vertically center content */
+    justify-content: center; /* Horizontally center content */
+    width: calc(100% - 130px); /* Set width to auto */
+    max-width: 500px; /* Maximum width for larger screens */
+    word-wrap: break-word; /* Allow text to wrap within the div */
+    background-color: inherit; /* Dark background color */
+    border-radius: 10px;
+    font-size: 16px;
+    color: #ffffff; /* White font color */
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5); /* Add shadow for a 3D effect */
+}
+
+/* File count label */
+#fileCountLabel {
+    font-size: 16px; /* Set font size */
+    margin-left: 5px; /* Add margin to the left of the label */
+    color: #ffffff; /* White font color */
+}
+
+/* Speaker icon */
+.speaker-icon {
+    color: inherit; /* Inherit body's background color */
+}
+
+/* Statistics container */
+#statistics-container {
+    display: flex; /* Use Flexbox layout */
+    flex-wrap: nowrap; /* Prevent content from wrapping */
+}
+
+/* Score, error count, and spelling errors containers */
+#score-container,
+#error-count-container,
+#spelling-errors-container {
+    display: flex; /* Use Flexbox layout */
+    align-items: center; /* Vertically center content */
+    margin-right: 20px; /* Add right margin */
+}
+
+/* Media queries for smaller screens */
+@media only screen and (max-width: 600px) {
+    /* Adjustments for smaller screens */
+    #container {
+        padding: 0 20px; /* Increase padding for smaller screens */
+    }
+
+    #spellingInput,
+    #checkSpellingButton {
+        height: 50px; /* Adjust height for phone screens */
+    }
+
+    .banner {
+        width: 90%; /* Set width to 90% of the viewport width for phone screens */
+    }
+}
+
+/* Pulse animation */
+@keyframes pulse {
+    0% {
+        transform: scale(1);
+    }
+    50% {
+        transform: scale(1.1);
+    }
+    100% {
+        transform: scale(1);
+    }
+}
+
+/* Playing animation */
+.playing-animation {
+    animation: pulse 0.5s infinite alternate; /* Adjust animation duration and properties as needed */
+}
+
+/* Footer styles */
+footer {
+    text-align: center; /* Center align the content */
+    padding: 20px 0; /* Add some padding for spacing */
+    background-color: inherit; /* Dark background */
+    color: #ffffff; /* White font color */
+}
+
+footer p {
+    margin: 0; /* Remove default margin */
+}
