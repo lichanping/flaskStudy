@@ -63,16 +63,8 @@ class TxtReader:
 
         return new_file_name
 
-    def add_words_to_review_file(self, selected_file, selected_words):
-        review_date = datetime.now() + timedelta(days=1)  # Review scheduled for tomorrow
-        review_date_str = review_date.strftime('%Y-%m-%d')
-        review_file_path = os.path.join(self.review_folder, f"{review_date_str}.txt")
-        # Ensure the review directory exists, create it if not
-        os.makedirs(self.review_folder, exist_ok=True)
-        # Initialize a dictionary to store translations
+    def add_words_to_review_files(self, selected_file, selected_words):
         translations = {}
-
-        # Read translations from the selected file
         with open(os.path.join(self.data_folder, selected_file), 'r', encoding='utf-8') as file:
             for line in file:
                 word_match = re.match(r'([a-zA-Z\'\s\-\.\/]+)\s*(.*)', line.strip())
@@ -80,27 +72,32 @@ class TxtReader:
                     english_word, translation = word_match.groups()
                     translations[english_word.strip()] = translation.strip()
 
-        # Initialize a list to store words without translations
-        words_without_translations = []
+        os.makedirs(self.review_folder, exist_ok=True)
+        review_dates = []
 
-        # Prepare the content to append to the review file
-        content = []
-        for word in selected_words:
-            if word in translations:
-                content.append(f"{word}\t{translations[word]}")
-            else:
-                words_without_translations.append(word)
+        for days in [1, 2, 3, 5, 7, 9, 12, 14, 17, 21]:
+            review_date = datetime.now() + timedelta(days=days)
+            review_date_str = review_date.strftime('%Y-%m-%d')
+            review_dates.append(review_date_str)
 
-        # If there are words without translations, raise an exception
-        if words_without_translations:
-            raise ValueError(f"Translations not found for words: {', '.join(words_without_translations)}")
+            review_file_path = os.path.join(self.review_folder, f"{review_date_str}.txt")
 
-        # Join the content and append it to the review file
-        content_to_write = '\n'.join(content)
-        with open(review_file_path, 'a', encoding='utf-8') as review_file:
-            review_file.write(content_to_write)
+            content = []
+            for word in selected_words:
+                if word in translations:
+                    content.append(f"{word}\t{translations[word]}")
+                else:
+                    raise ValueError(f"Translation not found for word: {word}")
 
-        return review_date_str
+            content_to_write = '\n'.join(content)
+            if os.path.exists(review_file_path):
+                content_to_write = '\n' + content_to_write
+
+            with open(review_file_path, 'a', encoding='utf-8') as review_file:
+                review_file.write(content_to_write)
+
+        print(f'Words scheduled for review on {review_dates}')
+        return review_dates
 
 
 txt_reader = TxtReader()
@@ -128,8 +125,10 @@ def index():
         elif action == 'resist_forgetting':
             selected_file = request.form['file_name']
             selected_check_words = request.form.getlist('check_word')
-            review_date = txt_reader.add_words_to_review_file(selected_file, selected_check_words)
-            return f'Words scheduled for review on {review_date}', 200
+            review_dates = txt_reader.add_words_to_review_files(selected_file, selected_check_words)
+            new_file_name = txt_reader.move_words_to_new_file(selected_file, selected_check_words)
+            words = txt_reader.read_words_from_txt(selected_file)
+            return render_template('index.html', words=words)
 
 
 if __name__ == '__main__':
