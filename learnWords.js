@@ -88,7 +88,7 @@ export function play_audio() {
     }, 2000); // Remove the class after 2 seconds (adjust as needed)
     // Play corresponding sound if available
     const soundFileName = englishWordTextBox.value.trim().toLowerCase() + '.mp3';
-    const soundFilePath = `sounds/${soundFileName}`;
+    const soundFilePath = `static/sounds/${soundFileName}`;
     const audio = new Audio(soundFilePath);
     audio.onerror = () => {
         const msg = `Sound of '${englishWordTextBox.value.trim()}' failed to load!`;
