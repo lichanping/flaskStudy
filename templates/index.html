@@ -12,9 +12,10 @@
     <input type="hidden" name="action" id="action" value="">
     <label for="file_select">词库选择:</label>
     <select id="file_select" name="file_name">
-        <option value="words.txt">Words</option>
-        <option value="悠然.txt">悠然</option>
         <option value="中考词汇1.txt">中考词汇1</option>
+        <option value="中考词汇2.txt">中考词汇2</option>
+        <option value="中考词汇3.txt">中考词汇3</option>
+        <option value="中考考纲词组.txt">中考考纲词组</option>
     </select>
     <input type="hidden" name="selected_file" id="selected_file" value="">
     <button type="submit" onclick="document.getElementById('action').value = 'check';">检测</button>
@@ -138,20 +139,21 @@
 
         // Add event listener to the checkButton
         checkButton.addEventListener('click', event => {
-            // Remove "clicked" class from closeButton
+            // Toggle the "clicked" class on checkButton
+            checkButton.classList.toggle('clicked');
+            // Remove the "clicked" class from closeButton
             closeButton.classList.remove('clicked');
-            // Add "clicked" class to checkButton
-            checkButton.classList.add('clicked');
         });
 
         // Add event listener to the closeButton
         closeButton.addEventListener('click', event => {
-            // Remove "clicked" class from checkButton
+            // Toggle the "clicked" class on closeButton
+            closeButton.classList.toggle('clicked');
+            // Remove the "clicked" class from checkButton
             checkButton.classList.remove('clicked');
-            // Add "clicked" class to closeButton
-            closeButton.classList.add('clicked');
         });
     });
+
 
     document.addEventListener('DOMContentLoaded', function () {
         document.querySelectorAll('.wordItem').forEach(item => {
