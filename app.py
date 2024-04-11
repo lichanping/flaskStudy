@@ -75,7 +75,7 @@ class TxtReader:
         os.makedirs(self.review_folder, exist_ok=True)
         review_dates = []
 
-        for days in [1, 2, 3, 5, 7, 9, 12, 14, 17, 21]:
+        for days in [0, 1, 2, 3, 5, 7, 9, 12, 14, 17, 21]:
             review_date = datetime.now() + timedelta(days=days)
             review_date_str = review_date.strftime('%Y-%m-%d')
             review_dates.append(review_date_str)
