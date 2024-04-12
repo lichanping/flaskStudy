@@ -156,16 +156,32 @@
 
 
     document.addEventListener('DOMContentLoaded', function () {
+        let lastClickedItem = null; // Variable to keep track of the last clicked wordItem
+
         document.querySelectorAll('.wordItem').forEach(item => {
             item.addEventListener('click', event => {
                 // Check if the clicked element is not the closeButton
                 if (!event.target.classList.contains('closeButton')) {
                     var word = item.querySelector('.word').textContent.trim().toLowerCase();
                     var audioSrc = "{{ url_for('static', filename='sounds/') }}" + word + ".mp3";
-                    playAudio(audioSrc);
-                    // Toggle visibility of translation
-                    var translation = item.querySelector('.translation');
-                    translation.style.display = translation.style.display === 'none' ? 'block' : 'none';
+
+                    if (item === lastClickedItem) {
+                        // Toggle visibility of translation
+                        var translation = item.querySelector('.translation');
+                        translation.style.display = translation.style.display === 'none' ? 'block' : 'none';
+                    } else {
+                        // Play audio for the first click
+                        playAudio(audioSrc);
+                    }
+
+                    // Hide translation of the last clicked item if it's different from the current one
+                    if (lastClickedItem && lastClickedItem !== item) {
+                        var lastTranslation = lastClickedItem.querySelector('.translation');
+                        lastTranslation.style.display = 'none';
+                    }
+
+                    // Update the last clicked item
+                    lastClickedItem = item;
                 }
             });
         });
