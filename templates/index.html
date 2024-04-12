@@ -163,7 +163,8 @@
                 // Check if the clicked element is not the closeButton
                 if (!event.target.classList.contains('closeButton')) {
                     var word = item.querySelector('.word').textContent.trim().toLowerCase();
-                    var audioSrc = "{{ url_for('static', filename='sounds/') }}" + word + ".mp3";
+                    // var audioSrc = "{{ url_for('static', filename='sounds/') }}" + word + ".mp3";
+                    var audioSrc = "{{ url_for('static', filename='sounds') }}/" + word + ".mp3";
 
                     if (item === lastClickedItem) {
                         // Toggle visibility of translation
