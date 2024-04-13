@@ -13,3 +13,5 @@ Active	积极的；活跃的；相当于be always ready to do something
 survived	幸存
 competence	能力
 accidental	意外的，偶然的
+Able	能够，有能力的（形容词）
+Enable	使。。。能够；使。。。有能力
