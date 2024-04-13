@@ -30,3 +30,6 @@ automatic	自动的
 autumn	[U］秋天，秋季，--fall同义词
 available	可用的；可得到的
 avoid	避免；避开
+award	［C］奖品，奖励【vt】授予
+bad	坏的；有害的，不利的；（worse,worst）糟糕的，可惜的；严重的
+beg	请求，乞讨(begged, begged)，相当于 ask for。
