@@ -276,14 +276,14 @@ spellingInput.addEventListener('keydown', function (event) {
 
 function clearCachedData() {
     const fileName = document.getElementById("file").value + ".txt";
-    const filePath = `user_data/${fileName}`; // Adjust the file name accordingly
+    const filePath = `data/review/${fileName}`; // Adjust the file name accordingly
     localStorage.removeItem(filePath); // Remove cached data
 }
 
 // Call the function to clear cached data when the page loads
 window.onload = function () {
-    clearCachedData();
     populateList()
+    clearCachedData();
     renderQuestion()
 };
 
