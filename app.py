@@ -64,6 +64,8 @@ class TxtReader:
         return new_file_name
 
     def add_words_to_review_files(self, selected_file, selected_words):
+        if not selected_words:
+            return None
         translations = {}
         with open(os.path.join(self.data_folder, selected_file), 'r', encoding='utf-8') as file:
             for line in file:
@@ -120,15 +122,20 @@ def index():
             selected_check_words = request.form.getlist('check_word')
             new_file_name = txt_reader.move_words_to_new_file(selected_file, selected_check_words)
             selected_check_words = request.form.getlist('selected_words')[0]
-            selected_check_words = json.loads(selected_check_words)
-            return render_template('index.html', words=selected_check_words)
-        elif action == 'resist_forgetting':
-            selected_file = request.form['file_name']
-            selected_check_words = request.form.getlist('check_word')
-            review_dates = txt_reader.add_words_to_review_files(selected_file, selected_check_words)
-            new_file_name = txt_reader.move_words_to_new_file(selected_file, selected_check_words)
+            selected_check_words = json.loads(selected_check_words) # 选择x的word的list:
+            review_words = [word_dict['单词'] for word_dict in selected_check_words]
+            review_dates = txt_reader.add_words_to_review_files(selected_file, review_words)
+            new_file_name = txt_reader.move_words_to_new_file(selected_file, review_words)
             words = txt_reader.read_words_from_txt(selected_file)
             return render_template('index.html', words=words)
+
+        # elif action == 'resist_forgetting':
+        #     selected_file = request.form['file_name']
+        #     selected_check_words = request.form.getlist('check_word')
+        #     review_dates = txt_reader.add_words_to_review_files(selected_file, selected_check_words)
+        #     new_file_name = txt_reader.move_words_to_new_file(selected_file, selected_check_words)
+        #     words = txt_reader.read_words_from_txt(selected_file)
+        #     return render_template('index.html', words=words)
 
 
 if __name__ == '__main__':
