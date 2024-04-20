@@ -18,13 +18,13 @@
         <option value="中考考纲词组.txt">中考考纲词组</option>
     </select>
     <input type="hidden" name="selected_file" id="selected_file" value="">
-    <button type="submit" onclick="document.getElementById('action').value = 'check';">检测</button>
-    <button id="autoSelectButton">全选</button>
-    <button id="startLearningButton" type="submit" onclick="document.getElementById('action').value = 'learn';">开始
+    <button type="submit" onclick="document.getElementById('action').value = 'check';">刷新</button>
+<!--    <button id="autoSelectButton">全选</button>-->
+    <button id="startLearningButton" type="submit" onclick="document.getElementById('action').value = 'learn';">完成(✓=会，✗=不会)
     </button>
-    <button type="submit" id="resistForgettingButton"
-            onclick="document.getElementById('action').value = 'resist_forgetting';">创建
-    </button>
+<!--    <button type="submit" id="resistForgettingButton"-->
+<!--            onclick="document.getElementById('action').value = 'resist_forgetting';">——————创建-->
+<!--    </button>-->
 </form>
 
 <ul id="wordList">
@@ -116,22 +116,22 @@
         handleSubmission(event, 'learn');
     });
 
-    // Add event listener for resistForgettingButton click
-    document.getElementById('resistForgettingButton').addEventListener('click', function (event) {
-        handleSubmission(event, 'resist_forgetting');
-    });
+    // // Add event listener for resistForgettingButton click
+    // document.getElementById('resistForgettingButton').addEventListener('click', function (event) {
+    //     handleSubmission(event, 'resist_forgetting');
+    // });
 
 
-    // Function to automatically click all closeButton elements
-    function autoSelect(event) {
-        event.preventDefault(); // Prevent the default form submission behavior
-        document.querySelectorAll('.checkButton').forEach(closeButton => {
-            closeButton.click();
-        });
-    }
+    // // Function to automatically click all closeButton elements
+    // function autoSelect(event) {
+    //     event.preventDefault(); // Prevent the default form submission behavior
+    //     document.querySelectorAll('.checkButton').forEach(closeButton => {
+    //         closeButton.click();
+    //     });
+    // }
 
     // Add event listener to the "自动选择" button
-    document.getElementById('autoSelectButton').addEventListener('click', autoSelect);
+    // document.getElementById('autoSelectButton').addEventListener('click', autoSelect);
     document.querySelectorAll('.wordItem').forEach(wordItem => {
         // Get the checkButton and closeButton within the wordItem
         const checkButton = wordItem.querySelector('.checkButton');
