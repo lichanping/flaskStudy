@@ -5,6 +5,15 @@
     width: 40%;
 }
 
+#buttonsContainer {
+    display: inline-block;
+    margin-right: 10px; /* Adjust as needed */
+}
+
+#selectedCountLabel {
+    display: inline-block;
+}
+
 /* Style for each word item */
 .wordItem {
     display: flex;

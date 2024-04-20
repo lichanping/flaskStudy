@@ -19,12 +19,12 @@
     </select>
     <input type="hidden" name="selected_file" id="selected_file" value="">
     <button type="submit" onclick="document.getElementById('action').value = 'check';">刷新</button>
-<!--    <button id="autoSelectButton">全选</button>-->
-    <button id="startLearningButton" type="submit" onclick="document.getElementById('action').value = 'learn';">完成(✓=会，✗=不会)
-    </button>
-<!--    <button type="submit" id="resistForgettingButton"-->
-<!--            onclick="document.getElementById('action').value = 'resist_forgetting';">——————创建-->
-<!--    </button>-->
+    <div id="buttonsContainer">
+        <button id="startLearningButton" type="submit" onclick="document.getElementById('action').value = 'learn';">
+            完成(✓=会，✗=不会)
+        </button>
+        <div id="selectedCountLabel">已选择0个单词</div>
+    </div>
 </form>
 
 <ul id="wordList">
@@ -41,7 +41,6 @@
     {% endfor %}
 </ul>
 <audio id="audioPlayer" src="" preload="auto"></audio>
-<div id="floatingBarPlaceholder"></div>
 <script>
     // Function to update the value of the hidden input field with the selected option
     function updateSelectedFile() {
@@ -132,33 +131,42 @@
 
     // Add event listener to the "自动选择" button
     // document.getElementById('autoSelectButton').addEventListener('click', autoSelect);
-    document.querySelectorAll('.wordItem').forEach(wordItem => {
-        // Get the checkButton and closeButton within the wordItem
-        const checkButton = wordItem.querySelector('.checkButton');
-        const closeButton = wordItem.querySelector('.closeButton');
-
-        // Add event listener to the checkButton
-        checkButton.addEventListener('click', event => {
-            // Toggle the "clicked" class on checkButton
-            checkButton.classList.toggle('clicked');
-            // Remove the "clicked" class from closeButton
-            closeButton.classList.remove('clicked');
-        });
-
-        // Add event listener to the closeButton
-        closeButton.addEventListener('click', event => {
-            // Toggle the "clicked" class on closeButton
-            closeButton.classList.toggle('clicked');
-            // Remove the "clicked" class from checkButton
-            checkButton.classList.remove('clicked');
-        });
-    });
 
 
     document.addEventListener('DOMContentLoaded', function () {
         let lastClickedItem = null; // Variable to keep track of the last clicked wordItem
-
+        let selectedCount = 0; // Variable to keep track of the selected count
         document.querySelectorAll('.wordItem').forEach(item => {
+            // Add event listener to the closeButton
+            const closeButton = item.querySelector('.closeButton');
+            const checkButton = item.querySelector('.checkButton');
+            closeButton.addEventListener('click', event => {
+                // Toggle the "clicked" class on closeButton
+                closeButton.classList.toggle('clicked');
+                // Remove the "clicked" class from checkButton
+                checkButton.classList.remove('clicked');
+                // Increment or decrement selectedCount based on button click
+                if (closeButton.classList.contains('clicked')) {
+                    selectedCount++;
+                } else {
+                    selectedCount--;
+                }
+                // Update the selected count label
+                updateLabel();
+            });
+            checkButton.addEventListener('click', event => {
+                // Toggle the "clicked" class on closeButton
+                checkButton.classList.toggle('clicked');
+                // If closeButton is already clicked, unselect it and decrement selectedCount
+                if (closeButton.classList.contains('clicked')) {
+                    closeButton.classList.remove('clicked');
+                    selectedCount--;
+                }
+                // Remove the "clicked" class from checkButton
+                closeButton.classList.remove('clicked');
+                // Update the selected count label
+                updateLabel();
+            });
             item.addEventListener('click', event => {
                 // Check if the clicked element is not the closeButton
                 if (!event.target.classList.contains('closeButton')) {
@@ -186,6 +194,12 @@
                 }
             });
         });
+
+        // Update label function
+        function updateLabel() {
+            const selectedCountLabel = document.getElementById('selectedCountLabel');
+            selectedCountLabel.textContent = `已选择${selectedCount}个单词`;
+        }
     });
 
     document.getElementById('word_form').addEventListener('submit', function (event) {
