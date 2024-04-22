@@ -12,10 +12,10 @@
     <input type="hidden" name="action" id="action" value="">
     <label for="file_select">词库选择:</label>
     <select id="file_select" name="file_name">
-        <option value="中考词汇1.txt">中考词汇1</option>
         <option value="中考词汇2.txt">中考词汇2</option>
         <option value="中考词汇3.txt">中考词汇3</option>
         <option value="中考考纲词组.txt">中考考纲词组</option>
+        <option value="中考词汇1.txt">中考词汇1</option>
     </select>
     <input type="hidden" name="selected_file" id="selected_file" value="">
     <button type="submit" onclick="document.getElementById('action').value = 'check';">刷新</button>
@@ -216,6 +216,7 @@
             selectElement.value = selectedFile;
         }
     };
+
 </script>
 </body>
 </html>
