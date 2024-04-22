@@ -224,6 +224,7 @@ export function compareOptionIndex(event) {
         scoreElement.innerText = score + 1;
         triggerAnimation(thumb);
     } else {
+        event.target.style.backgroundColor = 'red';
         incorrectWordsSpan.innerText += `${english} ${correctOption}\n`;
         document.getElementById('errorCount').innerText = errorCount + 1;
         englishWordTextBox.style.backgroundColor = 'red';
