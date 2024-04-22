@@ -1,0 +1,19 @@
+name: cicd
+
+on:
+  push:
+    branches: [ "master" ]
+  pull_request:
+    branches: [ "master" ]
+
+jobs:
+
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - run: echo "${{secrets.DOCKER_PASSWORD}}" | docker login -u "${{secrets.DOCKER_USERNAME}}" --password-stdin
+      - run: git_hash=$(git rev-parse --short "$GITHUB_SHA")
+      - run: sh dockerize.sh "${{ github.sha }}" 
+      - run: sh dockerize.sh "latest"
+      - run: curl ${{secrets.RENDER_DEPLOY_WEBHOOK_URL}}
