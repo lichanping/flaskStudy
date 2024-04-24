@@ -1,84 +1,97 @@
+/* Global styles */
+body {
+    background-color: #2F4F4F; /* Dark background color */
+    color: #fff; /* Light text color */
+    font-family: Arial, sans-serif; /* Default font family */
+}
+
+/* Style for buttons container */
+#buttonsContainer {
+    display: inline-block; /* Use flexbox */
+    margin-right: 10px; /* Right margin */
+}
+
+/* Style for selected count label */
+#selectedCountLabel {
+    display: inline-block; /* Display as inline block */
+    color: #fff; /* Light text color */
+}
+
 /* Style for word list */
 #wordList {
-    list-style-type: none;
-    padding: 0;
-    width: 40%;
-}
-
-#buttonsContainer {
-    display: inline-block;
-    margin-right: 10px; /* Adjust as needed */
-}
-
-#selectedCountLabel {
-    display: inline-block;
+    list-style-type: none; /* Remove default list style */
+    padding: 0; /* Remove padding */
+    width: 40%; /* Set width */
 }
 
 /* Style for each word item */
 .wordItem {
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    background-color: #f0f0f0;
-    margin-bottom: 5px;
-    padding: 10px;
-    border-radius: 5px;
+    display: flex; /* Use flexbox */
+    align-items: center; /* Align items vertically */
+    justify-content: space-between; /* Space between items */
+    background-color: #2F4F4F; /* Dark background color */
+    margin-bottom: 5px; /* Bottom margin */
+    padding: 10px; /* Padding */
+    border-radius: 5px; /* Border radius */
+    border: 1px solid #fff; /* White border */
+    border-left: 5px solid #fff; /* White left border */
 }
 
 /* Style for word text */
 .word {
-    cursor: pointer; /* Make the word text clickable */
-    text-align: left; /* Align the word text to the left */
-    flex-grow: 1; /* Allow the word text to grow and fill the available space */
+    cursor: pointer; /* Pointer cursor */
+    text-align: left; /* Left alignment */
+    flex-grow: 1; /* Grow to fill available space */
+    color: #fff; /* Light text color */
 }
 
 /* Style for buttons */
 .buttons button {
-    padding: 5px 10px;
-    margin-left: 5px;
-    border: none;
-    background-color: gray;
-    cursor: pointer;
-    font-size: 16px;
+    padding: 5px 10px; /* Padding */
+    margin-left: 5px; /* Left margin */
+    border: none; /* No border */
+    background-color: gray; /* Button background color */
+    cursor: pointer; /* Pointer cursor */
+    font-size: 16px; /* Font size */
 }
 
 /* Style for check button */
 .checkButton {
-    color: white;
+    color: white; /* Text color */
 }
 
 /* Style for close button */
 .closeButton {
-    color: white;
+    color: white; /* Text color */
 }
 
 .index {
-    display: inline-block;
-    width: 10px;
-    text-align: left;
-    margin-right: 15px; /* Add 5px of space after the index */
+    display: inline-block; /* Display as inline block */
+    width: 10px; /* Width */
+    text-align: left; /* Left alignment */
+    margin-right: 15px; /* Right margin */
 }
 
 /* Added styles for checkButton and closeButton */
 .checkButton, .closeButton {
-    width: 30px;
-    height: 30px;
-    border-radius: 50%;
-    border: none;
-    cursor: pointer;
-    background-color: grey;
+    width: 30px; /* Width */
+    height: 30px; /* Height */
+    border-radius: 50%; /* Border radius */
+    border: none; /* No border */
+    cursor: pointer; /* Pointer cursor */
+    background-color: grey; /* Button background color */
 }
 
 /* Added styles for clicked buttons */
 .checkButton.clicked {
-    background-color: green;
+    background-color: green; /* Green background color */
 }
 
 .closeButton.clicked {
-    background-color: red;
+    background-color: red; /* Red background color */
 }
 
 .translation {
-    display: none;
-    text-align: left !important; /* Align translation text to the left */
+    display: none; /* Hide by default */
+    text-align: left !important; /* Left alignment */
 }
