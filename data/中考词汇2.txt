@@ -1,103 +1,3 @@
-including包括 prep
-income收入，所得【U，C】
-increase增加n vt vi
-independent独立的，有主见的adj --反义：dependent依靠的，依赖的
-industries工业产业的复数
-influence on对。。。影响
-influence in干涉，介入
-under the influence of在。。。的影响之下
-social influence社会影响
-instead of代替，=in place of
-instruction指令，命令，指示，教导；用法说明【C】
-interest兴趣，趣味 n
-interested感兴趣的
-interesting有趣的，有意思的
-international国际的
-interview采访，会见，面试【C】 vi vt
-introduce介绍vt
-introduction介绍n
-invent发明，创造vt --invention发明n
-inventor发明家【C】 --invent
-investigate调查vt
-invitation邀请，请帖【C】--invite动词vt
-island岛【C】
-traffic jams交通堵塞
-a pair of jeans一条牛仔裤
-play a joke on somebody开某人的玩笑
-joke with somebody和某人开玩笑
-journalist记者，新闻工作者【C】
-journey旅行，旅程【C】
-make on a journey去旅行=go on a journey
-judge裁判；审判员；法官n；审判；断定vt
-just now刚才（常用过去式）
-just then就在那时
-keen热心的
-be keen on something热衷于某事
-be keen on doing something热衷于做某事
-keep保持；保存，继续不断；培养，饲养（kept）
-keep something adjective使某物保持某种状态（+形容词）
-keep doing something继续做某事
-keep a dog养一只狗=raise a dog
-kid开玩笑vi（kidded）；小孩【C】
-kilogram千克，公斤【C】=kilo
-kilometre千米（美kilometer）【C】
-kindness仁慈，好意 --kind善良的，友好的
-unkind不友善的
-be kind to对。。。友好的
-kindergarten幼儿园【C】
-kitchen厨房【C】
-knives小刀的复数
-knock敲门，打，击【U】vi
-Knock at the door敲门
-know了解；知道；认识；懂得vi vt（knew，known）
-knowledge知识，学问【U】--know动词
-laboratory实验室【C】=lab
-in the lab在实验室里
-ladies女士的复数
-Ladies and gentlemen女士们，先生们
-in the lake在湖中
-on the lake在湖面上
-lantern灯笼【C】
-at last最后
-laughter笑n --》动词：laugh
-laugh at somebody嘲笑某人
-lawyer律师【C】---law法律【U，C】
-lay放，搁；下蛋（laid，laid）vt
-lazy懒惰的（lazier，laziest）
-lazily懒惰地
-laziness懒惰n
-lead领导；带领vi vt（led，led）--leader领导人
-learn学习，学会（learnt，learnt或者learned，learned）---learner学习者，初学者
-leave离开，把。。。留下；剩下vt vi（left，left）；准假【U】
-lecturer演讲者，讲师 --lecture【C】讲座，演讲
-attend a lecture参加讲座
-lend借出；把。。。借给 vt（lent，lent）-》反义词：borrow
-borrow something from somebody借进
-lend somebody something借某物给某人=lend something to somebody
-length长度【U】 --long长的
-librarian图书管理员【C】 --library图书馆，图书室
-lie谎言；说谎v，【C】（lied，lied）；躺；卧；位于vi（lay，lain）
-lives生命的复数
-lift举起vt；电梯【C】--elevator
-dislike不喜欢 --反义：like
-unlike不像
-like to do喜欢做 --like doing
-like doing喜欢做
-likely很可能的adj；很可能地adv
-time limit限期
-speed limit限速
-limited有限的，限制的adj
-liquid液体【U】
-litter废物，垃圾【U】乱丢杂物vt vi
-little小的（less，least）；很少的，稍许adv；一点，没有多少【U】
-alive活着的
-living活的
-locate坐落于；确定。。。的地方vt --location
-be located坐落于be located in/on/at=lie in/on/at
-location位置；场所【C】
-look at看（强调动作）
-look up查找，抬头看
-look for寻找
 look after照顾
 look out小心
 look forward to期待
@@ -232,7 +132,6 @@ nation民族；国家【C】
 national全国性的；国家的；民族的adj
 nationality国籍n --复数：nationalities
 nationalities国籍n 【复数】
-international国际的adj
 on National Day在国庆节那天
 native本地的，本国的，当地的adj；本地人，本国人【C】
 natural自然的，天然的adj --nature自然，本质n
@@ -308,7 +207,6 @@ up to now到现在为止
 from now on从现在起
 from then on从那时起
 right now立刻
-just now刚才
 nowadays当今，现在adv
 nowhere任何地方都不adv
 number数字；号码；数量【C】

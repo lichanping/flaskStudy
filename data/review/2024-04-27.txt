@@ -120,3 +120,27 @@ attend school	上学=go to school
 be good for	对。。。有益 --be bad for，be harmful to，do harm to
 a bunch of grapes	一串葡萄
 greet	问候，向。。。致敬vt
+increase	增加n vt vi
+industries	工业产业的复数
+influence in	干涉，介入
+instruction	指令，命令，指示，教导；用法说明【C】
+inventor	发明家【C】 --invent
+investigate	调查vt
+traffic jams	交通堵塞
+journalist	记者，新闻工作者【C】
+judge	裁判；审判员；法官n；审判；断定vt
+just now	刚才
+just then	就在那时
+keep a dog	养一只狗=raise a dog
+kid	开玩笑vi（kidded）；小孩【C】
+knock	敲门，打，击【U】vi
+Knock at the door	敲门
+in the lake	在湖中
+lantern	灯笼【C】
+lecturer	演讲者，讲师 --lecture【C】讲座，演讲
+librarian	图书管理员【C】 --library图书馆，图书室
+lie	谎言；说谎v，【C】（lied，lied）；躺；卧；位于vi（lay，lain）
+lives	生命的复数
+lift	举起vt；电梯【C】--elevator
+litter	废物，垃圾【U】乱丢杂物vt vi
+locate	坐落于；确定。。。的地方vt --location
