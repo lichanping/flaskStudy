@@ -117,3 +117,29 @@ hunt	寻找；猎取 vi vt  --hunter猎人
 hurry off	匆忙离开=leave in a hurry
 feel sick	感到恶心，感到难受=feel ill
 illnesses	疾病的复数
+luggage	行李
+lunch	午餐【U】
+magic	魔术；魔法【C】 --magic 有魔力的；有神奇力量的adj
+magician	魔术师
+mail	邮件；邮递（美）【U】；邮寄vt
+major	主要的adj；（大学中的）主修科目【C】
+manage to do something	成功地做某事=succeed in doing something
+manner	方式；态度，举止【C】
+in a good manner	有礼貌 --反义：in a bad manner
+many	许多的adj，（more，most）；pron许多人或物
+a great many	许多
+mark	标记，记号；符号；分数（考试等）【C】；标明，作记号于；给。。打分数
+match	比赛，竞赛；火柴【C】--复数matches；与。。匹配vt
+material	材料，原料【C】
+mean	意思是，意味着vi，vt（meant，meant）；刻薄的adj
+mean to do something	故意做某事
+medium	中间的，中等的adj
+meet	遇见，见到；会见；迎接；满足vt（met，met）；会，集会【U】
+meeting	会议，集会【U】；会见
+member	成员，会员【C】
+mess	混乱；杂乱【C】--复数：messes；使不整洁；弄脏；弄乱vt vi
+message	消息；音信【C】
+messenger	送信人；通讯员；信使 n
+mile	英里【C】
+minus	负的，减去的adj & prep
+mix	混合，搅拌vt --mixture混合物
