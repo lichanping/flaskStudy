@@ -1,3 +1,24 @@
+surf the net	上网浏览
+network	网络；网络系统【C】
+build up a network	建立网络
+news	新闻；消息【U】
+news conference	记者（招待）会
+in a newspaper	在报上
+the next year	第二年
+good night	晚安
+noise	声音；噪声；响声【U，C】
+noodle	面条（常做noodles）【C】
+moment	片刻，瞬间 [C]
+monitor	班长；监视器【C】
+mood	心情，语气，气氛【C】
+in the mood	兴致勃勃
+mushroom	蘑菇【C】
+nation	民族；国家【C】
+national	全国性的；国家的；民族的adj
+nationalities	国籍n 【复数】
+native	本地的，本国的，当地的adj；本地人，本国人【C】
+need	需要；必须【v /aux】；需求；必要【U，C】
+meet the needs of	满足。。。的需要，needs可用单数或复数
 experiment	实验【C】
 explore something for something	在。。。勘探。。。
 fable	寓言【C】
