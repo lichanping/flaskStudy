@@ -92,10 +92,15 @@ class TxtReader:
                     raise ValueError(f"Translation not found for word: {word}")
 
             content_to_write = '\n'.join(content)
+            # Check if review file exists
             if os.path.exists(review_file_path):
-                content_to_write = '\n' + content_to_write
+                # Read existing content
+                with open(review_file_path, 'r', encoding='utf-8') as review_file:
+                    existing_content = review_file.read()
+                # Combine existing content and new content
+                content_to_write = content_to_write + '\n' + existing_content
 
-            with open(review_file_path, 'a', encoding='utf-8') as review_file:
+            with open(review_file_path, 'w', encoding='utf-8') as review_file:
                 review_file.write(content_to_write)
 
         print(f'Words scheduled for review on {review_dates}')
