@@ -1,3 +1,25 @@
+present	礼物；赠品【C】现在（仅用单数）；出现的，出席的adj
+president	总统；主席【C】
+press	压，按vt
+pretend	假装，装作vt
+prevent	预防；防止；阻止，阻挡vt
+price	价格【U】
+primary	初等的；初级的adj
+print	打印，印刷vt
+prison	监狱【U，C】
+prisoner	犯人
+private	私人的；私有的adj = personal
+prize	奖赏，奖品【C】
+process	处理；加工vt；过程【C】
+produce	生产；产生；制造vt
+professional	专业的，职业的adj；专业人员；职业运动员【C】 --反义：unprofessional 不专业的
+programme	（美program）节目；项目；计划；（计算机）程序【C】；编写程序；为。。。制定计划v
+project	工程；课程；作业；项目；规划【C】
+the Channel Tunnel project	海底隧道工程
+pronounce	发音vt
+pronunciation	发音n
+properly	恰当地，合适地adv = correctly
+prove	证明vt --proof证明n
 luggage	行李
 lunch	午餐【U】
 magic	魔术；魔法【C】 --magic 有魔力的；有神奇力量的adj
