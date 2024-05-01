@@ -1,3 +1,45 @@
+reduce to	减少到
+reduce by	减少了
+reference	参考【U，C】
+regular	规则的，经常adj
+irregular	不规则的adj
+relaxing	令人轻松的
+release	释放，排放；发行，发表【C，u】vt
+rely	依靠vi
+remember doing something	记得做过的事
+remember to do something	记得去做某事
+remind	提醒vt == cause somebody to remember to do
+repair	修理 【U，C】vt vi == fix、mend
+reply	回答，答复【U，C】vt vi（replied）
+reply to	答复
+republic	共和国【C】
+require	需求；要求vt vi == need
+resource	资源【C】
+response	响应；反应；作答【U，C】
+restaurant	饭馆；饭店【C】
+result	结果；成果【U，C】
+retired	退休的adj
+review	复习；评论【U,C】 vt == go over
+revision	复习 n
+reward	奖励，奖赏；报酬；报答，回报【C】；奖励；奖赏；给。。。以报酬vt
+receive	收到，得到vt vi ==get
+recognize	辨认出；认识vt vi
+recorder	录音机
+proverb	谚语，格言【C】 = saying
+saying	谚语，格言；俗语 【C】
+public	公共的，公众的adj；公众n
+publish	出版vt
+pull	拉；拖；拔vt
+purpose	目的；用途【C】
+on purpose	故意，有意地
+put out	伸出；扑灭
+put on a play	上演一部戏
+put off the meeting	会议延期举行
+put up a picture	举起/挂起图片
+quality	质量【u】
+quarter	四分之一；一刻钟【C】
+railway	（美railroad）铁路；铁道【C】
+raise a child	抚养孩子
 oven	炉子，烤箱【C】
 more than	超过 = over
 own	自己的adj；拥有vt
