@@ -1,3 +1,36 @@
+satisfied	满足的，满意的adj
+sauce	酱汁；调味汁【U，C】
+schedule	安排；预定；为。。。安排时间v；时间表；节目表；工作计划【C】
+score	得分；分数【C】
+seaside	海滨【C】
+secondary	中等的；第二的adj
+secondary school	中学
+secretary	秘书n【C】
+secretaries	秘书【复数】
+section	部分；部门；栏目【C】
+see	看见，看到；领会，理解；拜访，会见vt（saw，seen）
+seed	种子【C】
+seem	似乎，好像vi
+seem to	看上去好像做了某事
+select	选择，挑选，选拔vt
+senior	年长的；高年级的；高级的adj
+serve	招待（顾客等）；为。。。服务vt == work for
+service	服务；公用事业n【C】
+ride	骑（马、自行车等）vt vi（rode，ridden）；骑车旅行【C】
+rode	骑【过去式】
+right	对；正确的；恰当的；右边的adj；正确地；恰恰；向右，在右边adv；右；权利【U，C】
+rise	上升；上涨；起立vi（rose，risen）
+rose	过去式rise；rose玫瑰花【C】
+risen	过去分词rise
+roast	烤（肉）vt
+rocket	火箭【C】
+room	空间；地方；房间，室【U，C】
+root	根；根源；起源【C】
+row	一排，一行【C】
+rule	规则；规定【C】；统治vt
+rush	冲，奔跑vi
+safe	安全的；平安的adj；保险柜【C】
+sale	卖，出售【C】
 present	礼物；赠品【C】现在（仅用单数）；出现的，出席的adj
 president	总统；主席【C】
 press	压，按vt

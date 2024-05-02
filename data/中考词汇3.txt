@@ -1,103 +1,3 @@
-rice稻米；米饭【U】
-rich富裕的，有钱的；味道浓的；重油的adj
-rid使摆脱vt（rid，rid）
-get rid of摆脱
-ride骑（马、自行车等）vt vi（rode，ridden）；骑车旅行【C】
-rode 骑【过去式】
-ridden汽【过去分词】
-right对；正确的；恰当的；右边的adj；正确地；恰恰；向右，在右边adv；右；权利【U，C】
-ring打电话；铃声；环形物【U，C】；（钟、铃）响；摇铃；打电话【Vt vi】（rang，rung）
-rang过去式ring
-rung过去分词ring
-rise上升；上涨；起立vi（rose，risen）
-rose过去式rise；rose玫瑰花【C】
-risen过去分词rise
-river江；河【C】
-road路；道路【C】
-roast烤（肉）vt
-robot机器人【C】
-rock岩石【U，C】
-rocket火箭【C】
-role角色【C】
-role play角色表演
-room空间；地方；房间，室【U，C】
-root根；根源；起源【C】
-rope绳子【C】
-rough粗糙的；不平的；风浪急的adj
-round圆的；球形的adj；环绕地；在周围adv；环绕一周，围着prep
-row一排，一行【C】
-rubbish垃圾；废物【U】
-rude无理的，粗鲁的adj
-rule规则；规定【C】；统治vt
-run跑，奔跑；经营==manage，管理vt vi（ran，run）；奔跑【C】
-run away逃跑
-rush冲，奔跑vi
-sad悲伤的adj（sadder，saddest）
-sadly悲伤地adv，忧愁地，令人遗憾地；不幸地
-safe安全的；平安的adj；保险柜【C】
-safely安全地；平安地adv
-safety安全；平安n
-save挽救；节省vt
-save one's life救命
-salary薪金，薪水【C】
-salaries【复数】薪水
-sale卖，出售【C】
-on sale 打折
-for sale出售
-be responsible for sales负责销售
-salt盐【U，C】
-salty咸的adj；含盐的
-salty water盐水
-same同样的adj；同样的事pron
-the same as和。。。一样
-sandwich三明治【C】
-satisfied满足的，满意的adj
-satisfying令人满意的，令人满足的adj
-be satisfied with对。。。感到满意 == be pleased with
-sauce酱汁；调味汁【U，C】
-say说，讲vt（said，said）
-schedule安排；预定；为。。。安排时间v；时间表；节目表；工作计划【C】
-ahead of schedule提前
-school学校【C】
-science科学，自然科学【U，C】
-scientist科学家n【C】
-score得分；分数【C】
-screen屏幕；荧光屏【C】
-sea海洋【C】
-seafood海鲜【U，C】
-search搜寻；搜查vi 【n】
-search for搜寻
-seaside海滨【C】
-season季节【C】
-seasonal季节的adj
-seasonal changes季节变化
-seat座位【C】
-second第二个；秒【C】；第二位的adj；其次，第二位地adv
-secondary中等的；第二的adj
-secondary school中学
-secret秘密【C】
-secretary秘书n【C】
-secretaries秘书【复数】
-section部分；部门；栏目【C】
-see看见，看到；领会，理解；拜访，会见vt（saw，seen）
-see somebody doing something看见某人正在做某事
-see somebody do something看见某人做某事
-seed种子【C】
-seem似乎，好像vi
-seem to看上去好像做了某事
-seldom很少，不常adv
-select选择，挑选，选拔vt
-sell卖；销售；出售vt（sold，sold）
-send打发，派遣；送，邮寄vt（sent，sent）
-senior年长的；高年级的；高级的adj
-senior school高中
-sense感觉；意识；感官【C】
-sentence句子【C】
-serious严肃的；严重的；认真的adj
-seriously严肃地；严重地；认真地adv
-serve招待（顾客等）；为。。。服务vt == work for
-service服务；公用事业n【C】
-servant仆人n
 set释放，安置；树立（榜样）；创造（记录）vi（set，set）
 settle安家，定居；解决vi
 settle down安置
@@ -489,7 +389,6 @@ turn out结果是；证明是
 turn over翻（车）；翻（页）；翻身
 twice两次；两倍adv
 two 二，两个 num
-second 第二
 twin双胞胎之一【C】--复数：twins
 type类型【C】打字【Vt vi】
 typist打字员
@@ -621,7 +520,6 @@ be connected to 与。。。有联系 == be connected with
 be covered with 被。。。覆盖
 be familiar with 对。。。熟悉；通晓 == be/get familiar to/with
 be pleased with对。。。满意
-be satisfied with对。。。满意
 be strict with对。。。严格
 communicate with与。。。交流
 compete with与。。。竞争
