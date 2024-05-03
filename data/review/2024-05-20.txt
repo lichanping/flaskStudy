@@ -1,3 +1,25 @@
+set	释放，安置；树立（榜样）；创造（记录）vi（set，set）
+settle	安家，定居；解决vi
+settle down	安置
+shame	遗憾的事;羞愧【C】
+shine	发光；照耀；使发光vi（shone，shone）
+shop	店铺【C】；购物vi
+in short supply	不充裕；短缺；紧缺
+shout	喊；高声呼喊【C】 vi
+show	给。。。看；出示；显示；告知；表明vt（showed，shown）；展示；演出；节目；展览会【C】
+shower	阵雨；淋浴【C】
+shut	关上，封闭vt（shut，shut）
+shy	害羞的adj（shyer，shyest）
+shyer	害羞的【比较级】
+shyest	害羞的【最高级】
+sick	有病的，患病的；（想）呕吐的；恶心的adj
+inside	在。。。里面prep；在里面adv
+sight	风景；视力【U，C】
+sign	符号，标记【C】；签名，署名vt
+signal	信号；手势n【C】
+silent	静的，无声的adj
+silk	丝绸，丝【u】
+silly	傻的，愚蠢的adj（sillier，silliest） == stupid
 present	礼物；赠品【C】现在（仅用单数）；出现的，出席的adj
 president	总统；主席【C】
 press	压，按vt
