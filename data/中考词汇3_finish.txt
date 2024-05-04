@@ -200,3 +200,103 @@ signal信号；手势n【C】
 silent静的，无声的adj
 silk丝绸，丝【u】
 silly傻的，愚蠢的adj（sillier，silliest） == stupid
+sillier 愚蠢的【比较级】
+silliest 愚蠢的【最高级】
+similar相似的，像adj
+simple简单的，简易的adj
+since从。。。以来；自从prep；从。。以来；由于，既然conj
+since then从那以后
+sang唱歌【过去式】
+sung唱歌【过去分词】
+singer歌手n；歌唱家【C】
+song歌唱；歌曲n【C】
+sir先生；阁下【U，C】
+sister姐；妹【C】
+size尺寸；大小【C】
+skate溜冰vi
+go skating去溜冰
+skill技能，技巧【C】
+skin皮肤【U，C】
+skirt女裙【C】
+sky天空【U，C】
+asleep睡着的adj
+slow慢慢的，缓慢的adj
+slowly慢慢地，缓慢地adv
+smell good好闻
+smile微笑 vi，n
+smoke烟【U，C】；冒烟；吸烟vt
+snack小吃【C】
+local snacks地方小吃
+snow雪【U，C】；下雪vi
+snowy下雪的，多雪的adj
+so如此，这么；也，同样adv；因此，所以；为的是，以便conj
+social社会上的；社会地位的；社交的；好社交的adj
+soft软的，柔和的adj
+soft drinks碳酸饮料
+soldier士兵；战士【C】
+single单一的，单个的；单身的adj
+sit坐vi（sat，sat）
+situation形势，情况；场面【C】
+sleep睡觉vi（slept，slept）；睡眠【U，C】
+slept 睡觉【过去式，过去分词】
+smell闻到；嗅vt vi（smelt，smelt）；气味【U，C】
+so as to为了。。。
+so...that...如此。。以至。。。
+social responsibility社会责任
+social environment社会环境
+social system社会制度
+social practice社会实践
+society社会【C】 --social adj
+softly温柔地adv
+solution解决方法；解答【C】
+sing唱歌vt（sang，sung）
+solve解决，解答vt == work out
+the solution to the problem解决问题的方法
+some一些，若干；几个；某一adj；若干，一些pron
+some day将来某一天 == someday
+somebody某人；有人pron == someone
+nobody谁也不；没人pron == no one
+something某事；某物pron
+son儿子【C】
+soon不久；很快；一会儿adv
+as soon as 一。。。就。。。
+say sorry to somebody for something 为。。。向。。。道歉 == apologize to somebody for something
+apologize to somebody for something 为。。。向。。。道歉
+I am really sorry for being late我很抱歉迟到了
+sound interesting听起来有趣
+soup汤【U，C】
+south南；南方；南部【U，C】；南方的；向南的adj
+space空间，太空【U，C】
+spaceship宇宙飞船【C】
+in one's spare time在某人的业余时间
+spoke【过去式】speak
+spoken【过去分词】speak
+speech演讲，说话n【C】
+special特别的，专门的adj
+give a speech作演讲
+at the same speed以相同的速度
+spend度过；花费（钱、时间等）vt
+spoon调羹【C】
+sport体育运动；锻炼【C】
+spread延伸；展开；传播；扩散；散布 vt（spread， spread）
+spread your wings张开你的翅膀
+spring春天，春季【U，C】
+in spring在春天
+square广场【C】；平方的；方形的adj
+People's Square人民广场
+stamp邮票【C】
+stand站；起立vi（stood，stood）
+star恒星，星【C】
+work out解决 ==solve
+sometimes有时adv
+sorry对不起的；抱歉的；难过的adj
+sound声音【U，C】；听起来；发出声音vt vi
+southern南面的，南部的
+in space在太空
+spare空闲的；多余的，剩余的adj
+speak说，讲；谈话；发言vt（spoke，spoken）
+speed速度【C】；使加速vi
+staff全体职员【C】
+start开始；着手；出发vt；开端，开始【C】
+state状态；情形；国家，（美国的）州【C】
+work out做出；算出；制定出 == solve解答

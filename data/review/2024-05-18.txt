@@ -1,3 +1,30 @@
+work out	做出；算出；制定出 == solve解答
+sometimes	有时adv
+sorry	对不起的；抱歉的；难过的adj
+sound	声音【U，C】；听起来；发出声音vt vi
+southern	南面的，南部的
+in space	在太空
+spare	空闲的；多余的，剩余的adj
+speak	说，讲；谈话；发言vt（spoke，spoken）
+speed	速度【C】；使加速vi
+staff	全体职员【C】
+start	开始；着手；出发vt；开端，开始【C】
+state	状态；情形；国家，（美国的）州【C】
+single	单一的，单个的；单身的adj
+sit	坐vi（sat，sat）
+situation	形势，情况；场面【C】
+sleep	睡觉vi（slept，slept）；睡眠【U，C】
+slept	睡觉【过去式，过去分词】
+smell	闻到；嗅vt vi（smelt，smelt）；气味【U，C】
+so as to	为了。。。
+so...that...	如此。。以至。。。
+social responsibility	社会责任
+social environment	社会环境
+social system	社会制度
+social practice	社会实践
+society	社会【C】 --social adj
+softly	温柔地adv
+solution	解决方法；解答【C】
 reduce to	减少到
 reduce by	减少了
 reference	参考【U，C】
