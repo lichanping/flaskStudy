@@ -1,3 +1,41 @@
+succeed	获得成功，达到目的vi
+suddenly	突然地adv
+sudden	突然的adj
+suffer	受苦；遭受vi
+suffer from	遭受
+sugar	糖【U，C】
+sun	太阳；阳光【C】
+super	超级的；极好的；特级的adj == wonderful
+suppose	猜想，假定，料想vi
+sure	确信的，肯定的，有把握的adj（surer，surest）【近义词】certain 肯定的，确定的adj
+surer	【比较级】sure
+surest	【最高级】sure
+survey	调查vt 【C】
+survive	幸存，活下来；存活；生还vt vi
+sweep	扫除，扫vt（swept，swept）
+swept	【过去式，过去分词】sweep
+sweet	甜的；可爱的adj；甜食；糖果【C】
+symbol	符号；象征【C】
+table	桌子；表格【C】
+take	拿；拿走；做；吃，服用；乘坐（车、船）；花费（时间）；拍照vt（took，taken）
+talent	才能；天才【U，C】
+to one's great joy	使某人非常高兴的是
+talk	谈话，讲话，演讲；交谈【U，C】【vi】
+steak	牛排【C】
+steal	偷，窃取vt（stole，stolen）
+stole	【过去式】steal
+stolen	【过去分词】steal
+steam	蒸汽；水蒸气【U，C】
+stick	木棒，枝条【C】粘住，钉住；坚持 vi（stuck，stuck）
+stuck	【过去式，过去分词】stick；被卡住的，被困住的adj
+stocking	长筒袜【C】 -- 复数：stockings
+stop	停止；阻止vt；停；（停车）站【C】
+stranger	陌生人 n
+suffer from stress	承受压力
+strict	严格的；严密的adj
+strike	敲，打击，侵袭；（钟）鸣vt （struck，struck/stricken）
+strength	精力，体力
+in style	流行；时髦
 work out	做出；算出；制定出 == solve解答
 sometimes	有时adv
 sorry	对不起的；抱歉的；难过的adj
