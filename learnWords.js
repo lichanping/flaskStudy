@@ -249,7 +249,7 @@ function triggerAnimation() {
     const thumb = document.createElement('i');
     thumb.classList.add('fas', 'fa-thumbs-up', 'thumb-up');
     document.body.appendChild(thumb);
-    thumb.style.opacity = '1'; // Set opacity to make it visible
+    thumb.style.opacity = '0.2'; // Set opacity to make it visible
     thumb.style.transform = 'scale(1.2)'; // Adjust the scale for the desired effect
     setTimeout(() => {
         thumb.style.transform = 'scale(1)';
