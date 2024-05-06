@@ -1,3 +1,19 @@
+tape	磁带；录音带【C】
+task	任务，工作【C】
+tea	茶叶【U】
+temperature	温度【U】
+take one's temperature	测某人的体温
+tennis	网球【C】
+terribly	非常，很adv
+text	文本，课本【U，C】
+than	比conj
+thank	感谢，致谢，道谢vt；感谢，谢意【C】
+thick	厚的，浓的adj ---反义：thin adj薄的；瘦的；细的
+thought	思想，想法n【C】；【过去式，过去分词】think
+throughout	遍及；贯穿prep == in or into every part
+throw	投，掷，扔vt（threw，thrown）
+thrown	【过去分词】throw
+ticket	票；券【C】
 work out	做出；算出；制定出 == solve解答
 sometimes	有时adv
 sorry	对不起的；抱歉的；难过的adj
