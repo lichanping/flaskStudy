@@ -500,3 +500,103 @@ be tired of 对。。。感到厌倦
 today今天；现在，当前【U】【adv】
 tool工具【C】
 touch触摸；接触；感动vi
+traditional传统的adj
+traditionally传统地adv
+traffic jams交通堵塞 ，也可以是 traffic jam
+traffic lights红绿灯
+by train乘火车
+translation 翻译n
+transportation costs运费
+tree树【C】
+trick恶作剧；诡计，花招【C】
+play a trick on somebody戏耍某人
+trip旅行，旅程【C】
+in trouble处于困境中
+trousers裤子，长裤【pl】
+a pair of trousers一条裤子
+true真的，真实的adj
+truth真理；真相，实际情况n【U】
+trust信任，相信【U】【vt】
+try试；努力【C】；试图；努力【vt vi】
+have a try试一试
+try on试穿
+try doing something尝试做某事
+try one's best to do something尽某人最大努力做某事
+turn off关掉（电灯，电视，收音机等）
+turn into变成
+twice两次；两倍adv
+two 二，两个 num
+twin双胞胎之一【C】--复数：twins
+typist打字员
+umbrella伞【C】
+uncle叔；伯；舅；姑夫；姨父【C】
+under在。。下面，向。。下面 adv prep
+underground地下的adj；地铁【C】== （美 subway）
+by underground乘地铁
+traffic交通【U】
+train火车【C】；培训，训练vt
+translate翻译vt
+transport运输，运送；输送vt；【n】
+transportation运输；交通；交通工具【U】 == transport
+travel旅行【U】【vi】
+trouble问题；烦恼；麻烦；困难【U，C】；使苦恼；使麻烦【vt】
+truck卡车；货车n
+try to do something尽力做某事
+turkey火鸡【C】--复数：turkeys
+turn旋转；翻转；转弯；转变；变得【vt vi】（轮流的）顺序【C】
+turn on开，旋开（电灯，电视，收音机等）
+turn down（把音量）调低
+turn up（把音量）调高
+turn out结果是；证明是
+turn over翻（车）；翻（页）；翻身
+type类型【C】打字【Vt vi】
+unfair不公正的，不公平的；违反规则或准则的adj
+unforgettable难忘的adj
+unfortunately不幸地，遗憾地adv
+unhappy不开心的，不幸福的，难过的adj
+unhealthy不健康的adj
+uniform制服【C】
+in uniform穿着制服的
+school uniform校服
+unit单元；单位；部件【C】
+university大学【C】 --复数：universities
+at university在上大学
+go to university去上大学
+unless如果不，除非conj（unless条件状语从句可以和if条件状语从句或祈使句，and/then/or+陈述句句型相互转换。
+not ... until直到。。。才
+unusual不寻常的adj  --反义：usual 通常的，平常的adj
+usually通常；经常adv
+up向上；在上方；起来 adv；prep
+upset心烦的，难过的
+upstairs在楼上；到楼上adv
+use利用；使用；应用【U，C】；【vt】
+useful有用的；有益的adj
+useless无用的；无价值的adj
+variety种种，种类【C，U】--复数：varieties
+various各种各样的，不同的 adj
+vegetable蔬菜【C】
+video录像；视频【U，C】--复数：videos
+village村庄，乡村【C】
+violin小提琴【C】
+play the violin拉小提琴
+visit参观；访问；拜访【C】vt vi
+pay a visit to参观；访问
+play volleyball打排球
+wait等，等候【vt vi】
+underline在。。。下划线；强调，使突出vt
+underlined带下划线的adj
+understand明白，懂得；理解vt（understood，understood）
+understood【过去式，过去分词】understand
+united联合的；统一的adj
+until直到prep conj == till
+value价值；价格；数值；价值观【U，C】给。。。估价；重视；珍惜【V】
+traditional values传统价值观
+increase in value升值 == rise/go up in value
+decrease in value贬值 == fall/go down in value
+victory胜利【U,C】--复数：victories
+view看法，见解；风景，景色；视野【U，C】
+visitor参观者；访问者n【C】
+an exchange visit一次交流访问
+voice嗓音【C】
+volleyball排球【C】
+volunteer志愿者【C】；自愿（做）；自愿提供【vt vi】

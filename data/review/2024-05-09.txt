@@ -1,3 +1,37 @@
+underline	在。。。下划线；强调，使突出vt
+underlined	带下划线的adj
+understand	明白，懂得；理解vt（understood，understood）
+understood	【过去式，过去分词】understand
+united	联合的；统一的adj
+until	直到prep conj == till
+value	价值；价格；数值；价值观【U，C】给。。。估价；重视；珍惜【V】
+traditional values	传统价值观
+increase in value	升值 == rise/go up in value
+decrease in value	贬值 == fall/go down in value
+victory	胜利【U,C】--复数：victories
+view	看法，见解；风景，景色；视野【U，C】
+visitor	参观者；访问者n【C】
+an exchange visit	一次交流访问
+voice	嗓音【C】
+volleyball	排球【C】
+volunteer	志愿者【C】；自愿（做）；自愿提供【vt vi】
+traffic	交通【U】
+train	火车【C】；培训，训练vt
+translate	翻译vt
+transport	运输，运送；输送vt；【n】
+transportation	运输；交通；交通工具【U】 == transport
+travel	旅行【U】【vi】
+trouble	问题；烦恼；麻烦；困难【U，C】；使苦恼；使麻烦【vt】
+truck	卡车；货车n
+try to do something	尽力做某事
+turkey	火鸡【C】--复数：turkeys
+turn	旋转；翻转；转弯；转变；变得【vt vi】（轮流的）顺序【C】
+turn on	开，旋开（电灯，电视，收音机等）
+turn down	（把音量）调低
+turn up	（把音量）调高
+turn out	结果是；证明是
+turn over	翻（车）；翻（页）；翻身
+type	类型【C】打字【Vt vi】
 time	时间；时期；钟点【U】次，回【C】
 in time	及时
 on time	准时
