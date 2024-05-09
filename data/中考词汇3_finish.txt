@@ -600,3 +600,53 @@ an exchange visit一次交流访问
 voice嗓音【C】
 volleyball排球【C】
 volunteer志愿者【C】；自愿（做）；自愿提供【vt vi】
+waiter侍者，服务员n
+waitress女侍者，女服务员 -- 复数：waitresses
+wait for等待；等候
+waitresses【复数】waitress
+woke【过去式】wake
+wake up醒来，叫醒
+want要；想要；需要vt vi == would like（比want语气更委婉）
+want to do something想要做某事
+want somebody to do something想让某人做某事
+war战争【C】
+warm暖和的；热情的adj
+warn somebody not to do something警告某人不要做某事
+wash洗涤；洗vt
+in this way这样
+weather天气【U】
+website网站【C】
+week星期【C】
+weekday工作日【C】
+on weekdays在工作日
+weekend周末【C】
+at weekends在周末
+welcome欢迎【U】；受欢迎的adj；欢迎vt；int(即感叹词）
+what's more而且
+who谁pron
+whom谁【宾格】
+whose谁的（所有格）
+the whole world全世界
+why not do something为什么不做某事（表示建议）
+why don't you do something为什么不做某事（表示建议）
+how about doing something为什么不做某事（表示建议）
+what about doing something为什么不做某事（表示建议）
+wide宽的；广泛的adj（wider，widest）
+widely宽阔地；广泛地adv
+wake醒来，唤醒vt vi（woke，woken）
+woken【过去分词】woken
+walk步行；散步【C】 vi
+warn警告；告诫vt
+waste浪费vt；浪费，废物；垃圾【U】
+watch手表；表【C】--复数：watches；观看，注视；当心【vt】
+wave波浪【C】；挥手，招手；挥动【vt vi】
+weak弱的，差的，淡的adj
+wealth财产，财富【U】
+wear穿；戴vt（wore，worn）
+web网状物，网【C】
+The world Wide Web互联网
+weigh称。。。的重量；重 vt
+weight重量n【U】
+western西方的adj
+wet潮湿的；多雨的adj（wetter,wettest)
+whether是否
