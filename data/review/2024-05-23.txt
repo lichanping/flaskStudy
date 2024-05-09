@@ -1,3 +1,20 @@
+wake	醒来，唤醒vt vi（woke，woken）
+woken	【过去分词】woken
+walk	步行；散步【C】 vi
+warn	警告；告诫vt
+waste	浪费vt；浪费，废物；垃圾【U】
+watch	手表；表【C】--复数：watches；观看，注视；当心【vt】
+wave	波浪【C】；挥手，招手；挥动【vt vi】
+weak	弱的，差的，淡的adj
+wealth	财产，财富【U】
+wear	穿；戴vt（wore，worn）
+web	网状物，网【C】
+The world Wide Web	互联网
+weigh	称。。。的重量；重 vt
+weight	重量n【U】
+western	西方的adj
+wet	潮湿的；多雨的adj（wetter,wettest)
+whether	是否
 tape	磁带；录音带【C】
 task	任务，工作【C】
 tea	茶叶【U】
