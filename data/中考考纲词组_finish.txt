@@ -48,3 +48,59 @@ ask for 请求；寻求
 at supper 晚餐时
 at once 立刻；马上
 at present 现在，目前
+remember doing	记得曾做过
+remember to do	记得要去做
+forget doing	忘记曾做过
+forget to do	忘记要去做
+stop doing	停下手中事
+stop to do	停下做另一事
+try doing	尝试做某事
+hate doing something.	讨厌
+practice doing something.	练习
+feel like doing something.	想要
+finish doing something.	结束
+mind doing something.	介意
+deny doing something.	否认
+suggest doing something.	建议
+keep doing something.	保持
+enjoy doing something.	喜欢
+prefer doing something.	喜欢
+love doing something.	喜欢=like doing sth.
+seem to do something.	似乎
+want to do something.	想要
+would like to do something.	想要
+plan to do something.	计划
+decide to do something.	决定
+promise to do something.	承诺
+hope to do something.	希望
+wish to do something.	希望做某事：指对某件事情或行为抱有希望、愿望的意愿。
+manage to do something.	做成
+refuse to do something.	拒绝
+allow somebody. to do	允许
+encourage somebody. to do	鼓励
+invite somebody. to do	邀请
+tell somebody. to do	告诉
+want somebody. to do	想要
+help somebody. to do	帮助 = help sb. do
+a bit of	有一点儿
+can't help doing something.	忍不住
+try to do	尽力去做某事
+admit doing something.	承认
+consider doing something.	考虑
+start to do something.	开始
+need to do something.	需要
+agree to do something.	同意
+offer to do something.	主动
+expect to do something.	期望做某事：指对未来某事的预期或期望，表示希望或预计会发生某种情况或结果。
+fail to do something.	失败
+advise somebody. to do	忠告
+ask somebody. to do	请求
+expect somebody. to do	期待
+warn somebody. to do	警告
+enable somebody. to do	使能够
+a lot of	许多=lots of
+a pair of	一双；一副
+a piece of	一张，一块，一片，一件
+a couple of	两个；几个 = several，修饰可数名词
+a kind of	一种；一类
+above all	首先，尤其=at first；最重要的是=in the first place
