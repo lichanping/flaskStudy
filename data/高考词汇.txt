@@ -51,3 +51,18 @@ infer	推断vt.
 faint	微弱的；adj.  昏厥vi.
 abundance	大量；丰富；充裕n.
 entertain	使娱乐v.
+fragrant	芬芳的；香的adj.
+put in	插入；提交；任命；实 行；花费（时间）；种植…phr.
+invest	投资v.
+handful	一把；少数n.
+enthusiast	爱好者，狂热者n.
+advancements	进步；进展；升任n.
+farming	农业，耕作；n. 农业的；农场的adj.
+agricultural	农业的adj.
+confuse	使混乱，使迷糊 v.
+puzzle	拼图；谜，智力游戏；疑问；难题；n. 使迷惑，…v.
+wrap	裹，包，捆vt.
+wrap up	包裹好；完成某事 phr.
+athlete	运动员，田径运动员n.
+sportsman	运动员n.
+renewal	更新 n.
