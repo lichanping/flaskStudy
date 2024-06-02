@@ -31,3 +31,13 @@ stadium	体育场，露天大型运动场n.
 joy	欢乐，喜悦，乐事n.
 gesture	手势，姿势n.
 creative	有创造力的；有创意的adj.
+occupy	占据，占领vt.
+ill	生病的，不适的adj.
+outspoken	直言的，坦率的adj.
+cheek	面颊，脸蛋； n. （口语）无礼地说vt.
+pinch	捏，掐，夹痛； v.  捏；少量，一撮；困苦n.
+clone	克隆；复制；v.  无性繁殖系个体 n.
+sorrow	悲伤n.
+industrial	工业的adj.
+devotion	投入 n.
+straw	吸管 n.
