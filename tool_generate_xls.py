@@ -180,7 +180,7 @@ class GenerateTool:
     def calculate_missing_words(self):
         tool = TxtToXLSX()
         # generate missing sounds
-        tool.convert('中考考纲词组.txt')  # commented the create_excel due to uselessness.
+        tool.convert('高考词汇.txt')  # commented the create_excel due to uselessness.
 
     @Test()
     def generate_media_word_list(self):
