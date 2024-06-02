@@ -174,7 +174,7 @@ class GenerateTool:
     def simplify_words(self):
         # remove duplicate words
         tool = TxtToXLSX()
-        tool.remove_duplicates_or_merge_translations('中考考纲词组.txt')
+        tool.remove_duplicates_or_merge_translations('高考词汇.txt')
 
     @Test()
     def calculate_missing_words(self):
