@@ -41,3 +41,13 @@ sorrow	悲伤n.
 industrial	工业的adj.
 devotion	投入 n.
 straw	吸管 n.
+evaluate	评估；评价vt.
+sun	太阳n.
+final	最终的；最后的；adj. 决赛n.
+artificial	假装的，虚伪的；人造的adj.
+spatial	空间的adj.
+cotton	棉花n.
+infer	推断vt.
+faint	微弱的；adj.  昏厥vi.
+abundance	大量；丰富；充裕n.
+entertain	使娱乐v.
