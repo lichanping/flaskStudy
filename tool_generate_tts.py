@@ -28,7 +28,7 @@ sound_folder = get_sub_folder_path('static/sounds')
 
 
 # Async function to process a batch of texts and convert them to speech
-async def process_text_batch(texts,  use_michelle=False):
+async def process_text_batch(texts, use_michelle=False):
     for text in texts:
         print(f"Processing text: {text}")
         # Create output file path for each text
@@ -46,7 +46,7 @@ async def process_text_batch(texts,  use_michelle=False):
         else:
             # Choose voice from the voice library
             # command:"edge-tts --list-voices"
-            voice = voices.find(Gender="Female", Language="en")
+            voice = voices.find(Language="en", Locale="en-GB")  # 英音
             # voice = voices.find(Gender="Male", Language="en")
             # Use Edge TTS API to convert text to speech and save as MP3 file
             communicate = edge_tts.Communicate(text, random.choice(voice)["Name"])
