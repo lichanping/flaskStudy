@@ -73,7 +73,6 @@ moisture	水分；潮湿；湿度；湿气n.
 intend	打算 v.
 bare	空的adj.
 unique	独一无二的，独特的adj.
-long	
 kindergarten	幼儿园n.
 preschool	未满学龄的，就学前的，入学前的；adj.  幼儿… n.
 glow	发光，发出微光；vi.光亮，光辉 n.
@@ -94,3 +93,39 @@ cooperative	(adj. 合作的；   n. 合作社
 excitement	(n. 兴奋
 intolerant	(adj. 不能容忍的；偏执的
 dip	(vt. 浸 ，蘸；   n. 倾斜 ，下降
+dignity	（n. 尊严；威严；端庄
+applaud	（v. 鼓掌；  喝彩；  向 …鼓掌表示赞赏；给 … …捧场；称赞"
+sincerely	（adv. 真诚地
+pleasure	（n. 愉快 ，乐事；荣幸；高兴 ，乐意"
+demanding	（adj. 要求高的
+undemanding	（adj. 容易的；要求不高的；不严格的"
+underwater	（adj. 水下的；   adv. 在水下
+success	（n. 成功 ，成就；胜利
+triumph	（n. 喜悦 ，狂喜；胜利，  凯旋；   vi. 成功 ，获胜"
+victory	（n. 胜利；成功；克服
+hip	（n. 臀部
+ass	（n. 驴；笨蛋；臀部；   adv.（常用作后置）用于贬损 …"
+soil	（n. 泥土 ，土壤；  国土 ，领土；   vt. 弄脏；污损"
+work	（v. 工作 ，劳动；起作用 ，有效果 ，奏效；运转 ，运行 …"
+undertake	（v. 承担 ，承包
+ingredient	（n. 成分 ，构成要素； （烹调的）原料"
+golf	（n. 高尔夫球运动
+kindness	（n. 仁慈 ，善良；友好行为
+leopard	（n. 豹
+devoted	（adj. 热衷的 ，致力于 … 的
+loyal	（adj. 忠心的 ，忠诚的； （ 顾客）忠实的；忠贞的；   n. …"
+checkup	（n. 检查，  审查；健康检查
+examination	（n. 考试；检查；  审查 ，调查
+collapse	（n. 崩溃；   v. 崩溃
+crash	（n. 撞车；碰撞；坠毁；崩溃；轰隆声；   v. 碰撞；  …"
+loss	（n. 失去；损失；减少，  降低；遗失"
+scan	（v. 细看；浏览；扫描；详细调查；押韵； 【计】  扫描 …"
+chief	（adj. 首席的 ，最高级别的；主要的；   n. 首领 ，酋长"
+capital	（n. 资金 ，资本；首都；大写字母；省会； 【财】  资本 …"
+secondary	（adj. 第二的；  次要的；  (疾病 、感染等) 继发性的；  …"
+endangered	（adj. 濒危的
+doubt	（n. 怀疑；疑虑；   v. 怀疑；不确定"
+due	（adj. 由于，  因为；预期的；到期的"
+owed	（adj. 亏欠的；负债的；感恩的"
+diagram	（n. 图表
+chart	（n. 图表 ，表格；航海图；每周排行榜；   vt. 制成图表 …"
