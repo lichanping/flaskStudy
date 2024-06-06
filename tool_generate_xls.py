@@ -49,10 +49,11 @@ class TxtToXLSX:
                     english_word, translation = match.groups()
                     english_word = english_word.strip()
 
-                    if english_word.endswith(('adj.', 'adv.', 'n.', 'v.')):
+                    if english_word.endswith(('adj.', 'adv.', 'n.', 'v.', 'phr.', 'vt.')):
                         # If it does, move the part of speech to the translation
                         pos = english_word.split()[-1]  # Get the last part of the word as part of speech
-                        english_word = english_word[:-len(pos)].strip()  # Remove the part of speech from the English word
+                        english_word = english_word[
+                                       :-len(pos)].strip()  # Remove the part of speech from the English word
                         translation = f"({pos}) {translation.strip()}"
 
                     # Replace "sb" with "somebody" and "sth" with "something" only in the English words part
