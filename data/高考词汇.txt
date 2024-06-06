@@ -165,3 +165,16 @@ unqualified	（adj. 不合格的；无资格的；不适任的；绝对的；无
 unmanned	（adj. 无人驾驶的
 automated	（adj. 机械化的；自动化的
 manned	（adj. 由人操作的；载人的；有人控制的，需人操纵的
+examine	(vt.) 检查；测验；调查
+inspect	(v.) 检查，审查
+factor	(n.) 因素
+fictional	(adj.) 虚构的
+unreal	(adj.) 不真实的，脱离现实的；不实在的；奇异的，…
+impress	(v.) 给……留下深刻印象
+amaze	(v.) 使惊奇，使惊诧
+memoir	(n.) 回忆录
+garden	(n.) 花园，菜园
+connect to	(phr.) 连接，相连
+network	(n.) 网络；人际关系网，联络网
+detective	(n.) 侦探，警探
+delicate	(adj.) 易碎的，脆弱
