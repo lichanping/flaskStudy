@@ -178,3 +178,21 @@ connect to	(phr.) 连接，相连
 network	(n.) 网络；人际关系网，联络网
 detective	(n.) 侦探，警探
 delicate	(adj.) 易碎的，脆弱
+above	(prep.) 在……之上
+below	(prep.) 在……之下；低于；adv. 在下面；在零下；…
+differ	(vi.) 相异，不同于
+occur	(vi.) 发生；出现，存在；（想法）被想到
+happen	(vi.) 发生；碰巧，偶遇；恰好；出现
+come about	(phr.) 发生
+message	(n.) 消息，信息，留言；启示； v. 发消息
+note	(n.) 笔记；便条；纸币；音符；单音，音调；注释；…
+certificate	(n.) 合格证书，文凭；证明，证明书
+supermarket	(n.) 超市
+grocery store	(n.) 食品杂货店
+food	(n.) 食物，食品，养料
+cuisine	(n.) 菜肴；烹饪；风味
+dilemma	(n.) 进退两难的窘境
+vine	(n.) 藤，蔓；葡萄属植物；葡萄藤
+mobile	(adj.) 可移动的；行动方便的
+portable	(adj.) 轻便的，手提的，便携式的；【财】便于携带的…
+directory	(n.) 电话号码簿；目录
