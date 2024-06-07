@@ -196,3 +196,9 @@ vine	(n.) 藤，蔓；葡萄属植物；葡萄藤
 mobile	(adj.) 可移动的；行动方便的
 portable	(adj.) 轻便的，手提的，便携式的；【财】便于携带的…
 directory	(n.) 电话号码簿；目录
+drought	(n.) 干旱，旱灾
+dictation	(n.) 口述；听写
+aural	(adj.) 听觉的；耳的；先兆的
+partner	(n.) 伙伴，搭档；配偶，伴侣； v. 成为……的合伙人
+behavior	(n.) 行为；举止；态度；（机器等）运转情况
+manner	(n.) 方式，方法；态度，礼仪
