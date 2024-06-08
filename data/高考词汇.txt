@@ -202,3 +202,24 @@ aural	(adj.) 听觉的；耳的；先兆的
 partner	(n.) 伙伴，搭档；配偶，伴侣； v. 成为……的合伙人
 behavior	(n.) 行为；举止；态度；（机器等）运转情况
 manner	(n.) 方式，方法；态度，礼仪
+drug	(n.) 药物；毒品
+medicine	(n.) 药；  医学
+disabled	(adj.) 有残疾的
+some	"det. 一些；某一；   pron. 一些"
+none	(pron.) 没有（一人或一物）
+quiet	"adj. 安静的；   n. 安静 ，平静；   v. 使安静 ，平静"
+silent	"adj. 沉默的 ，安静的；寂静的；   n. 无声电影"
+soundless	"adj. 无声的；完全静寂的；静悄悄的"
+peace	(n.) 和平；和睦；平静
+calm	"adj. 冷静的 ，平静的；风平浪静的；无风的；   n. 平 …"
+muscle	(n.) 肌肉
+marital	(adj.) 婚姻的
+disagreement	(n.) 分歧 ，不和
+notice	"v. 注意；n. 告示 ，通知；注意"
+remove	(vt.) 移开；去除
+get rid of	(v.) 摆脱；  除去
+village	(n.) 村庄 ，乡村
+countryside	(n.) 乡村 ，郊野
+disappearance	(n.) 消失 ，失踪
+missing	(adj.) 失踪的；缺少的；缺席的；丢失的；被去除的，  …
+extinction	(n.) 灭绝；熄灭；消失
