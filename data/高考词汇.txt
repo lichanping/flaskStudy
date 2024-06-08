@@ -223,3 +223,4 @@ countryside	(n.) 乡村 ，郊野
 disappearance	(n.) 消失 ，失踪
 missing	(adj.) 失踪的；缺少的；缺席的；丢失的；被去除的，  …
 extinction	(n.) 灭绝；熄灭；消失
+flight	(n.) 航班；航程；空中航行
