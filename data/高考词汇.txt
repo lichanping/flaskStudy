@@ -246,3 +246,24 @@ sufficient	"adj. 足够的 ，充足的；充分的"
 disguise	(v.) 伪装
 stockings	(n.) 长袜
 other	"adj. 其他的 ，另外的；
+retire	(v.) 退休
+plant	"n. 植物；发电厂；工厂；v. 种植"
+botany	"n. 植物学；（总称）一个地区的植物"
+diver	(n.) 潜水员
+unpleasant	(adj.) 令人不快的 ，讨厌的
+utilize	(v.) 利用；使用；运用
+disgusting	"adj. 令人厌恶的；令人无法接受的"
+newly	(adv.) 最近 ，新近
+prize	(n.) 奖品 ，奖赏
+award	"n. 奖品；奖学金；判决；奖赏；奖 ，奖章；vt. 奖励 …"
+eagle	"n. 鹰； （高尔夫球赛中）少击两杆入穴的成绩；   vt. …"
+disposal	(n.) 销毁 ，丢掉 ，处理
+position	"n. 职位；位置；地位；姿势；v. 安置"
+represent	(v.) 代表；描述 ，展现
+dismay	(n.) 失望 ，沮丧；   v. 使惊恐
+frustration	"n. 挫败；沮丧 ，不满；【财】  受挫； 【法】  合同 …"
+purple	(adj.) 紫色的
+violet	"n. 紫罗兰；紫罗兰色；   adj.紫色的 ，紫罗兰色的"
+school	(n.) 学校
+predict	(v.) 预言 ，预告 ，预测
+forecast	"n. 预报；预言；预测；   v.预报；预测"
