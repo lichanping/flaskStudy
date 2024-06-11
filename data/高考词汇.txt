@@ -118,7 +118,7 @@ checkup	（n. 检查，  审查；健康检查
 examination	（n. 考试；检查；  审查 ，调查
 collapse	（n. 崩溃；   v. 崩溃
 crash	（n. 撞车；碰撞；坠毁；崩溃；轰隆声；   v. 碰撞；  …"
-loss	（n. 失去；损失；减少，  降低；遗失"
+loss	(n.) 遗失；失败；失去；损失；死亡；减少，降低；
 scan	（v. 细看；浏览；扫描；详细调查；押韵； 【计】  扫描 …"
 chief	（adj. 首席的 ，最高级别的；主要的；   n. 首领 ，酋长"
 capital	（n. 资金 ，资本；首都；大写字母；省会； 【财】  资本 …"
@@ -202,3 +202,39 @@ aural	(adj.) 听觉的；耳的；先兆的
 partner	(n.) 伙伴，搭档；配偶，伴侣； v. 成为……的合伙人
 behavior	(n.) 行为；举止；态度；（机器等）运转情况
 manner	(n.) 方式，方法；态度，礼仪
+seek	(v.) 寻求；寻找
+look for	(phr.) 寻找；期待
+hide	(v.) 躲藏；隐瞒；把…藏起来；隐藏；鞭打；掩饰（…
+like	(v.) 喜欢；（与would或should连用）想，想要，…
+sunshine	(n.) 日光，日照
+sunlight	(n.) 阳光
+sunset	(n.) 日落； adj. 霞红色的
+private	(adj.) 私人的
+public	(adj.) 公共的；公众的；公立的；公开的；公然的； n.…
+until	(prep.) 到……为止； conj.到……为止，直到……才
+spirit	(n.) 精神，心灵；情绪
+profit	(n.) 利润，盈利
+high	(adj.) 高的；（标准、质量等）高的，好的； adv. 高
+prove	(v.) 证明，证实
+wise	(adj.) 有智慧的，博学的
+bright	(adj.) 明亮的；聪明的；欢快的； adv. 光亮地；明亮…
+clever	(adj.) 聪明的；机智的，熟练的
+intelligent	(adj.) 有智慧的，聪明的；智能的
+smart	(adj.) 时髦的，衣着讲究的；聪明的；敏捷的；巧妙的…
+foolish	(adj.) 愚蠢的；傻乎乎的
+distinct	(adj.) 独特的
+want	(v.) 想要； n. 短缺，需要的东西
+desire	(n.) 渴望；欲望；愿望；要求；情欲； vi. 有希望，…
+drum	(n.) 鼓；圆桶； v. 击鼓
+nothing	(pron.) 没有东西，没有任何事；没有什么
+technique	(n.) 技巧，技能；技术，方法
+disturbing	(adj.) 令人不安的
+anxious	(adj.) 焦虑的，不安的；渴望的；急切的
+source	(n.) 来源
+origin	(n.) 起源；由来，来源；出身
+assistant	(n.) 售货员；助理，助手；adj. 助理的，辅助的
+period	(n.) （一段）时间；时期
+learn	(v.) 学习；得知
+study	(v.) 学习；研究；细察；审视； n. 学习；书房；课…
+rule	(n.) 规则，规定，规章，条例； v. 统治，控制
+control	(n.) 控制，管理；对照实验；控制装置；克制；【财】…
