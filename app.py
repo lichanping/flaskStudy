@@ -113,7 +113,7 @@ txt_reader = TxtReader()
 @app.route('/', methods=['GET', 'POST'])
 def index():
     if request.method == 'GET':
-        file_name = request.args.get('file_name', '中考词汇.txt')  # Default to 'words.txt' if no file selected
+        file_name = request.args.get('file_name', '高考词汇.txt')  # Default to 'words.txt' if no file selected
         words = txt_reader.read_words_from_txt(file_name)
         return render_template('index.html', words=words)
     elif request.method == 'POST':
