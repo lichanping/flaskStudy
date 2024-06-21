@@ -183,13 +183,13 @@ class GenerateTool:
     def simplify_words(self):
         # remove duplicate words
         tool = TxtToXLSX()
-        tool.remove_duplicates_or_merge_translations('高考词汇.txt')
+        tool.remove_duplicates_or_merge_translations('高考词汇（持续更新中）.txt')
 
     @Test()
     def calculate_missing_words(self):
         tool = TxtToXLSX()
         # generate missing sounds
-        tool.convert('高考词汇.txt')  # commented the create_excel due to uselessness.
+        tool.convert('高考词汇（持续更新中）.txt')  # commented the create_excel due to uselessness.
 
     @Test()
     def generate_media_word_list(self):
