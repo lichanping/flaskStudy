@@ -271,7 +271,7 @@ seek	(v.) 寻求；寻找
 look for	(phr.) 寻找；期待
 hide	(v.) 躲藏；隐瞒；把…藏起来；隐藏；鞭打；掩饰（…
 like	(v.) 喜欢；（与would或should连用）想，想要，…
-sunshine	(n.) 日光，日照
+sunshine	(n.) 日光，日照;  晴天；愉快 ，快活
 sunlight	(n.) 阳光
 sunset	(n.) 日落； adj. 霞红色的
 private	(adj.) 私人的
@@ -370,3 +370,69 @@ ease	(n.) 轻松； v. 缓解
 easiness	(n.) 容易；轻松；安适
 know	(v.) 知道；认识
 tablet	(n.) 平板电脑
+stick	"v. 坚持；卡住；   n. 棍，棒 ，手杖"
+dread	"v. 惧怕，  害怕；n. 畏惧，恐惧；adj. 恐怖的 ，使 …"
+see	"v. 看；  了解 ，领会；拜访；认为 ，看待"
+mouth	(n.) 嘴；口
+taste	"n. 品味；   v. 品尝，  尝起来；体验 ，体会"
+strength	(n.) 长处；体力 ，力量
+droop	(v.) 低垂 ，凋萎 ，萎靡
+fade	"vi. 褪色 ，褪去；失去；逐渐消失； vt. 使褪色； v. …"
+feel	(v.) （身体）感觉到；认为
+runner	(n.) 跑步者
+adequately	(adv.) 充分地
+technological	(adj.) 技术的 ，工艺的
+little	"adj. 幼小的；小的；少的；det. 几乎没有； （与不可 …"
+tiny	"adj. 很少的；微小的；极小的；矮小的；   n. 小孩子 …"
+attack	"v. 攻击 ，袭击；全力应对，奋力处理；   n. 疾病发作 …"
+drown	(v.) 淹没
+tip	(n.) 诀窍 ，建议；小费；尖端
+access	"n.（使用或见到的）机会，权利；接触；通道；访问 …"
+entrance	"n. 入口 ，通道；大门口；  出场 ，登场；进入； （大学 …"
+change	"n. 改变 ，变化；   v. 变化，改变"
+resource	(n.) 资源
+belong	(v.) 属于，  附属
+efficiency	(n.) 效率
+inefficiency	(n.) 无效率；无能
+truck	(n.) 卡车
+trunk	"n. 树干；象鼻； （人）躯干；大衣箱；主体； （车 …"
+after	"prep. 在 … … 以后；   conj.在 … …之后"
+behind	"prep. 在 … …后面；迟于 … … ，落后于；基于；  …"
+presentation	(n.) 报告；演讲 ，演示；  陈述
+ambiguous	(adj.) 含糊不清的
+obvious	"adj. 明显的 ，显而易见的；了无新意的；平淡无奇的 …"
+drunk	(adj.) 喝醉了的
+sing	(v.) 唱
+art	(n.) 艺术；艺术品
+spring	"n. 春天；泉 ，泉源；  弹簧；v. 反弹 ，跳 ，跃"
+valuable	(adj.) 贵重的 ，有价值的
+embarrassed	"adj. 尴尬的 ，窘迫的 ，觉得难堪的"
+group	"n. 群 ，组；   v. 将 … …分类；把 … …分组"
+life	(n.) 生命；一生；生活 ，生存
+shoe	(n.) 鞋
+enquire	(v.) 询问 ，打听
+should	(aux.) 应该
+skin	(n.) 皮肤；外皮
+belief	(n.) 信念；信仰；信心
+website	(n.) 网站
+endurance	(n.) 忍耐力 ，耐性 ，耐用度
+talk	(v.) 谈论；讲话；   n. 谈话
+fog	(n.) 雾 ，烟雾 ，尘雾
+appointment	(n.) 预约
+within	(prep.) 在 … …之内
+entertaining	(adj.) 有趣的 ，令人愉快的
+break off	"phr. 折断 ，掰掉；突然停止 ，暂停，  中断"
+traffic	(n.) 交通 ，车流
+wonderful	"adj. 极好的 ，精彩的；惊人的 ，奇妙的"
+excellent	(adj.) 优秀的；卓越的
+tasty	(adj.) 好吃的 ，美味的
+dustbin	(n.) 垃圾箱
+trash can	(n.) 垃圾桶
+garbage can	(n.) 垃圾桶 ，垃圾箱
+rubbish bin	(n.) 垃圾箱
+need	(auxv.) 需要；   n. 需求
+freeway	(n.) （美）  高速公路
+highway	"n. 公路；城际干道；公用通道；大路； （水陆空）航 …"
+moonlight	(n.) 月光；   v. 兼职 ，私活
+come	"v. 来 ，来到；  (想法 、主意或记忆等) 突然出现；源 …"
+reach	"v. 伸手；伸手够到；抵达；达到 ，发展到；与 … …取 …"
