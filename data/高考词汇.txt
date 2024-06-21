@@ -1,33 +1,3 @@
-clap	拍手，鼓掌，掌声n.
-lean	倾斜v.
-bob	上下浮动v.
-swear	发誓，郑重地说v.
-grind	研磨；折磨；v. 苦差事，苦活儿n.
-measure	测量；估量；v.  措施，方法；计量标准；(估价… n.
-whistle	口哨（声）；n.吹口哨 v.
-look out	当心，留神phr.
-fluid	流动的adj.
-dissolve	（使）溶解v.
-evolution	进化，演变n.
-cabin	（简陋的）小屋n.
-starve	挨饿；饿死v.
-polar	南极的，北极的adj.
-hunch	直觉，预感n.
-bacon	培根 n.
-on average	平均，通常phr.
-beg	乞求，恳求v.
-bounce	弹起v.
-blossom	开花；v.  （果树的）花；花簇n.
-independence	（人的）自立；（国家的）独立n.
-diamond	钻石n.
-apologize	道歉（=apologise）vi.
-fashionable	流行的，时髦的adj.
-ache	疼痛；n.觉得疼痛v.
-fascination	入迷；魅力，极大的吸引力n.
-secret	秘密；诀窍；n. 秘密的，保密的adj.
-difference	差异，不同（之处）n.
-eggplant	茄子n.
-stadium	体育场，露天大型运动场n.
 joy	欢乐，喜悦，乐事n.
 gesture	手势，姿势n.
 creative	有创造力的；有创意的adj.
