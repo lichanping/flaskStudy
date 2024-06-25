@@ -3,7 +3,7 @@ lean	倾斜v.
 bob	上下浮动v.
 swear	发誓，郑重地说v.
 grind	研磨；折磨；v. 苦差事，苦活儿n.
-measure	测量；估量；v.  措施，方法；计量标准；(估价… n.
+measure	测量；估量；v.措施，方法；计量标准；(估价… n.
 whistle	口哨（声）；n.吹口哨 v.
 look out	当心，留神phr.
 fluid	流动的adj.
@@ -17,7 +17,7 @@ bacon	培根 n.
 on average	平均，通常phr.
 beg	乞求，恳求v.
 bounce	弹起v.
-blossom	开花；v.  （果树的）花；花簇n.
+blossom	开花；v.（果树的）花；花簇n.
 independence	（人的）自立；（国家的）独立n.
 diamond	钻石n.
 apologize	道歉（=apologise）vi.
@@ -35,8 +35,8 @@ occupy	占据，占领vt.
 ill	生病的，不适的adj.
 outspoken	直言的，坦率的adj.
 cheek	面颊，脸蛋； n. （口语）无礼地说vt.
-pinch	捏，掐，夹痛； v.  捏；少量，一撮；困苦n.
-clone	克隆；复制；v.  无性繁殖系个体 n.
+pinch	捏，掐，夹痛； v.捏；少量，一撮；困苦n.
+clone	克隆；复制；v.无性繁殖系个体 n.
 sorrow	悲伤n.
 industrial	工业的adj.
 devotion	投入 n.
@@ -48,7 +48,7 @@ artificial	假装的，虚伪的；人造的adj.
 spatial	空间的adj.
 cotton	棉花n.
 infer	推断vt.
-faint	微弱的；adj.  昏厥vi.
+faint	微弱的；adj.昏厥vi.
 abundance	大量；丰富；充裕n.
 entertain	使娱乐v.
 fragrant	芬芳的；香的adj.
@@ -68,44 +68,44 @@ sportsman	运动员n.
 renewal	更新 n.
 employee	雇员 n.
 dry	干的；adj. 弄干 v.
-damp	潮湿的，有湿气的；adj.  抑制v.
+damp	潮湿的，有湿气的；adj.抑制v.
 moisture	水分；潮湿；湿度；湿气n.
 intend	打算 v.
 bare	空的adj.
 unique	独一无二的，独特的adj.
 kindergarten	幼儿园n.
-preschool	未满学龄的，就学前的，入学前的；adj.  幼儿… n.
+preschool	未满学龄的，就学前的，入学前的；adj.幼儿… n.
 glow	发光，发出微光；vi.光亮，光辉 n.
 conflict	冲突，争执，矛盾n.
-rain	雨，雨水； n.  下雨v.
+rain	雨，雨水； n.下雨v.
 yell	(v. 叫喊
-scream	（ 因愤怒或恐惧）  高声喊；尖叫着说出；大声叫 …v.
-shout	(v. 呼喊；   n. 呼喊
+scream	（ 因愤怒或恐惧）高声喊；尖叫着说出；大声叫 …v.
+shout	(v. 呼喊； n. 呼喊
 compassionate	(adj. 有同情心的
-sympathetic	(adj. 有同情心的，  同情的
+sympathetic	(adj. 有同情心的，同情的
 miserable	(adj. 痛苦的 ，悲惨的 ；令人难受的
 painful	(adj. 疼痛的；痛苦的；艰难的
 unhappy	("adj. 不幸福的 ，不快乐的；不幸的；不满的
-soften	("v.   （使）变柔软，（使）变温和
+soften	("v. （使）变柔软，（使）变温和
 reporter	(n. 记者
 journalist	(n. 新闻记者；新闻工作者
-cooperative	(adj. 合作的；   n. 合作社
+cooperative	(adj. 合作的； n. 合作社
 excitement	(n. 兴奋
 intolerant	(adj. 不能容忍的；偏执的
-dip	(vt. 浸 ，蘸；   n. 倾斜 ，下降
+dip	(vt. 浸 ，蘸； n. 倾斜 ，下降
 dignity	（n. 尊严；威严；端庄
-applaud	（v. 鼓掌；  喝彩；  向 …鼓掌表示赞赏；给 … …捧场；称赞"
+applaud	（v. 鼓掌；喝彩；向 …鼓掌表示赞赏；给 … …捧场；称赞"
 sincerely	（adv. 真诚地
 pleasure	（n. 愉快 ，乐事；荣幸；高兴 ，乐意"
 demanding	（adj. 要求高的
 undemanding	（adj. 容易的；要求不高的；不严格的"
-underwater	（adj. 水下的；   adv. 在水下
+underwater	（adj. 水下的； adv. 在水下
 success	（n. 成功 ，成就；胜利
-triumph	（n. 喜悦 ，狂喜；胜利，  凯旋；   vi. 成功 ，获胜"
+triumph	（n. 喜悦 ，狂喜；胜利，凯旋； vi. 成功 ，获胜"
 victory	（n. 胜利；成功；克服
 hip	（n. 臀部
-ass	（n. 驴；笨蛋；臀部；   adv.（常用作后置）用于贬损 …"
-soil	（n. 泥土 ，土壤；  国土 ，领土；   vt. 弄脏；污损"
+ass	（n. 驴；笨蛋；臀部； adv.（常用作后置）用于贬损 …"
+soil	（n. 泥土 ，土壤；国土 ，领土； vt. 弄脏；污损"
 work	（v. 工作 ，劳动；起作用 ，有效果 ，奏效；运转 ，运行 …"
 undertake	（v. 承担 ，承包
 ingredient	（n. 成分 ，构成要素； （烹调的）原料"
@@ -113,22 +113,22 @@ golf	（n. 高尔夫球运动
 kindness	（n. 仁慈 ，善良；友好行为
 leopard	（n. 豹
 devoted	（adj. 热衷的 ，致力于 … 的
-loyal	（adj. 忠心的 ，忠诚的； （ 顾客）忠实的；忠贞的；   n. …"
-checkup	（n. 检查，  审查；健康检查
-examination	（n. 考试；检查；  审查 ，调查
-collapse	（n. 崩溃；   v. 崩溃
-crash	（n. 撞车；碰撞；坠毁；崩溃；轰隆声；   v. 碰撞；  …"
-loss	（n. 失去；损失；减少，  降低；遗失"
-scan	（v. 细看；浏览；扫描；详细调查；押韵； 【计】  扫描 …"
-chief	（adj. 首席的 ，最高级别的；主要的；   n. 首领 ，酋长"
-capital	（n. 资金 ，资本；首都；大写字母；省会； 【财】  资本 …"
-secondary	（adj. 第二的；  次要的；  (疾病 、感染等) 继发性的；  …"
+loyal	（adj. 忠心的 ，忠诚的； （ 顾客）忠实的；忠贞的； n. …"
+checkup	（n. 检查，审查；健康检查
+examination	（n. 考试；检查；审查 ，调查
+collapse	（n. 崩溃； v. 崩溃
+crash	（n. 撞车；碰撞；坠毁；崩溃；轰隆声； v. 碰撞；…"
+loss	（n. 失去；损失；减少，降低；遗失"
+scan	（v. 细看；浏览；扫描；详细调查；押韵； 【计】扫描 …"
+chief	（adj. 首席的 ，最高级别的；主要的； n. 首领 ，酋长"
+capital	（n. 资金 ，资本；首都；大写字母；省会； 【财】资本 …"
+secondary	（adj. 第二的；次要的；(疾病 、感染等) 继发性的；…"
 endangered	（adj. 濒危的
-doubt	（n. 怀疑；疑虑；   v. 怀疑；不确定"
-due	（adj. 由于，  因为；预期的；到期的"
+doubt	（n. 怀疑；疑虑； v. 怀疑；不确定"
+due	（adj. 由于，因为；预期的；到期的"
 owed	（adj. 亏欠的；负债的；感恩的"
 diagram	（n. 图表
-chart	（n. 图表 ，表格；航海图；每周排行榜；   vt. 制成图表 …"
+chart	（n. 图表 ，表格；航海图；每周排行榜； vt. 制成图表 …"
 friendly	（adj. 友好的
 evidence	（n. 证据，证明
 transmission	（n. 传输，发射
@@ -203,45 +203,45 @@ partner	(n.) 伙伴，搭档；配偶，伴侣； v. 成为……的合伙人
 behavior	(n.) 行为；举止；态度；（机器等）运转情况
 manner	(n.) 方式，方法；态度，礼仪
 drug	(n.) 药物；毒品
-medicine	(n.) 药；  医学
+medicine	(n.) 药；医学
 disabled	(adj.) 有残疾的
-some	"det. 一些；某一；   pron. 一些"
+some	"det. 一些；某一； pron. 一些"
 none	(pron.) 没有（一人或一物）
-quiet	"adj. 安静的；   n. 安静 ，平静；   v. 使安静 ，平静"
-silent	"adj. 沉默的 ，安静的；寂静的；   n. 无声电影"
+quiet	"adj. 安静的； n. 安静 ，平静； v. 使安静 ，平静"
+silent	"adj. 沉默的 ，安静的；寂静的； n. 无声电影"
 soundless	"adj. 无声的；完全静寂的；静悄悄的"
 peace	(n.) 和平；和睦；平静
-calm	"adj. 冷静的 ，平静的；风平浪静的；无风的；   n. 平 …"
+calm	"adj. 冷静的 ，平静的；风平浪静的；无风的； n. 平 …"
 muscle	(n.) 肌肉
 marital	(adj.) 婚姻的
 disagreement	(n.) 分歧 ，不和
 notice	"v. 注意；n. 告示 ，通知；注意"
 remove	(vt.) 移开；去除
-get rid of	(v.) 摆脱；  除去
+get rid of	(v.) 摆脱；除去
 village	(n.) 村庄 ，乡村
 countryside	(n.) 乡村 ，郊野
 disappearance	(n.) 消失 ，失踪
-missing	(adj.) 失踪的；缺少的；缺席的；丢失的；被去除的，  …
+missing	(adj.) 失踪的；缺少的；缺席的；丢失的；被去除的，…
 extinction	(n.) 灭绝；熄灭；消失
 flight	(n.) 航班；航程；空中航行
-pack	"v. 收拾 ，打包；塞满 ，挤满；   n. 群；行李"
+pack	"v. 收拾 ，打包；塞满 ，挤满； n. 群；行李"
 disappointed	(adj.) 失望的 ，沮丧的
 dye	(v.) 染 ，染色
 supposing that	(conj.) 假如
 moth	(n.) 蛾
 discount	"n. 折扣（读作/ˈdɪsˌkaunt/）；（价格 、债 …"
 per	(prep.) 每 ，每一
-help	(v.) 帮助；   n. 帮助
-assist	"v. 帮助；协助；促进；   n.帮助；助攻"
-harm	(v.) 伤害；   n. 伤害 ，损害
-remind	(v.) 提醒；   vt. 使想起
+help	(v.) 帮助； n. 帮助
+assist	"v. 帮助；协助；促进； n.帮助；助攻"
+harm	(v.) 伤害； n. 伤害 ，损害
+remind	(v.) 提醒； vt. 使想起
 discrimination	(n.) 歧视
-prejudice	"n. 偏见 ，成见；损害 ，侵害； 【法】  对合法权益损 …"
+prejudice	"n. 偏见 ，成见；损害 ，侵害； 【法】对合法权益损 …"
 recipe	(n.) 食谱
 pity	(n.) 遗憾 ，可惜
-regret	"n. 懊悔；遗憾；歉意；   v.对 … …感到后悔；抱歉；  …"
+regret	"n. 懊悔；遗憾；歉意； v.对 … …感到后悔；抱歉；…"
 abundant	(adj.) 丰富的
-enough	"det. 足够的；   adv. 足够地；   pron. 很多；充足；  …"
+enough	"det. 足够的； adv. 足够地； pron. 很多；充足；…"
 sufficient	"adj. 足够的 ，充足的；充分的"
 disguise	(v.) 伪装
 stockings	(n.) 长袜
@@ -256,22 +256,22 @@ disgusting	"adj. 令人厌恶的；令人无法接受的"
 newly	(adv.) 最近 ，新近
 prize	(n.) 奖品 ，奖赏
 award	"n. 奖品；奖学金；判决；奖赏；奖 ，奖章；vt. 奖励 …"
-eagle	"n. 鹰； （高尔夫球赛中）少击两杆入穴的成绩；   vt. …"
+eagle	"n. 鹰； （高尔夫球赛中）少击两杆入穴的成绩； vt. …"
 disposal	(n.) 销毁 ，丢掉 ，处理
 position	"n. 职位；位置；地位；姿势；v. 安置"
 represent	(v.) 代表；描述 ，展现
-dismay	(n.) 失望 ，沮丧；   v. 使惊恐
-frustration	"n. 挫败；沮丧 ，不满；【财】  受挫； 【法】  合同 …"
+dismay	(n.) 失望 ，沮丧； v. 使惊恐
+frustration	"n. 挫败；沮丧 ，不满；【财】受挫； 【法】合同 …"
 purple	(adj.) 紫色的
-violet	"n. 紫罗兰；紫罗兰色；   adj.紫色的 ，紫罗兰色的"
+violet	"n. 紫罗兰；紫罗兰色； adj.紫色的 ，紫罗兰色的"
 school	(n.) 学校
 predict	(v.) 预言 ，预告 ，预测
-forecast	"n. 预报；预言；预测；   v.预报；预测"
+forecast	"n. 预报；预言；预测； v.预报；预测"
 seek	(v.) 寻求；寻找
 look for	(phr.) 寻找；期待
 hide	(v.) 躲藏；隐瞒；把…藏起来；隐藏；鞭打；掩饰（…
 like	(v.) 喜欢；（与would或should连用）想，想要，…
-sunshine	(n.) 日光，日照;  晴天；愉快 ，快活
+sunshine	(n.) 日光，日照;晴天；愉快 ，快活
 sunlight	(n.) 阳光
 sunset	(n.) 日落； adj. 霞红色的
 private	(adj.) 私人的
@@ -370,11 +370,11 @@ ease	(n.) 轻松； v. 缓解
 easiness	(n.) 容易；轻松；安适
 know	(v.) 知道；认识
 tablet	(n.) 平板电脑
-stick	"v. 坚持；卡住；   n. 棍，棒 ，手杖"
-dread	"v. 惧怕，  害怕；n. 畏惧，恐惧；adj. 恐怖的 ，使 …"
-see	"v. 看；  了解 ，领会；拜访；认为 ，看待"
+stick	"v. 坚持；卡住； n. 棍，棒 ，手杖"
+dread	"v. 惧怕，害怕；n. 畏惧，恐惧；adj. 恐怖的 ，使 …"
+see	"v. 看；了解 ，领会；拜访；认为 ，看待"
 mouth	(n.) 嘴；口
-taste	"n. 品味；   v. 品尝，  尝起来；体验 ，体会"
+taste	"n. 品味； v. 品尝，尝起来；体验 ，体会"
 strength	(n.) 长处；体力 ，力量
 droop	(v.) 低垂 ，凋萎 ，萎靡
 fade	"vi. 褪色 ，褪去；失去；逐渐消失； vt. 使褪色； v. …"
@@ -383,31 +383,31 @@ runner	(n.) 跑步者
 adequately	(adv.) 充分地
 technological	(adj.) 技术的 ，工艺的
 little	"adj. 幼小的；小的；少的；det. 几乎没有； （与不可 …"
-tiny	"adj. 很少的；微小的；极小的；矮小的；   n. 小孩子 …"
-attack	"v. 攻击 ，袭击；全力应对，奋力处理；   n. 疾病发作 …"
+tiny	"adj. 很少的；微小的；极小的；矮小的； n. 小孩子 …"
+attack	"v. 攻击 ，袭击；全力应对，奋力处理； n. 疾病发作 …"
 drown	(v.) 淹没
 tip	(n.) 诀窍 ，建议；小费；尖端
 access	"n.（使用或见到的）机会，权利；接触；通道；访问 …"
-entrance	"n. 入口 ，通道；大门口；  出场 ，登场；进入； （大学 …"
-change	"n. 改变 ，变化；   v. 变化，改变"
+entrance	"n. 入口 ，通道；大门口；出场 ，登场；进入； （大学 …"
+change	"n. 改变 ，变化； v. 变化，改变"
 resource	(n.) 资源
-belong	(v.) 属于，  附属
+belong	(v.) 属于，附属
 efficiency	(n.) 效率
 inefficiency	(n.) 无效率；无能
 truck	(n.) 卡车
 trunk	"n. 树干；象鼻； （人）躯干；大衣箱；主体； （车 …"
-after	"prep. 在 … … 以后；   conj.在 … …之后"
-behind	"prep. 在 … …后面；迟于 … … ，落后于；基于；  …"
-presentation	(n.) 报告；演讲 ，演示；  陈述
+after	"prep. 在 … … 以后； conj.在 … …之后"
+behind	"prep. 在 … …后面；迟于 … … ，落后于；基于；…"
+presentation	(n.) 报告；演讲 ，演示；陈述
 ambiguous	(adj.) 含糊不清的
 obvious	"adj. 明显的 ，显而易见的；了无新意的；平淡无奇的 …"
 drunk	(adj.) 喝醉了的
 sing	(v.) 唱
 art	(n.) 艺术；艺术品
-spring	"n. 春天；泉 ，泉源；  弹簧；v. 反弹 ，跳 ，跃"
+spring	"n. 春天；泉 ，泉源；弹簧；v. 反弹 ，跳 ，跃"
 valuable	(adj.) 贵重的 ，有价值的
 embarrassed	"adj. 尴尬的 ，窘迫的 ，觉得难堪的"
-group	"n. 群 ，组；   v. 将 … …分类；把 … …分组"
+group	"n. 群 ，组； v. 将 … …分类；把 … …分组"
 life	(n.) 生命；一生；生活 ，生存
 shoe	(n.) 鞋
 enquire	(v.) 询问 ，打听
@@ -416,12 +416,12 @@ skin	(n.) 皮肤；外皮
 belief	(n.) 信念；信仰；信心
 website	(n.) 网站
 endurance	(n.) 忍耐力 ，耐性 ，耐用度
-talk	(v.) 谈论；讲话；   n. 谈话
+talk	(v.) 谈论；讲话； n. 谈话
 fog	(n.) 雾 ，烟雾 ，尘雾
 appointment	(n.) 预约
 within	(prep.) 在 … …之内
 entertaining	(adj.) 有趣的 ，令人愉快的
-break off	"phr. 折断 ，掰掉；突然停止 ，暂停，  中断"
+break off	"phr. 折断 ，掰掉；突然停止 ，暂停，中断"
 traffic	(n.) 交通 ，车流
 wonderful	"adj. 极好的 ，精彩的；惊人的 ，奇妙的"
 excellent	(adj.) 优秀的；卓越的
@@ -430,9 +430,54 @@ dustbin	(n.) 垃圾箱
 trash can	(n.) 垃圾桶
 garbage can	(n.) 垃圾桶 ，垃圾箱
 rubbish bin	(n.) 垃圾箱
-need	(auxv.) 需要；   n. 需求
-freeway	(n.) （美）  高速公路
+need	(auxv.) 需要； n. 需求
+freeway	(n.) （美）高速公路
 highway	"n. 公路；城际干道；公用通道；大路； （水陆空）航 …"
-moonlight	(n.) 月光；   v. 兼职 ，私活
-come	"v. 来 ，来到；  (想法 、主意或记忆等) 突然出现；源 …"
+moonlight	(n.) 月光； v. 兼职 ，私活
+come	"v. 来 ，来到；(想法 、主意或记忆等) 突然出现；源 …"
 reach	"v. 伸手；伸手够到；抵达；达到 ，发展到；与 … …取 …"
+budget	(n.) 预算；v. 预算 ，安排
+achieve	(v.) 完成 ，达到
+sky	(n.) 天空
+in need of	(phr.) 需要
+addition	(n.) 附加；加法；新增人员
+character	(n.) 角色；性格；字
+big	(adj.) 大的，巨大的；重要的
+rice	(n.) 米；稻
+credit	(n.) 信用；学分
+administration	(n.) 管理 ，行政
+earthquake	(n.) 地震
+live	"v. 生活；居住（读作/lɪv/）；活着 ，生存；…"
+bicycle	(n.) 自行车
+meat	(n.) 肉
+anxiety	(n.) 焦虑
+drawer	(n.) 抽屉
+become	"开始变得；v. 成为 ；变成"
+garlic	(n.) 大蒜
+argue	(v.) 争论；主张 ，认为
+debate	"n. 辩论；讨论 ，争论；v.辩论；争论 ，议论"
+eastward	(adv.) 向东；adj. 向东的
+stand for	(phr.) 代表 ，象征
+argument	(n.) 论据 ，论点；争吵 ，争论
+airport	(n.) 机场
+program	"n. 项目 ，计划；节目；课程；程序；v. 编写程序"
+easy-going	(adj.) 随和的
+start	"v. 开始（做某事）；开始，发生；开办 ，开动；发动 …"
+assess	(vt.) 评估
+fingernail	(n.) 手指甲
+drag	(v.) 拖 ，拉 ，拽 ，扯
+paragraph	(n.) （文章的）段 ，节；段落
+theater	"n. 戏院，电影院 ，剧场；戏剧 ，戏剧事业"
+economics	(n.) 经济学；经济情况
+appreciate	(v.) 欣赏；感谢 ，感激；领会
+world	(n.) 世界
+baseball	(n.) 棒球（运动）
+drunken	(adj.) 喝醉的；酗酒的
+dozen	(num.) 许多；一打 ，十二个
+also	(adv.) 也，同样；还 ，此外
+category	(n.) 类别
+editor	(n.) 编辑
+truly	"adv. 真正地，的确地；完全地 ，非常"
+cash	(n.) 现金
+educated	(adj.) 受过教育的
+keep	"v. 保持；继续；记下 ，记录 ，记载"
