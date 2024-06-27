@@ -58,9 +58,11 @@
 
     <span id="incorrectWords"></span>
     <input type="hidden" id="correctIndexValue">
+    <input type="hidden" id="correctOptionValue">
 </div>
 <script type="module">
     import * as script from './learnWords.js';
+
     document.getElementById("file").addEventListener("change", script.renderQuestion);
     let autoRenderInterval; // Variable to hold the interval ID
     const renderButton = document.getElementById("renderQuestion");
