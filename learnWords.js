@@ -52,7 +52,7 @@ class LearnWords {
 
     static generateOptions(globalWordsData, index = null) {
         const randomElement = index !== null ? globalWordsData[index] : this.getRandomElement(globalWordsData);
-        const currentEnglishWord = randomElement["单词"];
+        const currentEnglishWord = randomElement["单词"].trim();
         const correctOption = randomElement["释意"];
         const otherWords = globalWordsData.filter(word => word !== randomElement);
         const wrongOptions = [];
@@ -64,11 +64,30 @@ class LearnWords {
 
             wrongOptions.push(randomWrongWord);
         }
-        // Combine correct and wrong options
-        const options = [correctOption, ...wrongOptions];
+        // 30% chance to exclude the correct option
+        const noCorrectAnswer = Math.random() < 0.3;
+        const options = noCorrectAnswer ? [...wrongOptions, this.getRandomElement(otherWords)["释意"]] : [correctOption, ...wrongOptions];
+
+        // Shuffle the options
         const shuffledOptions = this.shuffleArray(options);
-        const correctIndex = shuffledOptions.indexOf(correctOption);
-        return {currentEnglishWord, options: shuffledOptions, correctIndex};
+        // Always include "没有正确答案" as the last option
+        shuffledOptions.push("没有正确答案");
+
+        if (noCorrectAnswer) {
+            return {
+                currentEnglishWord,
+                options: shuffledOptions,
+                correctIndex: shuffledOptions.indexOf("没有正确答案"),
+                correctOption: correctOption
+            };
+        } else {
+            return {
+                currentEnglishWord,
+                options: shuffledOptions,
+                correctIndex: shuffledOptions.indexOf(correctOption),
+                correctOption: ""
+            };
+        }
     }
 }
 
@@ -122,11 +141,13 @@ export async function renderQuestion() {
             currentEnglishWord = generatedOptions.currentEnglishWord;
             options = generatedOptions.options;
             correctIndex = generatedOptions.correctIndex;
+            document.getElementById("correctOptionValue").value = generatedOptions.correctOption;
         } else {
             const generatedOptions = LearnWords.generateOptions(globalWordsData, currentIndex);
             currentEnglishWord = generatedOptions.currentEnglishWord;
             options = generatedOptions.options;
             correctIndex = generatedOptions.correctIndex;
+            document.getElementById("correctOptionValue").value = generatedOptions.correctOption;
 
             // Increment index for next question
             currentIndex = (currentIndex + 1) % globalWordsData.length;
@@ -204,12 +225,17 @@ export function compareOptionIndex(event) {
 
     const selectedOptionIndex = Array.from(event.target.parentNode.children).indexOf(event.target);
     const correctIndex = parseInt(document.getElementById('correctIndexValue').value);
+    const correctOptionValue = document.getElementById("correctOptionValue").value;
+
     const englishWordTextBox = document.getElementById('englishWordTextBox');
     const english = englishWordTextBox.value;
     const scoreElement = document.getElementById('scoreNumber')
     const score = parseInt(scoreElement.innerText);
     const errorCount = parseInt(document.getElementById('errorCount').innerText);
-    const correctOption = document.querySelectorAll('.banner')[correctIndex].innerText;
+    let correctOption = document.querySelectorAll('.banner')[correctIndex].innerText;
+    if (correctOption === "没有正确答案") {
+        correctOption = correctOptionValue;
+    }
     document.querySelectorAll('.banner')[correctIndex].style.backgroundColor = passColor;
     const incorrectWordsSpan = document.getElementById('incorrectWords');
     const thumb = document.getElementById('thumb');
@@ -221,6 +247,11 @@ export function compareOptionIndex(event) {
     if (selectedOptionIndex === correctIndex) {
         englishWordTextBox.value = english + " " + event.target.innerText;
         englishWordTextBox.style.backgroundColor = passColor;
+        if (correctOptionValue !== "") {
+            displayToast(correctOptionValue);
+        } else {
+            displayToast(event.target.innerText);
+        }
         scoreElement.innerText = score + 1;
         triggerAnimation(thumb);
     } else {
@@ -300,4 +331,19 @@ function populateList() {
         option.text = formattedDate;
         selectElement.appendChild(option);
     }
+}
+
+function displayToast(message) {
+    // Create a toast element
+    const toast = document.createElement('div');
+    toast.classList.add('toast');
+    toast.textContent = message;
+
+    // Append toast to the document body
+    document.body.appendChild(toast);
+
+    // Automatically remove toast after 3 seconds
+    setTimeout(() => {
+        toast.remove();
+    }, 3000);
 }
