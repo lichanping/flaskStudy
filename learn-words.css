@@ -235,7 +235,8 @@ input:checked + .slider:before {
 /* Score, error count, and spelling errors containers */
 #score-container,
 #error-count-container,
-#spelling-errors-container {
+#spelling-errors-container,
+#noCorrectAnswer{
     display: flex; /* Use Flexbox layout */
     align-items: center; /* Vertically center content */
     margin-right: 20px; /* Add right margin */

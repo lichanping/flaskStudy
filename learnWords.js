@@ -74,6 +74,8 @@ class LearnWords {
         shuffledOptions.push("没有正确答案");
 
         if (noCorrectAnswer) {
+            const noCount = parseInt(document.getElementById('noCorrectAnswerCount').innerText);
+            document.getElementById('noCorrectAnswerCount').innerText = noCount + 1;
             return {
                 currentEnglishWord,
                 options: shuffledOptions,
