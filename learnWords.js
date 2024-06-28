@@ -65,7 +65,7 @@ class LearnWords {
             wrongOptions.push(randomWrongWord);
         }
         // 30% chance to exclude the correct option
-        const noCorrectAnswer = Math.random() < 0.3;
+        const noCorrectAnswer = Math.random() < 0.1;
         const options = noCorrectAnswer ? [...wrongOptions, this.getRandomElement(otherWords)["释意"]] : [correctOption, ...wrongOptions];
 
         // Shuffle the options
