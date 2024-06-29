@@ -1,3 +1,27 @@
+sufficient	"adj. 足够的 ，充足的；充分的"
+disguise	(v.) 伪装
+stockings	(n.) 长袜
+retire	(v.) 退休
+botany	"n. 植物学；（总称）一个地区的植物"
+utilize	(v.) 利用；使用；运用
+prize	(n.) 奖品 ，奖赏
+award	"n. 奖品；奖学金；判决；奖赏；奖 ，奖章；vt. 奖励 …"
+disposal	(n.) 销毁 ，丢掉 ，处理
+position	"n. 职位；位置；地位；姿势；v. 安置"
+represent	(v.) 代表；描述 ，展现
+dismay	(n.) 失望 ，沮丧；   v. 使惊恐
+frustration	"n. 挫败；沮丧 ，不满；【财】  受挫； 【法】  合同 …"
+violet	"n. 紫罗兰；紫罗兰色；   adj.紫色的 ，紫罗兰色的"
+predict	(v.) 预言 ，预告 ，预测
+forecast	"n. 预报；预言；预测；   v.预报；预测"
+seek	(v.) 寻求；寻找
+sunset	(n.) 日落； adj. 霞红色的
+private	(adj.) 私人的
+spirit	(n.) 精神，心灵；情绪
+profit	(n.) 利润，盈利
+wise	(adj.) 有智慧的，博学的
+distinct	(adj.) 独特的
+desire	(n.) 渴望；欲望；愿望；要求；情欲； vi. 有希望，…
 aural	(adj.) 听觉的；耳的；先兆的
 manner	(n.) 方式，方法；态度，礼仪
 drug	(n.) 药物；毒品
