@@ -360,7 +360,7 @@ abandon	(v.) 抛弃；放弃
 edition	(n.) 版，版本，版次
 version	(n.) 版本；说法；（某人对于某件事不同于其他人的）…
 much	(adj.) 许多的，大量的；adv. 非常，很
-dust	(n.) 尘土，沙土
+dust	(n.) 尘土，沙土;"n. 尘土 ，沙土；灰尘 ，尘埃；粉尘 ，粉末；   v. 撒 …"
 earth	(n.) 地球；陆地；地面；土，泥
 powder	(n.) 粉末；火药；细雪； v.抹粉；洒粉于，使变成粉
 drawback	(n.) 缺点
@@ -526,3 +526,20 @@ mixture	"n. 混合；混合物 ，混合剂（或液）"
 emotion	(n.) 情绪
 confident	(adj.) 自信的
 emperor	(n.) 皇帝
+volcanic	(adj.) 火山的
+volcano	(n.) 火山
+family	"n. 家庭成员；家庭；adj.家庭的 ，家族的"
+contain	(v.) 包含 ，容纳
+destination	(n.) 目的地
+endeavor	"n. 尝试 ，努力 ，尽力；v.努力 ，尽力"
+palm	(n.) 棕榈树
+ecological	(adj.) 生态的 ，生态学的
+explode	(vi.) 爆炸
+curiosity	(n.) 好奇心
+incuriosity	(n.) 无好奇心；无关心
+dusk	(n.) 黄昏 ，傍晚
+barber	(n.) 理发师；理发店
+place	"n. 地方 ，地点；v.（尤指小心地）放置"
+dare	(v.) 敢于
+energetic	"adj. 精力充沛的 ，充满活力的"
+dinosaur	(n.) 恐龙
