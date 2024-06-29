@@ -198,3 +198,45 @@ portable	(adj.) 轻便的，手提的，便携式的；【财】便于携带的�
 directory	(n.) 电话号码簿；目录
 drought	(n.) 干旱，旱灾
 dictation	(n.) 口述；听写
+partner	(n.) 伙伴，搭档；配偶，伴侣； v. 成为……的合伙人
+behavior	(n.) 行为；举止；态度；（机器等）运转情况
+medicine	(n.) 药；  医学
+disabled	(adj.) 有残疾的
+some	"det. 一些；某一；   pron. 一些"
+none	(pron.) 没有（一人或一物）
+quiet	"adj. 安静的；   n. 安静 ，平静；   v. 使安静 ，平静"
+silent	"adj. 沉默的 ，安静的；寂静的；   n. 无声电影"
+soundless	"adj. 无声的；完全静寂的；静悄悄的"
+calm	"adj. 冷静的 ，平静的；风平浪静的；无风的；   n. 平 …"
+muscle	(n.) 肌肉
+village	(n.) 村庄 ，乡村
+disappearance	(n.) 消失 ，失踪
+missing	(adj.) 失踪的；缺少的；缺席的；丢失的；被去除的，  …
+flight	(n.) 航班；航程；空中航行
+disappointed	(adj.) 失望的 ，沮丧的
+per	(prep.) 每 ，每一
+help	(v.) 帮助；   n. 帮助
+harm	(v.) 伤害；   n. 伤害 ，损害
+remind	(v.) 提醒；   vt. 使想起
+aural	(adj.) 听觉的；耳的；先兆的
+manner	(n.) 方式，方法；态度，礼仪
+drug	(n.) 药物；毒品
+peace	(n.) 和平；和睦；平静
+marital	(adj.) 婚姻的
+disagreement	(n.) 分歧 ，不和
+notice	"v. 注意；n. 告示 ，通知；注意"
+remove	(vt.) 移开；去除
+get rid of	(v.) 摆脱；  除去
+countryside	(n.) 乡村 ，郊野
+extinction	(n.) 灭绝；熄灭；消失
+pack	"v. 收拾 ，打包；塞满 ，挤满；   n. 群；行李"
+dye	(v.) 染 ，染色
+supposing that	(conj.) 假如
+moth	(n.) 蛾
+discount	"n. 折扣（读作/ˈdɪsˌkaunt/）；（价格 、债 …"
+assist	"v. 帮助；协助；促进；   n.帮助；助攻"
+discrimination	(n.) 歧视
+prejudice	"n. 偏见 ，成见；损害 ，侵害； 【法】  对合法权益损 …"
+recipe	(n.) 食谱
+pity	(n.) 遗憾 ，可惜
+regret	"n. 懊悔；遗憾；歉意；   v.对 … …感到后悔；抱歉；  …"
