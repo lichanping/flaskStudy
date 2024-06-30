@@ -1,3 +1,25 @@
+drum	(n.) 鼓；圆桶； v. 击鼓
+technique	(n.) 技巧，技能；技术，方法
+disturbing	(adj.) 令人不安的
+anxious	(adj.) 焦虑的，不安的；渴望的；急切的
+source	(n.) 来源
+origin	(n.) 起源；由来，来源；出身
+period	(n.) （一段）时间；时期
+potential	(adj.) 潜在的，可能的； n.潜力，潜能；可能性
+rescue	(n.) 救援； v. 挽救
+delete	(v.) 删除
+resident	(n.) 居民
+trait	(n.) 特征
+divorce	(n.) 离婚，离异； v. 离婚
+honor	(n.) 荣誉； vt. 尊敬，对……表示敬意
+planet	(n.) 行星
+dizzy	(adj.) 头晕目眩的，（非正式）傻乎乎的
+dot	(n.) 点，圆点
+departure	(n.) 离开
+vital	(adj.) 必不可少的，至关重要的
+essential	(adj.) 必不可少的，极其重要的；本质的；重要的；基…
+crucial	(adj.) 关键的，至关重要的；决定性的
+sort	(n.) 种类； v. 把……分类，整理，挑选
 interactive	（adj. 交互的
 definitely	（adv. 肯定地，毫无疑问地；确实；明确地，确定地
 qualified	（adj. 合格的，胜任的
