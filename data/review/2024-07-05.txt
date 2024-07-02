@@ -1,3 +1,22 @@
+download	(v.) 下载
+upload	(v.) 上传；上载； n. 上传
+gallery	(n.) 美术馆，画廊
+urge	(v.) 敦促，督促
+economical	(adj.) 节约的；经济的
+saving	(n.) 节省，节约；储蓄；（复数）储蓄金，存款；节省…
+edition	(n.) 版，版本，版次
+version	(n.) 版本；说法；（某人对于某件事不同于其他人的）…
+dust	(n.) 尘土，沙土
+powder	(n.) 粉末；火药；细雪； v.抹粉；洒粉于，使变成粉
+drawback	(n.) 缺点
+ease	(n.) 轻松； v. 缓解
+tablet	(n.) 平板电脑
+dread	"v. 惧怕，  害怕；n. 畏惧，恐惧；adj. 恐怖的 ，使 …"
+droop	(v.) 低垂 ，凋萎 ，萎靡
+fade	"vi. 褪色 ，褪去；失去；逐渐消失； vt. 使褪色； v. …"
+adequately	(adv.) 充分地
+drown	(v.) 淹没
+access	"n.（使用或见到的）机会，权利；接触；通道；访问 …"
 drum	(n.) 鼓；圆桶； v. 击鼓
 technique	(n.) 技巧，技能；技术，方法
 disturbing	(adj.) 令人不安的
