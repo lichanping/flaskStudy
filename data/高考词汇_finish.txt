@@ -340,3 +340,53 @@ vital	(adj.) 必不可少的，至关重要的
 essential	(adj.) 必不可少的，极其重要的；本质的；重要的；基…
 crucial	(adj.) 关键的，至关重要的；决定性的
 sort	(n.) 种类； v. 把……分类，整理，挑选
+day	(n.) （一）天；白昼，白天；时期，时代
+recycle	(v.) 回收利用
+south	(n.) 南方； adv. 向南方，在南方
+downstairs	(n.) 楼下
+eat	(v.) 吃，吃饭
+good	(adj.) 好的；熟练的；有利的； n. (goods)商品
+wasteful	(adj.) 浪费的，挥霍的
+hang	(v.) 悬挂；逗留
+unknown	(adj.) 不知道的，未知的，不知名的
+known	(v.) 知道，认识（know的过去分词）； adj. 有名的
+abandon	(v.) 抛弃；放弃
+much	(adj.) 许多的，大量的；adv. 非常，很
+earth	(n.) 地球；陆地；地面；土，泥
+weakness	(n.) （性格、系统的）弱点；（对人或事物的迷恋）无…
+way	(n.) 方法；道路；方式；方面
+easiness	(n.) 容易；轻松；安适
+know	(v.) 知道；认识
+stick	"v. 坚持；卡住；   n. 棍，棒 ，手杖"
+see	"v. 看；  了解 ，领会；拜访；认为 ，看待"
+mouth	(n.) 嘴；口
+taste	"n. 品味；   v. 品尝，  尝起来；体验 ，体会"
+strength	(n.) 长处；体力 ，力量
+feel	(v.) （身体）感觉到；认为
+runner	(n.) 跑步者
+technological	(adj.) 技术的 ，工艺的
+little	"adj. 幼小的；小的；少的；det. 几乎没有； （与不可 …"
+tiny	"adj. 很少的；微小的；极小的；矮小的；   n. 小孩子 …"
+attack	"v. 攻击 ，袭击；全力应对，奋力处理；   n. 疾病发作 …"
+tip	(n.) 诀窍 ，建议；小费；尖端
+entrance	"n. 入口 ，通道；大门口；  出场 ，登场；进入； （大学 …"
+change	"n. 改变 ，变化；   v. 变化，改变"
+download	(v.) 下载
+upload	(v.) 上传；上载； n. 上传
+gallery	(n.) 美术馆，画廊
+urge	(v.) 敦促，督促
+economical	(adj.) 节约的；经济的
+saving	(n.) 节省，节约；储蓄；（复数）储蓄金，存款；节省…
+edition	(n.) 版，版本，版次
+version	(n.) 版本；说法；（某人对于某件事不同于其他人的）…
+dust	(n.) 尘土，沙土
+powder	(n.) 粉末；火药；细雪； v.抹粉；洒粉于，使变成粉
+drawback	(n.) 缺点
+ease	(n.) 轻松； v. 缓解
+tablet	(n.) 平板电脑
+dread	"v. 惧怕，  害怕；n. 畏惧，恐惧；adj. 恐怖的 ，使 …"
+droop	(v.) 低垂 ，凋萎 ，萎靡
+fade	"vi. 褪色 ，褪去；失去；逐渐消失； vt. 使褪色； v. …"
+adequately	(adv.) 充分地
+drown	(v.) 淹没
+access	"n.（使用或见到的）机会，权利；接触；通道；访问 …"
