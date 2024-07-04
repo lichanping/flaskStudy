@@ -390,3 +390,53 @@ fade	"vi. 褪色 ，褪去；失去；逐渐消失； vt. 使褪色； v. …"
 adequately	(adv.) 充分地
 drown	(v.) 淹没
 access	"n.（使用或见到的）机会，权利；接触；通道；访问 …"
+belong	(v.) 属于，  附属
+after	"prep. 在 … … 以后；   conj.在 … …之后"
+behind	"prep. 在 … …后面；迟于 … … ，落后于；基于；  …"
+sing	(v.) 唱
+art	(n.) 艺术；艺术品
+spring	"n. 春天；泉 ，泉源；  弹簧；v. 反弹 ，跳 ，跃"
+embarrassed	"adj. 尴尬的 ，窘迫的 ，觉得难堪的"
+group	"n. 群 ，组；   v. 将 … …分类；把 … …分组"
+life	(n.) 生命；一生；生活 ，生存
+shoe	(n.) 鞋
+should	(aux.) 应该
+skin	(n.) 皮肤；外皮
+belief	(n.) 信念；信仰；信心
+website	(n.) 网站
+talk	(v.) 谈论；讲话；   n. 谈话
+within	(prep.) 在 … …之内
+traffic	(n.) 交通 ，车流
+wonderful	"adj. 极好的 ，精彩的；惊人的 ，奇妙的"
+excellent	(adj.) 优秀的；卓越的
+tasty	(adj.) 好吃的 ，美味的
+trash can	(n.) 垃圾桶
+garbage can	(n.) 垃圾桶 ，垃圾箱
+rubbish bin	(n.) 垃圾箱
+need	(auxv.) 需要；   n. 需求
+moonlight	(n.) 月光；   v. 兼职 ，私活
+come	"v. 来 ，来到；  (想法 、主意或记忆等) 突然出现；源 …"
+reach	"v. 伸手；伸手够到；抵达；达到 ，发展到；与 … …取 …"
+achieve	(v.) 完成 ，达到
+sky	(n.) 天空
+in need of	(phr.) 需要
+resource	(n.) 资源
+efficiency	(n.) 效率
+inefficiency	(n.) 无效率；无能
+truck	(n.) 卡车
+trunk	"n. 树干；象鼻； （人）躯干；大衣箱；主体； （车 …"
+presentation	(n.) 报告；演讲 ，演示；  陈述
+ambiguous	(adj.) 含糊不清的
+obvious	"adj. 明显的 ，显而易见的；了无新意的；平淡无奇的 …"
+drunk	(adj.) 喝醉了的
+valuable	(adj.) 贵重的 ，有价值的
+enquire	(v.) 询问 ，打听
+endurance	(n.) 忍耐力 ，耐性 ，耐用度
+fog	(n.) 雾 ，烟雾 ，尘雾
+appointment	(n.) 预约
+entertaining	(adj.) 有趣的 ，令人愉快的
+break off	"phr. 折断 ，掰掉；突然停止 ，暂停，  中断"
+dustbin	(n.) 垃圾箱
+freeway	(n.) （美）  高速公路
+highway	"n. 公路；城际干道；公用通道；大路； （水陆空）航 …"
+budget	(n.) 预算；v. 预算 ，安排
