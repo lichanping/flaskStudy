@@ -283,7 +283,7 @@ high	(adj.) 高的；（标准、质量等）高的，好的； adv. 高
 prove	(v.) 证明，证实
 wise	(adj.) 有智慧的，博学的
 bright	(adj.) 明亮的；聪明的；欢快的； adv. 光亮地；明亮…
-clever	(adj.) 聪明的；机智的，熟练的
+clever	(adj.) 聪明的；机智的，熟练的;(adj.) 聪明的
 intelligent	(adj.) 有智慧的，聪明的；智能的
 smart	(adj.) 时髦的，衣着讲究的；聪明的；敏捷的；巧妙的…
 foolish	(adj.) 愚蠢的；傻乎乎的
@@ -360,7 +360,7 @@ abandon	(v.) 抛弃；放弃
 edition	(n.) 版，版本，版次
 version	(n.) 版本；说法；（某人对于某件事不同于其他人的）…
 much	(adj.) 许多的，大量的；adv. 非常，很
-dust	(n.) 尘土，沙土;"n. 尘土 ，沙土；灰尘 ，尘埃；粉尘 ，粉末；   v. 撒 …"
+dust	(n.) 尘土，沙土;"n. 尘土 ，沙土；灰尘 ，尘埃；粉尘 ，粉末； v. 撒 …"
 earth	(n.) 地球；陆地；地面；土，泥
 powder	(n.) 粉末；火药；细雪； v.抹粉；洒粉于，使变成粉
 drawback	(n.) 缺点
@@ -485,7 +485,7 @@ engage	(v.) 参加；使订婚
 biology	(n.) 生物学
 celebrate	(v.) 庆祝
 fasten	(v.) 扎牢；扣住
-birth	(n.) 分娩，  出生；创始
+birth	(n.) 分娩，出生；创始
 fertilizer	(n.) 肥料 ，化肥
 think	(v.) 认为；思考 ，想 ，思索
 decoration	(n.) 装饰
@@ -500,12 +500,12 @@ beauty	(n.) 美（ 丽）
 hamburger	(n.) 汉堡包
 elder	(adj.) 年长的；n. 长辈
 well	"adv. 很好地；顺利地；彻底地 ，完全地；adj. 良 …"
-address	"n. 地址；v. 解决；  向 … …讲话"
+address	"n. 地址；v. 解决；向 … …讲话"
 charge	(v.) 收费；n. 负责；费用
-mountain	(n.) 山，  山脉
+mountain	(n.) 山，山脉
 elect	(v.) 选举 ，推选；选择
-dangerous	(adj.) 有危险的，  引起危险的
-safe	"n. 保险箱；  冷藏箱；adj.安全的；可靠的；有把握 …"
+dangerous	(adj.) 有危险的，引起危险的
+safe	"n. 保险箱；冷藏箱；adj.安全的；可靠的；有把握 …"
 electrical	(adj.) 电的
 draft	(n.) 草稿
 look	(vi.) 看；v. 寻找；看起来
@@ -519,7 +519,7 @@ into	"prep. 进入 ，到 … …里面；变成"
 club	(n.) 社团 ，俱乐部
 harvest	(v.) 收割；n. 收获
 embassy	(n.) 大使馆；大使馆全体人员
-leave	"v. 离开；  留下；使处于某种状态；n. 休假"
+leave	"v. 离开；留下；使处于某种状态；n. 休假"
 complete	"v. 完成；adj. 完整的；彻底的"
 decade	(n.) 十年 ，一个年代
 mixture	"n. 混合；混合物 ，混合剂（或液）"
@@ -543,3 +543,53 @@ place	"n. 地方 ，地点；v.（尤指小心地）放置"
 dare	(v.) 敢于
 energetic	"adj. 精力充沛的 ，充满活力的"
 dinosaur	(n.) 恐龙
+hundred	(num.) 百 ，百个；许多
+chicken	(n.) 鸡肉；鸡
+engine	(n.) 引擎
+while	"conj. 当 … … 的时候；然而；虽然； n. 一段时间"
+condition	"n. 条件；状况 ，状态； v.使适应 ，使处于良好状态"
+rise	"vi. 升起 ，上升 ，上涨；增长； （权力或地位）升高 …"
+deeply	(adv.) 深刻地；深深地
+enjoyment	(n.) 愉快；享受 ，享有
+business	(n.) 商业 ，生意；企业；职责
+defeat	"v. 打败 ，击败； n. 击败，战胜"
+pancake	(n.) 烙饼 ，薄饼
+frozen	(adj.) 冷冻的
+enlarge	(v.) 放大 ，扩展
+mean	(v.) 表示 ，意思是 ，意味着
+deserve	(vt.) 值得 ，应得；应受
+hair	(n.) 头发 ，毛发
+consequence	(n.) 结果；后果
+enormous	(adj.) 巨大的
+well-known	(adj.) 有名的 ，著名的
+convenience	(n.) 方便；便利设施
+microphone	(n.) 话筒 ，麦克风
+detail	"n. 细节；详情； v. 详细说明"
+fetch	(vt.) 取来
+even	(adv.) 甚至；即使 ，竟然
+furniture	(n.) 家具
+machine	(n.) 机器 ，机械装置
+dine	"v. 用正餐（或晚餐）；吃饭 ，用餐；招待 … … 吃饭"
+enquiry	(n.) 询问
+probably	(adv.) 或许 ，大概
+disapprove	(vi.) 不同意
+lake	(n.) 湖泊
+tooth	(n.) 牙齿
+enrich	(vt.) 使丰富
+meet	(v.) 相遇；满足；迎接；结识
+disease	(n.) 疾病 ，病
+plate	(n.) 盘子 ，碟子
+exhausted	(adj.) 精疲力竭的；耗尽的
+faithfully	(adv.) 忠实地
+over	"prep. 多于；超过；在 …期间 ；遍及；在 … …上方；…"
+double	"v. 使 … …翻倍； adj. 双人的；两倍的 ，双的"
+rainbow	(n.) 彩虹
+famine	(n.) 饥荒；严重的缺乏
+author	(n.) 作者 ，作家
+drill	(n.) 演习
+pig	(n.) 猪
+gradually	(adv.) 渐渐地
+entry	"n. 进入；参赛作品；竞赛答题；入口处"
+best	"adj. 最好的； adv. 最好地； n. （人或事物所能 …"
+convenient	(adj.) 方便的；便利的
+celebration	(n.) 庆祝
