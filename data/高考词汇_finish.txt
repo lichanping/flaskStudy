@@ -440,3 +440,53 @@ dustbin	(n.) 垃圾箱
 freeway	(n.) （美）  高速公路
 highway	"n. 公路；城际干道；公用通道；大路； （水陆空）航 …"
 budget	(n.) 预算；v. 预算 ，安排
+addition	(n.) 附加；加法；新增人员
+character	(n.) 角色；性格；字
+big	(adj.) 大的，巨大的；重要的
+rice	(n.) 米；稻
+earthquake	(n.) 地震
+live	"v. 生活；居住（读作/lɪv/）；活着 ，生存；…"
+bicycle	(n.) 自行车
+meat	(n.) 肉
+become	"开始变得；v. 成为 ；变成"
+argue	(v.) 争论；主张 ，认为
+debate	"n. 辩论；讨论 ，争论；v.辩论；争论 ，议论"
+stand for	(phr.) 代表 ，象征
+argument	(n.) 论据 ，论点；争吵 ，争论
+airport	(n.) 机场
+program	"n. 项目 ，计划；节目；课程；程序；v. 编写程序"
+start	"v. 开始（做某事）；开始，发生；开办 ，开动；发动 …"
+theater	"n. 戏院，电影院 ，剧场；戏剧 ，戏剧事业"
+appreciate	(v.) 欣赏；感谢 ，感激；领会
+world	(n.) 世界
+also	(adv.) 也，同样；还 ，此外
+truly	"adv. 真正地，的确地；完全地 ，非常"
+educated	(adj.) 受过教育的
+keep	"v. 保持；继续；记下 ，记录 ，记载"
+celebrate	(v.) 庆祝
+birth	(n.) 分娩，  出生；创始
+think	(v.) 认为；思考 ，想 ，思索
+boat	(n.) 小船 ，艇
+credit	(n.) 信用；学分
+administration	(n.) 管理 ，行政
+anxiety	(n.) 焦虑
+drawer	(n.) 抽屉
+garlic	(n.) 大蒜
+eastward	(adv.) 向东；adj. 向东的
+easy-going	(adj.) 随和的
+assess	(vt.) 评估
+fingernail	(n.) 手指甲
+drag	(v.) 拖 ，拉 ，拽 ，扯
+paragraph	(n.) （文章的）段 ，节；段落
+economics	(n.) 经济学；经济情况
+baseball	(n.) 棒球（运动）
+drunken	(adj.) 喝醉的；酗酒的
+dozen	(num.) 许多；一打 ，十二个
+category	(n.) 类别
+editor	(n.) 编辑
+cash	(n.) 现金
+engage	(v.) 参加；使订婚
+biology	(n.) 生物学
+fasten	(v.) 扎牢；扣住
+fertilizer	(n.) 肥料 ，化肥
+decoration	(n.) 装饰
