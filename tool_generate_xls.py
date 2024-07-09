@@ -3,7 +3,7 @@ import os
 import random
 import re
 import time
-from datetime import datetime
+from datetime import datetime, timedelta
 from os.path import dirname, abspath
 
 import edge_tts
@@ -190,6 +190,43 @@ class GenerateTool:
         tool = TxtToXLSX()
         # generate missing sounds
         tool.convert('高考词汇（持续更新中）.txt')  # commented the create_excel due to uselessness.
+
+    @Test()
+    def import_forgotten(self):
+        data_folder = get_sub_folder_path('data')
+        import_file_path = os.path.join(data_folder, 'Import.txt')
+        # 读取 Import.txt 中的新词
+        new_words = []
+        with open(import_file_path, 'r', encoding='utf-8') as import_file:
+            for line in import_file:
+                new_words.append(line.strip())
+
+        review_folder_path = os.path.join(data_folder, 'review')
+        review_dates = []
+
+        for days in [0, 1, 2, 3, 5, 7, 9, 12, 14, 17, 21]:
+            review_date = datetime.now() + timedelta(days=days)
+            review_date_str = review_date.strftime('%Y-%m-%d')
+            review_dates.append(review_date_str)
+
+            review_file_path = os.path.join(review_folder_path, f"{review_date_str}.txt")
+
+            if os.path.exists(review_file_path):
+                # 读取已有文件的内容
+                existing_words = []
+                with open(review_file_path, 'r', encoding='utf-8') as existing_file:
+                    existing_words = [line.strip() for line in existing_file.readlines()]
+                # 将新词添加到已有文件内容的开头
+                combined_words = new_words + existing_words
+
+                # 重新写入文件
+                with open(review_file_path, 'w', encoding='utf-8') as updated_file:
+                    for word in combined_words:
+                        updated_file.write(word + '\n')
+            else:
+                with open(review_file_path, 'w', encoding='utf-8') as new_file:
+                    for word in new_words:
+                        new_file.write(word + '\n')
 
     @Test()
     def generate_media_word_list(self):
