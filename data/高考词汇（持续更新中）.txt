@@ -593,3 +593,52 @@ entry	"n. 进入；参赛作品；竞赛答题；入口处"
 best	"adj. 最好的； adv. 最好地； n. （人或事物所能 …"
 convenient	(adj.) 方便的；便利的
 celebration	(n.) 庆祝
+elementary	(adj.) 小学的；基本的
+finance	(n.) 金融
+brand	(n.) 品牌
+energize	(v.) 使......精力充沛
+boil	(v.) 用开水煮 ，在沸水中煮
+bill	"n. 账单；纸币 ，钞票；议案 ，法案"
+equality	(n.) 同等 ，平等； 【数】  等式
+now	"adv. 现在；   conj. 既然（与that连用）"
+stomach	(n.) 胃，  胃口
+pillow	(n.) 枕头
+eruption	(n.) 喷发
+exceed	(v.) 超过
+ethics	(n.) 行为准则；道德规范
+home	"n. 家 ，家庭；家乡 ，祖国；房子；   adj. 家的"
+mop	(v.) 用拖把拖洗 、擦抹
+exchange	(n.) 交换；交流；   v. 交换
+try	"v. 试图 ，努力；   n. 努力，尝试"
+financial	"adj. 金融的；经济的；财务的"
+keeper	(n.) 饲养员；管理人；看守人
+symphony	(n.) 交响乐
+dive	(vi.) 潜水
+because	(conj.) 因为
+pound	(n.) 英镑；磅
+penguin	(n.) 企鹅
+exotic	"adj. 奇异的 ，珍奇的 ，来自异国的"
+few	"adj. 少数的；   pron. 不多，很少"
+satisfy	(v.) 满足； （使）满意
+force	"v. 强迫；   n. 力量；军队，部队"
+hotdog	(n.) 热狗（ 面包）
+expectation	(n.) 期望；预期
+large	"adj. 大量的；大的；   n. 大号 ，大尺寸"
+former	(adj.) 以前的
+coffee	(n.) 咖啡
+ball	(n.) 球
+explicit	(adj.) 明确的
+technology	"n. 科技；技术 ，工艺 ，工程技术"
+breakfast	(n.) 早餐
+ending	(n.) 结尾 ，结局
+wheat	(n.) 小麦
+tour	"n. 旅游；   v. 旅游；做巡回演出"
+deny	(vt.) 否认
+eyebrow	(n.) 眉毛
+better	(adv.) 更好地
+bridegroom	(n.) 新郎
+duration	(n.) 持续时间
+greatly	(adv.) 大大地
+eyewitness	(n.) 目击者
+money	(n.) 金钱 ，财富
+herd	(n.) 兽群 ，牧群
