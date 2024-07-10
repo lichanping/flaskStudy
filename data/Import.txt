@@ -1,27 +1,50 @@
-harvest (v.)收割;n. 收获
 embassy(n.)大使馆，大使馆全体人员
 decade(n.)十年，一个年代
-volcanic(adj.)火山的
-destination(n.)目的地
-endeavor"n.尝试 ，努力 ，尽力;v.努力 ，尽力”
-palm(n.)棕榈树
-ecological(adj.)生态的 ，生态学的
-explode(vi.)爆炸
+destination (n.)目的地
+ecological(adj.)生态的，生态学的
 barber(n.)理发师;理发店
-efficiency(n.)效率
-obvious"adj.明显的，显而易见的;了无新意的;平
-淡无奇的 …"
-valuable(adi.)贵重的，有价值的
-enquire(v.)询问，打听
+obvious "adj.明显的，显而易见的;了无新意的;平
 entertaining(adj.)有趣的，令人愉快的
-dustbin(n.)垃圾箱
-budget(n.)预算;v.预算 ，安排
 upload (v.)上传;上载;n.上传
-economical(adj.)节约的;经济的
-saving(n.)节省，节约;储蓄;(复数)储蓄金，存款;节省...
-edition(n.)版，版本，版次
-dust (n.)尘士，沙土
-powder(n.)粉末;火药;细雪;v.抹粉;洒粉于，使变成粉
+powder (n.)粉末;火药;细雪;v.抹粉;洒粉于，使变成粉
 drawback(n.)缺点
-dread"v.惧怕，害怕;n.畏惧，恐惧;adi.恐怖的使…"
-access"n.(使用或见到的)机会，权利;接触，通道;访问…"
+access"n.(使用或见到的)机会，权利;接触，通道;访问"
+elect (v.)选举 ，推选，选择
+draft(n.)草稿
+embassy(n.)大使馆;大使馆全体人员
+volcanic (adj.)火山的
+destination(n.)目的地
+endeavor"n.尝试 ，努力 ，尽力;v.努力 ，尽力’
+palm(n.)棕榈树
+ecological(adj.)生态的，生态学的
+dusk(n.)黄昏，傍晚
+garlic(n.)大蒜
+easy-going(adj.)随和的
+dozen(num.)许多;一打，十二个
+category(n.)类别
+engage(v.)参加，使订婚fasten(v.)扎牢，扣住
+fertilizer(n.)肥料，化肥
+loyal (adj.忠心的 ，忠诚的;的;n.…
+collapse (n.崩溃;v.崩溃
+crash (n.撞车;碰撞;坠毁;崩溃;轰隆声;v.碰撞;…"
+scan(v.细看;浏览;扫描;详细调查;押韵;【计】 扫描 …"
+due (adj.由于，因为;预期的;到期的'
+owed (adj.亏欠的;负债的，感恩的"
+detector (n.探测器
+desperate (adj.拼命的
+gather (v.聚集;收集;采集;使..聚集
+considerable (adi.相当大的
+ample (adj.富足的，丰满的，宽敞的
+compassionate(adj.有同情心的
+gesture 手势，姿势n.
+infer 推断vt.
+abundance 大量;丰富，充裕n
+fragrant 芬芳的，香的adj.
+advancements 进步，进展，升任n
+athlete 运动员，田径运动员n.
+damp 潮湿的，有湿气的，adi.抑制v
+moisture 水分，潮湿，湿度，湿气n
+intend 打算 v.
+bare 空的adj.
+glow 发光，发出微光;vi.光亮，光辉 n.
+conflict 冲突，争执，矛盾n.
