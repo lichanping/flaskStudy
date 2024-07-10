@@ -540,3 +540,103 @@ curiosity	(n.) 好奇心
 incuriosity	(n.) 无好奇心；无关心
 dusk	(n.) 黄昏 ，傍晚
 barber	(n.) 理发师；理发店
+dinosaur	(n.) 恐龙
+hundred	(num.) 百 ，百个；许多
+chicken	(n.) 鸡肉；鸡
+while	"conj. 当 … … 的时候；然而；虽然； n. 一段时间"
+deeply	(adv.) 深刻地；深深地
+enjoyment	(n.) 愉快；享受 ，享有
+business	(n.) 商业 ，生意；企业；职责
+defeat	"v. 打败 ，击败； n. 击败，战胜"
+pancake	(n.) 烙饼 ，薄饼
+frozen	(adj.) 冷冻的
+mean	(v.) 表示 ，意思是 ，意味着
+deserve	(vt.) 值得 ，应得；应受
+hair	(n.) 头发 ，毛发
+detail	"n. 细节；详情； v. 详细说明"
+even	(adv.) 甚至；即使 ，竟然
+furniture	(n.) 家具
+machine	(n.) 机器 ，机械装置
+probably	(adv.) 或许 ，大概
+lake	(n.) 湖泊
+enrich	(vt.) 使丰富
+meet	(v.) 相遇；满足；迎接；结识
+disease	(n.) 疾病 ，病
+plate	(n.) 盘子 ，碟子
+double	"v. 使 … …翻倍； adj. 双人的；两倍的 ，双的"
+rainbow	(n.) 彩虹
+pig	(n.) 猪
+dare	(v.) 敢于
+energetic	"adj. 精力充沛的 ，充满活力的"
+engine	(n.) 引擎
+condition	"n. 条件；状况 ，状态； v.使适应 ，使处于良好状态"
+rise	"vi. 升起 ，上升 ，上涨；增长； （权力或地位）升高 …"
+enlarge	(v.) 放大 ，扩展
+consequence	(n.) 结果；后果
+enormous	(adj.) 巨大的
+well-known	(adj.) 有名的 ，著名的
+convenience	(n.) 方便；便利设施
+microphone	(n.) 话筒 ，麦克风
+fetch	(vt.) 取来
+dine	"v. 用正餐（或晚餐）；吃饭 ，用餐；招待 … … 吃饭"
+enquiry	(n.) 询问
+disapprove	(vi.) 不同意
+tooth	(n.) 牙齿
+exhausted	(adj.) 精疲力竭的；耗尽的
+faithfully	(adv.) 忠实地
+over	"prep. 多于；超过；在 …期间 ；遍及；在 … …上方；…"
+famine	(n.) 饥荒；严重的缺乏
+author	(n.) 作者 ，作家
+drill	(n.) 演习
+gradually	(adv.) 渐渐地
+entry	"n. 进入；参赛作品；竞赛答题；入口处"
+best	"adj. 最好的； adv. 最好地； n. （人或事物所能 …"
+convenient	(adj.) 方便的；便利的
+celebration	(n.) 庆祝
+now	"adv. 现在；   conj. 既然（与that连用）"
+stomach	(n.) 胃，  胃口
+home	"n. 家 ，家庭；家乡 ，祖国；房子；   adj. 家的"
+exchange	(n.) 交换；交流；   v. 交换
+try	"v. 试图 ，努力；   n. 努力，尝试"
+dive	(vi.) 潜水
+because	(conj.) 因为
+pound	(n.) 英镑；磅
+penguin	(n.) 企鹅
+few	"adj. 少数的；   pron. 不多，很少"
+satisfy	(v.) 满足； （使）满意
+hotdog	(n.) 热狗（ 面包）
+large	"adj. 大量的；大的；   n. 大号 ，大尺寸"
+coffee	(n.) 咖啡
+ball	(n.) 球
+technology	"n. 科技；技术 ，工艺 ，工程技术"
+breakfast	(n.) 早餐
+ending	(n.) 结尾 ，结局
+tour	"n. 旅游；   v. 旅游；做巡回演出"
+deny	(vt.) 否认
+better	(adv.) 更好地
+elementary	(adj.) 小学的；基本的
+finance	(n.) 金融
+brand	(n.) 品牌
+energize	(v.) 使......精力充沛
+boil	(v.) 用开水煮 ，在沸水中煮
+bill	"n. 账单；纸币 ，钞票；议案 ，法案"
+equality	(n.) 同等 ，平等； 【数】  等式
+pillow	(n.) 枕头
+eruption	(n.) 喷发
+exceed	(v.) 超过
+ethics	(n.) 行为准则；道德规范
+mop	(v.) 用拖把拖洗 、擦抹
+financial	"adj. 金融的；经济的；财务的"
+keeper	(n.) 饲养员；管理人；看守人
+symphony	(n.) 交响乐
+exotic	"adj. 奇异的 ，珍奇的 ，来自异国的"
+force	"v. 强迫；   n. 力量；军队，部队"
+expectation	(n.) 期望；预期
+former	(adj.) 以前的
+explicit	(adj.) 明确的
+wheat	(n.) 小麦
+eyebrow	(n.) 眉毛
+bridegroom	(n.) 新郎
+duration	(n.) 持续时间
+greatly	(adv.) 大大地
+eyewitness	(n.) 目击者
