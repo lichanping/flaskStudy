@@ -94,7 +94,7 @@ excitement	(n. 兴奋
 intolerant	(adj. 不能容忍的；偏执的
 dip	(vt. 浸 ，蘸； n. 倾斜 ，下降
 dignity	（n. 尊严；威严；端庄
-applaud	（v. 鼓掌；喝彩；向 …鼓掌表示赞赏；给 … …捧场；称赞"
+applaud	（v. 鼓掌；喝彩；向 …鼓掌表示赞赏；给 … …捧场；称赞";(v.) 鼓掌；  喝彩
 sincerely	（adv. 真诚地
 pleasure	（n. 愉快 ，乐事；荣幸；高兴 ，乐意"
 demanding	（adj. 要求高的
@@ -145,7 +145,7 @@ dialog	（n. 对话
 conversation	（n. 会话，谈话；非正式会谈
 annually	（adv. 每年
 back	（adv. 回原处；向后； n. 背部； adj. 后面的
-opposite	（adj. 相反的；对立的；对面的； adv. 对立地；反面…
+opposite	（adj. 相反的；对立的；对面的； adv. 对立地；反面…;(adj.) 相反的
 find	（v. 找到；发现
 discover	（v. 找到；揭露；探索；发现；查明；探察
 interactive	（adj. 交互的
@@ -210,7 +210,7 @@ none	(pron.) 没有（一人或一物）
 quiet	"adj. 安静的； n. 安静 ，平静； v. 使安静 ，平静"
 silent	"adj. 沉默的 ，安静的；寂静的； n. 无声电影"
 soundless	"adj. 无声的；完全静寂的；静悄悄的"
-peace	(n.) 和平；和睦；平静
+peace	(n.) 和平；和睦；平静;(n.) 平静
 calm	"adj. 冷静的 ，平静的；风平浪静的；无风的； n. 平 …"
 muscle	(n.) 肌肉
 marital	(adj.) 婚姻的
@@ -400,7 +400,7 @@ after	"prep. 在 … … 以后； conj.在 … …之后"
 behind	"prep. 在 … …后面；迟于 … … ，落后于；基于；…"
 presentation	(n.) 报告；演讲 ，演示；陈述
 ambiguous	(adj.) 含糊不清的
-obvious	"adj. 明显的 ，显而易见的；了无新意的；平淡无奇的 …"
+obvious	"adj. 明显的 ，显而易见的；了无新意的；平淡无奇的 …";(adj.) 明显的 ，显而易见的
 drunk	(adj.) 喝醉了的
 sing	(v.) 唱
 art	(n.) 艺术；艺术品
@@ -600,16 +600,16 @@ energize	(v.) 使......精力充沛
 boil	(v.) 用开水煮 ，在沸水中煮
 bill	"n. 账单；纸币 ，钞票；议案 ，法案"
 equality	(n.) 同等 ，平等； 【数】  等式
-now	"adv. 现在；   conj. 既然（与that连用）"
+now	"adv. 现在；conj. 既然（与that连用）"
 stomach	(n.) 胃，  胃口
 pillow	(n.) 枕头
 eruption	(n.) 喷发
 exceed	(v.) 超过
 ethics	(n.) 行为准则；道德规范
-home	"n. 家 ，家庭；家乡 ，祖国；房子；   adj. 家的"
+home	"n. 家 ，家庭；家乡 ，祖国；房子；adj. 家的"
 mop	(v.) 用拖把拖洗 、擦抹
-exchange	(n.) 交换；交流；   v. 交换
-try	"v. 试图 ，努力；   n. 努力，尝试"
+exchange	(n.) 交换；交流；v. 交换
+try	"v. 试图 ，努力；n. 努力，尝试"
 financial	"adj. 金融的；经济的；财务的"
 keeper	(n.) 饲养员；管理人；看守人
 symphony	(n.) 交响乐
@@ -618,12 +618,12 @@ because	(conj.) 因为
 pound	(n.) 英镑；磅
 penguin	(n.) 企鹅
 exotic	"adj. 奇异的 ，珍奇的 ，来自异国的"
-few	"adj. 少数的；   pron. 不多，很少"
+few	"adj. 少数的；pron. 不多，很少"
 satisfy	(v.) 满足； （使）满意
-force	"v. 强迫；   n. 力量；军队，部队"
+force	"v. 强迫；n. 力量；军队，部队"
 hotdog	(n.) 热狗（ 面包）
 expectation	(n.) 期望；预期
-large	"adj. 大量的；大的；   n. 大号 ，大尺寸"
+large	"adj. 大量的；大的；n. 大号 ，大尺寸"
 former	(adj.) 以前的
 coffee	(n.) 咖啡
 ball	(n.) 球
@@ -632,7 +632,7 @@ technology	"n. 科技；技术 ，工艺 ，工程技术"
 breakfast	(n.) 早餐
 ending	(n.) 结尾 ，结局
 wheat	(n.) 小麦
-tour	"n. 旅游；   v. 旅游；做巡回演出"
+tour	"n. 旅游；v. 旅游；做巡回演出"
 deny	(vt.) 否认
 eyebrow	(n.) 眉毛
 better	(adv.) 更好地
@@ -651,11 +651,11 @@ teacher	(n.) 教师 ，老师 ，教员
 hit	"v. 突然想到；命中 ，击中；击球；撞击；到达（某 …"
 outcome	(n.) 结果 ，后果
 enterprise	"n. 企业（或事业）  单位 ，公司"
-nightfall	(n.) 黄昏 ，傍晚，   日暮
+nightfall	(n.) 黄昏 ，傍晚，日暮
 move	"v. 移动； （使）  改变位置；发展 ，推移 ，变化；感动"
-host	"n. 主人 ，东道主；节目主持人；大量；   v. 主持 ，主办"
+host	"n. 主人 ，东道主；节目主持人；大量；v. 主持 ，主办"
 piano	(n.) 钢琴
-fake	"adj. 假的 ，假装的，  冒充的；   n. 假货 ，赝品；   v. …"
+fake	"adj. 假的 ，假装的，  冒充的；n. 假货 ，赝品；v. …"
 yellow	(adj.) 黄色的
 number	(n.) 号码；数量 ，数额；数字
 identify	(v.) 识别出；确定 ，鉴定
@@ -664,7 +664,7 @@ then	"adv. 然后；  当时 ，那时；那么（通常用于句首或句 …"
 urban	"adj. 城市的 ，城镇的 ，都市的"
 install	(v.) 安装 ，安置
 memory	(n.) 记忆；  回忆；记忆力
-fare	"n. 票价；   v.   （事情）进行得（好或坏）"
+fare	"n. 票价；v.（事情）进行得（好或坏）"
 personality	(n.) 性格
 programmer	(n.) 程序员
 farmyard	(n.) 农家庭院
@@ -683,16 +683,69 @@ fault	(n.) 过失 ，过错
 seaside	(n.) 海滨 ，海边
 young	(adj.) 年轻的 ，年纪小的
 illegal	(adj.) 非法的
-mark	"v. 标记出；标志 ，纪念；n.   （ 重要的）水平 ，标准 …"
+mark	"v. 标记出；标志 ，纪念；n.（ 重要的）水平 ，标准 …"
 fax	(v.) 用传真传输
 loaf	(n.) 一条（ 面包）
-age	"n. 年龄；  时代；   v. 推算年龄；变老"
+age	"n. 年龄；  时代；v. 推算年龄；变老"
 payment	(n.) 付钱
 mathematical	(adj.) 数学的
 college	(n.) 大学
-duck	"n. 鸭；   v. 低头 ，弯身（以免被打中或看见）"
+duck	"n. 鸭；v. 低头 ，弯身（以免被打中或看见）"
 investment	(n.) 投资
 motivate	(vt.) 激励
 feather	(n.) 羽毛
 down	"adv. 向下 ，在下面；（ 坐 、倒 、躺）  下； （数 …"
 scientist	(n.) 科学家
+precisely	"adv. 准确地；精确地；恰恰"
+grown	"v. 成长 ，长大（ grow的过去分词）"
+federal	(adj.) 联邦制的
+problem	(n.) 问题
+sparrow	(n.) 麻雀
+fence	(n.) 篱笆，  围栏 ，栅栏
+human	(adj.) 人的 ，人类的；n. 人
+locate	"v. 使 … …坐落于 ，位于 ，处于；找出 … … 的位置"
+cafe	(n.) 咖啡馆 ，餐馆
+fertile	(adj.) 肥沃的
+last	"adj. 最近的 ，上一个的；最后的 ，仅剩下的；v. 持 …"
+otherwise	"adv. 否则；在其他方面，另 ，亦；  除此之外"
+homeless	"adj. 无家可归的；n. 无家可归者"
+dumpling	(n.) 饺子
+offer	"v. 提供；表示愿意 (做某事)；n. 录取（或录用）  …"
+nearby	"adj. 附近的 ，邻近的；adv. 在附近"
+overnight	"adv. 整夜 ，一夜之间 ，突然（读作/ ˌouvər ˈnaɪt/）  …"
+fever	(n.) 发热
+develop	"v. 发展；壮大；开发；加强 ，增强 ，发挥；患病"
+pair	"n. 一对；v.（使）成对，配对"
+outer	"adj. 外面的 ，外层的 ，外边的"
+mass	"adj. 大量的；n. 大量 ，一堆；  [物]质量"
+fiber	(n.) 纤维（物质）
+everywhere	(adv.) 到处；处处
+training	(n.) 训练 ，锻炼；培训
+hour	"n. 小时； （ 工作 、办公的）固定时间"
+juice	(n.) （水果等）汁
+popularity	(n.) 流行；受欢迎
+fuel	(n.) 燃料；v. 加强；激起
+envy	(n.) 妒忌；v. 嫉妒；羡慕
+lead	"v. 导致 ，使得；带领；领先；n. 领先地位"
+finger	(n.) 手指
+powerful	"adj. 强有力的；有权势的，有影响力的；效能高的"
+chaos	(n.) 混乱 ，纷乱
+gasoline	(n.) <美>汽油
+precious	(adj.) 珍贵的，  宝贵的
+firmly	(adv.) 坚固地 ，稳固地
+add	(v.) 加 ，增加；补充
+shake	"v. 震动；发抖；摇动；n.奶昔"
+purchase	(vt.) 购买；n. 购买
+very	"adv. 很 ，非常；最 (在形容词或副词最高级前表示强 …"
+slowly	(adv.) 缓慢地
+coast	(n.) 海岸 ，海滨
+rare	"adj. 罕见的 ，难得的；稀少的 ，稀有的"
+around	"prep. 在 … …周围；adv.大约，  四处；周围 ，环绕"
+recovery	(n.) 痊愈
+happy	(adj.) 快乐的
+shortage	(n.) 短缺 ，不足 ，缺少
+flame	(n.) 火焰；热情
+ask	"v. 询问；要求；邀请；n.要求 ，开价"
+regular	"adj. 定期的 ，有规律的；正常的"
+pregnant	(adj.) 怀孕的 ，妊娠的
+survival	(n.) 生存
