@@ -1,3 +1,29 @@
+herd	(n.) 兽群 ，牧群
+nation	(n.) 民族，  国家
+facial	(adj.) 面部的
+guidance	(n.) 指导，  引导
+fairly	(adv.) 相当地
+outcome	(n.) 结果 ，后果
+enterprise	"n. 企业（或事业）  单位 ，公司"
+nightfall	(n.) 黄昏 ，傍晚，   日暮
+host	"n. 主人 ，东道主；节目主持人；大量；   v. 主持 ，主办"
+identify	(v.) 识别出；确定 ，鉴定
+maintain	"vt. 保持 ，维持；维护 ，维修"
+urban	"adj. 城市的 ，城镇的 ，都市的"
+install	(v.) 安装 ，安置
+fare	"n. 票价；   v.   （事情）进行得（好或坏）"
+personality	(n.) 性格
+programmer	(n.) 程序员
+farmyard	(n.) 农家庭院
+fascinating	"adj. 迷人的 ，有极大吸引力的"
+overcome	(vt.) 克服
+literature	(n.) 文学
+obviously	(adv.) 明显地
+illegal	(adj.) 非法的
+fax	(v.) 用传真传输
+loaf	(n.) 一条（ 面包）
+payment	(n.) 付钱
+mathematical	(adj.) 数学的
 harvest (v.)收割;n. 收获
 embassy(n.)大使馆，大使馆全体人员
 decade(n.)十年，一个年代

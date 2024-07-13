@@ -640,3 +640,53 @@ bridegroom	(n.) 新郎
 duration	(n.) 持续时间
 greatly	(adv.) 大大地
 eyewitness	(n.) 目击者
+money	(n.) 金钱 ，财富
+cloudy	(adj.) 多云的
+teacher	(n.) 教师 ，老师 ，教员
+hit	"v. 突然想到；命中 ，击中；击球；撞击；到达（某 …"
+move	"v. 移动； （使）  改变位置；发展 ，推移 ，变化；感动"
+piano	(n.) 钢琴
+fake	"adj. 假的 ，假装的，  冒充的；   n. 假货 ，赝品；   v. …"
+yellow	(adj.) 黄色的
+number	(n.) 号码；数量 ，数额；数字
+then	"adv. 然后；  当时 ，那时；那么（通常用于句首或句 …"
+memory	(n.) 记忆；  回忆；记忆力
+tell	(v.) 告诉；辨别
+France	(n.) 法国
+thing	(n.) 事件 ，事态；东西 ，事物
+lemon	(n.) 柠檬
+educator	(n.) 教育家 ，教育者 ，教师
+pour	(v.) 注 ，倒 ，灌
+too	(adv.) 太 ，很；也 ，而且
+fault	(n.) 过失 ，过错
+seaside	(n.) 海滨 ，海边
+young	(adj.) 年轻的 ，年纪小的
+mark	"v. 标记出；标志 ，纪念；n.   （ 重要的）水平 ，标准 …"
+age	"n. 年龄；  时代；   v. 推算年龄；变老"
+college	(n.) 大学
+herd	(n.) 兽群 ，牧群
+nation	(n.) 民族，  国家
+facial	(adj.) 面部的
+guidance	(n.) 指导，  引导
+fairly	(adv.) 相当地
+outcome	(n.) 结果 ，后果
+enterprise	"n. 企业（或事业）  单位 ，公司"
+nightfall	(n.) 黄昏 ，傍晚，   日暮
+host	"n. 主人 ，东道主；节目主持人；大量；   v. 主持 ，主办"
+identify	(v.) 识别出；确定 ，鉴定
+maintain	"vt. 保持 ，维持；维护 ，维修"
+urban	"adj. 城市的 ，城镇的 ，都市的"
+install	(v.) 安装 ，安置
+fare	"n. 票价；   v.   （事情）进行得（好或坏）"
+personality	(n.) 性格
+programmer	(n.) 程序员
+farmyard	(n.) 农家庭院
+fascinating	"adj. 迷人的 ，有极大吸引力的"
+overcome	(vt.) 克服
+literature	(n.) 文学
+obviously	(adv.) 明显地
+illegal	(adj.) 非法的
+fax	(v.) 用传真传输
+loaf	(n.) 一条（ 面包）
+payment	(n.) 付钱
+mathematical	(adj.) 数学的
