@@ -690,3 +690,53 @@ fax	(v.) 用传真传输
 loaf	(n.) 一条（ 面包）
 payment	(n.) 付钱
 mathematical	(adj.) 数学的
+duck	"n. 鸭；   v. 低头 ，弯身（以免被打中或看见）"
+down	"adv. 向下 ，在下面；（ 坐 、倒 、躺）  下； （数 …"
+scientist	(n.) 科学家
+grown	"v. 成长 ，长大（ grow的过去分词）"
+problem	(n.) 问题
+human	(adj.) 人的 ，人类的；n. 人
+locate	"v. 使 … …坐落于 ，位于 ，处于；找出 … … 的位置"
+cafe	(n.) 咖啡馆 ，餐馆
+last	"adj. 最近的 ，上一个的；最后的 ，仅剩下的；v. 持 …"
+homeless	"adj. 无家可归的；n. 无家可归者"
+dumpling	(n.) 饺子
+offer	"v. 提供；表示愿意 (做某事)；n. 录取（或录用）  …"
+nearby	"adj. 附近的 ，邻近的；adv. 在附近"
+fever	(n.) 发热
+develop	"v. 发展；壮大；开发；加强 ，增强 ，发挥；患病"
+pair	"n. 一对；v.（使）成对，配对"
+everywhere	(adv.) 到处；处处
+hour	"n. 小时； （ 工作 、办公的）固定时间"
+juice	(n.) （水果等）汁
+lead	"v. 导致 ，使得；带领；领先；n. 领先地位"
+finger	(n.) 手指
+powerful	"adj. 强有力的；有权势的，有影响力的；效能高的"
+add	(v.) 加 ，增加；补充
+shake	"v. 震动；发抖；摇动；n.奶昔"
+very	"adv. 很 ，非常；最 (在形容词或副词最高级前表示强 …"
+slowly	(adv.) 缓慢地
+rare	"adj. 罕见的 ，难得的；稀少的 ，稀有的"
+investment	(n.) 投资
+motivate	(vt.) 激励
+feather	(n.) 羽毛
+precisely	"adv. 准确地；精确地；恰恰"
+federal	(adj.) 联邦制的
+sparrow	(n.) 麻雀
+fence	(n.) 篱笆，  围栏 ，栅栏
+fertile	(adj.) 肥沃的
+otherwise	"adv. 否则；在其他方面，另 ，亦；  除此之外"
+overnight	"adv. 整夜 ，一夜之间 ，突然（读作/ ˌouvər ˈnaɪt/）  …"
+outer	"adj. 外面的 ，外层的 ，外边的"
+mass	"adj. 大量的；n. 大量 ，一堆；  [物]质量"
+fiber	(n.) 纤维（物质）
+training	(n.) 训练 ，锻炼；培训
+popularity	(n.) 流行；受欢迎
+fuel	(n.) 燃料；v. 加强；激起
+envy	(n.) 妒忌；v. 嫉妒；羡慕
+chaos	(n.) 混乱 ，纷乱
+gasoline	(n.) <美>汽油
+precious	(adj.) 珍贵的，  宝贵的
+firmly	(adv.) 坚固地 ，稳固地
+purchase	(vt.) 购买；n. 购买
+coast	(n.) 海岸 ，海滨
