@@ -168,3 +168,48 @@ application	(n.)应用；申请（书）
 appearance	"n.外貌，外表；出现，公开露面"
 late	"adj.迟的；晚期的，后期的；adv.迟，晚"
 bay	(n.)海湾，港湾
+calculate	(v.) 计算
+gay	(n.) 同性恋者
+metropolitan	(adj.) 大城市的，大都会的
+love	(v.) 爱，喜欢；n.爱
+apparently	(adv.) 显然
+breathe	(v.) 呼吸
+gentle	(adj.) 温柔的，文雅的
+hat	(n.) 帽子（一般指有边的）
+museum	(n.) 博物馆，展览馆
+report	(n.) 报告，汇报；v.报道
+appreciation	(n.) 感激；鉴赏，欣赏
+feature	"n.特征，特点，特色；v.以……为主要组成"
+picnic	(n.) 野餐
+governor	(n.) 州长；主管，负责人
+April	(n.) 四月（略作Apr.）
+emotional	(adj.) 感情的，情绪的
+genuine	(adj.) 真的；真正的；真诚的
+flash	"v.闪光；闪现，闪过；n.闪光；刹那"
+skill	(n.) 技能；技巧
+artist	(n.) 艺术家，画家
+billion	(num.) 十亿
+geological	(adj.) 地质学的
+tower	(n.) 塔，楼塔
+spend	"v.花（时间或精力）；花费，用钱；度过，消磨"
+association	"n.协会，联盟，社团；关联；联想"
+fond	(adj.) 喜欢的，喜爱的
+geologist	(n.) 地质学家
+sleeve	(n.) 袖子
+visit	"v.参观，访问；看望，探望；vt.拜访；n.拜访；…"
+contact	"v.联系；n.接触；联系，联络；隐形眼镜"
+atmosphere	(n.) 氛围，气氛；大气；空气
+geology	(n.) 地质学
+alcoholic	(adj.) 含酒精的
+walk	"v.行走；n.散步；走，步行"
+average	"n.平均水平；平均数；adj.平均的；平庸的，普通的…"
+creation	"n.创造，创作；创造物，作品"
+geometry	(n.) 几何学；几何形状
+fruit	(n.) 水果
+write	"v.写；创作（文章、诗歌等）"
+awkward	(adj.) 尴尬的
+basis	"n.基准，根据；基础；原因，缘由"
+germ	"n.细菌；（某事的）发端，萌芽"
+racial	(adj.) 种族的；人种的
+accord	(n.) 协议；vt.授予
+apart	"adv.成碎片；分离地，分开地；相隔，相距"
