@@ -164,7 +164,7 @@ export async function renderQuestion() {
         let englishWordInput = document.getElementById("englishWordTextBox");
         englishWordInput.value = currentEnglishWord;
         if (isPlayButton) {
-            englishWordInput.style.visibility = 'hidden';
+            englishWordInput.style.visibility = 'visible';
         } else {
             englishWordInput.style.visibility = 'visible';
         }

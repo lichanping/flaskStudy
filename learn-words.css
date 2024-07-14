@@ -103,7 +103,7 @@ input:checked + .slider:before {
 #score-container,
 #error-count-container {
     display: inline-block;
-    margin-left: 20px; /* Add margin between score and error count */
+    margin-left: 0; /* Add margin between score and error count */
     color: #ffffff; /* White font color */
 }
 
