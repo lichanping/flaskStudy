@@ -47,6 +47,7 @@ class TxtToXLSX:
                 match = re.match(r'([a-zA-Z\'\s\-\.\/]+)\s*(.*)', line.strip())
                 if match:
                     english_word, translation = match.groups()
+                    translation = re.sub(r'\s+', '', translation)
                     english_word = english_word.strip()
 
                     if english_word.endswith(('adj.', 'adv.', 'n.', 'v.', 'phr.', 'vt.', 'prep.', 'vi.', 'det.',
