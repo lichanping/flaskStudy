@@ -80,7 +80,7 @@ conflict	冲突，争执，矛盾n.
 rain	雨，雨水；n.下雨v.
 yell	(v.叫喊
 scream	（因愤怒或恐惧）高声喊；尖叫着说出；大声叫…v.
-shout	(v.呼喊；n.呼喊
+shout	(n.)呼喊;(v.) 呼喊
 compassionate	(adj.有同情心的
 sympathetic	(adj.)有同情心的，同情的
 miserable	(adj.痛苦的，悲惨的；令人难受的
@@ -179,7 +179,7 @@ network	(n.)网络；人际关系网，联络网
 detective	(n.)侦探，警探
 delicate	(adj.)易碎的，脆弱
 above	(prep.)在……之上
-below	(prep.)在……之下；低于；adv.在下面；在零下；…
+below	"adv.在（或到）下面；prep.在……之下；低于"
 differ	(vi.)相异，不同于
 occur	(vi.)发生；出现，存在；（想法）被想到
 happen	(vi.)发生；碰巧，偶遇；恰好；出现
@@ -910,48 +910,96 @@ application	(n.)应用；申请（书）
 appearance	"n.外貌，外表；出现，公开露面"
 late	"adj.迟的；晚期的，后期的；adv.迟，晚"
 bay	(n.)海湾，港湾
-calculate	(v.) 计算
-gay	(n.) 同性恋者
-metropolitan	(adj.) 大城市的，大都会的
-love	(v.) 爱，喜欢；n.爱
-apparently	(adv.) 显然
-breathe	(v.) 呼吸
-gentle	(adj.) 温柔的，文雅的
-hat	(n.) 帽子（一般指有边的）
-museum	(n.) 博物馆，展览馆
-report	(n.) 报告，汇报；v.报道
-appreciation	(n.) 感激；鉴赏，欣赏
+calculate	(v.)计算
+gay	(n.)同性恋者
+metropolitan	(adj.)大城市的，大都会的
+love	(v.)爱，喜欢；n.爱
+apparently	(adv.)显然
+breathe	(v.)呼吸
+gentle	(adj.)温柔的，文雅的
+hat	(n.)帽子（一般指有边的）
+museum	(n.)博物馆，展览馆
+report	(n.)报告，汇报；v.报道
+appreciation	(n.)感激；鉴赏，欣赏
 feature	"n.特征，特点，特色；v.以……为主要组成"
-picnic	(n.) 野餐
-governor	(n.) 州长；主管，负责人
-April	(n.) 四月（略作Apr.）
-emotional	(adj.) 感情的，情绪的
-genuine	(adj.) 真的；真正的；真诚的
+picnic	(n.)野餐
+governor	(n.)州长；主管，负责人
+April	(n.)四月（略作Apr.）
+emotional	(adj.)感情的，情绪的
+genuine	(adj.)真的；真正的；真诚的
 flash	"v.闪光；闪现，闪过；n.闪光；刹那"
-skill	(n.) 技能；技巧
-artist	(n.) 艺术家，画家
-billion	(num.) 十亿
-geological	(adj.) 地质学的
-tower	(n.) 塔，楼塔
+skill	(n.)技能；技巧
+artist	(n.)艺术家，画家
+billion	(num.)十亿
+geological	(adj.)地质学的
+tower	(n.)塔，楼塔
 spend	"v.花（时间或精力）；花费，用钱；度过，消磨"
 association	"n.协会，联盟，社团；关联；联想"
-fond	(adj.) 喜欢的，喜爱的
-geologist	(n.) 地质学家
-sleeve	(n.) 袖子
+fond	(adj.)喜欢的，喜爱的
+geologist	(n.)地质学家
+sleeve	(n.)袖子
 visit	"v.参观，访问；看望，探望；vt.拜访；n.拜访；…"
 contact	"v.联系；n.接触；联系，联络；隐形眼镜"
-atmosphere	(n.) 氛围，气氛；大气；空气
-geology	(n.) 地质学
-alcoholic	(adj.) 含酒精的
+atmosphere	(n.)氛围，气氛；大气；空气
+geology	(n.)地质学
+alcoholic	(adj.)含酒精的
 walk	"v.行走；n.散步；走，步行"
 average	"n.平均水平；平均数；adj.平均的；平庸的，普通的…"
 creation	"n.创造，创作；创造物，作品"
-geometry	(n.) 几何学；几何形状
-fruit	(n.) 水果
+geometry	(n.)几何学；几何形状
+fruit	(n.)水果
 write	"v.写；创作（文章、诗歌等）"
-awkward	(adj.) 尴尬的
+awkward	(adj.)尴尬的
 basis	"n.基准，根据；基础；原因，缘由"
 germ	"n.细菌；（某事的）发端，萌芽"
-racial	(adj.) 种族的；人种的
-accord	(n.) 协议；vt.授予
+racial	(adj.)种族的；人种的
+accord	(n.)协议；vt.授予
 apart	"adv.成碎片；分离地，分开地；相隔，相距"
+professional	(adj.) 专业的；n.专业人员
+brain	(n.) 脑
+laptop	(n.) 笔记本电脑
+ham	(n.) 火腿
+giant	(adj.) 巨大的，特大的
+associate	"v.关联；联系；与......有关；adj.副的；n.伙伴…"
+noodle	(n.) （常作复数）面条
+color	"n.颜色（=colour）；v.上颜色"
+bite	"n.咬；（咬下的）一口；简单的一餐；v.咬，叮，蜇"
+gifted	(adj.) 有天赋的；有才华的
+language	(n.) 语言，语言文字
+tractor	(n.) 拖拉机，牵引车
+boast	"v.吹嘘；夸耀；（地方、机构等）自豪地拥有（好的…"
+glance	(n.) 一瞥，扫视；v.看一下
+farmer	(n.) 农民
+bone	(n.) 骨骼
+excite	"v.使激动，使兴奋；引起，激起"
+comfortable	(adj.) 舒适的
+glare	(n.) 眩目的光；v.怒目而视
+outdrive	(v.) 驾车快于
+branch	(n.) 树枝；分支机构，分部
+empty	"adj.空的；空洞的；v.倒空；腾空"
+anywhere	"adv.任何地方，无论何处；pron.任何（一个）…"
+glory	(n.) 光荣，荣誉
+restaurant	(n.) 餐馆
+commissioner	(n.) 委员，专员，理事
+broken	(adj.) 损坏的
+glue	(n.) 胶水；v.用胶粘
+another	"det.另外的，不同的；pron.类似的人或物"
+burden	(n.) 负担
+instrument	(n.) 仪器；乐器
+god	(n.) 神
+congress	(n.) 国会
+bird	(n.) 鸟，禽
+entertainment	(n.) 娱乐
+similar	(adj.) 相似的；类似的
+creature	(n.) 生物；人
+goddess	(n.) 女神
+book	(n.) 书；v.预约
+Canada	(n.) 加拿大
+goose	(n.) 鹅
+hand	(n.) 手；vt.递，交
+golden	"adj.特别的，美好的；金黄色的"
+carpet	(n.) 地毯
+hear	(v.) 听见；听说
+wag	"v.摇动；n.摇摆；爱说笑的人"
+chain	(n.) 连锁店，连锁集团
+goods	(n.) 货物，商品
