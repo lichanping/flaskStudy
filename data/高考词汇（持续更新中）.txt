@@ -80,7 +80,7 @@ conflict	冲突，争执，矛盾n.
 rain	雨，雨水；n.下雨v.
 yell	(v.叫喊
 scream	（因愤怒或恐惧）高声喊；尖叫着说出；大声叫…v.
-shout	(n.)呼喊;(v.) 呼喊
+shout	(n.)呼喊;(v.)呼喊
 compassionate	(adj.有同情心的
 sympathetic	(adj.)有同情心的，同情的
 miserable	(adj.痛苦的，悲惨的；令人难受的
@@ -955,51 +955,100 @@ germ	"n.细菌；（某事的）发端，萌芽"
 racial	(adj.)种族的；人种的
 accord	(n.)协议；vt.授予
 apart	"adv.成碎片；分离地，分开地；相隔，相距"
-professional	(adj.) 专业的；n.专业人员
-brain	(n.) 脑
-laptop	(n.) 笔记本电脑
-ham	(n.) 火腿
-giant	(adj.) 巨大的，特大的
+professional	(adj.)专业的；n.专业人员
+brain	(n.)脑
+laptop	(n.)笔记本电脑
+ham	(n.)火腿
+giant	(adj.)巨大的，特大的
 associate	"v.关联；联系；与......有关；adj.副的；n.伙伴…"
-noodle	(n.) （常作复数）面条
+noodle	(n.)（常作复数）面条
 color	"n.颜色（=colour）；v.上颜色"
 bite	"n.咬；（咬下的）一口；简单的一餐；v.咬，叮，蜇"
-gifted	(adj.) 有天赋的；有才华的
-language	(n.) 语言，语言文字
-tractor	(n.) 拖拉机，牵引车
+gifted	(adj.)有天赋的；有才华的
+language	(n.)语言，语言文字
+tractor	(n.)拖拉机，牵引车
 boast	"v.吹嘘；夸耀；（地方、机构等）自豪地拥有（好的…"
-glance	(n.) 一瞥，扫视；v.看一下
-farmer	(n.) 农民
-bone	(n.) 骨骼
+glance	(n.)一瞥，扫视；v.看一下
+farmer	(n.)农民
+bone	(n.)骨骼
 excite	"v.使激动，使兴奋；引起，激起"
-comfortable	(adj.) 舒适的
-glare	(n.) 眩目的光；v.怒目而视
-outdrive	(v.) 驾车快于
-branch	(n.) 树枝；分支机构，分部
+comfortable	(adj.)舒适的
+glare	(n.)眩目的光；v.怒目而视
+outdrive	(v.)驾车快于
+branch	(n.)树枝；分支机构，分部
 empty	"adj.空的；空洞的；v.倒空；腾空"
 anywhere	"adv.任何地方，无论何处；pron.任何（一个）…"
-glory	(n.) 光荣，荣誉
-restaurant	(n.) 餐馆
-commissioner	(n.) 委员，专员，理事
-broken	(adj.) 损坏的
-glue	(n.) 胶水；v.用胶粘
+glory	(n.)光荣，荣誉
+restaurant	(n.)餐馆
+commissioner	(n.)委员，专员，理事
+broken	(adj.)损坏的
+glue	(n.)胶水；v.用胶粘
 another	"det.另外的，不同的；pron.类似的人或物"
-burden	(n.) 负担
-instrument	(n.) 仪器；乐器
-god	(n.) 神
-congress	(n.) 国会
-bird	(n.) 鸟，禽
-entertainment	(n.) 娱乐
-similar	(adj.) 相似的；类似的
-creature	(n.) 生物；人
-goddess	(n.) 女神
-book	(n.) 书；v.预约
-Canada	(n.) 加拿大
-goose	(n.) 鹅
-hand	(n.) 手；vt.递，交
+burden	(n.)负担
+instrument	(n.)仪器；乐器
+god	(n.)神
+congress	(n.)国会
+bird	(n.)鸟，禽
+entertainment	(n.)娱乐
+similar	(adj.)相似的；类似的
+creature	(n.)生物；人
+goddess	(n.)女神
+book	(n.)书；v.预约
+Canada	(n.)加拿大
+goose	(n.)鹅
+hand	(n.)手；vt.递，交
 golden	"adj.特别的，美好的；金黄色的"
-carpet	(n.) 地毯
-hear	(v.) 听见；听说
+carpet	(n.)地毯
+hear	(v.)听见；听说
 wag	"v.摇动；n.摇摆；爱说笑的人"
-chain	(n.) 连锁店，连锁集团
-goods	(n.) 货物，商品
+chain	(n.)连锁店，连锁集团
+goods	(n.)货物，商品
+history	(n.) 历史，历史学
+define	(v.) 给（词、短语等）下定义
+firework	(n.) 烟花，烟火
+chat	"v.闲谈，聊天；n.闲谈，聊天"
+lose	(v.) 失去
+circumstance	(n.) 情况；环境
+evident	"adj.显然的，明显的，明白的"
+liquid	(n.) 液体
+gossip	"n.流言蜚语；爱传流言的人；v.闲聊，传播流言…"
+minute	(n.) 分钟
+favor	(n.) 帮助；v.青睐
+combination	(n.) 结合，联合
+seminar	(n.) 研讨会
+gate	(n.) 大门
+test	"n.测验，测试；v.测验，测试"
+combine	(v.) （使）结合
+bookstore	(n.) 书店
+clothes	(n.) 衣服
+gradual	(adj.) 逐渐的
+next	"adj.下一个的，接下来的；adv.其次，然后，随后…"
+committee	(n.) 委员会
+barbecue	(n.) 烧烤架；烧烤；户外烧烤
+graduation	(n.) 毕业，毕业典礼
+carry out	(phr.) 开展
+evolve	(v.) （使）逐渐发展；进化
+fitness	(n.) 健康，健壮
+shine	(v.) 照耀，发光
+grain	(n.) 质感
+pay	"v.支付，偿还；（与某些名词连用，表示施予某物或…"
+complicate	(v.) （使）变复杂
+forum	(n.) 论坛
+shop	(n.) 商店；v.买东西
+gram	(n.) 克
+provide	(v.) 提供，供给
+consequently	(adv.) 因此，结果
+grand	"adj.大的；壮丽的，宏伟的，宏大的"
+driver	(n.) 驾驶员，司机；推动力
+return	(v.) 返回；归还；n.回报
+enable	(v.) 使能够，使可能
+consult	(v.) 咨询
+graph	"n.（曲线）图，图表；vt.用曲线图表示，把…绘入…"
+ear	(n.) 耳朵
+athletic	(adj.) 运动的，体育的
+container	(n.) 容器
+gratitude	(n.) 感激，感谢
+energy	(n.) 能源；活力
+exercise	"n.操练，运动；活动；锻炼；v.锻炼"
+contemporary	(adj.) 当代的，现代的
+fight	"v.与…...作斗争；打架，打斗；n.战斗"
