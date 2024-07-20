@@ -275,7 +275,7 @@ sunshine	(n.)日光，日照;晴天；愉快，快活
 sunlight	(n.)阳光
 sunset	(n.)日落；adj.霞红色的
 private	(adj.)私人的
-public	(adj.)公共的；公众的；公立的；公开的；公然的；n.…
+public	"adj.公众的；公共的；n.公众，民众；公共场所"
 until	(prep.)到……为止；conj.到……为止，直到……才
 spirit	(n.)精神，心灵；情绪
 profit	(n.)利润，盈利
@@ -1053,96 +1053,158 @@ exercise	"n.操练，运动；活动；锻炼；v.锻炼"
 contemporary	(adj.)当代的，现代的
 fight	"v.与…...作斗争；打架，打斗；n.战斗"
 grave	"adj.严肃的，庄重的；n.墓"
-design	(n.) 设计；v.设计
-trousers	(n.) 裤子
-convince	(vt.) 使信服
-cope	(vi.) 处理，应对
-impossible	(adj.) 不可能的
-count	(v.) 计算；重要，有价值
-vacation	(n.) 假期
-guess	(v.) 猜测，估计；认为
-farm	(n.) 农场，饲养场；v.养殖
-aware	(adj.) 意识到的
-creativity	(n.) 创造力
-ape	(n.) 类人猿
-greed	(n.) 贪欲，贪婪；贪吃
+design	(n.)设计；v.设计
+trousers	(n.)裤子
+convince	(vt.)使信服
+cope	(vi.)处理，应对
+impossible	(adj.)不可能的
+count	(v.)计算；重要，有价值
+vacation	(n.)假期
+guess	(v.)猜测，估计；认为
+farm	(n.)农场，饲养场；v.养殖
+aware	(adj.)意识到的
+creativity	(n.)创造力
+ape	(n.)类人猿
+greed	(n.)贪欲，贪婪；贪吃
 hard	"adj.困难的；辛苦的，艰难的；严厉的；adv.努力…"
 credibility	"n.可靠性，可信性，确实有效性"
-farmland	(n.) 农田
-helmet	(n.) 头盔
-matter	(n.) 事情，问题；v.要紧
-current	(adj.) 当前的，现在的
-deadline	(n.) 截止日期，最后日期
+farmland	(n.)农田
+helmet	(n.)头盔
+matter	(n.)事情，问题；v.要紧
+current	(adj.)当前的，现在的
+deadline	(n.)截止日期，最后日期
 Greek	"adj.希腊的，希腊人的，希腊语的"
-hug	(v.) 拥抱；n.拥抱
+hug	(v.)拥抱；n.拥抱
 medium	"n.媒介；adj.中等的；中号的"
-December	(n.) 十二月
-casual	(adj.) 随便的
-chair	(n.) 椅子
-greengrocer	(n.) 蔬菜水果商
-diary	(n.) 日记
-greeting	(n.) 问候，致敬
+December	(n.)十二月
+casual	(adj.)随便的
+chair	(n.)椅子
+greengrocer	(n.)蔬菜水果商
+diary	(n.)日记
+greeting	(n.)问候，致敬
 online	"adj.在线的，adv.联机地;联网的；线上地"
-dial	(n.) 仪表盘
-eye	(n.) 眼睛；注意
-firm	(n.) 公司；adj.坚定的
-grey	(adj.) 灰色的；n.灰色
-seem	(v.) 似乎，好像
-grizzly	(n.) 灰熊；adj.灰色的
-sleep	(v.) 睡觉；n.睡觉，睡眠
-disadvantage	(n.) 弊端
+dial	(n.)仪表盘
+eye	(n.)眼睛；注意
+firm	(n.)公司；adj.坚定的
+grey	(adj.)灰色的；n.灰色
+seem	(v.)似乎，好像
+grizzly	(n.)灰熊；adj.灰色的
+sleep	(v.)睡觉；n.睡觉，睡眠
+disadvantage	(n.)弊端
 set	"v.创建，建立；调整好；（小心地）放置；n.一…"
-grass	(n.) 草，牧草
-diverse	(adj.) 多样的
+grass	(n.)草，牧草
+diverse	(adj.)多样的
 shave	"v.剃（须发），刮脸；n.剃须，修面"
-failure	(n.) 失败
-grocer	(n.) 食品杂货商
+failure	(n.)失败
+grocer	(n.)食品杂货商
 space	"n.（可利用的）空间，空地，距离；太空"
-battlefield	(n.) 战场
+battlefield	(n.)战场
 green	"adj.绿色的，青的，草绿色的；（赞成）环境保护的"
 ground	"n.地；地面；土地；场地；领域；v.（在某学科上…"
-species	(n.) 物种
-ecology	(n.) 生态
-pet	(n.) 宠物
-guilty	(adj.) 内疚的
-never	(adv.) 从不，永不
-effective	(adj.) 有效的
-constant	(adj.) 持续不断的
-arm	(n.) 手臂；上肢；臂状物
-believe	(v.) 相信；认为
+species	(n.)物种
+ecology	(n.)生态
+pet	(n.)宠物
+guilty	(adj.)内疚的
+never	(adv.)从不，永不
+effective	(adj.)有效的
+constant	(adj.)持续不断的
+arm	(n.)手臂；上肢；臂状物
+believe	(v.)相信；认为
 establish	"v.建立；使成为；确立；创立"
 clearly	"adv.显然地，明显地；清楚地"
-gymnastics	(n.) 体操，体育
-guitar	(n.) 吉他
-independent	(adj.) 独立的，自立的
-exist	(vi.) 存在
-today	(n.) 今天
+gymnastics	(n.)体操，体育
+guitar	(n.)吉他
+independent	(adj.)独立的，自立的
+exist	(vi.)存在
+today	(n.)今天
 encounter	"vt.邂逅，偶遇；n.相遇，邂逅"
-butter	(n.) 黄油；水果酱，干果酱
+butter	(n.)黄油；水果酱，干果酱
 enthusiastic	"adj.狂热的，极感兴趣的；热情的"
-communicate	(v.) 沟通，交流
+communicate	(v.)沟通，交流
 slow	"adj.缓慢的；v.（使）慢下来，（使）减速"
-give in	(phr.) 屈服
-haircut	(n.) 理发；发型
+give in	(phr.)屈服
+haircut	(n.)理发；发型
 experience	"n.（一次）经历，感受，体验；经验，实践；v.经…"
 guide	"n.导游；指南，手册；v.引导，指导"
-sit	(v.) 坐；位于
-location	(n.) 位置，地点
+sit	(v.)坐；位于
+location	(n.)位置，地点
 expense	"n.开销，开支；花费，费用；代价"
-house	(n.) 房屋，住宅
+house	(n.)房屋，住宅
 max	"abbr.<非正式>最大的，最大限度的（同maximum）"
-decorate	(v.) 装饰，布置；装潢
-extend	(v.) 扩展；延长；提供，给予
+decorate	(v.)装饰，布置；装潢
+extend	(v.)扩展；延长；提供，给予
 lot	"pron.大量，许多；场地；adv.非常"
-handbag	(n.) （女用）手提包
+handbag	(n.)（女用）手提包
 open	"v.打开；开张，开放，开幕；睁开；adj.空缺的…"
-discourage	(vt.) 阻拦；阻止；使泄气
-facility	(n.) 设施，设备
-gorilla	(n.) 大猩猩
-Switzerland	(n.) 瑞士
+discourage	(vt.)阻拦；阻止；使泄气
+facility	(n.)设施，设备
+gorilla	(n.)大猩猩
+Switzerland	(n.)瑞士
 part	"n.部分，组成部分；角色，份儿，作用；v.分开"
 fallen	"v.下跌，减少（fall的过去分词）"
-faith	(n.) 信心
+faith	(n.)信心
 print	"v.打印；洗印，印染；发表；n.印刷，印刷字"
 sharpen	"v.削尖；磨快；使敏捷；使提高"
 colorful	"adj.多彩的，华美的，色彩的"
+greedy	"adj.贪婪的，贪心的，贪吃的"
+handkerchief	(n.) 手帕；方巾
+shoulder	(n.) 肩膀
+gentleman	(n.) 先生，男士
+exploration	(n.) 探索
+support	"v.支持；支撑；供养；n.支持；资助"
+festival	(n.) 节日；活动
+content	"n.内容；含量；（书、讲话、节目等的）主题；目…"
+handy	"adj.手巧的；方便的；伸手可及的"
+text	(n.) 文本，文章
+dig	(v.) 挖掘，翻土
+marry	"v.结婚；（使不同的事物、观点等）相结合，结合在…"
+understand	"v.理解，明白；了解；认识到；明了；懂"
+complain	(v.) 抱怨，发牢骚
+floor	(n.) 楼层；地板，地面；底部
+hardworking	(adj.) 勤勉的
+windy	"adj.刮风的，有风的，多风的"
+activity	(n.) 活动
+folk	(n.) 民众；民间音乐
+conclude	(v.) 推断出
+American	"adj.美国的，美国人的；美洲的；n.美国人，美国"
+apron	(n.) 围裙
+harmful	(adj.) 有害的
+freeze	(v.) 冻结，结冰；呆住
+hastily	(adv.) 急速地，慌忙地
+begin	(v.) 开始
+Christmas	(n.) 圣诞节
+function	"n.功能，作用，用途，机能；v.工作，运转"
+general	"adj.普遍的，总的；一般的，普通的；全面的；常…"
+hasty	"adj.匆忙的；仓促完成的；草率的"
+every	(det.) 每个，每一
+television	"n.电视（机）；电视节目；电视行业"
+graduate	"vi.毕业；n.毕业生；adj.研究生的（读作/…"
+dioxide	(n.) 二氧化物
+hatch	(vi.) 孵出，孵
+guest	(n.) 客人，宾客；特邀嘉宾
+model	"n.模型；模范，榜样，典型；模特；模式；型号"
+heading	"n.标题（用于文章或章节开头）；v.head的现在分词"
+night	(n.) 夜晚
+memorial	"n.纪念物，纪念碑，纪念仪式"
+Greece	(n.) 希腊
+cream	(n.) 奶油，乳脂
+headline	(n.) 大字标题
+organism	(n.) 有机体，生物
+marine	(adj.) 海洋的
+headmaster	(n.) 校长（尤指私立学校的）
+ocean	(n.) 海洋，洋，大海
+once	"adv.一次；曾经；conj.一旦，当……的时候"
+musical	(adj.) 音乐的；n.音乐剧
+headmistress	(n.) 女校长
+percent	(n.) 百分比
+male	"adj.男性的，雄性的；n.男性，雄性"
+nutrition	(n.) 营养
+hike	(v.) 徒步旅行；去......远足
+operation	"n.手术；经营；行动，活动；运转"
+moral	"adj.道德（上）的，道义的；n.道德，品行"
+require	(v.) 需要；要求，规定
+hometown	(n.) 家乡
+particularly	(adv.) 特别地，尤其
+shut	(v.) 关上，闭上
+listen	(v.) 听，倾听；听从，听信
+suffering	(n.) 疼痛，苦难
