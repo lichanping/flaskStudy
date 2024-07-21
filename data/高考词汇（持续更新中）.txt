@@ -160,7 +160,7 @@ possibly	（adv.也许，或许；竟然（表示强调）；尽量，尽…
 definitely	（adv.肯定地，毫无疑问地；确实；明确地，确定地
 pain	（n.痛，痛苦
 qualified	（adj.合格的，胜任的
-eligible	（adj.符合条件的；（尤指婚姻等）合适的，合意的
+eligible	（尤指婚姻等）合适的，合意的;(adj.) 符合条件的
 unqualified	（adj.不合格的；无资格的；不适任的；绝对的；无限…
 unmanned	（adj.无人驾驶的
 automated	（adj.机械化的；自动化的
@@ -1147,64 +1147,125 @@ print	"v.打印；洗印，印染；发表；n.印刷，印刷字"
 sharpen	"v.削尖；磨快；使敏捷；使提高"
 colorful	"adj.多彩的，华美的，色彩的"
 greedy	"adj.贪婪的，贪心的，贪吃的"
-handkerchief	(n.) 手帕；方巾
-shoulder	(n.) 肩膀
-gentleman	(n.) 先生，男士
-exploration	(n.) 探索
+handkerchief	(n.)手帕；方巾
+shoulder	(n.)肩膀
+gentleman	(n.)先生，男士
+exploration	(n.)探索
 support	"v.支持；支撑；供养；n.支持；资助"
-festival	(n.) 节日；活动
+festival	(n.)节日；活动
 content	"n.内容；含量；（书、讲话、节目等的）主题；目…"
 handy	"adj.手巧的；方便的；伸手可及的"
-text	(n.) 文本，文章
-dig	(v.) 挖掘，翻土
+text	(n.)文本，文章
+dig	(v.)挖掘，翻土
 marry	"v.结婚；（使不同的事物、观点等）相结合，结合在…"
 understand	"v.理解，明白；了解；认识到；明了；懂"
-complain	(v.) 抱怨，发牢骚
-floor	(n.) 楼层；地板，地面；底部
-hardworking	(adj.) 勤勉的
+complain	(v.)抱怨，发牢骚
+floor	(n.)楼层；地板，地面；底部
+hardworking	(adj.)勤勉的
 windy	"adj.刮风的，有风的，多风的"
-activity	(n.) 活动
-folk	(n.) 民众；民间音乐
-conclude	(v.) 推断出
+activity	(n.)活动
+folk	(n.)民众；民间音乐
+conclude	(v.)推断出
 American	"adj.美国的，美国人的；美洲的；n.美国人，美国"
-apron	(n.) 围裙
-harmful	(adj.) 有害的
-freeze	(v.) 冻结，结冰；呆住
-hastily	(adv.) 急速地，慌忙地
-begin	(v.) 开始
-Christmas	(n.) 圣诞节
+apron	(n.)围裙
+harmful	(adj.)有害的
+freeze	(v.)冻结，结冰；呆住
+hastily	(adv.)急速地，慌忙地
+begin	(v.)开始
+Christmas	(n.)圣诞节
 function	"n.功能，作用，用途，机能；v.工作，运转"
 general	"adj.普遍的，总的；一般的，普通的；全面的；常…"
 hasty	"adj.匆忙的；仓促完成的；草率的"
-every	(det.) 每个，每一
+every	(det.)每个，每一
 television	"n.电视（机）；电视节目；电视行业"
 graduate	"vi.毕业；n.毕业生；adj.研究生的（读作/…"
-dioxide	(n.) 二氧化物
-hatch	(vi.) 孵出，孵
-guest	(n.) 客人，宾客；特邀嘉宾
+dioxide	(n.)二氧化物
+hatch	(vi.)孵出，孵
+guest	(n.)客人，宾客；特邀嘉宾
 model	"n.模型；模范，榜样，典型；模特；模式；型号"
 heading	"n.标题（用于文章或章节开头）；v.head的现在分词"
-night	(n.) 夜晚
+night	(n.)夜晚
 memorial	"n.纪念物，纪念碑，纪念仪式"
-Greece	(n.) 希腊
-cream	(n.) 奶油，乳脂
-headline	(n.) 大字标题
-organism	(n.) 有机体，生物
-marine	(adj.) 海洋的
-headmaster	(n.) 校长（尤指私立学校的）
-ocean	(n.) 海洋，洋，大海
+Greece	(n.)希腊
+cream	(n.)奶油，乳脂
+headline	(n.)大字标题
+organism	(n.)有机体，生物
+marine	(adj.)海洋的
+headmaster	(n.)校长（尤指私立学校的）
+ocean	(n.)海洋，洋，大海
 once	"adv.一次；曾经；conj.一旦，当……的时候"
-musical	(adj.) 音乐的；n.音乐剧
-headmistress	(n.) 女校长
-percent	(n.) 百分比
+musical	(adj.)音乐的；n.音乐剧
+headmistress	(n.)女校长
+percent	(n.)百分比
 male	"adj.男性的，雄性的；n.男性，雄性"
-nutrition	(n.) 营养
-hike	(v.) 徒步旅行；去......远足
+nutrition	(n.)营养
+hike	(v.)徒步旅行；去......远足
 operation	"n.手术；经营；行动，活动；运转"
 moral	"adj.道德（上）的，道义的；n.道德，品行"
-require	(v.) 需要；要求，规定
-hometown	(n.) 家乡
-particularly	(adv.) 特别地，尤其
-shut	(v.) 关上，闭上
-listen	(v.) 听，倾听；听从，听信
-suffering	(n.) 疼痛，苦难
+require	(v.)需要；要求，规定
+hometown	(n.)家乡
+particularly	(adv.)特别地，尤其
+shut	(v.)关上，闭上
+listen	(v.)听，倾听；听从，听信
+suffering	(n.)疼痛，苦难
+naughty	(adj.) 顽皮的，淘气的
+station	"n.车站；站，局；电台，电视台"
+wine	(n.) 葡萄酒
+pause	"v.暂停，中止；n.（说话或朗读中的）停顿；中止…"
+sculpture	(n.) 雕刻，雕塑
+postage	(n.) 邮费
+principle	(n.) 原则；原理
+laugh	(v.) 笑，发笑
+thoughtful	"adj.缜密思考过的，深思熟虑的；体贴的，周到的"
+salary	(n.) 工资，薪水
+German	(n.) 德语；adj.德国的
+gum	(n.) 口香糖
+proposal	(n.) 提议；建议
+sample	"n.(用于检验、分析的)试样，样品"
+lesson	(n.) 课，一课时
+ancestor	(n.) 祖先
+water	"n.水；vt.给……浇水，给……供水"
+extraordinary	(adj.) 非同寻常的
+publish	(v.) 发表；出版；公布
+protection	(n.) 保护，防卫
+significance	(n.) 意义，含义
+handwriting	(n.) 书写，手写
+describe	(v.) 描述
+dislike	(v.) 不喜欢
+responsible	(adj.) 负有责任的
+pork	(n.) 猪肉
+beach	(n.) 海滩，河滩
+commitment	(n.) 承诺，许诺
+heaven	(n.) 天堂；极乐世界
+found	"v.成立，建立，创办；发现，感到（ﬁnd的过去式）"
+widow	(n.) 寡妇，遗孀
+million	(num.) 百万；许多
+leak	(n.) 泄漏，裂缝；v.泄露
+style	(n.) 风格；方式，特点
+hammer	(n.) 锤子
+catfish	(n.) 鲇（鲶）鱼
+aloud	(adv.) 大声地
+workplace	(n.) 工作场所
+institute	"n.学院，专科学院，研究院（或所）"
+handsome	"adj.英俊的，帅气的；漂亮的，大方的"
+secretly	(adv.) 秘密地，偷偷地
+housewife	(n.) 家庭主妇
+horse	(n.) 马
+disaster	(n.) 灾难，天灾
+feed	(v.) 喂，饲养
+besides	(adv.) 此外
+venture	(n.) 企业
+murder	"n.谋杀，凶杀；v.谋杀，凶杀"
+happiness	(n.) 幸福
+front	"adj.前面的，正面的；n.前面，正面"
+ugly	(adj.) 丑陋的
+circus	(n.) 环形广场
+somehow	(adv.) 以某种方式
+student	(n.) 学生
+popular	(adj.) 受欢迎的
+civilization	(n.) 文明
+birthplace	(n.) 发源地
+nuclear	(adj.) 核能的
+disk	(n.) 圆盘，唱片
+wonder	"v.想知道，想弄明白；n.惊奇，惊异；奇迹，奇观"
+burst	"vi.突然出现；n.迸发；v.爆炸"
