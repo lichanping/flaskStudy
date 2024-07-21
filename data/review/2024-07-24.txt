@@ -1,3 +1,27 @@
+adjust	(v.)调整，调节；适应
+gallon	(n.)加仑
+affordable	(adj.)买得起的，担负得起的
+circuit	(n.)电路，线路
+fluent	(adj.)（语言）讲得流利的
+alongside	"prep.在旁边，和……并排；和……一起；和......…"
+weekly	"adj.每周的，一周一次的；adv.一周一次地"
+application	(n.)应用；申请（书）
+appearance	"n.外貌，外表；出现，公开露面"
+bay	(n.)海湾，港湾
+metropolitan	(adj.) 大城市的，大都会的
+apparently	(adv.) 显然
+report	(n.) 报告，汇报；v.报道
+feature	"n.特征，特点，特色；v.以……为主要组成"
+genuine	(adj.) 真的；真正的；真诚的
+flash	"v.闪光；闪现，闪过；n.闪光；刹那"
+billion	(num.) 十亿
+geological	(adj.) 地质学的
+tower	(n.) 塔，楼塔
+association	"n.协会，联盟，社团；关联；联想"
+fond	(adj.) 喜欢的，喜爱的
+geologist	(n.) 地质学家
+sleeve	(n.) 袖子
+contact	"v.联系；n.接触；联系，联络；隐形眼镜"
 wax	(n.) 蜡
 acknowledge	(vt.) 承认；认可
 stewardship	"n. 管理员 、服务员等的职位和职责"
