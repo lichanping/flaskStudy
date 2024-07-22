@@ -160,7 +160,7 @@ possibly	（adv.也许，或许；竟然（表示强调）；尽量，尽…
 definitely	（adv.肯定地，毫无疑问地；确实；明确地，确定地
 pain	（n.痛，痛苦
 qualified	（adj.合格的，胜任的
-eligible	（尤指婚姻等）合适的，合意的;(adj.) 符合条件的
+eligible	（尤指婚姻等）合适的，合意的;(adj.)符合条件的
 unqualified	（adj.不合格的；无资格的；不适任的；绝对的；无限…
 unmanned	（adj.无人驾驶的
 automated	（adj.机械化的；自动化的
@@ -1208,64 +1208,64 @@ particularly	(adv.)特别地，尤其
 shut	(v.)关上，闭上
 listen	(v.)听，倾听；听从，听信
 suffering	(n.)疼痛，苦难
-naughty	(adj.) 顽皮的，淘气的
+naughty	(adj.)顽皮的，淘气的
 station	"n.车站；站，局；电台，电视台"
-wine	(n.) 葡萄酒
+wine	(n.)葡萄酒
 pause	"v.暂停，中止；n.（说话或朗读中的）停顿；中止…"
-sculpture	(n.) 雕刻，雕塑
-postage	(n.) 邮费
-principle	(n.) 原则；原理
-laugh	(v.) 笑，发笑
+sculpture	(n.)雕刻，雕塑
+postage	(n.)邮费
+principle	(n.)原则；原理
+laugh	(v.)笑，发笑
 thoughtful	"adj.缜密思考过的，深思熟虑的；体贴的，周到的"
-salary	(n.) 工资，薪水
-German	(n.) 德语；adj.德国的
-gum	(n.) 口香糖
-proposal	(n.) 提议；建议
+salary	(n.)工资，薪水
+German	(n.)德语；adj.德国的
+gum	(n.)口香糖
+proposal	(n.)提议；建议
 sample	"n.(用于检验、分析的)试样，样品"
-lesson	(n.) 课，一课时
-ancestor	(n.) 祖先
+lesson	(n.)课，一课时
+ancestor	(n.)祖先
 water	"n.水；vt.给……浇水，给……供水"
-extraordinary	(adj.) 非同寻常的
-publish	(v.) 发表；出版；公布
-protection	(n.) 保护，防卫
-significance	(n.) 意义，含义
-handwriting	(n.) 书写，手写
-describe	(v.) 描述
-dislike	(v.) 不喜欢
-responsible	(adj.) 负有责任的
-pork	(n.) 猪肉
-beach	(n.) 海滩，河滩
-commitment	(n.) 承诺，许诺
-heaven	(n.) 天堂；极乐世界
+extraordinary	(adj.)非同寻常的
+publish	(v.)发表；出版；公布
+protection	(n.)保护，防卫
+significance	(n.)意义，含义
+handwriting	(n.)书写，手写
+describe	(v.)描述
+dislike	(v.)不喜欢
+responsible	(adj.)负有责任的
+pork	(n.)猪肉
+beach	(n.)海滩，河滩
+commitment	(n.)承诺，许诺
+heaven	(n.)天堂；极乐世界
 found	"v.成立，建立，创办；发现，感到（ﬁnd的过去式）"
-widow	(n.) 寡妇，遗孀
-million	(num.) 百万；许多
-leak	(n.) 泄漏，裂缝；v.泄露
-style	(n.) 风格；方式，特点
-hammer	(n.) 锤子
-catfish	(n.) 鲇（鲶）鱼
-aloud	(adv.) 大声地
-workplace	(n.) 工作场所
+widow	(n.)寡妇，遗孀
+million	(num.)百万；许多
+leak	(n.)泄漏，裂缝；v.泄露
+style	(n.)风格；方式，特点
+hammer	(n.)锤子
+catfish	(n.)鲇（鲶）鱼
+aloud	(adv.)大声地
+workplace	(n.)工作场所
 institute	"n.学院，专科学院，研究院（或所）"
 handsome	"adj.英俊的，帅气的；漂亮的，大方的"
-secretly	(adv.) 秘密地，偷偷地
-housewife	(n.) 家庭主妇
-horse	(n.) 马
-disaster	(n.) 灾难，天灾
-feed	(v.) 喂，饲养
-besides	(adv.) 此外
-venture	(n.) 企业
+secretly	(adv.)秘密地，偷偷地
+housewife	(n.)家庭主妇
+horse	(n.)马
+disaster	(n.)灾难，天灾
+feed	(v.)喂，饲养
+besides	(adv.)此外
+venture	(n.)企业
 murder	"n.谋杀，凶杀；v.谋杀，凶杀"
-happiness	(n.) 幸福
+happiness	(n.)幸福
 front	"adj.前面的，正面的；n.前面，正面"
-ugly	(adj.) 丑陋的
-circus	(n.) 环形广场
-somehow	(adv.) 以某种方式
-student	(n.) 学生
-popular	(adj.) 受欢迎的
-civilization	(n.) 文明
-birthplace	(n.) 发源地
-nuclear	(adj.) 核能的
-disk	(n.) 圆盘，唱片
+ugly	(adj.)丑陋的
+circus	(n.)环形广场
+somehow	(adv.)以某种方式
+student	(n.)学生
+popular	(adj.)受欢迎的
+civilization	(n.)文明
+birthplace	(n.)发源地
+nuclear	(adj.)核能的
+disk	(n.)圆盘，唱片
 wonder	"v.想知道，想弄明白；n.惊奇，惊异；奇迹，奇观"
 burst	"vi.突然出现；n.迸发；v.爆炸"
