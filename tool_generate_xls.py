@@ -3,7 +3,8 @@ import os
 import random
 import re
 import time
-from datetime import datetime, timedelta
+from datetime import datetime, date
+from datetime import timedelta
 from os.path import dirname, abspath
 
 import edge_tts
@@ -28,9 +29,31 @@ class TxtToXLSX:
     def __init__(self):
         self.data_folder = get_sub_folder_path()
         self.sound_folder = get_sub_folder_path('static/sounds')
+        self.review_folder = get_sub_folder_path('data/review')
         self.ori_file = None
         self.generate_file = None
         self.missing_words = []
+
+    def remove_old_files(self):
+        review_folder = self.review_folder
+        # Get today's date
+        today = date.today()
+
+        # Iterate through all files in the review folder
+        for filename in os.listdir(review_folder):
+            # Check if the file has a .txt extension and matches the date format
+            if filename.endswith('.txt'):
+                # Extract the date part from the filename
+                try:
+                    file_date = datetime.strptime(filename[:-4], '%Y-%m-%d').date()
+                    # Check if the file date is older than today's date
+                    if file_date < today:
+                        file_path = os.path.join(review_folder, filename)
+                        os.remove(file_path)
+                        print(f"Removed file: {file_path}")
+                except ValueError:
+                    # Skip files that don't match the date format
+                    continue
 
     def convert(self, file_name):
         extracted_data = self.read_text(file_name)
@@ -184,6 +207,7 @@ class GenerateTool:
     def simplify_words(self):
         # remove duplicate words
         tool = TxtToXLSX()
+        tool.remove_old_files()
         tool.remove_duplicates_or_merge_translations('高考词汇（持续更新中）.txt')
 
     @Test()
