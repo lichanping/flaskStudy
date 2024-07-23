@@ -940,3 +940,53 @@ fond	(adj.) 喜欢的，喜爱的
 geologist	(n.) 地质学家
 sleeve	(n.) 袖子
 contact	"v.联系；n.接触；联系，联络；隐形眼镜"
+walk	"v.行走；n.散步；走，步行"
+average	"n.平均水平；平均数；adj.平均的；平庸的，普通的…"
+creation	"n.创造，创作；创造物，作品"
+fruit	(n.) 水果
+write	"v.写；创作（文章、诗歌等）"
+basis	"n.基准，根据；基础；原因，缘由"
+brain	(n.) 脑
+noodle	(n.) （常作复数）面条
+color	"n.颜色（=colour）；v.上颜色"
+bite	"n.咬；（咬下的）一口；简单的一餐；v.咬，叮，蜇"
+language	(n.) 语言，语言文字
+farmer	(n.) 农民
+bone	(n.) 骨骼
+excite	"v.使激动，使兴奋；引起，激起"
+comfortable	(adj.) 舒适的
+branch	(n.) 树枝；分支机构，分部
+empty	"adj.空的；空洞的；v.倒空；腾空"
+anywhere	"adv.任何地方，无论何处；pron.任何（一个）…"
+restaurant	(n.) 餐馆
+broken	(adj.) 损坏的
+glue	(n.) 胶水；v.用胶粘
+another	"det.另外的，不同的；pron.类似的人或物"
+god	(n.) 神
+bird	(n.) 鸟，禽
+atmosphere	(n.) 氛围，气氛；大气；空气
+geology	(n.) 地质学
+alcoholic	(adj.) 含酒精的
+geometry	(n.) 几何学；几何形状
+awkward	(adj.) 尴尬的
+germ	"n.细菌；（某事的）发端，萌芽"
+racial	(adj.) 种族的；人种的
+accord	(n.) 协议；vt.授予
+apart	"adv.成碎片；分离地，分开地；相隔，相距"
+professional	(adj.) 专业的；n.专业人员
+laptop	(n.) 笔记本电脑
+ham	(n.) 火腿
+giant	(adj.) 巨大的，特大的
+associate	"v.关联；联系；与......有关；adj.副的；n.伙伴…"
+gifted	(adj.) 有天赋的；有才华的
+tractor	(n.) 拖拉机，牵引车
+boast	"v.吹嘘；夸耀；（地方、机构等）自豪地拥有（好的…"
+glance	(n.) 一瞥，扫视；v.看一下
+glare	(n.) 眩目的光；v.怒目而视
+outdrive	(v.) 驾车快于
+glory	(n.) 光荣，荣誉
+commissioner	(n.) 委员，专员，理事
+burden	(n.) 负担
+instrument	(n.) 仪器；乐器
+congress	(n.) 国会
+entertainment	(n.) 娱乐
