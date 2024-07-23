@@ -16,7 +16,8 @@ class LearnWords {
             text.split('\n').forEach(line => {
                 const match = line.trim().match(pattern);
                 if (match) {
-                    const [_, englishWord, translation] = match;
+                    let [_, englishWord, translation] = match;
+                    englishWord = englishWord.trim(); // Trim any whitespace or tabs
                     if (englishWord && translation) {
                         if (encounteredWords.has(englishWord)) {
                             console.error("Duplicate: ", englishWord);
