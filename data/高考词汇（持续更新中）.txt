@@ -1269,3 +1269,52 @@ nuclear	(adj.)核能的
 disk	(n.)圆盘，唱片
 wonder	"v.想知道，想弄明白；n.惊奇，惊异；奇迹，奇观"
 burst	"vi.突然出现；n.迸发；v.爆炸"
+adolescence	(n.) 青春期，青春
+poet	(n.) 诗人
+dispose	(v.) 处理，处置
+postpone	(vt.) 推迟，延缓
+cup	"n.（一）杯（的容量）；杯，杯子"
+latter	(n.) 后者；adj.后面的
+positive	(adj.) 积极的，乐观的
+child	(n.) 小孩，儿童；子女
+carbon	(n.) 碳
+battery	"n.电池（组）；一组，许多，众多"
+catalog	(n.) 目录，目录册，商品目录
+rhythm	(n.) 节奏
+many	"adj.许多的，大量的；相对多的；n.多数人"
+delicious	(adj.) 美味的，可口的
+sideline	(n.) 球场边线；副业
+channel	(n.) 渠道，方法
+jeep	(n.) 吉普车
+spacecraft	(n.) 航天器
+inspire	(v.) 激励，鼓舞；激发灵感
+paste	(n.) 糊状物，糨糊
+fund	"n.资金，基金；v.拨款，提供资金"
+troop	"n.军队，部队；群；vi.结队而行"
+dynamic	(adj.) 动态的
+illustration	(n.) 插图
+rugby	(n.) 英式橄榄球
+database	(n.) 数据库
+apartment	(n.) <美>公寓
+pearl	(n.) 珍珠；珠状物
+protect	(v.) 保护
+attraction	"n.景点；吸引，魅力；有吸引力的事物"
+clumsily	(adv.) 笨拙地
+inject	(v.) 给……注射
+thank	(v.) 感谢
+bead	(n.) 珠子
+majority	(n.) 大多数，大部分
+toward	(prep.) 向；对于
+soft	"adj.软的，柔软的；柔和的；不含酒精的"
+swing	(v.) 摇荡，摆动
+critic	(n.) 批判者
+ripen	(v.) 使……成熟
+merciful	(adj.) 仁慈的，宽大的
+conduct	"v.进行；表现（读作/kənˈdΛkt/）"
+brewery	(n.) 啤酒厂
+ambassador	(n.) （特命全权）大使
+customer	(n.) 顾客
+monster	(n.) 怪物
+turning	(n.) 转弯处
+ride	"n.短途旅程；搭便车；v.骑（车），乘"
+merely	(adv.) 只是，仅仅，只不过
