@@ -1,3 +1,30 @@
+creature	(n.) 生物；人
+goddess	(n.) 女神
+goose	(n.) 鹅
+carpet	(n.) 地毯
+wag	"v.摇动；n.摇摆；爱说笑的人"
+chain	(n.) 连锁店，连锁集团
+goods	(n.) 货物，商品
+define	(v.) 给（词、短语等）下定义
+firework	(n.) 烟花，烟火
+circumstance	(n.) 情况；环境
+evident	"adj.显然的，明显的，明白的"
+gossip	"n.流言蜚语；爱传流言的人；v.闲聊，传播流言…"
+favor	(n.) 帮助；v.青睐
+combination	(n.) 结合，联合
+seminar	(n.) 研讨会
+combine	(v.) （使）结合
+gradual	(adj.) 逐渐的
+committee	(n.) 委员会
+graduation	(n.) 毕业，毕业典礼
+carry out	(phr.) 开展
+evolve	(v.) （使）逐渐发展；进化
+fitness	(n.) 健康，健壮
+grain	(n.) 质感
+forum	(n.) 论坛
+gram	(n.) 克
+consequently	(adv.) 因此，结果
+grand	"adj.大的；壮丽的，宏伟的，宏大的"
 atmosphere	(n.) 氛围，气氛；大气；空气
 geology	(n.) 地质学
 alcoholic	(adj.) 含酒精的

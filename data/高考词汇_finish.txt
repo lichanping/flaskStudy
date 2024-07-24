@@ -990,3 +990,53 @@ burden	(n.) 负担
 instrument	(n.) 仪器；乐器
 congress	(n.) 国会
 entertainment	(n.) 娱乐
+similar	(adj.) 相似的；类似的
+book	(n.) 书；v.预约
+Canada	(n.) 加拿大
+hand	(n.) 手；vt.递，交
+golden	"adj.特别的，美好的；金黄色的"
+hear	(v.) 听见；听说
+history	(n.) 历史，历史学
+chat	"v.闲谈，聊天；n.闲谈，聊天"
+lose	(v.) 失去
+liquid	(n.) 液体
+minute	(n.) 分钟
+gate	(n.) 大门
+test	"n.测验，测试；v.测验，测试"
+bookstore	(n.) 书店
+clothes	(n.) 衣服
+next	"adj.下一个的，接下来的；adv.其次，然后，随后…"
+barbecue	(n.) 烧烤架；烧烤；户外烧烤
+shine	(v.) 照耀，发光
+pay	"v.支付，偿还；（与某些名词连用，表示施予某物或…"
+complicate	(v.) （使）变复杂
+shop	(n.) 商店；v.买东西
+provide	(v.) 提供，供给
+driver	(n.) 驾驶员，司机；推动力
+creature	(n.) 生物；人
+goddess	(n.) 女神
+goose	(n.) 鹅
+carpet	(n.) 地毯
+wag	"v.摇动；n.摇摆；爱说笑的人"
+chain	(n.) 连锁店，连锁集团
+goods	(n.) 货物，商品
+define	(v.) 给（词、短语等）下定义
+firework	(n.) 烟花，烟火
+circumstance	(n.) 情况；环境
+evident	"adj.显然的，明显的，明白的"
+gossip	"n.流言蜚语；爱传流言的人；v.闲聊，传播流言…"
+favor	(n.) 帮助；v.青睐
+combination	(n.) 结合，联合
+seminar	(n.) 研讨会
+combine	(v.) （使）结合
+gradual	(adj.) 逐渐的
+committee	(n.) 委员会
+graduation	(n.) 毕业，毕业典礼
+carry out	(phr.) 开展
+evolve	(v.) （使）逐渐发展；进化
+fitness	(n.) 健康，健壮
+grain	(n.) 质感
+forum	(n.) 论坛
+gram	(n.) 克
+consequently	(adv.) 因此，结果
+grand	"adj.大的；壮丽的，宏伟的，宏大的"
