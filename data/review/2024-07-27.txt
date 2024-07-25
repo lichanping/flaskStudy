@@ -1,3 +1,33 @@
+return	(v.) 返回；归还；n.回报
+consult	(v.) 咨询
+graph	"n.（曲线）图，图表；vt.用曲线图表示，把…绘入…"
+athletic	(adj.) 运动的，体育的
+container	(n.) 容器
+gratitude	(n.) 感激，感谢
+contemporary	(adj.) 当代的，现代的
+grave	"adj.严肃的，庄重的；n.墓"
+design	(n.) 设计；v.设计
+convince	(vt.) 使信服
+cope	(vi.) 处理，应对
+vacation	(n.) 假期
+farm	(n.) 农场，饲养场；v.养殖
+aware	(adj.) 意识到的
+creativity	(n.) 创造力
+ape	(n.) 类人猿
+greed	(n.) 贪欲，贪婪；贪吃
+credibility	"n.可靠性，可信性，确实有效性"
+farmland	(n.) 农田
+helmet	(n.) 头盔
+current	(adj.) 当前的，现在的
+deadline	(n.) 截止日期，最后日期
+Greek	"adj.希腊的，希腊人的，希腊语的"
+medium	"n.媒介；adj.中等的；中号的"
+casual	(adj.) 随便的
+greengrocer	(n.) 蔬菜水果商
+greeting	(n.) 问候，致敬
+dial	(n.) 仪表盘
+firm	(n.) 公司；adj.坚定的
+grizzly	(n.) 灰熊；adj.灰色的
 creature	(n.) 生物；人
 goddess	(n.) 女神
 goose	(n.) 鹅
