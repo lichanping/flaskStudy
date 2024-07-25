@@ -137,7 +137,7 @@ detector	（n.探测器
 desperate	（adj.拼命的
 hopeful	（adj.有希望的；怀有希望的；给人以希望的；n.…
 gather	（v.聚集；收集；采集；使......聚集
-collect	（v.收集；领取；聚集；募捐；adj.接收者付费的…
+collect	（v.)收集；领取；聚集；募捐；adj.接收者付费的…
 delta	（n.（河流的）三角洲
 considerable	（adj.相当大的
 ample	（adj.富足的；丰满的；宽敞的
@@ -282,7 +282,7 @@ profit	(n.)利润，盈利
 high	(adj.)高的；（标准、质量等）高的，好的；adv.高
 prove	(v.)证明，证实
 wise	(adj.)有智慧的，博学的
-bright	(adj.)明亮的；聪明的；欢快的；adv.光亮地；明亮…
+bright	(adj.)明亮的；聪明的；欢快的；adv.光亮地；明亮地"
 clever	(adj.)聪明的；机智的，熟练的;(adj.)聪明的
 intelligent	(adj.)有智慧的，聪明的；智能的
 smart	(adj.)时髦的，衣着讲究的；聪明的；敏捷的；巧妙的…
@@ -1269,52 +1269,183 @@ nuclear	(adj.)核能的
 disk	(n.)圆盘，唱片
 wonder	"v.想知道，想弄明白；n.惊奇，惊异；奇迹，奇观"
 burst	"vi.突然出现；n.迸发；v.爆炸"
-adolescence	(n.) 青春期，青春
-poet	(n.) 诗人
-dispose	(v.) 处理，处置
-postpone	(vt.) 推迟，延缓
+adolescence	(n.)青春期，青春
+poet	(n.)诗人
+dispose	(v.)处理，处置
+postpone	(vt.)推迟，延缓
 cup	"n.（一）杯（的容量）；杯，杯子"
-latter	(n.) 后者；adj.后面的
-positive	(adj.) 积极的，乐观的
-child	(n.) 小孩，儿童；子女
-carbon	(n.) 碳
+latter	(n.)后者；adj.后面的
+positive	(adj.)积极的，乐观的
+child	(n.)小孩，儿童；子女
+carbon	(n.)碳
 battery	"n.电池（组）；一组，许多，众多"
-catalog	(n.) 目录，目录册，商品目录
-rhythm	(n.) 节奏
+catalog	(n.)目录，目录册，商品目录
+rhythm	(n.)节奏
 many	"adj.许多的，大量的；相对多的；n.多数人"
-delicious	(adj.) 美味的，可口的
-sideline	(n.) 球场边线；副业
-channel	(n.) 渠道，方法
-jeep	(n.) 吉普车
-spacecraft	(n.) 航天器
-inspire	(v.) 激励，鼓舞；激发灵感
-paste	(n.) 糊状物，糨糊
+delicious	(adj.)美味的，可口的
+sideline	(n.)球场边线；副业
+channel	(n.)渠道，方法
+jeep	(n.)吉普车
+spacecraft	(n.)航天器
+inspire	(v.)激励，鼓舞；激发灵感
+paste	(n.)糊状物，糨糊
 fund	"n.资金，基金；v.拨款，提供资金"
 troop	"n.军队，部队；群；vi.结队而行"
-dynamic	(adj.) 动态的
-illustration	(n.) 插图
-rugby	(n.) 英式橄榄球
-database	(n.) 数据库
-apartment	(n.) <美>公寓
-pearl	(n.) 珍珠；珠状物
-protect	(v.) 保护
+dynamic	(adj.)动态的
+illustration	(n.)插图
+rugby	(n.)英式橄榄球
+database	(n.)数据库
+apartment	(n.)<美>公寓
+pearl	(n.)珍珠；珠状物
+protect	(v.)保护
 attraction	"n.景点；吸引，魅力；有吸引力的事物"
-clumsily	(adv.) 笨拙地
-inject	(v.) 给……注射
-thank	(v.) 感谢
-bead	(n.) 珠子
-majority	(n.) 大多数，大部分
-toward	(prep.) 向；对于
+clumsily	(adv.)笨拙地
+inject	(v.)给……注射
+thank	(v.)感谢
+bead	(n.)珠子
+majority	(n.)大多数，大部分
+toward	(prep.)向；对于
 soft	"adj.软的，柔软的；柔和的；不含酒精的"
-swing	(v.) 摇荡，摆动
-critic	(n.) 批判者
-ripen	(v.) 使……成熟
-merciful	(adj.) 仁慈的，宽大的
+swing	(v.)摇荡，摆动
+critic	(n.)批判者
+ripen	(v.)使……成熟
+merciful	(adj.)仁慈的，宽大的
 conduct	"v.进行；表现（读作/kənˈdΛkt/）"
-brewery	(n.) 啤酒厂
-ambassador	(n.) （特命全权）大使
-customer	(n.) 顾客
-monster	(n.) 怪物
-turning	(n.) 转弯处
+brewery	(n.)啤酒厂
+ambassador	(n.)（特命全权）大使
+customer	(n.)顾客
+monster	(n.)怪物
+turning	(n.)转弯处
 ride	"n.短途旅程；搭便车；v.骑（车），乘"
-merely	(adv.) 只是，仅仅，只不过
+merely	(adv.)只是，仅仅，只不过
+focus	"v.给予某物关注；n.中心，重点"
+household	(n.) 家庭
+abuse	(n.) 滥用
+nominate	(v.) 提名
+quantity	(n.) 数量，数额；大量，许多
+prosperous	(adj.) 富裕的；茁壮生长的
+magpie	(n.) 【鸟类】喜鹊；饶舌者
+transform	(v.) 改变，转换
+lightning	(n.) 闪电
+preview	(n.) （电影、戏剧等的）试映
+dash	(v.) 猛冲，突进
+bridge	(n.) 桥，桥梁；v.弥合
+vocabulary	(n.) 词汇（量）
+shower	(n.) 淋浴，淋浴器
+hugely	(adv.) 非常地
+chemist	(n.) 化学家
+seashell	(n.) 贝壳，海贝
+interview	"n.面试；采访；v.采访；面试"
+overlook	"v.忽视，未注意到；眺望，俯视"
+behave	(v.) 举动
+ski	(vi.) 滑雪
+typhoon	(n.) 台风，强热带风暴
+sure	"adv.（表示同意）当然，确实地，无疑地；adj.…"
+neither	"adv.既不……也不……；pron.两者都不"
+properly	(adv.) 适当地；正确地
+root	"n.根，根茎，根部；根源；词根；v.使固定"
+imaginative	(adj.) 富于想象力的；想象的
+airspace	(n.) 领空
+composer	(n.) 作曲家
+awareness	(n.) 意识；明白，知道
+cold	"adj.寒冷的；n.感冒；寒冷"
+arbitrary	"adj.随意的，任性的，随心所欲的"
+mad	(adj.) 生气的，狂怒的
+action	(n.) 行动；行为；动作；作战
+phenomenon	(n.) 现象
+salesgirl	(n.) 女售货员
+importantly	(adv.) 重要地，重要的是
+Midwestern	(adj.) 美国中西部的
+drink	(v.) 喝；n.饮料
+actual	(adj.) 实际的，真实的
+boot	(n.) 靴子；v.启动
+specialist	(n.) 专家
+summary	(n.) 摘要，总结
+gold	"n.黄金，金币；adj.金制的；金色的"
+Olympic	(adj.) 奥林匹克运动会的
+wander	"v.闲逛，漫步；n.闲逛，漫步"
+crew	"n.（有专门技术的）一组工作人员，（飞机、轮船等…"
+tease	(v.) 取笑，打趣
+tremble	(v.) 颤抖，哆嗦
+refer	(v.) 谈及，提到
+division	"n.分，分配；除法；部门；分裂"
+lend	(v.) 借给（某人钱或东西）
+revise	(v.) 修改
+crowd	"n.一伙人；人群，观众；v.挤满"
+clinic	(n.) 诊所，门诊部
+seat	"n.座位；v.能提供...人座位"
+raw	(adj.) 未加工的；原始的
+tomb	(n.) 墓穴，坟墓
+Canadian	(adj.) 加拿大的
+dormitory	(n.) 宿舍
+baggage	(n.) 行李
+depend on or upon	(phr.) 依靠，相信，信赖
+past	"adj.过去的，结束的；n.过去；prep.经过"
+certainty	(n.) 必然的事；确信
+residence	(n.) 住宅
+boss	(n.) 老板，上司
+spelling	(n.) 拼法
+attitude	(n.) 态度
+doubtful	(adj.) 怀疑的，疑惑的
+teenager	(n.) （13～19岁的）青少年
+absolute	(adj.) 完全的；绝对的
+tsunami	(n.) 海啸
+screen	(n.) 屏幕
+ordinary	(adj.) 普通的，平常的
+astronaut	(n.) 宇航员，太空人
+gas	"n.煤气；气体；天然气；汽油"
+telephone	(n.) 电话（机）
+somewhere	(adv.) 到某处，在某处
+bid	"n.出价；投标；努力争取；v.出价；投标；问候；道…"
+berry	(n.) 浆果
+shorten	(v.) 缩短，（使）变短
+continue	(v.) 继续
+ribbon	(n.) 缎带，丝带
+cleaner	(n.) 清洁器
+wife	(n.) 妻子
+appliance	(n.) 家用电器，器具
+memorize	(vt.) 熟记，记忆，记住
+chemistry	(n.) 化学
+designer	(n.) 设计师
+airmail	(n.) 航空邮件
+mushroom	(n.) 蘑菇；v.迅速发展
+generation	(n.) 一代人；产生
+whether	(conj.) 是否；不管，无论
+centimeter	(n.) 厘米（同centimetre）
+pleasant	(adj.) 令人愉快的，舒适的
+outstanding	(adj.) 杰出的，出众的
+play	"v.玩；发挥作用；演奏；打/踢（球）；n.戏剧，…"
+heart	"n.心，心脏；内心；关键，核心；中心，中央"
+mail	(n.) 邮件，信件
+cocoa	(n.) 可可粉
+really	"adv.事实上，真正地；非常，极其；确实"
+parent	(n.) 父亲（或母亲）
+mind	"n.头脑，思想；注意力，心思；v.介意"
+proportion	(n.) 比例
+eyesight	(n.) 视力
+pioneer	"n.先锋，先驱；vt.开辟，首倡"
+humorous	(adj.) 幽默的，搞笑的
+remain	"link-v.保持；v.剩余；n.遗迹"
+contribution	(n.) 贡献
+region	(n.) 地区，区域，地带
+tendency	(n.) 趋向，趋势，倾向
+city	(n.) 城市，都市
+bucket	"n.水桶，（有提梁的）桶；大量；v.颠簸行进；装…"
+correct	"adj.正确的；v.改正；矫正；批改"
+subjective	(adj.) 主观的，个人的
+daughter	(n.) 女儿
+educate	(vt.) 教育，培养
+mist	(n.) 薄雾
+compare	(vt.) 比较；比作
+hero	(n.) 英雄；男主角
+fry	"v.油炸；n.油炸食物；(adj.) 油炸的，油煎的…"
+Saturday	(n.) 星期六
+hurricane	(n.) 飓风
+expect	"v.期望；预计，预料，预期；猜想，认为，料想；…"
+geography	(n.) 地理（学）
+check	"v.检查；核查；n.检查；阻止"
+worthwhile	(adj.) 值得的，有意义的
+weigh	(v.) 称重；认真考虑
+carry off	"phr.夺走；获得(奖项，奖杯)；成功应对"
+building	(n.) 大楼；建筑
+fancy	"adj.花哨的；n.喜爱；v.认为"
