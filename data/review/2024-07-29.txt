@@ -1,3 +1,26 @@
+disadvantage	(n.) 弊端
+set	"v.创建，建立；调整好；（小心地）放置；n.一…"
+diverse	(adj.) 多样的
+shave	"v.剃（须发），刮脸；n.剃须，修面"
+grocer	(n.) 食品杂货商
+species	(n.) 物种
+ecology	(n.) 生态
+guilty	(adj.) 内疚的
+effective	(adj.) 有效的
+constant	(adj.) 持续不断的
+establish	"v.建立；使成为；确立；创立"
+exist	(vi.) 存在
+encounter	"vt.邂逅，偶遇；n.相遇，邂逅"
+enthusiastic	"adj.狂热的，极感兴趣的；热情的"
+give in	(phr.) 屈服
+haircut	(n.) 理发；发型
+expense	"n.开销，开支；花费，费用；代价"
+max	"abbr.<非正式>最大的，最大限度的（同maximum）"
+extend	(v.) 扩展；延长；提供，给予
+discourage	(vt.) 阻拦；阻止；使泄气
+facility	(n.) 设施，设备
+gorilla	(n.) 大猩猩
+Switzerland	(n.) 瑞士
 creature	(n.) 生物；人
 goddess	(n.) 女神
 goose	(n.) 鹅
