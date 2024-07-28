@@ -1190,3 +1190,53 @@ heading	"n.标题（用于文章或章节开头）；v.head的现在分词"
 memorial	"n.纪念物，纪念碑，纪念仪式"
 Greece	(n.) 希腊
 organism	(n.) 有机体，生物
+headmaster	(n.) 校长（尤指私立学校的）
+ocean	(n.) 海洋，洋，大海
+once	"adv.一次；曾经；conj.一旦，当……的时候"
+musical	(adj.) 音乐的；n.音乐剧
+headmistress	(n.) 女校长
+male	"adj.男性的，雄性的；n.男性，雄性"
+hike	(v.) 徒步旅行；去......远足
+hometown	(n.) 家乡
+shut	(v.) 关上，闭上
+listen	(v.) 听，倾听；听从，听信
+naughty	(adj.) 顽皮的，淘气的
+station	"n.车站；站，局；电台，电视台"
+wine	(n.) 葡萄酒
+laugh	(v.) 笑，发笑
+thoughtful	"adj.缜密思考过的，深思熟虑的；体贴的，周到的"
+lesson	(n.) 课，一课时
+water	"n.水；vt.给……浇水，给……供水"
+publish	(v.) 发表；出版；公布
+protection	(n.) 保护，防卫
+handwriting	(n.) 书写，手写
+responsible	(adj.) 负有责任的
+pork	(n.) 猪肉
+beach	(n.) 海滩，河滩
+found	"v.成立，建立，创办；发现，感到（ﬁnd的过去式）"
+marine	(adj.) 海洋的
+percent	(n.) 百分比
+nutrition	(n.) 营养
+operation	"n.手术；经营；行动，活动；运转"
+moral	"adj.道德（上）的，道义的；n.道德，品行"
+require	(v.) 需要；要求，规定
+particularly	(adv.) 特别地，尤其
+suffering	(n.) 疼痛，苦难
+pause	"v.暂停，中止；n.（说话或朗读中的）停顿；中止…"
+sculpture	(n.) 雕刻，雕塑
+postage	(n.) 邮费
+principle	(n.) 原则；原理
+salary	(n.) 工资，薪水
+German	(n.) 德语；adj.德国的
+gum	(n.) 口香糖
+proposal	(n.) 提议；建议
+sample	"n.(用于检验、分析的)试样，样品"
+ancestor	(n.) 祖先
+extraordinary	(adj.) 非同寻常的
+significance	(n.) 意义，含义
+describe	(v.) 描述
+dislike	(v.) 不喜欢
+commitment	(n.) 承诺，许诺
+heaven	(n.) 天堂；极乐世界
+widow	(n.) 寡妇，遗孀
+million	(num.) 百万；许多
