@@ -1,3 +1,33 @@
+leak	(n.) 泄漏，裂缝；v.泄露
+hammer	(n.) 锤子
+catfish	(n.) 鲇（鲶）鱼
+aloud	(adv.) 大声地
+institute	"n.学院，专科学院，研究院（或所）"
+disaster	(n.) 灾难，天灾
+venture	(n.) 企业
+circus	(n.) 环形广场
+somehow	(adv.) 以某种方式
+civilization	(n.) 文明
+birthplace	(n.) 发源地
+nuclear	(adj.) 核能的
+disk	(n.) 圆盘，唱片
+wonder	"v.想知道，想弄明白；n.惊奇，惊异；奇迹，奇观"
+burst	"vi.突然出现；n.迸发；v.爆炸"
+adolescence	(n.) 青春期，青春
+poet	(n.) 诗人
+dispose	(v.) 处理，处置
+postpone	(vt.) 推迟，延缓
+latter	(n.) 后者；adj.后面的
+positive	(adj.) 积极的，乐观的
+carbon	(n.) 碳
+catalog	(n.) 目录，目录册，商品目录
+rhythm	(n.) 节奏
+sideline	(n.) 球场边线；副业
+channel	(n.) 渠道，方法
+spacecraft	(n.) 航天器
+inspire	(v.) 激励，鼓舞；激发灵感
+paste	(n.) 糊状物，糨糊
+fund	"n.资金，基金；v.拨款，提供资金"
 marine	(adj.) 海洋的
 percent	(n.) 百分比
 nutrition	(n.) 营养
