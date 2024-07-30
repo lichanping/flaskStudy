@@ -123,9 +123,6 @@ export async function renderQuestion() {
     const fileName = document.getElementById("file").value + ".txt";
     const key = fileName.replace('.txt', '');
     const optionsLine = document.getElementById("options-line");
-    const renderQuestionButton = document.getElementById("renderQuestion");
-    const buttonText = renderQuestionButton.innerText;
-    const isPlayButton = buttonText == "播放";
     const isRandom = document.getElementById("random-toggle").checked;
     try {
         // Reset spelling input and its background color
@@ -164,11 +161,7 @@ export async function renderQuestion() {
 
         let englishWordInput = document.getElementById("englishWordTextBox");
         englishWordInput.value = currentEnglishWord;
-        if (isPlayButton) {
-            englishWordInput.style.visibility = 'visible';
-        } else {
-            englishWordInput.style.visibility = 'visible';
-        }
+        englishWordInput.style.visibility = 'visible';
         // Clear previous options
         optionsLine.innerHTML = '';
 

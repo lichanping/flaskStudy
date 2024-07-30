@@ -4,6 +4,17 @@ body {
     background-color: #2F4F4F; /* Dark background color with green tint */
     color: #ffffff; /* White font color */
 }
+.icon-button {
+    background: none;
+    border: none;
+    cursor: pointer;
+    padding: 10px;
+    font-size: 16px;
+}
+
+.icon-button:focus {
+    outline: none;
+}
 
 /* Title styles */
 h1 {
