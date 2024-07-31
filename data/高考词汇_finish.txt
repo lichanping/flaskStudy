@@ -1290,3 +1290,53 @@ spacecraft	(n.) 航天器
 inspire	(v.) 激励，鼓舞；激发灵感
 paste	(n.) 糊状物，糨糊
 fund	"n.资金，基金；v.拨款，提供资金"
+protect	(v.) 保护
+attraction	"n.景点；吸引，魅力；有吸引力的事物"
+thank	(v.) 感谢
+soft	"adj.软的，柔软的；柔和的；不含酒精的"
+swing	(v.) 摇荡，摆动
+customer	(n.) 顾客
+monster	(n.) 怪物
+turning	(n.) 转弯处
+ride	"n.短途旅程；搭便车；v.骑（车），乘"
+focus	"v.给予某物关注；n.中心，重点"
+bridge	(n.) 桥，桥梁；v.弥合
+vocabulary	(n.) 词汇（量）
+shower	(n.) 淋浴，淋浴器
+behave	(v.) 举动
+ski	(vi.) 滑雪
+typhoon	(n.) 台风，强热带风暴
+troop	"n.军队，部队；群；vi.结队而行"
+dynamic	(adj.) 动态的
+illustration	(n.) 插图
+rugby	(n.) 英式橄榄球
+database	(n.) 数据库
+apartment	(n.) <美>公寓
+pearl	(n.) 珍珠；珠状物
+clumsily	(adv.) 笨拙地
+inject	(v.) 给……注射
+bead	(n.) 珠子
+majority	(n.) 大多数，大部分
+toward	(prep.) 向；对于
+critic	(n.) 批判者
+ripen	(v.) 使……成熟
+merciful	(adj.) 仁慈的，宽大的
+conduct	"v.进行；表现（读作/kənˈdΛkt/）"
+brewery	(n.) 啤酒厂
+ambassador	(n.) （特命全权）大使
+merely	(adv.) 只是，仅仅，只不过
+household	(n.) 家庭
+abuse	(n.) 滥用
+nominate	(v.) 提名
+quantity	(n.) 数量，数额；大量，许多
+prosperous	(adj.) 富裕的；茁壮生长的
+magpie	(n.) 【鸟类】喜鹊；饶舌者
+transform	(v.) 改变，转换
+lightning	(n.) 闪电
+preview	(n.) （电影、戏剧等的）试映
+dash	(v.) 猛冲，突进
+hugely	(adv.) 非常地
+chemist	(n.) 化学家
+seashell	(n.) 贝壳，海贝
+interview	"n.面试；采访；v.采访；面试"
+overlook	"v.忽视，未注意到；眺望，俯视"
