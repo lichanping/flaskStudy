@@ -204,3 +204,124 @@ sexual	(adj.) 性别的；性的；性感的
 method	(n.) 方法
 freedom	(n.) 自由
 brush	(v.) 擦
+roughly	(adv.) 大约，粗略地
+vacant	(adj.) 空缺的
+translate	(vt.) 转换；翻译
+gun	(n.) 枪，炮
+musician	(n.) 音乐家，作曲家
+visa	(n.) 签证
+participant	(n.) 参与者，参加者
+shoot	"v.（使朝某方向）冲，奔，扑，射，飞驰；射门"
+bench	(n.) 长凳
+article	(n.) 文章
+recent	(adj.) 最近的
+rocket	(n.) 火箭，火箭弹
+whale	(n.) 鲸
+power	"n.力量；电力；权力；v.驱动"
+transportation	(n.) 交通；运输
+AIDS	"abbr.艾滋病，获得性免疫缺陷综合征"
+tight	(adj.) 严密的；紧张的
+sideways	"adv.向侧面地；侧；斜着地；adj.旁边的；斜着…"
+cheers	(int.) 干杯
+express	(v.) 表达；adj.快速的
+frequent	"adj.时常的，频繁的（读作/ˈfrikwənt/）"
+tense	(adj.) 紧张的
+feast	(n.) 盛宴，特别的享受
+schedule	"n.时间表，计划表；v.预订，安排"
+Mexico	(n.) 墨西哥
+boxing	(n.) 拳击；盒式包装
+skim	(v.) 掠过，滑过
+flashlight	(n.) 手电筒
+personal	(adj.) 个人的，私人的
+minimum	"adj.最少的，最低（限度）的；n.最低限度，最小量"
+incident	(n.) 事件
+aviation	(n.) 航空，航空学
+garment	(n.) 服装
+law	(n.) 法律
+recover	"v.恢复；痊愈，恢复健康；收回"
+knot	"n.绳结，结合，树的节；v.打结"
+area	(n.) 区域，地区
+equipment	(n.) 设备，器材
+rank	"v.排名；n.地位；等级，级别"
+habitat	(n.) 栖息地，生活环境
+stupid	(adj.) 愚蠢的，笨的
+studio	(n.) 工作室
+businessman	(n.) 商人
+academy	(n.) 学院
+jazz	(n.) 爵士乐
+jelly	(n.) 果冻，肉冻；胶状物
+web	(n.) 网
+height	"n.高，（物的）高度；（人的）身高"
+breathless	(adj.) 喘不过气来的
+nail	(v.) 将……钉牢，钉住
+socialism	(n.) 社会主义
+badge	(n.) 徽章
+motorcycle	(n.) 摩托车
+interrupt	(v.) 打断
+original	"adj.最初的，原始的，原来的；有独创性的，独创的…"
+violate	(v.) 违反，违背；侵犯，妨碍
+relieve	(v.) 减轻
+biscuit	(n.) 饼干
+policy	(n.) 政策，方针
+liberty	(n.) 自由
+trustworthy	(adj.) 可信赖的，可靠的
+major	"adj.主要的；严重的；n.主修（科目）；主修学生…"
+stewardess	"n.（飞机上的）女服务员，空姐；女管家"
+astonishing	(adj.) 令人惊讶的
+blank	"n.空白，空白处；adj.（纸等）空白的；茫然的"
+swell	(v.) 膨胀，鼓起
+prepare	(v.) 准备
+jet	"n.喷气式飞机；vi.乘坐喷气式飞机"
+competent	(adj.) 有能力的
+boring	(adj.) 无聊的，乏味的
+November	(n.) 十一月
+curriculum	"n.课程，（学校或专业的）全部课程"
+depressed	(adj.) 意志消沉的
+ton	(n.) 吨
+score	"n.得分，分数；乐谱；v.购买，取得"
+flood	(v.) 大量涌入；n.洪水
+roast	"adj.烤的，烘的；v.烤，焙，烘"
+measurement	(n.) 衡量，测量；尺寸
+fall	"vi.落下；下降，减弱；变成，进入（某种状态）；…"
+propose	(vt.) 提议；vi.求婚
+signal	(n.) 信号；v.表明
+tightly	(adv.) 紧紧地
+outwards	(adv.) 向外地
+colleague	(n.) 同事
+misunderstanding	(n.) 误解，误会，不和
+strict	"adj.（条例、法规等）严格的；严厉的"
+corner	(n.) 角落，角；拐角
+nationality	(n.) 国籍
+consume	"vt.消耗，消费；吃，喝，饮"
+greet	(v.) 问候，招呼
+wrongly	(adv.) 错误地
+instruction	"n.指令，命令；指示；说明，说明书；指导"
+feeling	"n.（内心和感官的）感觉，感触，情绪；v.感觉"
+tear	"v.撕裂，撕碎（读作/ter/）；n.眼泪（读作/tɪr/）"
+admit	"v.承认；准许进入；接纳，接收（入学）"
+emergency	"n.紧急情况，突发事件；adj.紧急情况下的；应急的"
+actress	(n.) 女演员
+reservation	"n.（住处、席位的）预订；（美国印第安部落的）居…"
+range	"n.范围，界限；一系列；v.（在一定范围内）变化"
+react	"vi.起反应，对……做出反应"
+survey	(n.) 调查
+throw	(v.) 扔，抛，投掷；n.投掷
+maple	(n.) 枫树
+material	"n.材料，原料；adj.物质的，客观存在的"
+anecdote	(n.) 轶事，趣闻
+southeastern	(adj.) 东南方的
+suck	"v.吮，啜，吸；n.吸吮，吸力"
+object	"n.物体；对象；v.反对（读作/əbˈdʒekt/）"
+southeast	(adj.) 东南方的
+prayer	(n.) 祈祷，祷告
+perform	(v.) 运行；表演；表现；执行
+microscope	(n.) 显微镜
+physical	"adj.身体的，肉体的；物理的，物理学的"
+scar	"n.伤疤，伤痕；内心创伤；v.给……留下伤痕"
+recognize	"vt.认出，辨别；v.认可；公认"
+medical	(adj.) 医学的，医疗的
+cookie	(n.) 饼干
+physicist	(n.) 物理学者，物理学家
+voice	(n.) 声音
+appoint	(v.) 委派，任命
+stubborn	(adj.) 顽固的
