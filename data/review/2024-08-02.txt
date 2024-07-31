@@ -1,3 +1,37 @@
+troop	"n.军队，部队；群；vi.结队而行"
+dynamic	(adj.) 动态的
+illustration	(n.) 插图
+rugby	(n.) 英式橄榄球
+database	(n.) 数据库
+apartment	(n.) <美>公寓
+pearl	(n.) 珍珠；珠状物
+clumsily	(adv.) 笨拙地
+inject	(v.) 给……注射
+bead	(n.) 珠子
+majority	(n.) 大多数，大部分
+toward	(prep.) 向；对于
+critic	(n.) 批判者
+ripen	(v.) 使……成熟
+merciful	(adj.) 仁慈的，宽大的
+conduct	"v.进行；表现（读作/kənˈdΛkt/）"
+brewery	(n.) 啤酒厂
+ambassador	(n.) （特命全权）大使
+merely	(adv.) 只是，仅仅，只不过
+household	(n.) 家庭
+abuse	(n.) 滥用
+nominate	(v.) 提名
+quantity	(n.) 数量，数额；大量，许多
+prosperous	(adj.) 富裕的；茁壮生长的
+magpie	(n.) 【鸟类】喜鹊；饶舌者
+transform	(v.) 改变，转换
+lightning	(n.) 闪电
+preview	(n.) （电影、戏剧等的）试映
+dash	(v.) 猛冲，突进
+hugely	(adv.) 非常地
+chemist	(n.) 化学家
+seashell	(n.) 贝壳，海贝
+interview	"n.面试；采访；v.采访；面试"
+overlook	"v.忽视，未注意到；眺望，俯视"
 aggressive(adj.)有攻击性的:好斗的
 exceed (v.)超过
 explicit(adj.)明确的
