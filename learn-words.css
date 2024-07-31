@@ -4,17 +4,6 @@ body {
     background-color: #2F4F4F; /* Dark background color with green tint */
     color: #ffffff; /* White font color */
 }
-.icon-button {
-    background: none;
-    border: none;
-    cursor: pointer;
-    padding: 10px;
-    font-size: 16px;
-}
-
-.icon-button:focus {
-    outline: none;
-}
 
 /* Title styles */
 h1 {
@@ -247,7 +236,7 @@ input:checked + .slider:before {
 #score-container,
 #error-count-container,
 #spelling-errors-container,
-#noCorrectAnswer{
+#noCorrectAnswer {
     display: flex; /* Use Flexbox layout */
     align-items: center; /* Vertically center content */
     margin-right: 20px; /* Add right margin */
