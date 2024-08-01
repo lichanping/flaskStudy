@@ -275,3 +275,51 @@ physicist	(n.) 物理学者，物理学家
 voice	(n.) 声音
 appoint	(v.) 委派，任命
 stubborn	(adj.) 顽固的
+sailor	(n.) 水手，海员
+performance	"n.表现；表演，演出；业绩，成绩；性能"
+awake	"adj.醒着的；v.唤起，被唤起"
+unlike	(prep.) 不像；和……不同
+raincoat	(n.) 雨衣
+candle	(n.) 蜡烛
+idea	(n.) 想法，主意；思想，概念
+astonish	(vt.) 使十分惊讶
+accompany	(v.) 陪伴；陪同
+rejoice	(v.) 感到欣喜，感到高兴
+operator	(n.) 经营者
+Danish	(adj.) 丹麦的
+arrangement	(n.) 安排；布置
+rotten	(adj.) 腐烂的，腐朽的
+bear	"vt.生育；忍受，容忍；n.熊"
+all in all	(phr.) 总而言之
+profession	(n.) 职业
+dress	"v.打扮，穿着；n.连衣裙；服装"
+jump	(v.) 跳
+comment	"n.评论；v.评论，表达意见"
+surrounding	(n.) 环境
+cycle	"n.周期，循环；v.骑自行车"
+thunder	(n.) 雷，雷声
+lorry	(n.) 卡车；运货汽车
+during	(prep.) 在…期间
+hesitate	(v.) 犹豫
+Australia	(n.) 澳大利亚
+wreath	(n.) 花圈；圈状物
+friend	(n.) 朋友
+director	"n.（电影、戏剧等的）导演；主管；主任"
+consideration	(n.) 考虑，思考
+album	"n.相册；唱片集，专辑；集邮册"
+relay	"n.接力赛跑（读作/ˈriˌleɪ/）；v.转播，转发（…"
+furnished	(adj.) 有家具的
+animal	(n.) 动物
+litter	(n.) 垃圾；v.乱丢
+patent	"n.专利；adj.有专利的；显然的，明显的；v.取…"
+downtown	"adv.在市中心；n.市中心区，市中心；adj.市中…"
+glass	(n.) 玻璃；眼镜；玻璃杯
+seize	(v.) 抓住，逮捕
+Atlantic	(n.) 大西洋
+bathtub	(n.) 浴盆，浴缸
+mine	"pron.我的（所有物）；n.矿，矿山；v.开采，采矿"
+speech	"n.演说，讲话，发言；言语，语言"
+window	(n.) 窗
+hand in	(phr.) 上交，递交
+justice	(n.) 正义
+class	"n.课，上课；阶级，社会等级，等级制度；班级，同…"
