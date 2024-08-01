@@ -1,3 +1,34 @@
+neither	"adv.既不……也不……；pron.两者都不"
+properly	(adv.) 适当地；正确地
+root	"n.根，根茎，根部；根源；词根；v.使固定"
+imaginative	(adj.) 富于想象力的；想象的
+airspace	(n.) 领空
+composer	(n.) 作曲家
+arbitrary	"adj.随意的，任性的，随心所欲的"
+phenomenon	(n.) 现象
+salesgirl	(n.) 女售货员
+Midwestern	(adj.) 美国中西部的
+actual	(adj.) 实际的，真实的
+specialist	(n.) 专家
+summary	(n.) 摘要，总结
+wander	"v.闲逛，漫步；n.闲逛，漫步"
+crew	"n.（有专门技术的）一组工作人员，（飞机、轮船等…"
+tease	(v.) 取笑，打趣
+tremble	(v.) 颤抖，哆嗦
+refer	(v.) 谈及，提到
+division	"n.分，分配；除法；部门；分裂"
+lend	(v.) 借给（某人钱或东西）
+revise	(v.) 修改
+crowd	"n.一伙人；人群，观众；v.挤满"
+clinic	(n.) 诊所，门诊部
+raw	(adj.) 未加工的；原始的
+tomb	(n.) 墓穴，坟墓
+dormitory	(n.) 宿舍
+certainty	(n.) 必然的事；确信
+residence	(n.) 住宅
+doubtful	(adj.) 怀疑的，疑惑的
+absolute	(adj.) 完全的；绝对的
+tsunami	(n.) 海啸
 troop	"n.军队，部队；群；vi.结队而行"
 dynamic	(adj.) 动态的
 illustration	(n.) 插图

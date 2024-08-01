@@ -1340,3 +1340,53 @@ chemist	(n.) 化学家
 seashell	(n.) 贝壳，海贝
 interview	"n.面试；采访；v.采访；面试"
 overlook	"v.忽视，未注意到；眺望，俯视"
+sure	"adv.（表示同意）当然，确实地，无疑地；adj.…"
+awareness	(n.) 意识；明白，知道
+cold	"adj.寒冷的；n.感冒；寒冷"
+mad	(adj.) 生气的，狂怒的
+action	(n.) 行动；行为；动作；作战
+importantly	(adv.) 重要地，重要的是
+drink	(v.) 喝；n.饮料
+boot	(n.) 靴子；v.启动
+gold	"n.黄金，金币；adj.金制的；金色的"
+Olympic	(adj.) 奥林匹克运动会的
+seat	"n.座位；v.能提供...人座位"
+Canadian	(adj.) 加拿大的
+baggage	(n.) 行李
+depend on or upon	(phr.) 依靠，相信，信赖
+past	"adj.过去的，结束的；n.过去；prep.经过"
+boss	(n.) 老板，上司
+spelling	(n.) 拼法
+attitude	(n.) 态度
+teenager	(n.) （13～19岁的）青少年
+neither	"adv.既不……也不……；pron.两者都不"
+properly	(adv.) 适当地；正确地
+root	"n.根，根茎，根部；根源；词根；v.使固定"
+imaginative	(adj.) 富于想象力的；想象的
+airspace	(n.) 领空
+composer	(n.) 作曲家
+arbitrary	"adj.随意的，任性的，随心所欲的"
+phenomenon	(n.) 现象
+salesgirl	(n.) 女售货员
+Midwestern	(adj.) 美国中西部的
+actual	(adj.) 实际的，真实的
+specialist	(n.) 专家
+summary	(n.) 摘要，总结
+wander	"v.闲逛，漫步；n.闲逛，漫步"
+crew	"n.（有专门技术的）一组工作人员，（飞机、轮船等…"
+tease	(v.) 取笑，打趣
+tremble	(v.) 颤抖，哆嗦
+refer	(v.) 谈及，提到
+division	"n.分，分配；除法；部门；分裂"
+lend	(v.) 借给（某人钱或东西）
+revise	(v.) 修改
+crowd	"n.一伙人；人群，观众；v.挤满"
+clinic	(n.) 诊所，门诊部
+raw	(adj.) 未加工的；原始的
+tomb	(n.) 墓穴，坟墓
+dormitory	(n.) 宿舍
+certainty	(n.) 必然的事；确信
+residence	(n.) 住宅
+doubtful	(adj.) 怀疑的，疑惑的
+absolute	(adj.) 完全的；绝对的
+tsunami	(n.) 海啸
