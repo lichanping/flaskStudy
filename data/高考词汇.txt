@@ -223,3 +223,80 @@ window	(n.) 窗
 hand in	(phr.) 上交，递交
 justice	(n.) 正义
 class	"n.课，上课；阶级，社会等级，等级制度；班级，同…"
+grocery	(n.) 食品杂货店
+consultant	(n.) 顾问；高级顾问医师
+recorder	(n.) 录音机
+voluntary	"adj.自愿的；无偿的；n.即兴曲"
+break	"v.打破，摔碎；破坏，违反（规则、承诺或协议）；…"
+top	"n.顶部；adj.（位置、级别或程度）最高的；头等…"
+motive	(n.) 动机，目的
+interval	(n.) 音程
+field	"n.领域；田野，田地；运动场"
+cubic	(adj.) 立方体的，立体的
+short	(adj.) 短的；短缺的
+nationwide	(adj.) 全国范围的，全国性的
+quote	"v.引用；报价；n.引语，引文"
+search	(v.) 搜索；搜寻；n.搜寻
+approximately	(adv.) 近似地，大约
+word	(n.) 字，词，话
+wilderness	(n.) 荒野
+fast	"adv.迅速地；adj.迅速的，动作敏捷的；很快做…"
+tremendous	(adj.) 巨大的
+cowboy	(n.) 牛仔
+kind	"n.种类；adj.善良的，仁慈的，亲切的，和蔼的"
+calculator	(n.) 计算器，计算者
+dominant	(adj.) 主要的，占优势的
+resolve	(v.) 解决（问题或困难）
+library	(n.) 图书馆，藏书室
+consider	"v.考虑，细想；认为；把…看作"
+increasingly	(adv.) 日益，越来越多地
+ambitious	(adj.) 有抱负的，有野心的
+coach	(n.) 教练；vt.训练，指导
+spaceship	(n.) 宇宙飞船，航天器
+particular	"adj.特定的；特别的，不寻常的；n.尤其，特别"
+church	(n.) 教堂
+quite	"adv.完全，相当，十分；的确，真正地"
+textile	(n.) 纺织品
+run	"vi.跑步，奔跑；运转，运作；vt.管理，运营（公…"
+obey	(v.) 服从，听从，遵守
+reader	(n.) 读者
+bureaucratic	"adj.繁文缛节的；官僚的，官僚政治的"
+sword	(n.) 剑，刀
+preserve	(v.) 保存；保护
+wave	"n.涌现的人，涌现的事物；v.挥手，招手"
+postcode	(n.) <英>邮政编码
+light	"n.灯；光亮；v.点火，照亮；adj.轻的"
+seal	(vt.) 密封，把……封入
+scholarship	(n.) 奖学金
+arch	"n.拱洞，拱形结构；拱起；拱门；v.做成拱形"
+weekday	(n.) 工作日，平日
+impact	"n.影响；v.有影响（读作/ɪmˈpækt/）"
+angry	(adj.) 愤怒的
+extension	(n.) 延期
+conquer	(v.) 征服，攻克
+smelly	(adj.) 有臭味的
+erupt	"v.（火山、喷泉、蒸汽等）喷发"
+cheat	(v.) 欺骗，哄骗
+loudspeaker	(n.) 喇叭，扬声器，扩音器
+mutton	(n.) 羊肉，羊
+probable	(adj.) 很可能的
+lane	(n.) 巷
+yard	(n.) 院子，庭院
+loose	(adj.) 宽松的
+multicultural	(adj.) 多种文化的
+participate	(vi.) 参与，参加
+mathematics	(n.) （=maths）数学
+arise	"vi.由……引起，发生；升起"
+hydrogen	(n.) 氢，氢气
+approach	"v.接近；着手处理；n.方法"
+seed	(n.) 种子，籽
+smell	"n.气味；v.嗅，闻（......的气味），闻到"
+conventional	(adj.) 普通的，常规的
+terrified	(adj.) 恐惧的
+depend	(v.) 取决于
+sensitive	(adj.) 敏感的
+line	"n.线，线条；路线；（戏剧或电影的）台词，对白；…"
+condemn	(v.) 谴责，责备
+stainless	(adj.) 不生锈的，不锈钢的
+health	(n.) 健康
+crop	(n.) 作物，庄稼
