@@ -1,0 +1,25 @@
+bid	"n.出价；投标；努力争取；v.出价；投标；问候；道…"
+berry	(n.) 浆果
+shorten	(v.) 缩短，（使）变短
+ribbon	(n.) 缎带，丝带
+cleaner	(n.) 清洁器
+appliance	(n.) 家用电器，器具
+airmail	(n.) 航空邮件
+generation	(n.) 一代人；产生
+whether	(conj.) 是否；不管，无论
+pleasant	(adj.) 令人愉快的，舒适的
+outstanding	(adj.) 杰出的，出众的
+heart	"n.心，心脏；内心；关键，核心；中心，中央"
+cocoa	(n.) 可可粉
+proportion	(n.) 比例
+eyesight	(n.) 视力
+pioneer	"n.先锋，先驱；vt.开辟，首倡"
+humorous	(adj.) 幽默的，搞笑的
+remain	"link-v.保持；v.剩余；n.遗迹"
+contribution	(n.) 贡献
+region	(n.) 地区，区域，地带
+tendency	(n.) 趋向，趋势，倾向
+bucket	"n.水桶，（有提梁的）桶；大量；v.颠簸行进；装…"
+subjective	(adj.) 主观的，个人的
+mist	(n.) 薄雾
+fry	"v.油炸；n.油炸食物；(adj.) 油炸的，油煎的…"
