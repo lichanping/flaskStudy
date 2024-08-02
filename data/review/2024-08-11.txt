@@ -1,3 +1,15 @@
+arbitrary "adj.随意的，任性的，随心所欲的"
+summary (n.) 摘要，总结
+inject (v.) 给……注射
+bead (n.) 珠子
+conduct "v.进行；表现（读作/kənˈdΛkt/）"
+genuine (adi.)真的;真正的;真诚的
+adequate (adj.)足够的，充分的
+pause "v.暂停，中止；n.（说话或朗读中的）停顿；中止…"
+extraordinary (adj.) 非同寻常的
+species (n.) 物种
+extend (v.) 扩展；延长；提供，给予
+combination (n.) 结合，联合
 bid	"n.出价；投标；努力争取；v.出价；投标；问候；道…"
 berry	(n.) 浆果
 shorten	(v.) 缩短，（使）变短
