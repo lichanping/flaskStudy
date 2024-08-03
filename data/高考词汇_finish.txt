@@ -1440,3 +1440,53 @@ bucket	"n.水桶，（有提梁的）桶；大量；v.颠簸行进；装…"
 subjective	(adj.) 主观的，个人的
 mist	(n.) 薄雾
 fry	"v.油炸；n.油炸食物；(adj.) 油炸的，油煎的…"
+expect	"v.期望；预计，预料，预期；猜想，认为，料想；…"
+geography	(n.) 地理（学）
+check	"v.检查；核查；n.检查；阻止"
+building	(n.) 大楼；建筑
+reality	(n.) 现实，实际
+manager	(n.) 经理，管理人
+toothpaste	(n.) 牙膏
+lifestyle	(n.) 生活方式
+member	(n.) 成员；会员
+barkeeper	(n.) 酒吧老板
+finally	"adv.最终地，最后地；最终，终于"
+include	(v.) 包括
+waiting room	(n.) 候车室；候诊室
+complicated	(adj.) 复杂的
+daily	"adj.每日的，日常的；n.日报；adv.每日，每天…"
+button	(n.) 按钮，开关
+body	(n.) 身体
+hurricane	(n.) 飓风
+worthwhile	(adj.) 值得的，有意义的
+weigh	(v.) 称重；认真考虑
+carry off	"phr.夺走；获得(奖项，奖杯)；成功应对"
+fancy	"adj.花哨的；n.喜爱；v.认为"
+universal	"adj.普遍的，全体的；广泛适用的"
+rate	"n.率，比率；速度，速率；v.评估，评价"
+snowstorm	(n.) 暴风雪
+rich	"adj.富有的；丰富的；浓厚的"
+merry	(adj.) 欢乐的，愉快的
+grasp	(vt.) 领会，理解；n.理解
+watcher	(n.) 观察者
+agency	(n.) 代理机构
+political	(adj.) 政治的
+prediction	(n.) 预测，预言
+select	"v.选择，挑选；adj.精选的，选择的"
+bend	"v.（使）弯曲；n.弯曲，弯曲处"
+relevant	(adj.) 相关的，有关的
+doll	(n.) 玩具娃娃，玩偶
+orbit	(n.) 轨道
+backward	(adv.) 向后地
+accountant	(n.) 会计人员，会计师
+reception	(n.) 前台，接待处
+type	"n.类型，种类；典型；v.打字"
+anniversary	"n.周年纪念日；adj.（有关）周年纪念的"
+donation	(n.) 捐款
+tempt	(v.) 诱惑
+politician	(n.) 政治家，政客
+impression	(n.) 印象，感觉，感想
+mourn	(v.) 哀悼，哀伤
+coworker	(n.) 同事
+movement	(n.) 运动
+pardon	(vt.) 赦免，原谅
