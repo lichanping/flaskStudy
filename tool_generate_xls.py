@@ -215,6 +215,7 @@ class GenerateTool:
         tool = TxtToXLSX()
         # generate missing sounds
         tool.convert('高考词汇（持续更新中）.txt')  # commented the create_excel due to uselessness.
+        tool.convert('法语单词（持续更新中）.txt')  # commented the create_excel due to uselessness.
 
     @Test()
     def import_forgotten(self):
