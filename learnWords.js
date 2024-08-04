@@ -119,6 +119,19 @@ export function play_audio() {
     audio.play();
 }
 
+export async function clearCurrentIndex() {
+    const fileName = document.getElementById("file").value + ".txt";
+    const key = fileName.replace('.txt', '');
+    sessionStorage.removeItem(`${key}_currentIndex`);
+    renderQuestion();
+    document.getElementById('englishWordTextBox').style.backgroundColor = '';
+    document.getElementById('incorrectWords').innerHTML = '';
+    document.getElementById("scoreNumber").textContent = "0";
+    document.getElementById("errorCount").textContent = "0";
+    document.getElementById("spellingErrors").textContent = "0";
+    document.getElementById("noCorrectAnswerCount").textContent = "0";
+}
+
 export async function renderQuestion() {
     const fileName = document.getElementById("file").value + ".txt";
     const key = fileName.replace('.txt', '');
