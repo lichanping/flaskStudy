@@ -20,6 +20,7 @@
         </select>
         <span id="fileCountLabel"></span>
         <button id="renderQuestion">播放</button>
+        <button id="clearText" class="small-button">🔄</button>
     </div>
     <div id="english-word">
         <input type="text" id="englishWordTextBox" readonly>
@@ -89,6 +90,7 @@
 
     document.getElementById("playWord").addEventListener("click", script.play_audio);
     document.getElementById("checkSpellingButton").addEventListener("click", script.checkSpelling);
+    document.getElementById('clearText').addEventListener('click', script.clearCurrentIndex);
     document.getElementById("options-line").addEventListener("click", (event) => {
         if (event.target.classList.contains("banner")) {
             script.compareOptionIndex(event);
