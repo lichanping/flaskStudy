@@ -49,7 +49,7 @@ async def process_text_batch(texts, use_michelle=False):
             voice = voices.find(Language="fr", Locale="fr-FR")  # For French voices
             # voice = voices.find(Gender="Male", Language="en")
             # Use Edge TTS API to convert text to speech and save as MP3 file
-            communicate = edge_tts.Communicate(text, random.choice(voice)["Name"])
+            communicate = edge_tts.Communicate(text, random.choice(voice)["Name"], rate="-30%")
             await communicate.save(output_file)
 
 
