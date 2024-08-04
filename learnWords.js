@@ -334,7 +334,13 @@ function populateList() {
     for (var i = 0; i < 10; i++) {
         var date = new Date(today);
         date.setDate(today.getDate() + i);
-        var formattedDate = date.toISOString().split('T')[0];
+
+        // 指定年-月-日的格式
+        var options = { timeZone: 'Asia/Shanghai', year: 'numeric', month: '2-digit', day: '2-digit' };
+        var formatter = new Intl.DateTimeFormat('en-US', options);
+        var parts = formatter.formatToParts(date);
+        var formattedDate = `${parts.find(part => part.type === 'year').value}-${parts.find(part => part.type ==='month').value}-${parts.find(part => part.type === 'day').value}`;
+
         var option = document.createElement("option");
         option.value = formattedDate;
         option.text = formattedDate;
