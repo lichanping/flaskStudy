@@ -78,7 +78,8 @@ input:checked + .slider:before {
 /* Styles for clickable elements */
 #goBackButton,
 #renderQuestion,
-#file {
+#file,
+#clearText{
     border-radius: 10px; /* Adjust the value as needed */
     color: #ffffff; /* White font color */
     background-color: inherit; /* Dark background color */
