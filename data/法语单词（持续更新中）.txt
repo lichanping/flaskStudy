@@ -10,3 +10,16 @@ mange	吃
 fromage	奶酪
 aime	喜欢
 deux	二
+ton	你的
+chien	狗
+et	和
+café	咖啡
+ou	还是
+thé	茶
+nouveau	新的
+livre	书
+bon	好的
+gâteau	蛋糕
+garçon	男孩
+girafe	长颈鹿
+chocolat	巧克力
