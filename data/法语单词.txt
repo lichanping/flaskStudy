@@ -1,2 +1,12 @@
-Elle    她
-Je  我
+Elle	她
+Je	我
+un	一
+joli	漂亮的
+chat	猫
+mon	我的
+fils	儿子
+bébé	宝宝
+mange	吃
+fromage	奶酪
+aime	喜欢
+deux	二
