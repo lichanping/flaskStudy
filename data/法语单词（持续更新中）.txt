@@ -125,3 +125,4 @@ gustave	古斯塔夫（人名）
 tango	探戈舞；探戈舞曲
 compagne	同伴；伴侣；伙伴
 espagnol	西班牙的；西班牙语；西班牙人
+l'aéroport	这个/那个机场
