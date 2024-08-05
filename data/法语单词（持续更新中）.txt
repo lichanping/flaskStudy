@@ -103,7 +103,7 @@ je travaille en angleterre	我在英国工作（后面是国家，用en）
 j'habite à paris	我住在巴黎（不发音的h前面的短词，经常和后面的单词合并缩写）
 j'habite en france	我住在法国（不发音的h前面的短词，经常和后面的单词合并缩写）
 je travaille en espagne	我在西班牙工作
-espagne	西班牙
+espagne	西班牙;西班牙（欧洲国家）
 gabriel est espagnol	"Gabriel是Spanish."
 sarah est espagnole	"Sarah是Spanish."
 il est americain	"He是American."
@@ -120,3 +120,8 @@ tu as	你有
 il a	他有
 elle a	她有
 j'ai un passeport	我有一个护照
+gants	手套
+gustave	古斯塔夫（人名）
+tango	探戈舞；探戈舞曲
+compagne	同伴；伴侣；伙伴
+espagnol	西班牙的；西班牙语；西班牙人
