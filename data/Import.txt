@@ -1,4 +1,0 @@
-gabriel est espagnol	"Gabriel是Spanish."
-sarah est espagnole	"Sarah是Spanish."
-il est americain	"He是American."
-elle est americaine	"She是American."

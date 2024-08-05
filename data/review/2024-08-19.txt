@@ -1,3 +1,7 @@
+gabriel est espagnol	"Gabriel是Spanish."
+sarah est espagnole	"Sarah是Spanish."
+il est americain	"He是American."
+elle est americaine	"She是American."
 Je suis une femme	我是一个女人
 Tu es Marc	你是Marc吗？
 C'est un chat	这是一只猫
