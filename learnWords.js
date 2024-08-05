@@ -109,11 +109,14 @@ export function play_audio() {
         audioIcon.classList.remove('playing-animation');
     }, 2000); // Remove the class after 2 seconds (adjust as needed)
     // Play corresponding sound if available
-    const soundFileName = englishWordTextBox.value.trim().toLowerCase() + '.mp3';
+    // const soundFileName = englishWordTextBox.value.trim().toLowerCase() + '.mp3';
+    const soundFileName = encodeURIComponent(englishWordTextBox.value.trim().toLowerCase()) + '.mp3';
     const soundFilePath = `static/sounds/${soundFileName}`;
+    console.log(`Attempting to play sound from path: ${soundFilePath}`);
+
     const audio = new Audio(soundFilePath);
     audio.onerror = () => {
-        const msg = `Sound of '${englishWordTextBox.value.trim()}' failed to load!`;
+        const msg = `Sound of '${englishWordTextBox.value.trim()}' failed to load! Path: ${soundFilePath}`;
         console.error(msg);
     };
     audio.play();
@@ -336,10 +339,10 @@ function populateList() {
         date.setDate(today.getDate() + i);
 
         // 指定年-月-日的格式
-        var options = { timeZone: 'Asia/Shanghai', year: 'numeric', month: '2-digit', day: '2-digit' };
+        var options = {timeZone: 'Asia/Shanghai', year: 'numeric', month: '2-digit', day: '2-digit'};
         var formatter = new Intl.DateTimeFormat('en-US', options);
         var parts = formatter.formatToParts(date);
-        var formattedDate = `${parts.find(part => part.type === 'year').value}-${parts.find(part => part.type ==='month').value}-${parts.find(part => part.type === 'day').value}`;
+        var formattedDate = `${parts.find(part => part.type === 'year').value}-${parts.find(part => part.type === 'month').value}-${parts.find(part => part.type === 'day').value}`;
 
         var option = document.createElement("option");
         option.value = formattedDate;
