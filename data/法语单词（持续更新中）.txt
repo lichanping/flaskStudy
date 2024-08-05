@@ -28,7 +28,7 @@ Tu es Marc	你是Marc吗？
 C'est un chat	这是一只猫
 Tu manges une pizza	你吃一个披萨
 Paul mange un croissant	"Paul吃一个牛角面包"
-une orange	一个橙子;一个橙子（阴性）
+une orange	一个橙子（阴性）
 un homme	一个男人(阳性）
 une femme	一个女人(阴性）
 un chien	一条狗(阳性）
