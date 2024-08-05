@@ -108,3 +108,15 @@ gabriel est espagnol	"Gabriel是Spanish."
 sarah est espagnole	"Sarah是Spanish."
 il est americain	"He是American."
 elle est americaine	"She是American."
+le garçon	这个男孩（le用于阳性名词）
+la femme	这个女人（la用于阴性名词）
+l'homme	这个男人（以原音或者不发音的h开头，则用l')
+je vais	我去
+tu vas	你去
+il va	他去
+elle va	她去
+j'ai	我有（当动词以原音开头，je要改成j')
+tu as	你有
+il a	他有
+elle a	她有
+j'ai un passeport	我有一个护照
