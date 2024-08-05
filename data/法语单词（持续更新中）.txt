@@ -135,3 +135,18 @@ avion	飞机
 Tu vas à la gare	你要去火车站
 un avion	一架飞机
 C'est un hotel espagnol	这是一家西班牙酒店
+passeport	护照
+j'ai une valise	我有一个手提箱
+valise	手提箱
+il a une valise	他有一个手提箱
+marc a un passeport	"Marc有一本护照"
+tu as un avion	你有飞机吗？
+voiture	汽车
+tu as une voiture francaise	你有一辆法国汽车
+billet	票,入场券,门票，（车、船）票
+s'il vous plait	请给我
+billet d'avion	机票
+Où est le taxi	出租车在哪里？
+tu prends la voiture	你乘坐汽车吗？
+un restaurant	一家饭馆
+Montréal	蒙特利尔（加拿大主要港市）
