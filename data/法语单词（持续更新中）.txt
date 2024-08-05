@@ -24,7 +24,7 @@ garçon	男孩
 girafe	长颈鹿
 chocolat	巧克力
 je suis une femme	我是一个女人
-tu es Marc	你是Marc吗？
+tu es marc	你是Marc吗？
 c'est un chat	这是一只猫
 tu manges une pizza	你吃一个披萨
 paul mange un croissant	"Paul吃一个牛角面包"
@@ -37,11 +37,11 @@ une pizza	一个披萨（阴性）
 je suis une fille	我是女孩
 une femme et un homme	一个女人和一个男人
 tu es une fille	你是一个女孩
-salut Paul	你好，Paul
+salut paul	你好，Paul
 comment çava	怎么样？
 ca va bien merci	很好，谢谢
-bienvenue Marie	欢迎你，Marie
-bonjour Marie enchanté	你好Marie，很高兴认识你
+bienvenue marie	欢迎你，Marie
+bonjour marie enchanté	你好Marie，很高兴认识你
 au revoir	再见
 a bientot	回头见àbientôt
 bonne soirée	祝你晚上愉快
@@ -50,13 +50,13 @@ bonne nuit	晚安
 tu es francais	你是法国人吗？
 ju suis chinois	我是中国人
 elle est coréenne	她是韩国人;她是韩国人（阴性）
-ju suis en Chine	我在中国
-il est en France	他在法国吗？
+ju suis en chine	我在中国
+il est en france	他在法国吗？
 elle parle espagnol	她说西班牙语
 il est chinois	他是中国人（国籍用形容词，阳性）
 elle est chinoise	她是中国人（阴性形容词以e结尾）
 il est coréen	他是韩国人（阳性）
-Marie est francaise	"Marie是法国人"
+marie est francaise	"Marie是法国人"
 un livre francais	一本法国书
 un thé anglais	一杯英国茶
 c'est une boutique francaise	这是一家法国商店
@@ -66,10 +66,10 @@ une fête francaise	一个法国节日（形容词放在名词后面）
 un chocolat chinois	一块中国巧克力
 une boutique espagnole	一家西班牙商店
 je parle francais et anglais	我说法语和英语
-Marc est anglais	"Marc是英国人"
-elle s'appelle Alice	她叫Alice
+marc est anglais	"Marc是英国人"
+elle s'appelle alice	她叫Alice
 comment tu t'appelles	你叫什么？
-je m'appelle Marie	我叫Marie
+je m'appelle marie	我叫Marie
 excuse-moi	对不起
 tu parles francais	你说法语吗？
 je suis	我是
@@ -85,22 +85,22 @@ il parle	他说
 il mange	他吃
 elle parle	她说
 elle mange	她吃
-tu habites a Paris	你住在巴黎吗？
-j'étudie a Bordeaux	我在波尔多（法国西南部的一座城市）学习
-tu habites a Berlin	你住在柏林（德国的首都）吗？
+tu habites a paris	你住在巴黎吗？
+j'étudie a bordeaux	我在波尔多（法国西南部的一座城市）学习
+tu habites a berlin	你住在柏林（德国的首都）吗？
 je travaille ici	我在这里工作
 julia est étudiante	"Julia是大学生"
-je suis en Europe	我在欧洲
+je suis en europe	我在欧洲
 je suis professeur	我是老师
 il est étudiant	他是大学生（阳性）
 elle est étudiante	她是大学生（阴性）
 il est journaliste	他是记者（有些职业不随着性别而变化）
 elle est journaliste	她是记者（有些职业不随着性别而变化）
-Londres	伦敦
-je travaille à Londres	我在伦敦工作（后面是城市，用à）
-Angleterre	英国
-je travaille en Angleterre	我在英国工作（后面是国家，用en）
-J'habite à Paris	我住在巴黎（不发音的h前面的短词，经常和后面的单词合并缩写）
-J'habite en France	我住在法国（不发音的h前面的短词，经常和后面的单词合并缩写）
-je travaille en Espagne	我在西班牙工作
-Espagne	西班牙
+londres	伦敦
+je travaille à londres	我在伦敦工作（后面是城市，用à）
+angleterre	英国
+je travaille en angleterre	我在英国工作（后面是国家，用en）
+j'habite à paris	我住在巴黎（不发音的h前面的短词，经常和后面的单词合并缩写）
+j'habite en france	我住在法国（不发音的h前面的短词，经常和后面的单词合并缩写）
+je travaille en espagne	我在西班牙工作
+espagne	西班牙
