@@ -104,3 +104,7 @@ j'habite à paris	我住在巴黎（不发音的h前面的短词，经常和后�
 j'habite en france	我住在法国（不发音的h前面的短词，经常和后面的单词合并缩写）
 je travaille en espagne	我在西班牙工作
 espagne	西班牙
+gabriel est espagnol	"Gabriel是Spanish."
+sarah est espagnole	"Sarah是Spanish."
+il est americain	"He是American."
+elle est americaine	"She是American."
