@@ -209,13 +209,17 @@ class GenerateTool:
         tool = TxtToXLSX()
         tool.remove_old_files()
         tool.remove_duplicates_or_merge_translations('高考词汇（持续更新中）.txt')
-        tool.remove_duplicates_or_merge_translations('法语单词（持续更新中）.txt')
 
     @Test()
     def calculate_missing_words(self):
         tool = TxtToXLSX()
         # generate missing sounds
         tool.convert('高考词汇（持续更新中）.txt')  # commented the create_excel due to uselessness.
+
+    @Test()
+    def french_words(self):
+        tool = TxtToXLSX()
+        tool.remove_duplicates_or_merge_translations('法语单词（持续更新中）.txt')
         tool.convert('法语单词（持续更新中）.txt')  # commented the create_excel due to uselessness.
 
     @Test()
