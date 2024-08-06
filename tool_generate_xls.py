@@ -2,6 +2,7 @@ import asyncio
 import os
 import random
 import re
+import sys
 import time
 from datetime import datetime, date
 from datetime import timedelta
@@ -31,6 +32,10 @@ class FrenchTTSProcessor:
         self.text_file_path = os.path.join(get_sub_folder_path(), 'MissingSound.txt')
         self.sound_folder = get_sub_folder_path('static/sounds')
         self.TEXT_LIST = self.read_texts_from_file(self.text_file_path)
+
+        if not self.TEXT_LIST:
+            print("The text list is empty. Please provide texts in MissingSound.txt.")
+            sys.exit()
 
     def read_texts_from_file(self, file_path):
         with open(file_path, 'r', encoding='utf-8') as file:
