@@ -42,36 +42,3 @@ berlin	柏林
 c'est une gare francaise	这是一座法国火车站
 chanson	歌曲
 tu vas à l'aéroport	你去这个机场
-hurricane	(n.) 飓风
-worthwhile	(adj.) 值得的，有意义的
-weigh	(v.) 称重；认真考虑
-carry off	"phr.夺走；获得(奖项，奖杯)；成功应对"
-fancy	"adj.花哨的；n.喜爱；v.认为"
-universal	"adj.普遍的，全体的；广泛适用的"
-rate	"n.率，比率；速度，速率；v.评估，评价"
-snowstorm	(n.) 暴风雪
-rich	"adj.富有的；丰富的；浓厚的"
-merry	(adj.) 欢乐的，愉快的
-grasp	(vt.) 领会，理解；n.理解
-watcher	(n.) 观察者
-agency	(n.) 代理机构
-political	(adj.) 政治的
-prediction	(n.) 预测，预言
-select	"v.选择，挑选；adj.精选的，选择的"
-bend	"v.（使）弯曲；n.弯曲，弯曲处"
-relevant	(adj.) 相关的，有关的
-doll	(n.) 玩具娃娃，玩偶
-orbit	(n.) 轨道
-backward	(adv.) 向后地
-accountant	(n.) 会计人员，会计师
-reception	(n.) 前台，接待处
-type	"n.类型，种类；典型；v.打字"
-anniversary	"n.周年纪念日；adj.（有关）周年纪念的"
-donation	(n.) 捐款
-tempt	(v.) 诱惑
-politician	(n.) 政治家，政客
-impression	(n.) 印象，感觉，感想
-mourn	(v.) 哀悼，哀伤
-coworker	(n.) 同事
-movement	(n.) 运动
-pardon	(vt.) 赦免，原谅
