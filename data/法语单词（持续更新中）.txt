@@ -165,3 +165,9 @@ c'est une valise	这是一个手提箱
 tu prends le taxi	你乘坐出租车吗？
 où est le restaurant	饭馆在哪里？
 où est paul	"Paul在哪里"
+tu as un billet d'avion	你有机票吗？
+Duo a un passeport	朵儿有一本护照。
+un croissant s'il vous plaît	请给我一个羊角面包
+elle a un billet d'avion	她有一张机票
+une gare	一座火车站（相当于英语中的“railwaystation”“trainstation”或“busstation”。）
+C'est l'aéroport	这是机场
