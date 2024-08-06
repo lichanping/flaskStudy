@@ -125,3 +125,54 @@ gustave	古斯塔夫（人名）
 tango	探戈舞；探戈舞曲
 compagne	同伴；伴侣；伙伴
 espagnol	西班牙的；西班牙语；西班牙人
+l'aéroport	这个/那个机场
+aéroport	机场
+l'avion	这个/那个飞机
+aéro	“大气”和“航空”（名词）
+hotel	旅馆,饭店
+Tu vas à Paris	你要去巴黎
+avion	飞机
+Tu vas à la gare	你要去火车站
+un avion	一架飞机
+C'est un hotel espagnol	这是一家西班牙酒店
+passeport	护照
+j'ai une valise	我有一个手提箱
+valise	手提箱
+il a une valise	他有一个手提箱
+marc a un passeport	"Marc有一本护照"
+tu as un avion	你有飞机吗？
+voiture	汽车
+tu as une voiture francaise	你有一辆法国汽车
+billet	票,入场券,门票，（车、船）票
+s'il vous plait	请给我；请问。
+billet d'avion	机票
+Où est le taxi	出租车在哪里？
+tu prends la voiture	你乘坐汽车吗？
+un restaurant	一家饭馆
+montréal	蒙特利尔（加拿大主要港市)
+le restaurant espagnol	那家西班牙饭馆
+berlin	柏林
+c'est une gare francaise	这是一座法国火车站
+chanson	歌曲
+tu vas à l'aéroport	你去这个机场
+marie va à l'aéroport en voiture	"Marie乘汽车去那个机场"
+il va à la gare	他去那座火车站
+je vais à paris en train	我乘火车去巴黎
+Je prends la voiture	我乘坐汽车
+je vais à paris en voiture	我乘汽车去巴黎
+je prends l'avion	我乘坐飞机
+c'est une valise	这是一个手提箱
+tu prends le taxi	你乘坐出租车吗？
+où est le restaurant	饭馆在哪里？
+où est paul	"Paul在哪里"
+tu as un billet d'avion	你有机票吗？
+Duo a un passeport	朵儿有一本护照。
+un croissant s'il vous plaît	请给我一个羊角面包
+elle a un billet d'avion	她有一张机票
+une gare	一座火车站（相当于英语中的“railwaystation”“trainstation”或“busstation”。）
+C'est l'aéroport	这是机场
+je vais à paris	我去巴黎
+j'ai une voiture	我有一辆汽车
+un train	一列火车
+la gare	那座火车站
+le croissant français	那个法国牛角面包
