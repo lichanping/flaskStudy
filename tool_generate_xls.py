@@ -25,6 +25,58 @@ def get_sub_folder_path(sub_dir_name='data'):
     return sub_folder
 
 
+class FrenchTTSProcessor:
+    def __init__(self):
+        # Path to the text file under user_data directory
+        self.text_file_path = os.path.join(get_sub_folder_path(), 'MissingSound.txt')
+        self.sound_folder = get_sub_folder_path('static/sounds')
+        self.TEXT_LIST = self.read_texts_from_file(self.text_file_path)
+
+    def read_texts_from_file(self, file_path):
+        with open(file_path, 'r', encoding='utf-8') as file:
+            # Read each line and remove leading/trailing whitespace
+            texts = [line.strip() for line in file.readlines() if line.strip()]
+        return texts
+
+    # Async function to process a batch of texts and convert them to speech
+    async def process_text_batch(self, texts, use_michelle=False):
+        for text in texts:
+            print(f"Processing text: {text}")
+            # Create output file path for each text
+            output_file = os.path.join(self.sound_folder, f"{text}.mp3")
+
+            # Create VoicesManager instance
+            voices = await VoicesManager.create()
+
+            if use_michelle:
+                # Choose voice: specific Michelle voice
+                name = "Microsoft Server Speech Text to Speech Voice (en-US, MichelleNeural)"
+                communicate = edge_tts.Communicate(text, name)
+                await communicate.save(output_file)
+            else:
+                # Choose voice from the voice library
+                voice = voices.find(Language="fr", Locale="fr-FR")  # For French voices
+                # Use Edge TTS API to convert text to speech and save as MP3 file
+                communicate = edge_tts.Communicate(text, random.choice(voice)["Name"], rate="-30%")
+                await communicate.save(output_file)
+
+    # Main function to process the entire TEXT_LIST in batches
+    async def process_all_texts(self):
+        start_time = time.time()  # Record start time
+        batch_size = 10  # Define the batch size
+        # Split the TEXT_LIST into batches
+        batches = [self.TEXT_LIST[i:i + batch_size] for i in range(0, len(self.TEXT_LIST), batch_size)]
+
+        # Process each batch sequentially
+        for batch in batches:
+            await self.process_text_batch(batch)
+
+        end_time = time.time()  # Record end time
+        elapsed_time = end_time - start_time  # Calculate elapsed time
+        print(f"Total elapsed time for processing {len(self.TEXT_LIST)} texts: {elapsed_time:.2f} seconds")
+        print(f"Average time per text: {elapsed_time / len(self.TEXT_LIST):.2f} seconds")
+
+
 class TxtToXLSX:
     def __init__(self):
         self.data_folder = get_sub_folder_path()
@@ -221,6 +273,10 @@ class GenerateTool:
         tool = TxtToXLSX()
         tool.remove_duplicates_or_merge_translations('法语单词（持续更新中）.txt')
         tool.convert('法语单词（持续更新中）.txt')  # commented the create_excel due to uselessness.
+
+        # Create an instance of FrenchTTSProcessor and call its method
+        processor = FrenchTTSProcessor()
+        asyncio.run(processor.process_all_texts())
 
     @Test()
     def import_forgotten(self):
