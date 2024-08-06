@@ -1882,3 +1882,53 @@ orange	"n.橘子，橙子；adj.橙色的，橘色的"
 artwork	(n.)艺术制品
 concrete	(adj.)具体的
 individually	(adv.)个别地；单独地
+lace	(n.) 鞋带；花边
+tidy	"adj.整洁的；整齐的；v.整理，收拾"
+legal	"adj.合法的，法定的，法律的"
+sweep	"v.扫，打扫；n.绵延弯曲的地带"
+government	(n.) 政府
+forgive	(v.) 原谅
+audience	(n.) 观众，听众
+quarter	"n.四分之一；一刻钟；一个季度；地区"
+extinguisher	(n.) 灭火器
+inexpensive	(adj.) 廉价的，便宜的
+atlas	(n.) 地图集
+climb	"v.攀登，爬；上升，增长；n.攀爬"
+teach	(v.) 教，使学会
+slice	(n.) 薄片
+leather	(n.) 皮革；皮制品
+vehicle	"n.车辆；工具，手段；交通工具"
+person	(n.) 人
+ownership	(n.) 所有权
+organize	(v.) 组织；安排；整理
+nephew	(n.) 侄子，外甥
+disappoint	(v.) 使失望，使受挫折
+maid	(n.) 女服务员
+tough	"adj.艰难的；严厉的；困难的，难办的"
+surplus	"adj.过剩的，多余的；n.过剩，盈余"
+collection	"n.收藏，收藏品；作品集；收集；系，组"
+extensive	(adj.) 广泛的
+rhino	(n.) 犀牛
+occasionally	(adv.) 偶尔地
+register	"v.注册；登记；n.现金收纳机；登记表，注册表"
+form	"n.形式；方式；表格；形状；v.形成，产生，…"
+butcher	"n.屠夫，肉贩子；v.屠戮，残杀"
+bean	(n.) 豆子
+cry	"v.哭，哭泣；大声叫喊；n.哭声，嚎叫"
+privately	(adv.) 私下地
+sunscreen	(n.) 防晒霜
+warmth	(n.) 温暖，暖和
+alien	"n.外星人；adj.外国的；外星（人）的"
+lame	"adj.瘸的，跛的；站不住脚的"
+asleep	(adj.) 睡着的，睡熟的
+review	"n.评论；检查；综述；v.回顾"
+job	(n.) 工作；责任
+salad	"n.（生吃的）蔬菜色拉，沙拉"
+ban	"vt.明令禁止；n.禁止，禁令"
+magical	(adj.) 不可思议的
+plateau	(n.) 高原；vi.到达平稳阶段
+trend	(n.) 趋势
+store	(n.) 商店；v.贮藏，储存
+purse	"n.钱包（尤指女用的），小钱袋，手袋"
+string	"n.条件；线；一系列；vt.串起；悬挂"
+lounge	(n.) 候机室，休息室，酒吧间
