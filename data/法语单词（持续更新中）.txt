@@ -150,3 +150,8 @@ Où est le taxi	出租车在哪里？
 tu prends la voiture	你乘坐汽车吗？
 un restaurant	一家饭馆
 Montréal	蒙特利尔（加拿大主要港市）
+le restaurant espagnol	那家西班牙饭馆
+berlin	柏林
+c'est une gare francaise	这是一座法国火车站
+chanson	歌曲
+tu vas à l'aéroport	你去这个机场
