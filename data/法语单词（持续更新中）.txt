@@ -171,3 +171,8 @@ un croissant s'il vous plaît	请给我一个羊角面包
 elle a un billet d'avion	她有一张机票
 une gare	一座火车站（相当于英语中的“railwaystation”“trainstation”或“busstation”。）
 C'est l'aéroport	这是机场
+je vais à paris	我去巴黎
+j'ai une voiture	我有一辆汽车
+un train	一列火车
+la gare	那座火车站
+le croissant français	那个法国牛角面包
