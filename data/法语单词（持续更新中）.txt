@@ -178,11 +178,15 @@ la gare	那座火车站
 le croissant français	那个法国牛角面包
 paul habite avec son père	"Paul和他父亲一起住"
 frère	兄弟
+sœur	姐妹
 père	父亲
 mère	母亲
 son père	他的，她的父亲（加阳性名词）
+sa sœur	他的，她的姐妹（加阳性名词）
 parle	说话
 C'est ma famille	这是我一家人
 famille	“家庭；家属；家族”的意思，阴性名词
-sœur	姐妹
 ma mère et sa sœur	我母亲和她的姐妹
+université	大学
+professeur	老师
+la famille	一家人
