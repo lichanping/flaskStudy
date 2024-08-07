@@ -181,6 +181,8 @@ frère	兄弟
 sœur	姐妹
 père	父亲
 mère	母亲
+mari	丈夫
+femme	妻子
 son père	他的，她的父亲（加阳性名词）
 sa sœur	他的，她的姐妹（加阳性名词）
 parle	说话
@@ -190,3 +192,6 @@ ma mère et sa sœur	我母亲和她的姐妹
 université	大学
 professeur	老师
 la famille	一家人
+ma femme est journaliste	我妻子是记者
+la fille de paul	"Paul的女儿"
+le fils de paul	"Paul的儿子"
