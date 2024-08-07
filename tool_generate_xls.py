@@ -124,7 +124,7 @@ class TxtToXLSX:
         english_words = {}  # Dictionary to store English words and their translations
         with open(file_path, 'r', encoding='utf-8') as file:
             for line in file:
-                match = re.match(r'([a-zA-Zéèêëîïùûüàâäôöç\'\s\-\.\/]+)\s*(.*)', line.strip())
+                match = re.match(r'([a-zA-Zéèêëîïùûüàâäôöçœ\'\s\-\.\/]+)\s*(.*)', line.strip())
                 if match:
                     english_word, translation = match.groups()
                     translation = re.sub(r'\s+', '', translation)
@@ -170,7 +170,7 @@ class TxtToXLSX:
         file_path = os.path.join(self.data_folder, file_name)
         data = []
         missing_words = []  # List to store missing sound words
-        pattern = re.compile(r'([a-zA-Zéèêëîïùûüàâäôöç\'\s\-\.\/]+)\s*(.*)')
+        pattern = re.compile(r'([a-zA-Zéèêëîïùûüàâäôöçœ\'\s\-\.\/]+)\s*(.*)')
         with open(file_path, 'r', encoding='utf-8') as file:
             for line in file:
                 match = pattern.match(line.strip())
