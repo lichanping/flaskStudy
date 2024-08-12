@@ -3,7 +3,12 @@ je	我
 un	一
 joli	漂亮的
 un chat	一只猫
-mon	我的
+mon père	我的父亲（加阳性名词）
+ma mère	我的母亲（加阴性名词）
+ton frère	你的兄弟
+ta sœur	你的姐妹
+son fils	他、她的儿子
+sa fille	他她的女儿
 fils	儿子
 bébé	宝宝
 mange	吃
@@ -115,6 +120,10 @@ je vais	我去
 tu vas	你去
 il va	他去
 elle va	她去
+nous allons	（我们去）
+vous allez	（您/你们去）
+ils vont	（他们去）
+elles vont	（她们去）
 j'ai	我有（当动词以原音开头，je要改成j')
 tu as	你有
 il a	他有
@@ -127,7 +136,6 @@ compagne	同伴；伴侣；伙伴
 espagnol	西班牙的；西班牙语；西班牙人
 l'aéroport	这个/那个机场
 aéroport	机场
-l'avion	这个/那个飞机
 aéro	“大气”和“航空”（名词）
 hotel	旅馆,饭店
 Tu vas à Paris	你要去巴黎
@@ -163,7 +171,7 @@ je vais à paris en voiture	我乘汽车去巴黎
 je prends l'avion	我乘坐飞机
 c'est une valise	这是一个手提箱
 tu prends le taxi	你乘坐出租车吗？
-où est le restaurant	饭馆在哪里？
+où est le restaurant	这家饭馆在哪里？
 où est paul	"Paul在哪里"
 tu as un billet d'avion	你有机票吗？
 Duo a un passeport	朵儿有一本护照。
@@ -185,6 +193,7 @@ mari	丈夫
 femme	妻子
 son père	他的，她的父亲（加阳性名词）
 sa sœur	他的，她的姐妹（加阳性名词）
+ma famille habite en france	我一家人住在法国
 parle	说话
 C'est ma famille	这是我一家人
 famille	“家庭；家属；家族”的意思，阴性名词
@@ -199,7 +208,28 @@ je veux	（我想要）
 tu veux	（你想要）
 il veut	（他想要）
 elle veut	（她想要）
+on veut	（它想要）
 nous voulons	（我们想要）
 vous voulez	（您/你们想要）
 ils veulent	（他们想要）
 elles veulent	（她们想要）
+boutique	商店
+j'étudie à bordeaux	我在波尔多学习
+étudiant	男大学生
+étudiante	女大学生
+l'avion	这个/那个飞机（阳性）
+l'orange	那个橙子（阴性）
+le chat de marie	"Marie的猫"
+le chien d'anna	"Anna的狗"（注意，de在元音前要变成d')
+la musique	音乐
+lire un livre	阅读一本书
+je prends	（我乘坐/拿）
+tu prends	（你乘坐/拿）
+il prend	（他乘坐/拿）
+elle prend	（她乘坐/拿）
+nous prenons	（我们乘坐/拿）
+vous prenez	（您/你们乘坐/拿）
+ils prennent	（他们乘坐/拿）
+elles prennent	（她们乘坐/拿）。
+tu vas au restaurant	你去饭馆
+elle va au zoo	她去动物园
