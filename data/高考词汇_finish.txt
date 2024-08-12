@@ -1590,3 +1590,53 @@ nationality	(n.) 国籍
 consume	"vt.消耗，消费；吃，喝，饮"
 greet	(v.) 问候，招呼
 tear	"v.撕裂，撕碎（读作/ter/）；n.眼泪（读作/tɪr/）"
+actress	(n.) 女演员
+throw	(v.) 扔，抛，投掷；n.投掷
+material	"n.材料，原料；adj.物质的，客观存在的"
+southeastern	(adj.) 东南方的
+southeast	(adj.) 东南方的
+physical	"adj.身体的，肉体的；物理的，物理学的"
+medical	(adj.) 医学的，医疗的
+cookie	(n.) 饼干
+voice	(n.) 声音
+performance	"n.表现；表演，演出；业绩，成绩；性能"
+awake	"adj.醒着的；v.唤起，被唤起"
+unlike	(prep.) 不像；和……不同
+raincoat	(n.) 雨衣
+candle	(n.) 蜡烛
+idea	(n.) 想法，主意；思想，概念
+Danish	(adj.) 丹麦的
+bear	"vt.生育；忍受，容忍；n.熊"
+all in all	(phr.) 总而言之
+dress	"v.打扮，穿着；n.连衣裙；服装"
+jump	(v.) 跳
+cycle	"n.周期，循环；v.骑自行车"
+admit	"v.承认；准许进入；接纳，接收（入学）"
+emergency	"n.紧急情况，突发事件；adj.紧急情况下的；应急的"
+reservation	"n.（住处、席位的）预订；（美国印第安部落的）居…"
+range	"n.范围，界限；一系列；v.（在一定范围内）变化"
+react	"vi.起反应，对……做出反应"
+survey	(n.) 调查
+maple	(n.) 枫树
+anecdote	(n.) 轶事，趣闻
+suck	"v.吮，啜，吸；n.吸吮，吸力"
+object	"n.物体；对象；v.反对（读作/əbˈdʒekt/）"
+prayer	(n.) 祈祷，祷告
+perform	(v.) 运行；表演；表现；执行
+microscope	(n.) 显微镜
+scar	"n.伤疤，伤痕；内心创伤；v.给……留下伤痕"
+recognize	"vt.认出，辨别；v.认可；公认"
+physicist	(n.) 物理学者，物理学家
+appoint	(v.) 委派，任命
+stubborn	(adj.) 顽固的
+sailor	(n.) 水手，海员
+astonish	(vt.) 使十分惊讶
+accompany	(v.) 陪伴；陪同
+rejoice	(v.) 感到欣喜，感到高兴
+operator	(n.) 经营者
+arrangement	(n.) 安排；布置
+rotten	(adj.) 腐烂的，腐朽的
+profession	(n.) 职业
+comment	"n.评论；v.评论，表达意见"
+surrounding	(n.) 环境
+thunder	(n.) 雷，雷声
