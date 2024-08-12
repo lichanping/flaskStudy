@@ -1,3 +1,30 @@
+lorry	(n.) 卡车；运货汽车
+hesitate	(v.) 犹豫
+wreath	(n.) 花圈；圈状物
+album	"n.相册；唱片集，专辑；集邮册"
+relay	"n.接力赛跑（读作/ˈriˌleɪ/）；v.转播，转发（…"
+furnished	(adj.) 有家具的
+litter	(n.) 垃圾；v.乱丢
+patent	"n.专利；adj.有专利的；显然的，明显的；v.取…"
+downtown	"adv.在市中心；n.市中心区，市中心；adj.市中…"
+seize	(v.) 抓住，逮捕
+Atlantic	(n.) 大西洋
+bathtub	(n.) 浴盆，浴缸
+hand in	(phr.) 上交，递交
+justice	(n.) 正义
+grocery	(n.) 食品杂货店
+consultant	(n.) 顾问；高级顾问医师
+recorder	(n.) 录音机
+motive	(n.) 动机，目的
+interval	(n.) 音程
+cubic	(adj.) 立方体的，立体的
+nationwide	(adj.) 全国范围的，全国性的
+quote	"v.引用；报价；n.引语，引文"
+approximately	(adv.) 近似地，大约
+wilderness	(n.) 荒野
+tremendous	(adj.) 巨大的
+dominant	(adj.) 主要的，占优势的
+resolve	(v.) 解决（问题或困难）
 gabriel est espagnol	"Gabriel是Spanish."
 sarah est espagnole	"Sarah是Spanish."
 il est americain	"He是American."

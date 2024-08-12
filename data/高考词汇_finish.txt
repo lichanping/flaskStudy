@@ -1640,3 +1640,53 @@ profession	(n.) 职业
 comment	"n.评论；v.评论，表达意见"
 surrounding	(n.) 环境
 thunder	(n.) 雷，雷声
+during	(prep.) 在…期间
+Australia	(n.) 澳大利亚
+friend	(n.) 朋友
+director	"n.（电影、戏剧等的）导演；主管；主任"
+consideration	(n.) 考虑，思考
+animal	(n.) 动物
+glass	(n.) 玻璃；眼镜；玻璃杯
+mine	"pron.我的（所有物）；n.矿，矿山；v.开采，采矿"
+speech	"n.演说，讲话，发言；言语，语言"
+window	(n.) 窗
+class	"n.课，上课；阶级，社会等级，等级制度；班级，同…"
+voluntary	"adj.自愿的；无偿的；n.即兴曲"
+break	"v.打破，摔碎；破坏，违反（规则、承诺或协议）；…"
+top	"n.顶部；adj.（位置、级别或程度）最高的；头等…"
+field	"n.领域；田野，田地；运动场"
+short	(adj.) 短的；短缺的
+search	(v.) 搜索；搜寻；n.搜寻
+word	(n.) 字，词，话
+fast	"adv.迅速地；adj.迅速的，动作敏捷的；很快做…"
+cowboy	(n.) 牛仔
+kind	"n.种类；adj.善良的，仁慈的，亲切的，和蔼的"
+calculator	(n.) 计算器，计算者
+library	(n.) 图书馆，藏书室
+lorry	(n.) 卡车；运货汽车
+hesitate	(v.) 犹豫
+wreath	(n.) 花圈；圈状物
+album	"n.相册；唱片集，专辑；集邮册"
+relay	"n.接力赛跑（读作/ˈriˌleɪ/）；v.转播，转发（…"
+furnished	(adj.) 有家具的
+litter	(n.) 垃圾；v.乱丢
+patent	"n.专利；adj.有专利的；显然的，明显的；v.取…"
+downtown	"adv.在市中心；n.市中心区，市中心；adj.市中…"
+seize	(v.) 抓住，逮捕
+Atlantic	(n.) 大西洋
+bathtub	(n.) 浴盆，浴缸
+hand in	(phr.) 上交，递交
+justice	(n.) 正义
+grocery	(n.) 食品杂货店
+consultant	(n.) 顾问；高级顾问医师
+recorder	(n.) 录音机
+motive	(n.) 动机，目的
+interval	(n.) 音程
+cubic	(adj.) 立方体的，立体的
+nationwide	(adj.) 全国范围的，全国性的
+quote	"v.引用；报价；n.引语，引文"
+approximately	(adv.) 近似地，大约
+wilderness	(n.) 荒野
+tremendous	(adj.) 巨大的
+dominant	(adj.) 主要的，占优势的
+resolve	(v.) 解决（问题或困难）
