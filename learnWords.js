@@ -92,6 +92,51 @@ class LearnWords {
             };
         }
     }
+
+    static generateWords(globalWordsData, index = null) {
+        const randomElement = index !== null ? globalWordsData[index] : this.getRandomElement(globalWordsData);
+        const currentEnglishWord = randomElement["释意"].trim();
+        const correctOption = randomElement["单词"];
+        document.getElementById("englishMeaningField").value = correctOption;
+
+        const otherWords = globalWordsData.filter(word => word !== randomElement);
+        const wrongOptions = [];
+        for (let i = 0; i < 3; i++) {
+            let randomWrongWord;
+            do {
+                randomWrongWord = this.getRandomElement(otherWords)["单词"];
+            } while (wrongOptions.includes(randomWrongWord));
+
+            wrongOptions.push(randomWrongWord);
+        }
+        // 30% chance to exclude the correct option
+        const noCorrectAnswer = Math.random() < 0.1;
+        const options = noCorrectAnswer ? [...wrongOptions, this.getRandomElement(otherWords)["单词"]] : [correctOption, ...wrongOptions];
+
+        // Shuffle the options
+        const shuffledOptions = this.shuffleArray(options);
+        // Always include "没有正确答案" as the last option
+        shuffledOptions.push("没有正确答案");
+
+        if (noCorrectAnswer) {
+            const noCount = parseInt(document.getElementById('noCorrectAnswerCount').innerText);
+            document.getElementById('noCorrectAnswerCount').innerText = noCount + 1;
+            return {
+                currentEnglishWord,
+                options: shuffledOptions,
+                correctIndex: shuffledOptions.indexOf("没有正确答案"),
+                correctOption: correctOption
+            };
+        } else {
+            return {
+                currentEnglishWord,
+                options: shuffledOptions,
+                correctIndex: shuffledOptions.indexOf(correctOption),
+                correctOption: ""
+            };
+        }
+    }
+
 }
 
 export function play_audio() {
@@ -110,7 +155,15 @@ export function play_audio() {
     }, 2000); // Remove the class after 2 seconds (adjust as needed)
     // Play corresponding sound if available
     // const soundFileName = englishWordTextBox.value.trim().toLowerCase() + '.mp3';
-    const soundFileName = encodeURIComponent(englishWordTextBox.value.trim().toLowerCase()) + '.mp3';
+    const isRandom = document.getElementById("random-toggle").checked;
+    let word;
+    if (isRandom) {
+        word=document.getElementById("englishMeaningField");
+    }else{
+        word=englishWordTextBox;
+    }
+    word = word.value.trim().toLowerCase()
+    const soundFileName = encodeURIComponent(word) + '.mp3';
     const soundFilePath = `static/sounds/${soundFileName}`;
     console.log(`Attempting to play sound from path: ${soundFilePath}`);
 
@@ -153,7 +206,7 @@ export async function renderQuestion() {
         let currentEnglishWord, options, correctIndex;
         let currentIndex = parseInt(sessionStorage.getItem(`${key}_currentIndex`)) || 0;
         if (isRandom) {
-            const generatedOptions = LearnWords.generateOptions(globalWordsData);
+            const generatedOptions = LearnWords.generateWords(globalWordsData);
             currentEnglishWord = generatedOptions.currentEnglishWord;
             options = generatedOptions.options;
             correctIndex = generatedOptions.correctIndex;
@@ -196,7 +249,9 @@ export async function renderQuestion() {
         }
         // Store correctIndex value in the hidden input
         document.getElementById("correctIndexValue").value = correctIndex;
-        play_audio();
+        if (!isRandom) {
+            play_audio();
+        }
         return {currentEnglishWord, options, correctIndex};
     } catch (error) {
         console.error("Error:", error);
@@ -234,7 +289,10 @@ export function checkSpelling() {
 export function compareOptionIndex(event) {
     // const passColor = "#AFEEEE";
     const passColor = "#87CEFA";
-
+    const isRandom = document.getElementById("random-toggle").checked;
+    if (isRandom) {
+        play_audio();
+    }
     const selectedOptionIndex = Array.from(event.target.parentNode.children).indexOf(event.target);
     const correctIndex = parseInt(document.getElementById('correctIndexValue').value);
     const correctOptionValue = document.getElementById("correctOptionValue").value;
