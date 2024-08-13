@@ -1,0 +1,4 @@
+nous mangeons
+vous mangez
+ils mangent
+elles mangent
