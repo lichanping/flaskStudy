@@ -83,13 +83,9 @@ il est	他是
 elle est	她是
 il est francais	他是法国人
 je parle	我说
-je mange	我吃
 tu parles	你说（s不发音）
-tu manges	你吃（s不发音）
 il parle	他说
-il mange	他吃
 elle parle	她说
-elle mange	她吃
 tu habites a paris	你住在巴黎吗？
 j'étudie a bordeaux	我在波尔多（法国西南部的一座城市）学习
 tu habites a berlin	你住在柏林（德国的首都）吗？
@@ -233,3 +229,11 @@ ils prennent	（他们乘坐/拿）
 elles prennent	（她们乘坐/拿）。
 tu vas au restaurant	你去饭馆
 elle va au zoo	她去动物园
+je mange	我吃;（我吃）
+tu manges	你吃（s不发音）;（你吃）
+il mange	他吃;（他吃）
+elle mange	她吃;（她吃）
+nous mangeons	（我们吃）
+vous mangez	（您/你们吃）
+ils mangent	（他们吃）
+elles mangent	（她们吃）。
