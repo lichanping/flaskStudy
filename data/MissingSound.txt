@@ -1,4 +1,4 @@
-nous mangeons
-vous mangez
-ils mangent
-elles mangent
+nous sommes
+vous êtes
+ils sont
+elles sont

@@ -77,10 +77,6 @@ comment tu t'appelles	你叫什么？
 je m'appelle marie	我叫Marie
 excuse-moi	对不起
 tu parles francais	你说法语吗？
-je suis	我是
-tu es	你是
-il est	他是
-elle est	她是
 il est francais	他是法国人
 je parle	我说
 tu parles	你说（s不发音）
@@ -237,3 +233,14 @@ nous mangeons	（我们吃）
 vous mangez	（您/你们吃）
 ils mangent	（他们吃）
 elles mangent	（她们吃）。
+des chiens	这些狗
+les étudiants étudient	那些大学生学习
+ils travaillent en france	他们在法国工作
+je suis	我是
+tu es	你是
+il est	他是
+elle est	她是
+nous sommes	（我们是）
+vous êtes	（您/你们是）
+ils sont	（他们是）
+elles sont	（她们是）。
