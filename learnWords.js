@@ -158,9 +158,9 @@ export function play_audio() {
     const isRandom = document.getElementById("random-toggle").checked;
     let word;
     if (isRandom) {
-        word=document.getElementById("englishMeaningField");
-    }else{
-        word=englishWordTextBox;
+        word = document.getElementById("englishMeaningField");
+    } else {
+        word = englishWordTextBox;
     }
     word = word.value.trim().toLowerCase()
     const soundFileName = encodeURIComponent(word) + '.mp3';
@@ -290,9 +290,13 @@ export function compareOptionIndex(event) {
     // const passColor = "#AFEEEE";
     const passColor = "#87CEFA";
     const isRandom = document.getElementById("random-toggle").checked;
+    const baseDelay = 2000; // 基础等待时间为 2 秒
+    let additionalDelay = 0;
     if (isRandom) {
         play_audio();
+        additionalDelay = 1000; // 额外的延迟
     }
+    const totalDelay = baseDelay + additionalDelay;
     const selectedOptionIndex = Array.from(event.target.parentNode.children).indexOf(event.target);
     const correctIndex = parseInt(document.getElementById('correctIndexValue').value);
     const correctOptionValue = document.getElementById("correctOptionValue").value;
@@ -343,7 +347,7 @@ export function compareOptionIndex(event) {
         banners.forEach(banner => {
             banner.disabled = false;
         });
-    }, 2000);
+    }, totalDelay);
 }
 
 function triggerAnimation() {
