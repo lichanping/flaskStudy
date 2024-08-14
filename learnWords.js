@@ -223,6 +223,8 @@ export async function renderQuestion() {
         let englishWordInput = document.getElementById("englishWordTextBox");
         englishWordInput.value = currentEnglishWord;
         englishWordInput.style.visibility = 'visible';
+        // Apply marquee effect if the word length exceeds 10 characters
+        applyMarqueeEffect(currentEnglishWord, englishWordInput);
         // Clear previous options
         optionsLine.innerHTML = '';
 
@@ -248,6 +250,15 @@ export async function renderQuestion() {
     } catch (error) {
         console.error("Error:", error);
         return null;
+    }
+}
+
+// Marquee effect function
+function applyMarqueeEffect(text, element) {
+    if (text.length > 25) {
+        element.classList.add('marquee-text');
+    } else {
+        element.classList.remove('marquee-text');
     }
 }
 
@@ -294,6 +305,7 @@ export function compareOptionIndex(event) {
     const correctOptionValue = document.getElementById("correctOptionValue").value;
 
     const englishWordTextBox = document.getElementById('englishWordTextBox');
+    const container = document.getElementById('marqueeContainer');
     const english = englishWordTextBox.value;
     const scoreElement = document.getElementById('scoreNumber')
     const score = parseInt(scoreElement.innerText);
@@ -312,7 +324,7 @@ export function compareOptionIndex(event) {
     // Compare the selected option index with the correct index
     if (selectedOptionIndex === correctIndex) {
         englishWordTextBox.value = english + " " + event.target.innerText;
-        englishWordTextBox.style.backgroundColor = passColor;
+        container.style.backgroundColor = passColor;
         if (correctOptionValue !== "") {
             displayToast(correctOptionValue);
         } else {
@@ -324,7 +336,7 @@ export function compareOptionIndex(event) {
         event.target.style.backgroundColor = 'red';
         incorrectWordsSpan.innerText += `${english} ${correctOption}\n`;
         document.getElementById('errorCount').innerText = errorCount + 1;
-        englishWordTextBox.style.backgroundColor = 'red';
+        container.style.backgroundColor = 'red';
     }
 
     // Automatically perform action of renderQuestion after 3 seconds
