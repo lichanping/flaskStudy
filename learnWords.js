@@ -141,11 +141,6 @@ class LearnWords {
 export function play_audio() {
     const englishWordTextBox = document.getElementById('englishWordTextBox')
     const audioIcon = document.getElementById("playWord")
-    englishWordTextBox.classList.add('playing-animation');
-    // Remove the shake animation class after the animation ends
-    setTimeout(function () {
-        englishWordTextBox.classList.remove('playing-animation');
-    }, 500);
     // Add playing animation class to the audio icon
     audioIcon.classList.add('playing-animation');
     // Remove playing animation class after a delay (adjust as needed)
