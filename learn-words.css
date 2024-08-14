@@ -79,7 +79,7 @@ input:checked + .slider:before {
 #goBackButton,
 #renderQuestion,
 #file,
-#clearText {
+#clearText{
     border-radius: 10px; /* Adjust the value as needed */
     color: #ffffff; /* White font color */
     background-color: inherit; /* Dark background color */
@@ -157,72 +157,21 @@ input:checked + .slider:before {
     height: 40px;
 }
 
-#english-word {
-    display: flex;
-    align-items: center; /* Center align items vertically */
-    justify-content: flex-start; /* Align items to the left */
-    gap: 10px; /* Add space between elements */
-    border-radius: 15px; /* Add rounded corners */
-}
-
 /* English word text box */
 #englishWordTextBox {
-    flex-grow: 1; /* Allow the text box to grow and fill available space */
     height: 40px; /* Match height to the button */
     font-size: 24px; /* Adjust the font size for the English word */
-    border: none; /* Remove default border */
-    background-color: inherit; /* Dark background color */
-    color: #ffffff; /* White font color */
+    display: inline-block;
+    vertical-align: middle;
+    width: calc(100% - 130px); /* Set width to auto */
+    max-width: 380px; /* Maximum width for larger screens */
     text-align: center;
+    border: none;
+    background-color: inherit; /* Dark background color */
     margin: 10px 0; /* Add margin above and below */
     margin-right: 5px; /* Add margin to the right of the textbox */
     border-radius: 10px; /* Add border radius */
-    box-sizing: border-box; /* Ensure padding and borders are included in width/height calculations */
-}
-
-/* Marquee container styles */
-#marqueeContainer {
-    display: flex; /* Use Flexbox layout */
-    align-items: center; /* Center align items vertically */
-    overflow: hidden;
-    white-space: nowrap;
-    box-sizing: border-box;
-    border: 1px solid #000; /* Optional border for visibility */
-    width: calc(100% - 140px); /* Match the width of #spellingInput */
-    border-radius: 15px; /* Add rounded corners */
-}
-
-/* Marquee text styles */
-.marquee-text {
-    display: inline-block;
-    white-space: nowrap;
-    animation: marquee 10s linear infinite;
-    border: none; /* Remove default input border */
-    background-color: inherit; /* Dark background color */
     color: #ffffff; /* White font color */
-    height: 100%; /* Match container height */
-    width: 100%; /* Fill container width */
-    text-align: center;
-}
-
-/* Adjust width and layout for the text box container */
-#englishWordTextBox {
-    height: 100%; /* Match height to the container */
-    font-size: 24px; /* Adjust the font size */
-    border: none; /* Remove border */
-    background-color: inherit; /* Dark background color */
-    color: #ffffff; /* White font color */
-    box-sizing: border-box; /* Include padding in width/height calculations */
-}
-
-/* Marquee animation */
-@keyframes marquee {
-    from {
-        transform: translateX(100%);
-    }
-    to {
-        transform: translateX(-100%);
-    }
 }
 
 /* Speaker icon */
@@ -230,12 +179,6 @@ input:checked + .slider:before {
     font-size: 24px; /* Adjust the size of the speaker icon */
     vertical-align: middle; /* Align the icon vertically with the text */
     color: #333333; /* Dark background color */
-}
-
-/* Spelling input */
-#spellingInput {
-    width: calc(100% - 140px); /* Match the width of #marqueeContainer */
-    box-sizing: border-box; /* Include padding in width/height calculations */
 }
 
 /* Spelling input and check button */
