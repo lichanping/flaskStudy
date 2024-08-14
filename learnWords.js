@@ -55,22 +55,22 @@ class LearnWords {
         const randomElement = index !== null ? globalWordsData[index] : this.getRandomElement(globalWordsData);
         const currentEnglishWord = randomElement["单词"].trim();
         const correctOption = randomElement["释意"];
-        const otherWords = globalWordsData.filter(word => word !== randomElement);
-        const wrongOptions = [];
-        for (let i = 0; i < 3; i++) {
-            let randomWrongWord;
-            do {
-                randomWrongWord = this.getRandomElement(otherWords)["释意"];
-            } while (wrongOptions.includes(randomWrongWord));
-
-            wrongOptions.push(randomWrongWord);
+        const wrongOptionsSet = new Set();
+        const otherWords = globalWordsData.filter(word => word["释意"] !== correctOption);
+        while (wrongOptionsSet.size < 4) {
+            const randomWrongWord = this.getRandomElement(otherWords)["释意"];
+            wrongOptionsSet.add(randomWrongWord);
         }
-        // 30% chance to exclude the correct option
+        const wrongOptions = Array.from(wrongOptionsSet);
+        // 10% chance to exclude the correct option
         const noCorrectAnswer = Math.random() < 0.1;
-        const options = noCorrectAnswer ? [...wrongOptions, this.getRandomElement(otherWords)["释意"]] : [correctOption, ...wrongOptions];
-
-        // Shuffle the options
-        const shuffledOptions = this.shuffleArray(options);
+        // Add correct option or additional wrong option, ensuring no duplicates
+        const finalOptionsSet = new Set(noCorrectAnswer
+            ? [...wrongOptions, this.getRandomElement(otherWords)["释意"]]
+            : [correctOption, ...wrongOptions]
+        );
+        // Convert finalOptionsSet to array and shuffle
+        const shuffledOptions = this.shuffleArray(Array.from(finalOptionsSet));
         // Always include "没有正确答案" as the last option
         shuffledOptions.push("没有正确答案");
 
@@ -98,23 +98,23 @@ class LearnWords {
         const currentEnglishWord = randomElement["释意"].trim();
         const correctOption = randomElement["单词"];
         document.getElementById("englishMeaningField").value = correctOption;
-
-        const otherWords = globalWordsData.filter(word => word !== randomElement);
-        const wrongOptions = [];
-        for (let i = 0; i < 3; i++) {
-            let randomWrongWord;
-            do {
-                randomWrongWord = this.getRandomElement(otherWords)["单词"];
-            } while (wrongOptions.includes(randomWrongWord));
-
-            wrongOptions.push(randomWrongWord);
+        // Create a Set to ensure unique wrong options
+        const wrongOptionsSet = new Set();
+        const otherWords = globalWordsData.filter(word => word["单词"] !== correctOption);
+        while (wrongOptionsSet.size < 3) {
+            const randomWrongWord = this.getRandomElement(otherWords)["单词"];
+            wrongOptionsSet.add(randomWrongWord);
         }
-        // 30% chance to exclude the correct option
+        const wrongOptions = Array.from(wrongOptionsSet);
+        // 10% chance to exclude the correct option
         const noCorrectAnswer = Math.random() < 0.1;
-        const options = noCorrectAnswer ? [...wrongOptions, this.getRandomElement(otherWords)["单词"]] : [correctOption, ...wrongOptions];
-
-        // Shuffle the options
-        const shuffledOptions = this.shuffleArray(options);
+        // Add correct option or additional wrong option, ensuring no duplicates
+        const finalOptionsSet = new Set(noCorrectAnswer
+            ? [...wrongOptions, this.getRandomElement(otherWords)["单词"]]
+            : [correctOption, ...wrongOptions]
+        );
+        // Convert finalOptionsSet to array and shuffle
+        const shuffledOptions = this.shuffleArray(Array.from(finalOptionsSet));
         // Always include "没有正确答案" as the last option
         shuffledOptions.push("没有正确答案");
 
@@ -136,7 +136,6 @@ class LearnWords {
             };
         }
     }
-
 }
 
 export function play_audio() {
@@ -205,28 +204,26 @@ export async function renderQuestion() {
 
         let currentEnglishWord, options, correctIndex;
         let currentIndex = parseInt(sessionStorage.getItem(`${key}_currentIndex`)) || 0;
+        let generatedOptions;
         if (isRandom) {
-            const generatedOptions = LearnWords.generateWords(globalWordsData);
-            currentEnglishWord = generatedOptions.currentEnglishWord;
-            options = generatedOptions.options;
-            correctIndex = generatedOptions.correctIndex;
-            document.getElementById("correctOptionValue").value = generatedOptions.correctOption;
+            generatedOptions = LearnWords.generateWords(globalWordsData, currentIndex);
         } else {
-            const generatedOptions = LearnWords.generateOptions(globalWordsData, currentIndex);
-            currentEnglishWord = generatedOptions.currentEnglishWord;
-            options = generatedOptions.options;
-            correctIndex = generatedOptions.correctIndex;
-            document.getElementById("correctOptionValue").value = generatedOptions.correctOption;
+            generatedOptions = LearnWords.generateOptions(globalWordsData, currentIndex);
 
-            // Increment index for next question
-            currentIndex = (currentIndex + 1) % globalWordsData.length;
-            if (currentIndex === 0) {
-                fileCountLabel.textContent = `（${globalWordsData.length}/${globalWordsData.length}个）`;
-            } else {
-                fileCountLabel.textContent = `（${currentIndex}/${globalWordsData.length}个）`;
-            }
-            sessionStorage.setItem(`${key}_currentIndex`, currentIndex);
         }
+        currentEnglishWord = generatedOptions.currentEnglishWord;
+        options = generatedOptions.options;
+        correctIndex = generatedOptions.correctIndex;
+        document.getElementById("correctOptionValue").value = generatedOptions.correctOption;
+
+        // Increment index for next question
+        currentIndex = (currentIndex + 1) % globalWordsData.length;
+        if (currentIndex === 0) {
+            fileCountLabel.textContent = `（${globalWordsData.length}/${globalWordsData.length}个）`;
+        } else {
+            fileCountLabel.textContent = `（${currentIndex}/${globalWordsData.length}个）`;
+        }
+        sessionStorage.setItem(`${key}_currentIndex`, currentIndex);
 
         let englishWordInput = document.getElementById("englishWordTextBox");
         englishWordInput.value = currentEnglishWord;
