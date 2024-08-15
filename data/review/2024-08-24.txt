@@ -1,3 +1,37 @@
+crop	(n.) 作物，庄稼
+cigar	(n.) 雪茄烟
+Nazi	"n.纳粹党人；纳粹主义信徒；adj.纳粹主义的"
+accustom	(v.) 使习惯于
+syndrome	(n.) 【医】综合征
+concert	(n.) 音乐会，演奏会
+recall	(v.) 回想起，记起，回忆
+clam	(n.) 蛤，蜊
+soybean	(n.) 大豆；黄豆
+yet	"adv.尚，还，仍然；conj.但是"
+autonomous	"adj.自动驾驶的；自治的，有自治权的"
+clue	(n.) 线索
+cradle	"n.摇篮；发源地；v.轻轻地抱或捧"
+alone	"adj.单独的；adv.独自地；仅仅，只有"
+issue	(n.) 问题；发行物；v.发行
+separate	"v.使分开；adj.分开的；单独的（读作/ˈseprət/）"
+absence	(n.) 不在，缺席
+plot	(n.) 情节
+antelope	(n.) 羚羊
+track	"v.跟踪，追赶；n.铁路轨道；跑道；轨迹"
+shame	"n.羞耻，惭愧；遗憾；羞愧；耻辱"
+underdog	"n.弱势的一方，受害者，输家"
+tire	(v.) 使疲倦；n.轮胎，车胎
+psychological	(adj.) 心理的，心理学的
+smog	(n.) 烟雾
+cottage	(n.) 村舍，小屋
+madam	(n.) 女士
+envelope	(n.) 信封
+commit	(v.) 致力于
+restriction	(n.) 限制，约束
+camel	(n.) 骆驼
+conservative	(adj.) 保守的
+boycott	(n.) 抵制；vt.抵制
+insert	"vt.插入，嵌入（读作/ɪnˈs3rt/）"
 lorry	(n.) 卡车；运货汽车
 hesitate	(v.) 犹豫
 wreath	(n.) 花圈；圈状物
