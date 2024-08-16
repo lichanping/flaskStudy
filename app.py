@@ -9,6 +9,15 @@ app = Flask(__name__)
 # Configure Flask to serve static files from the 'static' directory
 app.static_folder = 'static'
 
+# Mapping of word list files to student folders
+file_to_student_mapping = {
+    '高考词汇.txt': '吉李辰英语',
+    '法语单词.txt': '吉李辰法语',
+    '雅思全部.txt': '雅思全部学生',
+    '中考考纲词组.txt': '中考考纲学生',
+    '中考词汇.txt': '中考学生'
+}
+
 
 def get_sub_folder_path(folder_name='data'):
     current_directory = os.path.dirname(os.path.abspath(__file__))
@@ -18,7 +27,7 @@ def get_sub_folder_path(folder_name='data'):
 class TxtReader:
     def __init__(self):
         self.data_folder = get_sub_folder_path('data')
-        self.review_folder = os.path.join(self.data_folder, 'review')
+        self.base_review_folder = os.path.join(self.data_folder, 'review')
 
     def read_words_from_txt(self, file_name, limit=50):
         file_path = os.path.join(self.data_folder, file_name)
@@ -66,6 +75,10 @@ class TxtReader:
     def add_words_to_review_files(self, selected_file, selected_words):
         if not selected_words:
             return None
+
+        # Determine the student folder based on the selected file
+        student_folder = file_to_student_mapping.get(selected_file, '吉李辰英语')
+        review_folder_for_student = os.path.join(self.base_review_folder, student_folder)
         translations = {}
         with open(os.path.join(self.data_folder, selected_file), 'r', encoding='utf-8') as file:
             for line in file:
@@ -74,7 +87,7 @@ class TxtReader:
                     english_word, translation = word_match.groups()
                     translations[english_word.strip()] = translation.strip()
 
-        os.makedirs(self.review_folder, exist_ok=True)
+        os.makedirs(review_folder_for_student, exist_ok=True)
         review_dates = []
 
         for days in [0, 1, 2, 3, 5, 7, 9, 12, 14, 17, 21]:
@@ -82,7 +95,7 @@ class TxtReader:
             review_date_str = review_date.strftime('%Y-%m-%d')
             review_dates.append(review_date_str)
 
-            review_file_path = os.path.join(self.review_folder, f"{review_date_str}.txt")
+            review_file_path = os.path.join(review_folder_for_student, f"{review_date_str}.txt")
 
             content = []
             for word in selected_words:
@@ -127,7 +140,7 @@ def index():
             selected_check_words = request.form.getlist('check_word')
             new_file_name = txt_reader.move_words_to_new_file(selected_file, selected_check_words)
             selected_check_words = request.form.getlist('selected_words')[0]
-            selected_check_words = json.loads(selected_check_words) # 选择x的word的list:
+            selected_check_words = json.loads(selected_check_words)  # 选择x的word的list:
             review_words = [word_dict['单词'] for word_dict in selected_check_words]
             review_dates = txt_reader.add_words_to_review_files(selected_file, review_words)
             new_file_name = txt_reader.move_words_to_new_file(selected_file, review_words)
