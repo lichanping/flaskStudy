@@ -244,3 +244,17 @@ nous sommes	（我们是）
 vous êtes	（您/你们是）
 ils sont	（他们是）
 elles sont	（她们是）。
+boulangerie	面包房
+j'aime la musique	我喜欢音乐
+nous voulons lire un livre	我们想要阅读一本书
+je vais à l'école en voiture	我乘汽车去学校
+nous allons à la boulangerie	我们去面包店
+je prends le bus	我乘坐公共汽车
+je vais au parc	我去公园（当à和le一起出现，要合并成au）
+elle est amusante	她很有趣
+nous sommes chinois	我们是中国人
+il a trois chats	他有三只猫（复数）
+les garcons sont étudiants	那些男孩是大学生
+ils mangent deux pizzas	他们吃两个披萨
+les filles sont en espagne	这些女孩在西班牙
+les	这些(le,la,l'的复数）
