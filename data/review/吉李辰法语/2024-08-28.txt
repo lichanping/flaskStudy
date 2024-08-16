@@ -1,3 +1,20 @@
+mon père	我的父亲（加阳性名词）
+ma mère	我的母亲（加阴性名词）
+ton frère	你的兄弟
+ta sœur	你的姐妹
+gâteau	蛋糕
+garçon	男孩
+girafe	长颈鹿
+tu es marc	你是Marc吗？
+paul mange un croissant	"Paul吃一个牛角面包"
+un croissant	一个牛角面包（阳性）
+je suis une fille	我是女孩
+salut paul	你好，Paul
+comment çava	怎么样？
+ca va bien merci	很好，谢谢
+bienvenue marie	欢迎你，Marie
+bonjour marie enchanté	你好Marie，很高兴认识你
+au revoir	再见
 un	一
 joli	漂亮的
 un chat	一只猫
