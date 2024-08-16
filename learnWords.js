@@ -138,6 +138,47 @@ class LearnWords {
     }
 }
 
+// Array of student names with associated subjects
+const students = [
+    {name: '吉李辰英语', password: '0402'},
+    {name: '吉李辰法语', password: '0402'}
+];
+
+// Function to handle button click and prompt interaction
+export function handleSwitchStudentClick() {
+    // Prompt the user to enter a student name and password
+    var input = prompt('请输入学生姓名-密码以继续:');
+
+    // Check if the user entered input
+    if (input !== null && input.trim() !== '') {
+        // Find if the entered value matches any student in the list
+        const student = students.find(student => `${student.name}-${student.password}` === input.trim());
+        if (student) {
+            // Get the current value from sessionStorage
+            const storedName = sessionStorage.getItem('studentName');
+            // Check if the current stored value is different from the new student's name
+            const isDifferent = storedName !== student.name;
+            if (isDifferent) {
+                // Record the boolean value (for demonstration purposes, we use console.log)
+                console.log('Entered student name is different:', isDifferent);
+                // Update sessionStorage with the new student's name
+                sessionStorage.setItem('studentName', student.name);
+            } else {
+                console.log('Values are the same:', !isDifferent);
+            }
+            // Notify the user with the matching student's details
+            alert(`您输入的学生姓名是: ${student.name}`);
+        } else {
+            // Handle the case where no matching student was found
+            alert('未找到匹配的学生姓名。请确保姓名正确并用“-”分隔不同的名字。');
+        }
+    } else {
+        // Handle the case where no input was entered
+        alert('您没有输入学生姓名和密码，以-分割。');
+    }
+}
+
+
 export function play_audio() {
     const englishWordTextBox = document.getElementById('englishWordTextBox')
     const audioIcon = document.getElementById("playWord")

@@ -13,7 +13,10 @@
     <link rel="icon" type="image/png" href="sounds/tick-mark.png">
 </head>
 <body>
-<h1>老母亲陪伴背单词日记</h1>
+<div id="header">
+    <h1>单词伴读日记</h1>
+    <button id="switchStudentButton">切换学生</button>
+</div>
 <div id="container">
     <div id="file-and-button">
         <select id="file">
@@ -88,7 +91,7 @@
             script.renderQuestion();
         }, 5000);
     }
-
+    document.getElementById("switchStudentButton").addEventListener("click", script.handleSwitchStudentClick);
     document.getElementById("playWord").addEventListener("click", script.play_audio);
     document.getElementById("checkSpellingButton").addEventListener("click", script.checkSpelling);
     document.getElementById('clearText').addEventListener('click', script.clearCurrentIndex);
