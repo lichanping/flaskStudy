@@ -1790,3 +1790,53 @@ camel	(n.) 骆驼
 conservative	(adj.) 保守的
 boycott	(n.) 抵制；vt.抵制
 insert	"vt.插入，嵌入（读作/ɪnˈs3rt/）"
+jeans	(n.) 牛仔裤
+mostly	(adv.) 大多；主要地
+brown	(adj.) 褐色的，棕色的
+sunny	"adj.阳光充足的，阳光明媚的"
+suppose	(v.) 认为
+miss	(v.) 错过；想念
+forget	(v.) 忘记
+soccer	(n.) 足球
+password	(n.) 密码，口令
+shelf	(n.) 架子，搁板
+adventure	(n.) 冒险，冒险活动
+exhibition	(n.) 展览
+milk	(n.) （牛或羊等的）奶
+upset	"adj.苦恼的，沮丧的，心烦的；v.使苦恼；n.心烦…"
+enjoyable	(adj.) 令人愉快的，可享受的
+link	"v.联系；连接；n.（链状物的）环，节；联系"
+actually	(adv.) 实际上；事实上
+jacket	(n.) 短上衣，夹克衫
+wolf	(n.) 狼（复数wolves）
+wash	(v.) 清洗
+pattern	(n.) 模型，模式；图案
+layer	(n.) 层
+basement	(n.) 地下室
+shepherd	(n.) 牧羊人；v.带领
+laundry	(n.) 洗衣店；要洗的衣服
+indeed	(adv.) 的确，当然，确实
+attach	(v.) 贴上，使依附；附加
+bent	"v.弯腰，弯曲（bend过去式）"
+northwest	"n.西北方；adj.来自西北的；adv.自西北"
+consist	(v.) 由……组成
+tribe	(n.) 部落
+bleed	(v.) 流血
+stir	(v.) 激发（兴趣）
+affair	(n.) 事情，事务
+terror	(n.) 恐怖，惊骇
+temporarily	(adv.) 暂时地，临时地
+communism	(n.) 共产主义
+institution	(n.) 机构；制度
+horror	(n.) 恐怖
+chef	(n.) 厨师
+millionaire	(n.) 百万富翁，大富翁
+skeptical	(adj.) 表示怀疑的
+impressive	(adj.) 给人深刻印象的
+onward	(adv.) 向前
+typist	(n.) （尤指专职）打字员
+motivation	(n.) 动机；动力；积极性
+robbery	(n.) 抢掠，抢夺
+monitor	"v.监测；监督；监控；n.监测仪；显示器；监视器"
+relief	"n.（不快过后的）宽慰，轻松；缓解"
+assignment	(n.) （课外）作业；任务
