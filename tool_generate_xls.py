@@ -97,20 +97,21 @@ class TxtToXLSX:
         today = date.today()
 
         # Iterate through all files in the review folder
-        for filename in os.listdir(review_folder):
-            # Check if the file has a .txt extension and matches the date format
-            if filename.endswith('.txt'):
-                # Extract the date part from the filename
-                try:
-                    file_date = datetime.strptime(filename[:-4], '%Y-%m-%d').date()
-                    # Check if the file date is older than today's date
-                    if file_date < today:
-                        file_path = os.path.join(review_folder, filename)
-                        os.remove(file_path)
-                        print(f"Removed file: {file_path}")
-                except ValueError:
-                    # Skip files that don't match the date format
-                    continue
+        for root, dirs, files in os.walk(review_folder):
+            for filename in files:
+                # Check if the file has a .txt extension and matches the date format
+                if filename.endswith('.txt'):
+                    # Extract the date part from the filename
+                    try:
+                        file_date = datetime.strptime(filename[:-4], '%Y-%m-%d').date()
+                        # Check if the file date is older than today's date
+                        if file_date < today:
+                            file_path = os.path.join(root, filename)
+                            os.remove(file_path)
+                            print(f"Removed file: {file_path}")
+                    except ValueError:
+                        # Skip files that don't match the date format
+                        continue
 
     def convert(self, file_name):
         extracted_data = self.read_text(file_name)
@@ -285,6 +286,8 @@ class GenerateTool:
 
     @Test()
     def import_forgotten(self):
+        student_name = "吉李辰英语"  # TBD
+
         data_folder = get_sub_folder_path('data')
         import_file_path = os.path.join(data_folder, 'Import.txt')
         # 读取 Import.txt 中的新词
@@ -293,7 +296,7 @@ class GenerateTool:
             for line in import_file:
                 new_words.append(line.strip())
 
-        review_folder_path = os.path.join(data_folder, 'review')
+        review_folder_path = os.path.join(data_folder, 'review', student_name)
         review_dates = []
 
         for days in [0, 1, 2, 3, 5, 7, 9, 12, 14, 17, 21]:

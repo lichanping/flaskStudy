@@ -90,6 +90,10 @@ input:checked + .slider:before {
     box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5); /* Add shadow for a 3D effect */
 }
 
+#switchStudentButton {
+    height: 40px;
+}
+
 /* Toast notification */
 .toast {
     position: fixed;
