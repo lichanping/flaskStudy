@@ -1,3 +1,31 @@
+beast	(n.) 野兽
+orchestra	(n.) 管弦乐队
+statistic	(n.) 统计数值
+center	(n.) 中央，中心；v.集中
+manipulation	(n.) 操作，处理
+sake	(n.) 理由
+population	(n.) （地区、国家等的）人口
+alternative	"n.可供选择的事物；adj.另外的"
+broom	(n.) 扫把，扫帚
+rhyme	"n.押韵短诗；押韵词；v.押韵"
+borderless	(adj.) 无边界的，无边无际的
+bunch	"n.束，串，群，伙；v.使成一束（或一群等）"
+thriller	(n.) 惊悚片，惊险小说
+treatment	(n.) 治疗，疗法；对待，待遇
+taxation	(n.) 税制；征税项；税款
+pump	"v.用泵输送；抽水，抽取；n.打气筒；泵，抽水（机）"
+rooster	(n.) 公鸡；自负的人
+occupation	(n.) 职业，工作
+curious	(adj.) 好奇的
+valley	(n.) 山谷，溪谷，低谷
+regretful	(adj.) 后悔的
+optimistic	(adj.) 乐观的
+monument	(n.) 纪念碑；历史遗迹，遗址
+artwork	(n.) 艺术制品
+concrete	(adj.) 具体的
+individually	(adv.) 个别地；单独地
+legal	"adj.合法的，法定的，法律的"
+sweep	"v.扫，打扫；n.绵延弯曲的地带"
 increasingly	(adv.) 日益，越来越多地
 ambitious	(adj.) 有抱负的，有野心的
 coach	(n.) 教练；vt.训练，指导
