@@ -94,3 +94,4 @@ nous sommes	（我们是）
 vous êtes	（您/你们是）
 ils sont	（他们是）
 elles sont	（她们是）
+Camille	人名（很獨立，工作能力很強，有企圖心）

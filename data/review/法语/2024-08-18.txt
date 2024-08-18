@@ -96,3 +96,4 @@ mange	吃
 fromage	奶酪
 aime	喜欢
 elle	她
+Camille	人名（很獨立，工作能力很強，有企圖心）
