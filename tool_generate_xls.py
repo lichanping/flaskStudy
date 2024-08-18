@@ -286,7 +286,7 @@ class GenerateTool:
 
     @Test()
     def import_forgotten(self):
-        student_name = "吉李辰英语"  # TBD
+        student_name = "英语"  # TBD
 
         data_folder = get_sub_folder_path('data')
         import_file_path = os.path.join(data_folder, 'Import.txt')

@@ -3,7 +3,7 @@ class LearnWords {
         // 从 sessionStorage 中获取 studentName
         let studentName = sessionStorage.getItem('studentName');
         // 判断 studentName 是否为 null 或空值
-        const directoryName = studentName && studentName.trim() !== '' ? studentName : '吉李辰英语';
+        const directoryName = studentName && studentName.trim() !== '' ? studentName : '英语';
         const filePath = `data/review/${directoryName}/${fileName}`;
         const cachedData = localStorage.getItem(filePath);
 
@@ -144,8 +144,8 @@ class LearnWords {
 
 // Array of student names with associated subjects
 const students = [
-    {name: '吉李辰英语', password: '0402'},
-    {name: '吉李辰法语', password: '0402'}
+    {name: '英语', password: '0402'},
+    {name: '法语', password: '0402'}
 ];
 
 // Function to handle button click and prompt interaction
@@ -154,33 +154,44 @@ export function handleSwitchStudentClick() {
     const storedName = sessionStorage.getItem('studentName') || '';
 
     // Prompt the user to enter a student name and password
-    var input = prompt('请输入学生姓名-密码以继续:', storedName);
+    var input = prompt('请输入学生姓名和密码以继续 (例如 英语xx):', storedName);
 
     // Check if the user entered input
     if (input !== null && input.trim() !== '') {
-        // Find if the entered value matches any student in the list
-        const student = students.find(student => `${student.name}-${student.password}` === input.trim());
-        if (student) {
-            // Check if the current stored value is different from the new student's name
-            const isDifferent = storedName !== student.name;
-            if (isDifferent) {
-                // Record the boolean value (for demonstration purposes, we use console.log)
-                console.log('Entered student name is different:', isDifferent);
-                // Update sessionStorage with the new student's name
-                sessionStorage.setItem('studentName', student.name);
-                renderQuestion()
+        // Use regex to capture the name and password (assuming name is all Chinese characters and password is numeric)
+        const regex = /^([\u4e00-\u9fa5]+)(\d+)$/;
+        const match = input.trim().match(regex);
+
+        if (match) {
+            const inputName = match[1];
+            const inputPassword = match[2];
+
+            // Find if the entered value matches any student in the list
+            const student = students.find(student => student.name === inputName && student.password === inputPassword);
+            // // Find if the entered value matches any student in the list
+            // const student = students.find(student => `${student.name}-${student.password}` === input.trim());
+            if (student) {
+                // Check if the current stored value is different from the new student's name
+                const isDifferent = storedName !== student.name;
+                if (isDifferent) {
+                    // Record the boolean value (for demonstration purposes, we use console.log)
+                    console.log('Entered student name is different:', isDifferent);
+                    // Update sessionStorage with the new student's name
+                    sessionStorage.setItem('studentName', student.name);
+                    renderQuestion()
+                } else {
+                    console.log('Values are the same:', !isDifferent);
+                }
+                // Notify the user with the matching student's details
+                alert(`您输入的学生姓名是: ${student.name}`);
             } else {
-                console.log('Values are the same:', !isDifferent);
+                // Handle the case where no matching student was found
+                alert('未找到匹配的学生姓名。请确保姓名正确并用“-”分隔不同的名字。');
             }
-            // Notify the user with the matching student's details
-            alert(`您输入的学生姓名是: ${student.name}`);
         } else {
-            // Handle the case where no matching student was found
-            alert('未找到匹配的学生姓名。请确保姓名正确并用“-”分隔不同的名字。');
+            // Handle the case where no input was entered
+            alert('您没有输入学生姓名和密码，以-分割。');
         }
-    } else {
-        // Handle the case where no input was entered
-        alert('您没有输入学生姓名和密码，以-分割。');
     }
 }
 
@@ -422,7 +433,7 @@ spellingInput.addEventListener('keydown', function (event) {
 function clearCachedData() {
     const fileName = document.getElementById("file").value + ".txt";
     // 从 sessionStorage 获取学生姓名，如果为空则使用默认值
-    const studentName = sessionStorage.getItem('studentName') || '吉李辰英语';
+    const studentName = sessionStorage.getItem('studentName') || '英语';
     const filePath = `data/review/${studentName}/${fileName}`; // Adjust the file name accordingly
     localStorage.removeItem(filePath); // Remove cached data
 }

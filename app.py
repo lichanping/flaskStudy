@@ -11,8 +11,8 @@ app.static_folder = 'static'
 
 # Mapping of word list files to student folders
 file_to_student_mapping = {
-    '高考词汇.txt': '吉李辰英语',
-    '法语单词.txt': '吉李辰法语',
+    '高考词汇.txt': '英语',
+    '法语单词.txt': '法语',
     '雅思全部.txt': '雅思全部学生',
     '中考考纲词组.txt': '中考考纲学生',
     '中考词汇.txt': '中考学生'
@@ -77,7 +77,7 @@ class TxtReader:
             return None
 
         # Determine the student folder based on the selected file
-        student_folder = file_to_student_mapping.get(selected_file, '吉李辰英语')
+        student_folder = file_to_student_mapping.get(selected_file, '英语')
         review_folder_for_student = os.path.join(self.base_review_folder, student_folder)
         translations = {}
         with open(os.path.join(self.data_folder, selected_file), 'r', encoding='utf-8') as file:
