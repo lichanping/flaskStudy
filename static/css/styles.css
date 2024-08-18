@@ -5,6 +5,42 @@ body {
     font-family: Arial, sans-serif; /* Default font family */
 }
 
+.wordItem.highlight::before {
+    content: '';
+    position: absolute;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    width: 4px; /* Width of the blue line */
+    background-color: #87CEEB; /* The blue line color */
+}
+
+/* Style for each word item */
+.wordItem {
+    display: flex; /* Use flexbox */
+    align-items: center; /* Align items vertically */
+    justify-content: space-between; /* Space between items */
+    background-color: #2F4F4F; /* Dark background color */
+    margin-bottom: 5px; /* Bottom margin */
+    padding: 10px; /* Padding */
+    border-radius: 5px; /* Border radius */
+    border: 1px solid #fff; /* White border */
+    border-left: 5px solid #fff; /* White left border */
+    position: relative; /* Allows positioning of the pseudo-element */
+}
+
+.index {
+    display: inline-block; /* Display as inline block */
+    width: 10px; /* Width */
+    text-align: left; /* Left alignment */
+    margin-right: 15px; /* Right margin */
+}
+
+.wordItem .index {
+    position: relative;
+    padding-left: 8px; /* Adjust padding if needed for spacing */
+}
+
 /* Style for buttons container */
 #buttonsContainer {
     display: inline-block; /* Use flexbox */
@@ -24,18 +60,6 @@ body {
     width: 40%; /* Set width */
 }
 
-/* Style for each word item */
-.wordItem {
-    display: flex; /* Use flexbox */
-    align-items: center; /* Align items vertically */
-    justify-content: space-between; /* Space between items */
-    background-color: #2F4F4F; /* Dark background color */
-    margin-bottom: 5px; /* Bottom margin */
-    padding: 10px; /* Padding */
-    border-radius: 5px; /* Border radius */
-    border: 1px solid #fff; /* White border */
-    border-left: 5px solid #fff; /* White left border */
-}
 
 /* Style for word text */
 .word {
@@ -65,12 +89,6 @@ body {
     color: white; /* Text color */
 }
 
-.index {
-    display: inline-block; /* Display as inline block */
-    width: 10px; /* Width */
-    text-align: left; /* Left alignment */
-    margin-right: 15px; /* Right margin */
-}
 
 /* Added styles for checkButton and closeButton */
 .checkButton, .closeButton {

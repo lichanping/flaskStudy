@@ -137,7 +137,24 @@
     document.addEventListener('DOMContentLoaded', function () {
         let lastClickedItem = null; // Variable to keep track of the last clicked wordItem
         let selectedCount = 0; // Variable to keep track of the selected count
-        document.querySelectorAll('.wordItem').forEach(item => {
+        let currentHighlightIndex = 0; // Tracks the current index in the highlight sequence
+        const indicesToHighlight = [1, 2, 3, 2, 1, 2, 3, 4, 3, 2, 1, 2, 3, 4, 5, 4, 3, 4, 5, 2, 1, 2, 1, 2, 3, 4, 5, 4, 3, 2, 1]; // Example list, you can modify as needed
+        const items = document.querySelectorAll('.wordItem');
+
+        // Function to highlight the current item based on currentHighlightIndex
+        function highlightCurrentIndex() {
+            items.forEach(item => item.classList.remove('highlight')); // Remove highlight from all items
+
+            if (currentHighlightIndex < indicesToHighlight.length) {
+                const index = indicesToHighlight[currentHighlightIndex] - 1; // Convert 1-based index to 0-based
+                const item = items[index];
+                if (item) {
+                    item.classList.add('highlight'); // Add highlight to the current item
+                }
+            }
+        }
+
+        document.querySelectorAll('.wordItem').forEach((item, index) => {
             // Add event listener to the closeButton
             const closeButton = item.querySelector('.closeButton');
             const checkButton = item.querySelector('.checkButton');
@@ -193,6 +210,13 @@
 
                     // Update the last clicked item
                     lastClickedItem = item;
+                    // Check if the current item is the highlighted one
+                    const expectedIndex = indicesToHighlight[currentHighlightIndex] - 1;
+                    if (index === expectedIndex) {
+                        // Move to the next index in the sequence
+                        currentHighlightIndex++;
+                        highlightCurrentIndex(); // Highlight the next item
+                    }
                 }
             });
         });
