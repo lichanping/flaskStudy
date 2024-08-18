@@ -179,6 +179,7 @@
                         // Toggle visibility of translation
                         var translation = item.querySelector('.translation');
                         translation.style.display = translation.style.display === 'none' ? 'block' : 'none';
+                        playAudio(audioSrc);
                     } else {
                         // Play audio for the first click
                         playAudio(audioSrc);
