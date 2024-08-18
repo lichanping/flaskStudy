@@ -258,3 +258,4 @@ les garcons sont étudiants	那些男孩是大学生
 ils mangent deux pizzas	他们吃两个披萨
 les filles sont en espagne	这些女孩在西班牙
 les	这些(le,la,l'的复数）
+Camille	人名（很獨立，工作能力很強，有企圖心）
