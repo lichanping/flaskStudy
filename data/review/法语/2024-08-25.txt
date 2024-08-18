@@ -1,3 +1,45 @@
+j'habite en france	我住在法国（不发音的h前面的短词，经常和后面的单词合并缩写）
+je travaille en espagne	我在西班牙工作
+gabriel est espagnol	"Gabriel是Spanish."
+le garçon	这个男孩（le用于阳性名词）
+la femme	这个女人（la用于阴性名词）
+l'homme	这个男人（以原音或者不发音的h开头，则用l')
+je vais	我去
+tu vas	你去
+il va	他去
+elle va	她去
+nous allons	（我们去）
+vous allez	（您/你们去）
+ils vont	（他们去）
+elles vont	（她们去）
+j'ai	我有（当动词以原音开头，je要改成j')
+tu as	你有
+il a	他有
+elle a	她有
+j'ai un passeport	我有一个护照
+gants	手套
+gustave	古斯塔夫（人名）
+compagne	同伴；伴侣；伙伴
+espagnol	西班牙的；西班牙语；西班牙人
+l'aéroport	这个/那个机场
+aéroport	机场
+aéro	“大气”和“航空”（名词）
+Tu vas à Paris	你要去巴黎
+avion	飞机
+Tu vas à la gare	你要去火车站
+un avion	一架飞机
+C'est un hotel espagnol	这是一家西班牙酒店
+j'ai une valise	我有一个手提箱
+il a une valise	他有一个手提箱
+marc a un passeport	"Marc有一本护照"
+tu as un avion	你有飞机吗？
+voiture	汽车
+tu as une voiture francaise	你有一辆法国汽车
+billet	票,入场券,门票，（车、船）票
+s'il vous plait	请给我；请问。
+billet d'avion	机票
+Où est le taxi	出租车在哪里？
+tu prends la voiture	你乘坐汽车吗？
 mon père	我的父亲（加阳性名词）
 ma mère	我的母亲（加阴性名词）
 ton frère	你的兄弟
