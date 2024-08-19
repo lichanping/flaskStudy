@@ -188,7 +188,7 @@ sa sœur	他的，她的姐妹（加阳性名词）
 ma famille habite en france	我一家人住在法国
 parle	说话
 C'est ma famille	这是我一家人
-famille	“家庭；家属；家族”的意思，阴性名词
+famille	“家庭；家属；家族”的意思，阴性名词;一家人
 ma mère et sa sœur	我母亲和她的姐妹
 université	大学
 professeur	老师
@@ -244,7 +244,7 @@ nous sommes	（我们是）
 vous êtes	（您/你们是）
 ils sont	（他们是）
 elles sont	（她们是）。
-boulangerie	面包房
+boulangerie	面包房;面包店
 j'aime la musique	我喜欢音乐
 nous voulons lire un livre	我们想要阅读一本书
 je vais à l'école en voiture	我乘汽车去学校
@@ -298,4 +298,30 @@ mes livres sont intéressants	（我的书很有趣。）
 frères	兄弟们
 voitures	汽车
 chiens	“狗”的复数形式
-journalistes记者
+journalistes	记者
+ont	（有）的第三人称复数形式
+ils ont des livres	（他们有一些书。“des”在法语中是不定冠词，用于复数名词前，表示“一些”。）
+étudiants	大学生们
+étudiantes	大学生们
+étudient	学习
+habitent	（居住）的第三人称复数形式
+ils habitent à Paris	（他们住在巴黎。）
+professeurs	老师们
+hommes	“男人”“男子”的复数形式
+travaillent	（工作）的第三人称复数形式
+mangent	（吃）的第三人称复数形式
+ils mangent des fruits.	（他们吃水果。）
+trois	三；三只
+cinéma	电影院
+aimes	喜欢；爱的第二人称单数形式
+métro	地铁
+banque	银行
+école	学校
+musique	音乐
+habitons	（居住）的第一人称复数形式
+voulons	想要（第一人称复数形式）
+jardin	花园
+appartement	公寓
+maison	房子
+chouette	猫头鹰
+animal de compagnie	宠物
