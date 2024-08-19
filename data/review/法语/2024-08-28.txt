@@ -1,3 +1,9 @@
+marie va à l'aéroport en voiture	"Marie乘汽车去那个机场"
+il va à la gare	他去那座火车站
+un restaurant	一家饭馆
+le restaurant espagnol	那家西班牙饭馆
+berlin	柏林
+c'est une gare francaise	这是一座法国火车站
 mon père	我的父亲（加阳性名词）
 ma mère	我的母亲（加阴性名词）
 ton frère	你的兄弟
