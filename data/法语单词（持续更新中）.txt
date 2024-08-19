@@ -259,3 +259,43 @@ ils mangent deux pizzas	他们吃两个披萨
 les filles sont en espagne	这些女孩在西班牙
 les	这些(le,la,l'的复数）
 Camille	人名（很獨立，工作能力很強，有企圖心）
+mes frères aiment le chocolat	我的兄弟们喜欢巧克力
+tes parents sont ici	你的父母在这里
+ce sont tes filles	这是你的女儿们吗？
+c'est son bébé	这是他的宝宝
+ses parents sont amusants	她的父母很有趣
+la femme est contente	这个女人很高兴
+les femmes sont contentes	那些女人很高兴（如果谈论的是复数名词，形容词词尾也要加上-s）
+jus	果汁
+voudrais	(jeveux我想要:是直陈式，相当于“Iwant”）“jevoudrais”类似于“Iwouldlike”（更加委婉）
+serveur	服务员
+moi	给我；我
+toilettes	卫生间
+restaurants	饭馆
+personne	人；任何人；没有人
+amusantes	有趣的
+amusants	有趣的
+intelligentes	聪明的；有智慧
+intelligente	聪明的
+contents	高兴的
+francaises	法国人；法国的
+anglaises	英国人；英国的
+mexicaines	墨西哥的；墨西哥人
+mexicains	墨西哥的；墨西哥人
+américaines	美国人；美国的
+amusant	有趣的
+amusante	有趣的；有意思；有意思的
+contente	高兴的；满意；很高兴
+ses	“他的/她的/它的（复数）”
+Ses livres sont intéressants	他/她/它的书很有趣。
+ce sont	他们是；她们是
+aiment	喜欢（第三人称复数形式）
+elles aiment la musique	（她们喜欢音乐。）
+tes	你的（复数）
+tes livres	你的书
+mes	我的（复数）
+mes livres sont intéressants	（我的书很有趣。）
+frères	兄弟们
+voitures	汽车
+chiens	“狗”的复数形式
+journalistes记者
