@@ -57,7 +57,8 @@ body {
 #wordList {
     list-style-type: none; /* Remove default list style */
     padding: 0; /* Remove padding */
-    width: 40%; /* Set width */
+    width: 1000px; /* Set width */
+    max-width: 100%;
 }
 
 
