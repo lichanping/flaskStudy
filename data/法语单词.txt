@@ -1,3 +1,141 @@
+gâteau	蛋糕
+girafe	长颈鹿
+chocolat	巧克力
+je suis une femme	我是一个女人
+tu es marc	你是Marc吗？
+c'est un chat	这是一只猫
+tu manges une pizza	你吃一个披萨
+paul mange un croissant	"Paul吃一个牛角面包"
+une orange	一个橙子（阴性）
+un homme	一个男人(阳性）
+une femme	一个女人(阴性）
+un chien	一条狗(阳性）
+un croissant	一个牛角面包（阳性）
+une pizza	一个披萨（阴性）
+je suis une fille	我是女孩
+une femme et un homme	一个女人和一个男人
+tu es une fille	你是一个女孩
+salut paul	你好，Paul
+comment çava	怎么样？
+ca va bien merci	很好，谢谢
+bienvenue marie	欢迎你，Marie
+bonjour marie enchanté	你好Marie，很高兴认识你
+au revoir	再见
+a bientot	回头见àbientôt
+bonne soirée	祝你晚上愉快
+très	非常
+bonne nuit	晚安
+tu es francais	你是法国人吗？
+ju suis chinois	我是中国人
+elle est coréenne	她是韩国人;她是韩国人（阴性）
+ju suis en chine	我在中国
+il est en france	他在法国吗？
+elle parle espagnol	她说西班牙语
+il est chinois	他是中国人（国籍用形容词，阳性）
+elle est chinoise	她是中国人（阴性形容词以e结尾）
+il est coréen	他是韩国人（阳性）
+marie est francaise	"Marie是法国人"
+un livre francais	一本法国书
+un thé anglais	一杯英国茶
+c'est une boutique francaise	这是一家法国商店
+c'est une fille anglaise	这是一个英国女孩
+un bébé francais	一个法国宝宝
+une fête francaise	一个法国节日（形容词放在名词后面）
+un chocolat chinois	一块中国巧克力
+une boutique espagnole	一家西班牙商店
+je parle francais et anglais	我说法语和英语
+marc est anglais	"Marc是英国人"
+elle s'appelle alice	她叫Alice
+comment tu t'appelles	你叫什么？
+je m'appelle marie	我叫Marie
+excuse-moi	对不起
+tu parles francais	你说法语吗？
+il est francais	他是法国人
+je parle	我说
+tu parles	你说（s不发音）
+il parle	他说
+elle parle	她说
+tu habites a paris	你住在巴黎吗？
+j'étudie a bordeaux	我在波尔多（法国西南部的一座城市）学习
+tu habites a berlin	你住在柏林（德国的首都）吗？
+je travaille ici	我在这里工作
+julia est étudiante	"Julia是大学生"
+je suis en europe	我在欧洲
+je suis professeur	我是老师
+il est étudiant	他是大学生（阳性）
+elle est étudiante	她是大学生（阴性）
+il est journaliste	他是记者（有些职业不随着性别而变化）
+elle est journaliste	她是记者（有些职业不随着性别而变化）
+londres	伦敦
+je travaille à londres	我在伦敦工作（后面是城市，用à）
+angleterre	英国
+je travaille en angleterre	我在英国工作（后面是国家，用en）
+j'habite à paris	我住在巴黎（不发音的h前面的短词，经常和后面的单词合并缩写）
+j'habite en france	我住在法国（不发音的h前面的短词，经常和后面的单词合并缩写）
+je travaille en espagne	我在西班牙工作
+espagne	西班牙;西班牙（欧洲国家）
+gabriel est espagnol	"Gabriel是Spanish."
+sarah est espagnole	"Sarah是Spanish."
+il est americain	"He是American."
+elle est americaine	"She是American."
+le garçon	这个男孩（le用于阳性名词）
+la femme	这个女人（la用于阴性名词）
+l'homme	这个男人（以原音或者不发音的h开头，则用l')
+je vais	我去
+tu vas	你去
+il va	他去
+elle va	她去
+nous allons	（我们去）
+vous allez	（您/你们去）
+ils vont	（他们去）
+elles vont	（她们去）
+j'ai	我有（当动词以原音开头，je要改成j')
+tu as	你有
+il a	他有
+elle a	她有
+j'ai un passeport	我有一个护照
+gants	手套
+gustave	古斯塔夫（人名）
+tango	探戈舞；探戈舞曲
+compagne	同伴；伴侣；伙伴
+espagnol	西班牙的；西班牙语；西班牙人
+l'aéroport	这个/那个机场
+aéroport	机场
+aéro	“大气”和“航空”（名词）
+hotel	旅馆,饭店
+Tu vas à Paris	你要去巴黎
+avion	飞机
+Tu vas à la gare	你要去火车站
+un avion	一架飞机
+C'est un hotel espagnol	这是一家西班牙酒店
+passeport	护照
+j'ai une valise	我有一个手提箱
+valise	手提箱
+il a une valise	他有一个手提箱
+marc a un passeport	"Marc有一本护照"
+tu as un avion	你有飞机吗？
+voiture	汽车
+tu as une voiture francaise	你有一辆法国汽车
+billet	票,入场券,门票，（车、船）票
+s'il vous plait	请给我；请问。
+billet d'avion	机票
+Où est le taxi	出租车在哪里？
+tu prends la voiture	你乘坐汽车吗？
+un restaurant	一家饭馆
+montréal	蒙特利尔（加拿大主要港市)
+le restaurant espagnol	那家西班牙饭馆
+berlin	柏林
+c'est une gare francaise	这是一座法国火车站
+chanson	歌曲
+tu vas à l'aéroport	你去这个机场
+marie va à l'aéroport en voiture	"Marie乘汽车去那个机场"
+il va à la gare	他去那座火车站
+je vais à paris en train	我乘火车去巴黎
+Je prends la voiture	我乘坐汽车
+je vais à paris en voiture	我乘汽车去巴黎
+je prends l'avion	我乘坐飞机
+c'est une valise	这是一个手提箱
+tu prends le taxi	你乘坐出租车吗？
 où est le restaurant	这家饭馆在哪里？
 où est paul	"Paul在哪里"
 tu as un billet d'avion	你有机票吗？
@@ -23,7 +161,7 @@ sa sœur	他的，她的姐妹（加阳性名词）
 ma famille habite en france	我一家人住在法国
 parle	说话
 C'est ma famille	这是我一家人
-famille	“家庭；家属；家族”的意思，阴性名词
+famille	“家庭；家属；家族”的意思，阴性名词;一家人
 ma mère et sa sœur	我母亲和她的姐妹
 université	大学
 professeur	老师
@@ -78,5 +216,85 @@ elle est	她是
 nous sommes	（我们是）
 vous êtes	（您/你们是）
 ils sont	（他们是）
-elles sont	（她们是）
+elles sont	（她们是）。
+boulangerie	面包房;面包店
+j'aime la musique	我喜欢音乐
+nous voulons lire un livre	我们想要阅读一本书
+je vais à l'école en voiture	我乘汽车去学校
+nous allons à la boulangerie	我们去面包店
+je prends le bus	我乘坐公共汽车
+je vais au parc	我去公园（当à和le一起出现，要合并成au）
+elle est amusante	她很有趣
+nous sommes chinois	我们是中国人
+il a trois chats	他有三只猫（复数）
+les garcons sont étudiants	那些男孩是大学生
+ils mangent deux pizzas	他们吃两个披萨
+les filles sont en espagne	这些女孩在西班牙
+les	这些(le,la,l'的复数）
 Camille	人名（很獨立，工作能力很強，有企圖心）
+mes frères aiment le chocolat	我的兄弟们喜欢巧克力
+tes parents sont ici	你的父母在这里
+ce sont tes filles	这是你的女儿们吗？
+c'est son bébé	这是他的宝宝
+ses parents sont amusants	她的父母很有趣
+la femme est contente	这个女人很高兴
+les femmes sont contentes	那些女人很高兴（如果谈论的是复数名词，形容词词尾也要加上-s）
+jus	果汁
+voudrais	(jeveux我想要:是直陈式，相当于“Iwant”）“jevoudrais”类似于“Iwouldlike”（更加委婉）
+serveur	服务员
+moi	给我；我
+toilettes	卫生间
+restaurants	饭馆
+personne	人；任何人；没有人
+amusantes	有趣的
+amusants	有趣的
+intelligentes	聪明的；有智慧
+intelligente	聪明的
+contents	高兴的
+francaises	法国人；法国的
+anglaises	英国人；英国的
+mexicaines	墨西哥的；墨西哥人
+mexicains	墨西哥的；墨西哥人
+américaines	美国人；美国的
+amusant	有趣的
+amusante	有趣的；有意思；有意思的
+contente	高兴的；满意；很高兴
+ses	“他的/她的/它的（复数）”
+Ses livres sont intéressants	他/她/它的书很有趣。
+ce sont	他们是；她们是
+aiment	喜欢（第三人称复数形式）
+elles aiment la musique	（她们喜欢音乐。）
+tes	你的（复数）
+tes livres	你的书
+mes	我的（复数）
+mes livres sont intéressants	（我的书很有趣。）
+frères	兄弟们
+voitures	汽车
+chiens	“狗”的复数形式
+journalistes	记者
+ont	（有）的第三人称复数形式
+ils ont des livres	（他们有一些书。“des”在法语中是不定冠词，用于复数名词前，表示“一些”。）
+étudiants	大学生们
+étudiantes	大学生们
+étudient	学习
+habitent	（居住）的第三人称复数形式
+ils habitent à Paris	（他们住在巴黎。）
+professeurs	老师们
+hommes	“男人”“男子”的复数形式
+travaillent	（工作）的第三人称复数形式
+mangent	（吃）的第三人称复数形式
+ils mangent des fruits.	（他们吃水果。）
+trois	三；三只
+cinéma	电影院
+aimes	喜欢；爱的第二人称单数形式
+métro	地铁
+banque	银行
+école	学校
+musique	音乐
+habitons	（居住）的第一人称复数形式
+voulons	想要（第一人称复数形式）
+jardin	花园
+appartement	公寓
+maison	房子
+chouette	猫头鹰
+animal de compagnie	宠物
