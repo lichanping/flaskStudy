@@ -1,3 +1,34 @@
+Asian	(adj.)亚洲的
+unfold	(v.)展示
+saying	(n.)格言，警句，谚语
+kebab	(n.)烤肉串
+booth	(n.)有篷的售货摊
+neat	(adj.)整洁的
+brief	"adj.短暂的；简洁的，简短的"
+infect	(vt.)传染，感染；使受影响
+theory	(n.)理论，原理
+craftsman	(n.)工匠
+subtle	(adj.)不明显的，微妙的
+leap	(n.)跳跃
+verbal	(adj.)言语的，口头的
+wheel	(n.)轮子
+PC	(abbr.) 【计】个人计算机
+chew	(v.)咀嚼，嚼碎
+digest	"v.消化；领会，理解（读作/daɪˈdʒest/）"
+mercy	(n.)宽恕，原谅
+garbage	(n.)垃圾
+improper	(adj.)不正确的
+landfill	(n.)垃圾填埋场
+custom	(n.)风俗
+penny	(n.)便士
+scene	(n.)场面，情景；景象
+waterfall	(n.)瀑布
+muddy	"adj.泥泞的；浑浊的；v.搅乱"
+alcohol	(n.)酒；酒精，乙醇
+royal	(adj.)王室的，皇家的
+buffet	(n.)自助餐
+approximate	"adj.近似的（读作/əˈprɑksəmɪt/）；v.接近…"
+possess	(v.)拥有，占有
 atlas (n.) 地图集
 vehicle "n.车辆；工具，手段；交通工具"
 ownership (n.) 所有权
