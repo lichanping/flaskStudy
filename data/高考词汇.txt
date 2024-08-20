@@ -231,3 +231,62 @@ bungalow	(n.) 平房，小屋
 relatively	(adv.) 比较地，相对地
 glacier	(n.) 冰川，冰河
 march	(n.) 稳步前进
+careful	"adj.小心的；仔细的，细心的"
+officer	(n.) 官员；高级职员；警官
+weightlessly	(adv.) 失重地
+significant	(adj.) 重要的；显著的
+clip	"n.（电影、电视节目的）片段"
+overweight	(adj.) 超重的
+embarrass	(vt.) 使尴尬
+topic	(n.) 话题，主题
+canal	(n.) 运河，河流
+delay	"n.延误，延迟；v.延误，延迟"
+polish	(vt.) 磨光，擦亮
+sale	(n.) 出售，销售
+wherever	(conj.) 无论在哪里
+afford	(vt.) 负担得起；买得起
+immune	(adj.) 免疫的
+title	"n.标题；职称；v.（给书籍、乐曲等）加标题"
+deadly	(adj.) 致命的
+police	(n.) 警察，警方
+poor	(adj.) 贫穷的；差的，次的
+tadpole	(n.) 【动】蝌蚪
+zebra	(n.) 斑马
+publisher	(n.) 出版商
+bark	(v.) 厉声发令
+insist	(v.) 坚持
+without	(prep.) 没有，不
+cone	(n.) 圆锥体
+worship	"v.崇拜，爱戴；做礼拜，拜神；n.礼拜，礼拜仪式"
+indicate	(v.) 表明
+race	"n.（速度上的）比赛；人种，种族；v.全速行进"
+bind	(v.) 捆绑；装订；约束；结合
+interviewee	(n.) 被接见者，被访问者
+objective	(n.) 目标；adj.客观的
+super	"adj.超级的；adv.十分，非常"
+shrink	(v.) 缩小
+push	(v.) 推动，促使；推；逼迫
+match	"v.（使）相配；n.比赛；相配，般配"
+receiver	"n.听筒；接管人；收音机；接待者"
+western	(adj.) 西部的；西方的
+sofa	(n.) （长）沙发
+revolutionary	(adj.) 革命性的
+slide	"v.使滑动；滑落；n.幻灯片"
+valid	(adj.) 有效的，正式认可的
+near	(prep.) 靠近；adj.近的
+cupboard	(n.) 碗橱，衣柜
+carnival	(n.) 狂欢节
+mile	(n.) 英里
+invaluable	"adj.非常宝贵的，极为有用的"
+reliable	(adj.) 可靠的，可信赖的
+steam	(n.) 蒸汽，水蒸气
+direct	"adj.直接的；v.指导，引导；导演"
+Spanish	"n.西班牙语；adj.西班牙的"
+wool	(n.) （羊等动物的）毛
+appeal	(v.) 有吸引力；n.吸引力
+brake	(vi.) 刹车；n.刹车，闸
+disturb	(v.) 打扰
+gain	"v.获得；增加；赢得；n.好处"
+exit	(n.) 出口；v.离开，出去
+brunch	(n.) 早午餐
+minority	(n.) 少数派，少数人
