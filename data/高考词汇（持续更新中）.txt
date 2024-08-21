@@ -155,7 +155,7 @@ environmental	（adj.环境的
 figure	（n.身形；v.认为，认定
 shape	（vt.使形成，塑造；决定，影响；决定；vi.摆好姿…
 maybe	（adv.可能，大概，也许
-perhaps	（adv.也许；或许，可能
+perhaps	(adv.)或许，可能
 possibly	（adv.也许，或许；竟然（表示强调）；尽量，尽…
 definitely	（adv.肯定地，毫无疑问地；确实；明确地，确定地
 pain	（n.痛，痛苦
@@ -186,7 +186,7 @@ happen	(vi.)发生；碰巧，偶遇；恰好；出现
 come about	(phr.)发生
 message	(n.)消息，信息，留言；启示；v.发消息
 note	(n.)笔记；便条；纸币；音符；单音，音调；注释；…;"n.特征；口气；调子；氛围；…"
-certificate	(n.)合格证书，文凭；证明，证明书
+certificate	(n.)合格证书，文凭；证明，证明书（读作/sərItɪfɪkɪt/）"
 supermarket	(n.)超市
 grocery store	(n.)食品杂货店
 food	(n.)食物，食品，养料
@@ -289,7 +289,7 @@ smart	(adj.)时髦的，衣着讲究的；聪明的；敏捷的；巧妙的…
 foolish	(adj.)愚蠢的；傻乎乎的
 distinct	(adj.)独特的
 want	(v.)想要；n.短缺，需要的东西
-desire	(n.)渴望；欲望；愿望；要求；情欲；vi.有希望，…
+desire	(n.)渴望；欲望；愿望；要求；情欲；vi.有希望；vt.希望
 drum	(n.)鼓；圆桶；v.击鼓
 nothing	(pron.)没有东西，没有任何事；没有什么
 technique	(n.)技巧，技能；技术，方法
@@ -2223,61 +2223,108 @@ relatively	(adv.)比较地，相对地
 glacier	(n.)冰川，冰河
 march	(n.)稳步前进
 careful	"adj.小心的；仔细的，细心的"
-officer	(n.) 官员；高级职员；警官
-weightlessly	(adv.) 失重地
-significant	(adj.) 重要的；显著的
+officer	(n.)官员；高级职员；警官
+weightlessly	(adv.)失重地
+significant	(adj.)重要的；显著的
 clip	"n.（电影、电视节目的）片段"
-overweight	(adj.) 超重的
-embarrass	(vt.) 使尴尬
-topic	(n.) 话题，主题
-canal	(n.) 运河，河流
+overweight	(adj.)超重的
+embarrass	(vt.)使尴尬
+topic	(n.)话题，主题
+canal	(n.)运河，河流
 delay	"n.延误，延迟；v.延误，延迟"
-polish	(vt.) 磨光，擦亮
-sale	(n.) 出售，销售
-wherever	(conj.) 无论在哪里
-afford	(vt.) 负担得起；买得起
-immune	(adj.) 免疫的
+polish	(vt.)磨光，擦亮
+sale	(n.)出售，销售
+wherever	(conj.)无论在哪里
+afford	(vt.)负担得起；买得起
+immune	(adj.)免疫的
 title	"n.标题；职称；v.（给书籍、乐曲等）加标题"
-deadly	(adj.) 致命的
-police	(n.) 警察，警方
-poor	(adj.) 贫穷的；差的，次的
-tadpole	(n.) 【动】蝌蚪
-zebra	(n.) 斑马
-publisher	(n.) 出版商
-bark	(v.) 厉声发令
-insist	(v.) 坚持
-without	(prep.) 没有，不
-cone	(n.) 圆锥体
+deadly	(adj.)致命的
+police	(n.)警察，警方
+poor	(adj.)贫穷的；差的，次的
+tadpole	(n.)【动】蝌蚪
+zebra	(n.)斑马
+publisher	(n.)出版商
+bark	(v.)厉声发令
+insist	(v.)坚持
+without	(prep.)没有，不
+cone	(n.)圆锥体
 worship	"v.崇拜，爱戴；做礼拜，拜神；n.礼拜，礼拜仪式"
-indicate	(v.) 表明
+indicate	(v.)表明
 race	"n.（速度上的）比赛；人种，种族；v.全速行进"
-bind	(v.) 捆绑；装订；约束；结合
-interviewee	(n.) 被接见者，被访问者
-objective	(n.) 目标；adj.客观的
+bind	(v.)捆绑；装订；约束；结合
+interviewee	(n.)被接见者，被访问者
+objective	(n.)目标；adj.客观的
 super	"adj.超级的；adv.十分，非常"
-shrink	(v.) 缩小
-push	(v.) 推动，促使；推；逼迫
+shrink	(v.)缩小
+push	(v.)推动，促使；推；逼迫
 match	"v.（使）相配；n.比赛；相配，般配"
 receiver	"n.听筒；接管人；收音机；接待者"
-western	(adj.) 西部的；西方的
-sofa	(n.) （长）沙发
-revolutionary	(adj.) 革命性的
+western	(adj.)西部的；西方的
+sofa	(n.)（长）沙发
+revolutionary	(adj.)革命性的
 slide	"v.使滑动；滑落；n.幻灯片"
-valid	(adj.) 有效的，正式认可的
-near	(prep.) 靠近；adj.近的
-cupboard	(n.) 碗橱，衣柜
-carnival	(n.) 狂欢节
-mile	(n.) 英里
+valid	(adj.)有效的，正式认可的
+near	(prep.)靠近；adj.近的
+cupboard	(n.)碗橱，衣柜
+carnival	(n.)狂欢节
+mile	(n.)英里
 invaluable	"adj.非常宝贵的，极为有用的"
-reliable	(adj.) 可靠的，可信赖的
-steam	(n.) 蒸汽，水蒸气
+reliable	(adj.)可靠的，可信赖的
+steam	(n.)蒸汽，水蒸气
 direct	"adj.直接的；v.指导，引导；导演"
 Spanish	"n.西班牙语；adj.西班牙的"
-wool	(n.) （羊等动物的）毛
-appeal	(v.) 有吸引力；n.吸引力
-brake	(vi.) 刹车；n.刹车，闸
-disturb	(v.) 打扰
+wool	(n.)（羊等动物的）毛
+appeal	(v.)有吸引力；n.吸引力
+brake	(vi.)刹车；n.刹车，闸
+disturb	(v.)打扰
 gain	"v.获得；增加；赢得；n.好处"
-exit	(n.) 出口；v.离开，出去
-brunch	(n.) 早午餐
-minority	(n.) 少数派，少数人
+exit	(n.)出口；v.离开，出去
+brunch	(n.)早午餐
+minority	(n.)少数派，少数人
+both	(pron.)两者（都）
+whichever	"adv.（表示什么特征或品质在作决定时重要）…的…"
+comfort	(n.)舒适；v.安慰
+liberation	(n.)解脱，解放
+workshop	"n.车间，工场，工作室；研讨会"
+possession	(n.)拥有；所有物
+parade	(n.)游行
+logically	"adv.逻辑上，合逻辑地，有条理地"
+discard	(v.)丢掉
+course	(n.)课程；过程；adv.当然
+illustrate	"v.（用示例、图画等）说明，解释"
+convey	(vt.)传达；传递
+national	(adj.)国家的，民族的
+observation	(n.)观察
+handmade	(adj.)手工制作的
+pint	"n.品脱（容量单位，在美国约合0.473升）"
+pull	(v.)拉，拖，扯，拔；吸引
+abolish	(v.)废除，废止
+lemonade	(n.)柠檬水；柠檬味汽水
+ray	"n.一丝（希望、慰藉等）；光线"
+representative	(n.)代表
+recreation	"n.娱乐活动；重现，重建（读作/Iri:kri'eɪ∫ən/）"
+coincidence	(n.)巧合，巧事
+silver	(n.)银，银子
+clarify	(v.)阐明，澄清
+aboard	(prep.)上（交通工具）
+mature	(adj.)成熟的；v.成熟
+air	(n.)空气；天空，空中
+gone	"v.走，去（go的过去分词）"
+approval	(n.)认可
+canteen	(n.)食堂
+personnel	(n.)员工，人员
+county	(n.)<英>郡，<美>县
+popcorn	(n.)爆米花
+common	(adj.)普通的；共同的
+botanical	(adj.)植物（学）的
+blow	(v.)吹，吹动，吹气
+generate	"v.产生（热、电等能量）；引起，造成，创造"
+sunburnt	(adj.)晒黑的，晒伤的
+interdependence	(n.)互相依赖
+insurance	(n.)保险
+advancement	(n.)前进，促进，进展
+introduction	(n.)介绍；引言
+virtue	(n.)美德，高尚的道德
+cheap	(adj.)便宜的
+engineer	(n.)工程师；vt.设计
+tiresome	(adj.)烦人的，讨厌的
