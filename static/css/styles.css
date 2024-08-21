@@ -15,6 +15,10 @@ body {
     background-color: #87CEEB; /* The blue line color */
 }
 
+.wordItem.clicked {
+    border: 2px solid #FFD700; /* Gold border for clicked item */
+}
+
 /* Style for each word item */
 .wordItem {
     display: flex; /* Use flexbox */

@@ -30,15 +30,15 @@
 
 <ul id="wordList">
     {% for word in words %}
-    <li class="wordItem">
-        <div class="index">{{ word.索引 }}</div>
-        <div class="word">{{ word.单词 }}</div>
-        <div class="translation">{{ word.释意 }}</div>
-        <div class="buttons">
-            <button class="checkButton">✓</button>
-            <button class="closeButton">×</button>
-        </div>
-    </li>
+        <li class="wordItem">
+            <div class="index">{{ word.索引 }}</div>
+            <div class="word">{{ word.单词 }}</div>
+            <div class="translation">{{ word.释意 }}</div>
+            <div class="buttons">
+                <button class="checkButton">✓</button>
+                <button class="closeButton">×</button>
+            </div>
+        </li>
     {% endfor %}
 </ul>
 <audio id="audioPlayer" src="" preload="auto"></audio>
@@ -138,10 +138,22 @@
         let lastClickedItem = null; // Variable to keep track of the last clicked wordItem
         let selectedCount = 0; // Variable to keep track of the selected count
         let currentHighlightIndex = 0; // Tracks the current index in the highlight sequence
-        const indicesToHighlight = [1, 2, 3, 2, 1, 2, 3, 4, 3, 2, 1, 2, 3, 4, 5, 4, 3, 4, 5, 2, 1, 2, 1, 2, 3, 4, 5, 4, 3, 2, 1]; // Example list, you can modify as needed
         const items = document.querySelectorAll('.wordItem');
+        let indicesToHighlight = [];
+        generateIndexToHighlight();
 
-        // Function to highlight the current item based on currentHighlightIndex
+        function generateIndexToHighlight() {
+            const groupSize = 5;
+            const totalItems = Math.floor(items.length / groupSize) * groupSize;
+            const basePattern = [1, 2, 3, 2, 1, 2, 3, 4, 3, 2, 1, 2, 3, 4, 5, 4, 3, 4, 5, 2, 1, 2, 1, 2, 3, 4, 5, 4, 3, 2, 1];
+            const loop = totalItems / groupSize;
+            for (let i = 0; i < loop; i++) {
+                for (let j = 0; j < basePattern.length; j++) {
+                    indicesToHighlight.push(basePattern[j] + i * groupSize);
+                }
+            }
+        }
+
         function highlightCurrentIndex() {
             items.forEach(item => item.classList.remove('highlight')); // Remove highlight from all items
 
@@ -152,6 +164,14 @@
                     item.classList.add('highlight'); // Add highlight to the current item
                 }
             }
+        }
+
+        function updateClickedItem(item) {
+            // Remove border from all items
+            items.forEach(i => i.classList.remove('clicked'));
+
+            // Add border to the clicked item
+            item.classList.add('clicked');
         }
 
         document.querySelectorAll('.wordItem').forEach((item, index) => {
@@ -210,11 +230,15 @@
 
                     // Update the last clicked item
                     lastClickedItem = item;
+                    updateClickedItem(item);
                     // Check if the current item is the highlighted one
                     const expectedIndex = indicesToHighlight[currentHighlightIndex] - 1;
                     if (index === expectedIndex) {
                         // Move to the next index in the sequence
                         currentHighlightIndex++;
+                        if (currentHighlightIndex >= indicesToHighlight.length) {
+                            currentHighlightIndex = 0; // Loop back to the start
+                        }
                         highlightCurrentIndex(); // Highlight the next item
                     }
                 }
