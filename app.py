@@ -13,6 +13,7 @@ app.static_folder = 'static'
 file_to_student_mapping = {
     '高考词汇.txt': '英语',
     '法语单词.txt': '法语',
+    '法语妈妈.txt': '妈妈',
     '雅思全部.txt': '雅思全部学生',
     '中考考纲词组.txt': '中考考纲学生',
     '中考词汇.txt': '中考学生'
