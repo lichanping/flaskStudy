@@ -145,7 +145,8 @@ class LearnWords {
 // Array of student names with associated subjects
 const students = [
     {name: '英语', password: '0402'},
-    {name: '法语', password: '0402'}
+    {name: '法语', password: '0402'},
+    {name: '妈妈', password: '0601'},
 ];
 
 // Function to handle button click and prompt interaction
