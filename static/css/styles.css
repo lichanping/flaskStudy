@@ -11,8 +11,8 @@ body {
     left: 0;
     top: 0;
     bottom: 0;
-    width: 4px; /* Width of the blue line */
-    background-color: #87CEEB; /* The blue line color */
+    width: 4px;
+    background-color: #FFD700;
 }
 
 .wordItem.clicked {
@@ -28,8 +28,8 @@ body {
     margin-bottom: 5px; /* Bottom margin */
     padding: 10px; /* Padding */
     border-radius: 5px; /* Border radius */
-    border: 1px solid #fff; /* White border */
-    border-left: 5px solid #fff; /* White left border */
+    border: 1px solid #608080;
+    border-left: 5px solid #608080;
     position: relative; /* Allows positioning of the pseudo-element */
 }
 
