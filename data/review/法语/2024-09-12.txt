@@ -17,9 +17,3 @@ elle est chinoise	她是中国人（阴性形容词以e结尾）
 marie est francaise	"Marie是法国人"
 un thé anglais	一杯英国茶
 c'est une boutique francaise	这是一家法国商店
-marie va à l'aéroport en voiture	"Marie乘汽车去那个机场"
-il va à la gare	他去那座火车站
-un restaurant	一家饭馆
-le restaurant espagnol	那家西班牙饭馆
-berlin	柏林
-c'est une gare francaise	这是一座法国火车站

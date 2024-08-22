@@ -163,3 +163,43 @@ je vais à paris en voiture	我乘汽车去巴黎
 je prends l'avion	我乘坐飞机
 c'est une valise	这是一个手提箱
 tu prends le taxi	你乘坐出租车吗？
+gâteau	蛋糕
+girafe	长颈鹿
+chocolat	巧克力
+je suis une femme	我是一个女人
+tu es marc	你是Marc吗？
+c'est un chat	这是一只猫
+tu manges une pizza	你吃一个披萨
+paul mange un croissant	"Paul吃一个牛角面包"
+une orange	一个橙子（阴性）
+un homme	一个男人(阳性）
+une femme	一个女人(阴性）
+un chien	一条狗(阳性）
+un croissant	一个牛角面包（阳性）
+une pizza	一个披萨（阴性）
+une femme et un homme	一个女人和一个男人
+tu es francais	你是法国人吗？
+ju suis chinois	我是中国人
+elle est coréenne	她是韩国人;她是韩国人（阴性）
+il est chinois	他是中国人（国籍用形容词，阳性）
+il est coréen	他是韩国人（阳性）
+un livre francais	一本法国书
+je suis une fille	我是女孩
+tu es une fille	你是一个女孩
+salut paul	你好，Paul
+comment çava	怎么样？
+ca va bien merci	很好，谢谢
+bienvenue marie	欢迎你，Marie
+bonjour marie enchanté	你好Marie，很高兴认识你
+au revoir	再见
+a bientot	回头见àbientôt
+bonne soirée	祝你晚上愉快
+très	非常
+bonne nuit	晚安
+ju suis en chine	我在中国
+il est en france	他在法国吗？
+elle parle espagnol	她说西班牙语
+elle est chinoise	她是中国人（阴性形容词以e结尾）
+marie est francaise	"Marie是法国人"
+un thé anglais	一杯英国茶
+c'est une boutique francaise	这是一家法国商店

@@ -1,3 +1,22 @@
+je suis une fille	我是女孩
+tu es une fille	你是一个女孩
+salut paul	你好，Paul
+comment çava	怎么样？
+ca va bien merci	很好，谢谢
+bienvenue marie	欢迎你，Marie
+bonjour marie enchanté	你好Marie，很高兴认识你
+au revoir	再见
+a bientot	回头见àbientôt
+bonne soirée	祝你晚上愉快
+très	非常
+bonne nuit	晚安
+ju suis en chine	我在中国
+il est en france	他在法国吗？
+elle parle espagnol	她说西班牙语
+elle est chinoise	她是中国人（阴性形容词以e结尾）
+marie est francaise	"Marie是法国人"
+un thé anglais	一杯英国茶
+c'est une boutique francaise	这是一家法国商店
 marie va à l'aéroport en voiture	"Marie乘汽车去那个机场"
 il va à la gare	他去那座火车站
 un restaurant	一家饭馆
