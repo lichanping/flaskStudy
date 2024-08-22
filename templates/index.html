@@ -26,6 +26,7 @@
             完成(✓=会，✗=不会)
         </button>
         <div id="selectedCountLabel">已选择0个单词</div>
+        <div id="learnedCountLabel">已学会0个单词</div>
     </div>
 </form>
 
@@ -138,6 +139,7 @@
     document.addEventListener('DOMContentLoaded', function () {
         let lastClickedItem = null; // Variable to keep track of the last clicked wordItem
         let selectedCount = 0; // Variable to keep track of the selected count
+        let learnedCount = 0; // Variable to keep track of the learned count
         let currentHighlightIndex = 0; // Tracks the current index in the highlight sequence
         const items = document.querySelectorAll('.wordItem');
         let indicesToHighlight = [];
@@ -156,16 +158,31 @@
         }
 
         function highlightCurrentIndex() {
-            items.forEach(item => item.classList.remove('highlight')); // Remove highlight from all items
+            // Remove highlight from all items
+            items.forEach(item => item.classList.remove('highlight'));
 
-            if (currentHighlightIndex < indicesToHighlight.length) {
+            while (currentHighlightIndex < indicesToHighlight.length) {
                 const index = indicesToHighlight[currentHighlightIndex] - 1; // Convert 1-based index to 0-based
                 const item = items[index];
-                if (item) {
-                    item.classList.add('highlight'); // Add highlight to the current item
+                const checkButton = item.querySelector('.checkButton');
+                // Debugging statements to verify classList status
+                console.log(`Checking item ${index}:`);
+                console.log(`Item classList contains 'clicked': ${item.classList.contains('clicked')}`);
+                console.log(`CheckButton classList contains 'clicked': ${checkButton.classList.contains('clicked')}`);
+
+                if (!checkButton.classList.contains('clicked') && !item.classList.contains('clicked')) {
+                    // If the checkButton is not clicked, highlight the item
+                    if (item) {
+                        item.classList.add('highlight');
+                    }
+                    break; // Exit the loop once an unchecked item is found and highlighted
+                } else {
+                    // Move to the next index if the current item's checkButton is clicked
+                    currentHighlightIndex++;
                 }
             }
         }
+
 
         function updateClickedItem(item) {
             // Remove border from all items
@@ -182,28 +199,33 @@
             closeButton.addEventListener('click', event => {
                 // Toggle the "clicked" class on closeButton
                 closeButton.classList.toggle('clicked');
-                // Remove the "clicked" class from checkButton
-                checkButton.classList.remove('clicked');
+                // Check if checkButton was previously clicked
+                if (closeButton.classList.contains('clicked') && checkButton.classList.contains('clicked')) {
+                    // If the checkButton was clicked, decrement learnedCount
+                    learnedCount--;
+                    checkButton.classList.remove('clicked'); // Remove the "clicked" class from checkButton
+                }
                 // Increment or decrement selectedCount based on button click
                 if (closeButton.classList.contains('clicked')) {
                     selectedCount++;
                 } else {
                     selectedCount--;
                 }
-                // Update the selected count label
                 updateLabel();
             });
             checkButton.addEventListener('click', event => {
                 // Toggle the "clicked" class on closeButton
                 checkButton.classList.toggle('clicked');
                 // If closeButton is already clicked, unselect it and decrement selectedCount
-                if (closeButton.classList.contains('clicked')) {
+                if (closeButton.classList.contains('clicked') && checkButton.classList.contains('clicked')) {
                     closeButton.classList.remove('clicked');
                     selectedCount--;
                 }
-                // Remove the "clicked" class from checkButton
-                closeButton.classList.remove('clicked');
-                // Update the selected count label
+                if (checkButton.classList.contains('clicked')) {
+                    learnedCount++;
+                } else {
+                    learnedCount--;
+                }
                 updateLabel();
             });
             item.addEventListener('click', event => {
@@ -249,7 +271,10 @@
         // Update label function
         function updateLabel() {
             const selectedCountLabel = document.getElementById('selectedCountLabel');
+            const learnedCountLabel = document.getElementById('learnedCountLabel')
             selectedCountLabel.textContent = `已选择${selectedCount}个单词`;
+            learnedCountLabel.textContent = `已学会${learnedCount}个单词`;
+
         }
     });
 

@@ -52,7 +52,7 @@ body {
 }
 
 /* Style for selected count label */
-#selectedCountLabel {
+#selectedCountLabel, #learnedCountLabel {
     display: inline-block; /* Display as inline block */
     color: #fff; /* Light text color */
 }
