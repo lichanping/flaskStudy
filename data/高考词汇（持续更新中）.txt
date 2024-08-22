@@ -102,7 +102,7 @@ undemanding	（adj.容易的；要求不高的；不严格的"
 underwater	（adj.水下的；adv.在水下
 success	（n.成功，成就；胜利
 triumph	（n.喜悦，狂喜；胜利，凯旋；vi.成功，获胜"
-victory	（n.胜利；成功；克服
+victory	（n.)胜利；成功；克服
 hip	（n.臀部
 ass	（n.驴；笨蛋；臀部；adv.（常用作后置）用于贬损…"
 soil	（n.泥土，土壤；国土，领土；vt.弄脏；污损"
@@ -140,7 +140,7 @@ gather	（v.聚集；收集；采集；使......聚集
 collect	（v.)收集；领取；聚集；募捐；adj.接收者付费的…
 delta	（n.（河流的）三角洲
 considerable	（adj.相当大的
-ample	（adj.富足的；丰满的；宽敞的
+ample	（adj.）富足的；丰满的；宽敞的
 dialog	（n.对话
 conversation	（n.会话，谈话；非正式会谈
 annually	（adv.每年
@@ -2328,3 +2328,51 @@ virtue	(n.)美德，高尚的道德
 cheap	(adj.)便宜的
 engineer	(n.)工程师；vt.设计
 tiresome	(adj.)烦人的，讨厌的
+typical	(adj.) 典型的，有代表性的
+suitcase	(n.) 小提箱，手提箱
+contradict	"v.与……发生矛盾，与……抵触，与……对立"
+thief	(n.) 小偷；窃贼
+solution	(n.) 解决办法
+agenda	(n.) 议程，议程表
+useless	"adj.无用的，无价值的，无效的"
+winner	(n.) 获胜者，得奖者
+trigger	"vt.触发，引起，激发；n.诱因"
+combat	"n.战斗，格斗；v.与……战斗，与……斗争（读…"
+tank	(n.) 水槽，池塘
+British	"adj.英国（人）的，不列颠的"
+construction	(n.) 建造；建筑；构造
+whisper	(v.) 低声低语地讲，悄悄地说
+sadness	(n.) 悲伤，悲哀
+trainee	(n.) 受训者，练习生，实习生
+fear	"n.害怕；担心；v.担心；害怕"
+finish	(v.) 完成；n.结束，完成
+road	(n.) 道路；公路
+tolerate	"vt.忍受，容忍；容许，允许"
+contribute	"v.有助于；贡献；促成，导致"
+fat	"n.脂肪，油脂；adj.肥的，肥胖的"
+permission	(n.) 允许，同意
+poison	"n.毒物，毒药，毒素；v.毒死，毒害"
+mistake	(n.) 错误，过失
+steadily	(adv.) 持续地，稳步地
+religious	(adj.) 宗教的
+brick	(n.) 砖
+bus	(n.) 公共汽车，巴士
+cell	(n.) 细胞；电池
+distribute	(v.) 分配；分发
+shopkeeper	(n.) 店主
+likability	(n.) 讨喜度
+entirely	(adv.) 完全地
+poetry	(n.) 诗歌，诗作
+holiday	(n.) 节日，假期
+queen	(n.) 王后，女王
+bed	(n.) 床
+loud	(adj.) 大声的，吵闹的
+difficult	(adj.) 困难的，难做的
+mineral	(n.) 矿物，矿物质；矿产
+overall	"adj.全面的，全部的；adv.总体上；总共（读…"
+kangaroo	(n.) 袋鼠
+likely	(adj.) 有可能的
+request	"n.（正式或礼貌的）请求；要求；v.请求，要求"
+resemble	(vt.) 类似，相似
+wing	(n.) 翅膀
+fun	"adj.有趣的，供娱乐使用的；n.娱乐，乐趣"
