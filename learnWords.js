@@ -328,7 +328,6 @@ export function checkSpelling() {
     if (comparisonValue === spellingInputValue) {
         // Correct spelling
         document.getElementById('spellingInput').style.backgroundColor = 'lightgreen';
-        triggerAnimation(thumb);
     } else {
         // Incorrect spelling
         document.getElementById('spellingInput').style.backgroundColor = 'red';
