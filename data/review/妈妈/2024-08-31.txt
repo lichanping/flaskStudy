@@ -9,10 +9,3 @@ elle parle espagnol	她说西班牙语
 il est chinois	他是中国人（国籍用形容词，阳性）
 il est coréen	他是韩国人（阳性）
 un livre francais	一本法国书
-son fils	他、她的儿子
-sa fille	他她的女儿
-gâteau	蛋糕
-tu manges une pizza	你吃一个披萨
-bienvenue marie	欢迎你，Marie
-bonjour marie enchanté	你好Marie，很高兴认识你
-au revoir	再见

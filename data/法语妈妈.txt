@@ -1,18 +1,3 @@
-a bientot	回头见àbientôt
-bonne soirée	祝你晚上愉快
-très	非常
-bonne nuit	晚安
-tu es francais	你是法国人吗？
-ju suis chinois	我是中国人
-elle est coréenne	她是韩国人;她是韩国人（阴性）
-ju suis en chine	我在中国
-il est en france	他在法国吗？
-elle parle espagnol	她说西班牙语
-il est chinois	他是中国人（国籍用形容词，阳性）
-elle est chinoise	她是中国人（阴性形容词以e结尾）
-il est coréen	他是韩国人（阳性）
-marie est francaise	"Marie是法国人"
-un livre francais	一本法国书
 un thé anglais	一杯英国茶
 c'est une boutique francaise	这是一家法国商店
 c'est une fille anglaise	这是一个英国女孩
