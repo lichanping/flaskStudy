@@ -92,7 +92,7 @@ class LearnWords {
                 currentEnglishWord,
                 options: shuffledOptions,
                 correctIndex: shuffledOptions.indexOf(correctOption),
-                correctOption: ""
+                correctOption: currentEnglishWord
             };
         }
     }
@@ -136,7 +136,7 @@ class LearnWords {
                 currentEnglishWord,
                 options: shuffledOptions,
                 correctIndex: shuffledOptions.indexOf(correctOption),
-                correctOption: ""
+                correctOption: correctOption
             };
         }
     }
@@ -311,6 +311,8 @@ export async function renderQuestion() {
 }
 
 export function checkSpelling() {
+    const isRandom = document.getElementById("random-toggle").checked;
+    const correctOptionValue = document.getElementById("correctOptionValue").value.trim().toLowerCase();
     const englishWordTextBoxValue = document.getElementById('englishWordTextBox').value.trim().toLowerCase();
     const spellingInputValue = document.getElementById('spellingInput').value.trim().toLowerCase();
     const thumb = document.getElementById('thumb');
@@ -321,7 +323,9 @@ export function checkSpelling() {
         englishWordTextBox.style.visibility = 'visible';
         return; // Exit the function
     }
-    if (englishWordTextBoxValue === spellingInputValue) {
+    // 获取需要比较的值
+    const comparisonValue = isRandom ? correctOptionValue : englishWordTextBoxValue;
+    if (comparisonValue === spellingInputValue) {
         // Correct spelling
         document.getElementById('spellingInput').style.backgroundColor = 'lightgreen';
         triggerAnimation(thumb);
