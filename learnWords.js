@@ -240,6 +240,28 @@ export async function clearCurrentIndex() {
     document.getElementById("spellingErrors").textContent = "0";
     document.getElementById("noCorrectAnswerCount").textContent = "0";
 }
+export async function goToPreviousQuestion() {
+    const fileName = document.getElementById("file").value + ".txt";
+    const key = fileName.replace('.txt', '');
+    let currentIndex = parseInt(sessionStorage.getItem(`${key}_currentIndex`), 10) || 0;
+
+    // Decrement index if not at the first question
+    if (currentIndex > 1) {
+        currentIndex-=2;
+        sessionStorage.setItem(`${key}_currentIndex`, currentIndex);
+    }
+
+    // Render the previous question
+    renderQuestion();
+
+    // Optional: Clear or reset specific elements if needed
+    document.getElementById('englishWordTextBox').style.backgroundColor = '';
+    document.getElementById('incorrectWords').innerHTML = '';
+    document.getElementById("scoreNumber").textContent = "0";
+    document.getElementById("errorCount").textContent = "0";
+    document.getElementById("spellingErrors").textContent = "0";
+    document.getElementById("noCorrectAnswerCount").textContent = "0";
+}
 
 export async function renderQuestion() {
     const fileName = document.getElementById("file").value + ".txt";

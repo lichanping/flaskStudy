@@ -61,6 +61,9 @@
         <div id="noCorrectAnswer">
             <label for="noCorrectAnswerCount">挑战:</label>
             <div id="noCorrectAnswerCount">0</div>
+            <button id="prevWordButton" class="tiny-button">
+                <i class="fas fa-arrow-left"></i> <!-- Example icon -->
+            </button>
         </div>
     </div>
 
@@ -91,10 +94,12 @@
             script.renderQuestion();
         }, 5000);
     }
+
     document.getElementById("switchStudentButton").addEventListener("click", script.handleSwitchStudentClick);
     document.getElementById("playWord").addEventListener("click", script.play_audio);
     document.getElementById("checkSpellingButton").addEventListener("click", script.checkSpelling);
     document.getElementById('clearText').addEventListener('click', script.clearCurrentIndex);
+    document.getElementById("prevWordButton").addEventListener("click", script.goToPreviousQuestion);
     document.getElementById("options-line").addEventListener("click", (event) => {
         if (event.target.classList.contains("banner")) {
             script.compareOptionIndex(event);
