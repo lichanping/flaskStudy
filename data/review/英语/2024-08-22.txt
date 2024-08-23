@@ -183,9 +183,9 @@ Bonne soirée	祝你晚上愉快
 très	非常
 bonne nuit	晚安
 Tu es francais	你是法国人吗？
-Ju suis chinois	我是中国人
+je suis chinois	我是中国人
 Elle est coréenne	她是韩国人;她是韩国人（阴性）
-Ju suis en Chine	我在中国
+je suis en Chine	我在中国
 Il est en France	他在法国吗？
 Elle parle espagnol	她说西班牙语
 Il est chinois	他是中国人（国籍用形容词，阳性）

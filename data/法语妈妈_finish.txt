@@ -55,9 +55,9 @@ marie est francaise	"Marie是法国人"
 a bientot	回头见àbientôt
 bonne soirée	祝你晚上愉快
 bonne nuit	晚安
-ju suis chinois	我是中国人
+je suis chinois	我是中国人
 elle est coréenne	她是韩国人;她是韩国人（阴性）
-ju suis en chine	我在中国
+je suis en chine	我在中国
 il est en france	他在法国吗？
 elle parle espagnol	她说西班牙语
 il est chinois	他是中国人（国籍用形容词，阳性）

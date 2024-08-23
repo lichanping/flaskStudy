@@ -49,7 +49,7 @@ bienvenue marie	欢迎你，Marie
 bonjour marie enchanté	你好Marie，很高兴认识你
 au revoir	再见
 tu es francais	你是法国人吗？
-ju suis chinois	我是中国人
+je suis chinois	我是中国人
 elle est coréenne	她是韩国人;她是韩国人（阴性）
 il est en france	他在法国吗？
 il est chinois	他是中国人（国籍用形容词，阳性）
@@ -73,7 +73,7 @@ a bientot	回头见àbientôt
 bonne soirée	祝你晚上愉快
 très	非常
 bonne nuit	晚安
-ju suis en chine	我在中国
+je suis en chine	我在中国
 elle parle espagnol	她说西班牙语
 un thé anglais	一杯英国茶
 c'est une boutique francaise	这是一家法国商店
@@ -179,7 +179,7 @@ un croissant	一个牛角面包（阳性）
 une pizza	一个披萨（阴性）
 une femme et un homme	一个女人和一个男人
 tu es francais	你是法国人吗？
-ju suis chinois	我是中国人
+je suis chinois	我是中国人
 elle est coréenne	她是韩国人;她是韩国人（阴性）
 il est chinois	他是中国人（国籍用形容词，阳性）
 il est coréen	他是韩国人（阳性）
@@ -196,7 +196,7 @@ a bientot	回头见àbientôt
 bonne soirée	祝你晚上愉快
 très	非常
 bonne nuit	晚安
-ju suis en chine	我在中国
+je suis en chine	我在中国
 il est en france	他在法国吗？
 elle parle espagnol	她说西班牙语
 elle est chinoise	她是中国人（阴性形容词以e结尾）
