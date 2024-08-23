@@ -323,9 +323,28 @@ export function checkSpelling() {
         englishWordTextBox.style.visibility = 'visible';
         return; // Exit the function
     }
+    // 创建法语特殊字符到对应英语字母的映射关系
+    const frenchCharMapping = {
+        'é': 'e', 'è': 'e', 'ê': 'e', 'ë': 'e',
+        'î': 'i', 'ï': 'i',
+        'ù': 'u', 'û': 'u', 'ü': 'u',
+        'à': 'a', 'â': 'a', 'ä': 'a',
+        'ô': 'o', 'ö': 'o',
+        'ç': 'c',
+        'œ': 'oe'
+    };
+
+    // 将字符串中的法语特殊字符替换为对应的英语字母
+    function normalizeString(str) {
+        return str.split('').map(char => frenchCharMapping[char] || char).join('');
+    }
+
     // 获取需要比较的值
     const comparisonValue = isRandom ? correctOptionValue : englishWordTextBoxValue;
-    if (comparisonValue === spellingInputValue) {
+    // 将输入值和比较值标准化
+    let normalizedComparisonValue = normalizeString(comparisonValue);
+    let normalizedSpellingInputValue = normalizeString(spellingInputValue);
+    if (normalizedComparisonValue === normalizedSpellingInputValue) {
         // Correct spelling
         document.getElementById('spellingInput').style.backgroundColor = 'lightgreen';
     } else {
