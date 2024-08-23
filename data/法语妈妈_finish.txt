@@ -63,3 +63,18 @@ elle parle espagnol	她说西班牙语
 il est chinois	他是中国人（国籍用形容词，阳性）
 il est coréen	他是韩国人（阳性）
 un livre francais	一本法国书
+un thé anglais	一杯英国茶
+c'est une fille anglaise	这是一个英国女孩
+un bébé francais	一个法国宝宝
+marc est anglais	"Marc是英国人"
+il est francais	他是法国人
+c'est une boutique francaise	这是一家法国商店
+une fête francaise	一个法国节日（形容词放在名词后面）
+un chocolat chinois	一块中国巧克力
+une boutique espagnole	一家西班牙商店
+je parle francais et anglais	我说法语和英语
+elle s'appelle alice	她叫Alice
+comment tu t'appelles	你叫什么？
+je m'appelle marie	我叫Marie
+excuse-moi	对不起
+tu parles francais	你说法语吗？

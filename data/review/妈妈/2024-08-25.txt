@@ -1,3 +1,13 @@
+c'est une boutique francaise	这是一家法国商店
+une fête francaise	一个法国节日（形容词放在名词后面）
+un chocolat chinois	一块中国巧克力
+une boutique espagnole	一家西班牙商店
+je parle francais et anglais	我说法语和英语
+elle s'appelle alice	她叫Alice
+comment tu t'appelles	你叫什么？
+je m'appelle marie	我叫Marie
+excuse-moi	对不起
+tu parles francais	你说法语吗？
 a bientot	回头见àbientôt
 bonne soirée	祝你晚上愉快
 bonne nuit	晚安
