@@ -296,3 +296,16 @@ pour toi	给你的
 le serveur parle francais	服务员说法语
 le jus d'orange	橙汁（“jus”是阳性名词，意为“果汁”。）
 tu aimes les restaurants francais	你喜欢法国饭馆吗？（“aimes”（喜欢）的第二人称单数变位，“français”形容词，“法国的”）
+l'addition s'il vous plait	请给我账单
+tu prends un thé	你想要茶吗？（吃、喝、乘坐）
+petits	小，小的
+petit	小；小的；矮
+grands	大；高；大型的
+magasin	商店
+salade	沙拉
+bouteille	瓶子
+eau	水
+verre	杯子；玻璃杯
+vin	葡萄酒
+bière	啤酒
+tasse	杯子
