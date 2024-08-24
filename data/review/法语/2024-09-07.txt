@@ -1,3 +1,22 @@
+c'est une fille anglaise	这是一个英国女孩
+une fête francaise	一个法国节日（形容词放在名词后面）
+je parle francais et anglais	我说法语和英语
+marc est anglais	"Marc是英国人"
+elle s'appelle alice	她叫Alice
+comment tu t'appelles	你叫什么？
+je m'appelle marie	我叫Marie
+tu parles francais	你说法语吗？
+je parle	我说
+tu habites a paris	你住在巴黎吗？
+j'étudie a bordeaux	我在波尔多（法国西南部的一座城市）学习
+je travaille ici	我在这里工作
+julia est étudiante	"Julia是大学生"
+je suis en europe	我在欧洲
+il est journaliste	他是记者（有些职业不随着性别而变化）
+je travaille à londres	我在伦敦工作（后面是城市，用à）
+je travaille en angleterre	我在英国工作（后面是国家，用en）
+j'habite à paris	我住在巴黎（不发音的h前面的短词，经常和后面的单词合并缩写）
+il est americain	"He是American."
 a bientot	回头见àbientôt
 bonne soirée	祝你晚上愉快
 très	非常
