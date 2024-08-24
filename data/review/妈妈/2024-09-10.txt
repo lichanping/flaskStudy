@@ -1,3 +1,36 @@
+tu parles	你说（s不发音）
+tu habites a paris	你住在巴黎吗？
+j'étudie a bordeaux	我在波尔多（法国西南部的一座城市）学习
+tu habites a berlin	你住在柏林（德国的首都）吗？
+je travaille ici	我在这里工作
+julia est étudiante	"Julia是大学生"
+je suis en europe	我在欧洲
+je suis professeur	我是老师
+il est étudiant	他是大学生（阳性）
+il est journaliste	他是记者（有些职业不随着性别而变化）
+elle est journaliste	她是记者（有些职业不随着性别而变化）
+londres	伦敦
+angleterre	英国
+j'habite à paris	我住在巴黎（不发音的h前面的短词，经常和后面的单词合并缩写）
+j'habite en france	我住在法国（不发音的h前面的短词，经常和后面的单词合并缩写）
+espagne	西班牙;西班牙（欧洲国家）
+sarah est espagnole	"Sarah是Spanish."
+il est americain	"He是American."
+elle est americaine	"She是American."
+l'homme	这个男人（以原音或者不发音的h开头，则用l')
+je vais	我去
+tu vas	你去
+il va	他去
+nous allons	（我们去）
+vous allez	（您/你们去）
+ils vont	（他们去）
+elles vont	（她们去）
+j'ai	我有（当动词以原音开头，je要改成j')
+tu as	你有
+il a	他有
+elle a	她有
+j'ai un passeport	我有一个护照
+gants	手套
 c'est une boutique francaise	这是一家法国商店
 une fête francaise	一个法国节日（形容词放在名词后面）
 un chocolat chinois	一块中国巧克力
