@@ -240,6 +240,7 @@ export async function clearCurrentIndex() {
     document.getElementById("spellingErrors").textContent = "0";
     document.getElementById("noCorrectAnswerCount").textContent = "0";
 }
+
 export async function goToPreviousQuestion() {
     const fileName = document.getElementById("file").value + ".txt";
     const key = fileName.replace('.txt', '');
@@ -247,7 +248,7 @@ export async function goToPreviousQuestion() {
 
     // Decrement index if not at the first question
     if (currentIndex > 1) {
-        currentIndex-=2;
+        currentIndex -= 2;
         sessionStorage.setItem(`${key}_currentIndex`, currentIndex);
     }
 
@@ -368,7 +369,7 @@ export function checkSpelling() {
     let normalizedSpellingInputValue = normalizeString(spellingInputValue);
     if (normalizedComparisonValue === normalizedSpellingInputValue) {
         // Correct spelling
-        document.getElementById('spellingInput').style.backgroundColor = 'lightgreen';
+        document.getElementById('spellingInput').style.backgroundColor = '#20B2AA';
     } else {
         // Incorrect spelling
         document.getElementById('spellingInput').style.backgroundColor = 'red';
@@ -379,6 +380,7 @@ export function checkSpelling() {
         incorrectWordsSpan.innerText += `${document.getElementById('englishWordTextBox').value}\n`;
     }
     englishWordTextBox.style.visibility = 'visible';
+    play_audio();
 }
 
 export function compareOptionIndex(event) {
