@@ -217,14 +217,13 @@ class TextToSpeechConverter:
         output_file = os.path.join(self.txt_to_xlsx.data_folder, file_name.split('.')[0] + ".mp3")
 
         voices = await VoicesManager.create()
-        voice_names = [
-            "Microsoft Server Speech Text to Speech Voice (en-US, AvaMultilingualNeural)",
-            "Microsoft Server Speech Text to Speech Voice (en-US, EmmaMultilingualNeural)",
-            "Microsoft Server Speech Text to Speech Voice (en-US, EmmaNeural)",
-            "Microsoft Server Speech Text to Speech Voice (en-US, MichelleNeural)"
-        ]
-        english_voice = voice_names[-1]
-        # english_voice = voices.find(Gender="Female", Language="en")
+        # voice_names = [
+        #     'Microsoft Server Speech Text to Speech Voice (fr-FR, VivienneMultilingualNeural)',
+        #     'Microsoft Server Speech Text to Speech Voice (fr-FR, DeniseNeural)',
+        #     'Microsoft Server Speech Text to Speech Voice (fr-FR, EloiseNeural)',
+        # ]
+        # english_voice = voice_names[0]
+        english_voice = voices.find(Language="fr", Locale="fr-FR")
         # english_voice = random.choice(english_voice)["Name"]
         chinese_voice = voices.find(
             Language='zh'
@@ -238,11 +237,11 @@ class TextToSpeechConverter:
             for index, item in enumerate(extracted_data):
                 english_word = item['单词']
                 chinese_meaning = item['释意']
-                # print(f"English: {english_word}, Translation: {chinese_meaning}")
+                print(f"French: {english_word}, Translation: {chinese_meaning}")
                 # print(f"{index + 1}: {english_word}, 翻译为_______")
-                print(f"{index + 1}: _______, 翻译为 {chinese_meaning}")
+                # print(f"{index + 1}: _______, 翻译为 {chinese_meaning}")
 
-                english_voice_name = english_voice
+                english_voice_name = random.choice(english_voice)["Name"]
                 chinese_voice_name = random.choice(chinese_voice)["Name"]
 
                 # Repeat English audio twice
@@ -336,4 +335,4 @@ class GenerateTool:
             print(f"Time taken: {elapsed_time} seconds")
 
         tool = TxtToXLSX()
-        en_and_cn('中考考纲词组.txt', max_items=3)
+        en_and_cn('Import.txt', max_items=10)
