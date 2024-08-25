@@ -2328,51 +2328,122 @@ virtue	(n.)美德，高尚的道德
 cheap	(adj.)便宜的
 engineer	(n.)工程师；vt.设计
 tiresome	(adj.)烦人的，讨厌的
-typical	(adj.) 典型的，有代表性的
-suitcase	(n.) 小提箱，手提箱
+typical	(adj.)典型的，有代表性的
+suitcase	(n.)小提箱，手提箱
 contradict	"v.与……发生矛盾，与……抵触，与……对立"
-thief	(n.) 小偷；窃贼
-solution	(n.) 解决办法
-agenda	(n.) 议程，议程表
+thief	(n.)小偷；窃贼
+solution	(n.)解决办法
+agenda	(n.)议程，议程表
 useless	"adj.无用的，无价值的，无效的"
-winner	(n.) 获胜者，得奖者
+winner	(n.)获胜者，得奖者
 trigger	"vt.触发，引起，激发；n.诱因"
 combat	"n.战斗，格斗；v.与……战斗，与……斗争（读…"
-tank	(n.) 水槽，池塘
+tank	(n.)水槽，池塘
 British	"adj.英国（人）的，不列颠的"
-construction	(n.) 建造；建筑；构造
-whisper	(v.) 低声低语地讲，悄悄地说
-sadness	(n.) 悲伤，悲哀
-trainee	(n.) 受训者，练习生，实习生
+construction	(n.)建造；建筑；构造
+whisper	(v.)低声低语地讲，悄悄地说
+sadness	(n.)悲伤，悲哀
+trainee	(n.)受训者，练习生，实习生
 fear	"n.害怕；担心；v.担心；害怕"
-finish	(v.) 完成；n.结束，完成
-road	(n.) 道路；公路
+finish	(v.)完成；n.结束，完成
+road	(n.)道路；公路
 tolerate	"vt.忍受，容忍；容许，允许"
 contribute	"v.有助于；贡献；促成，导致"
 fat	"n.脂肪，油脂；adj.肥的，肥胖的"
-permission	(n.) 允许，同意
+permission	(n.)允许，同意
 poison	"n.毒物，毒药，毒素；v.毒死，毒害"
-mistake	(n.) 错误，过失
-steadily	(adv.) 持续地，稳步地
-religious	(adj.) 宗教的
-brick	(n.) 砖
-bus	(n.) 公共汽车，巴士
-cell	(n.) 细胞；电池
-distribute	(v.) 分配；分发
-shopkeeper	(n.) 店主
-likability	(n.) 讨喜度
-entirely	(adv.) 完全地
-poetry	(n.) 诗歌，诗作
-holiday	(n.) 节日，假期
-queen	(n.) 王后，女王
-bed	(n.) 床
-loud	(adj.) 大声的，吵闹的
-difficult	(adj.) 困难的，难做的
-mineral	(n.) 矿物，矿物质；矿产
+mistake	(n.)错误，过失
+steadily	(adv.)持续地，稳步地
+religious	(adj.)宗教的
+brick	(n.)砖
+bus	(n.)公共汽车，巴士
+cell	(n.)细胞；电池
+distribute	(v.)分配；分发
+shopkeeper	(n.)店主
+likability	(n.)讨喜度
+entirely	(adv.)完全地
+poetry	(n.)诗歌，诗作
+holiday	(n.)节日，假期
+queen	(n.)王后，女王
+bed	(n.)床
+loud	(adj.)大声的，吵闹的
+difficult	(adj.)困难的，难做的
+mineral	(n.)矿物，矿物质；矿产
 overall	"adj.全面的，全部的；adv.总体上；总共（读…"
-kangaroo	(n.) 袋鼠
-likely	(adj.) 有可能的
+kangaroo	(n.)袋鼠
+likely	(adj.)有可能的
 request	"n.（正式或礼貌的）请求；要求；v.请求，要求"
-resemble	(vt.) 类似，相似
-wing	(n.) 翅膀
+resemble	(vt.)类似，相似
+wing	(n.)翅膀
 fun	"adj.有趣的，供娱乐使用的；n.娱乐，乐趣"
+northern	"adj.北部的，北方的，有北方特征的"
+weekend	(n.)周末
+citizenship	(n.)国籍
+mime	"n.默剧表演，默剧；v.表演默剧，做口型"
+immediately	(adv.)马上
+conscience	(n.)良心，良知
+prisoner	(n.)囚犯，俘虏
+rigid	(adj.)死板的
+architect	(n.)建筑师
+lunch	(n.)午餐
+except	(prep.)除……之外
+uncertain	(adj.)不确定的
+view	"n.观点，看法；风景；视野；（一次）观看；v.…"
+abstract	(adj.)抽象的
+acute	(adj.)严重的；敏锐的
+dull	"adj.枯燥的，沉闷的；愚笨的，迟钝的"
+pie	(n.)派，果馅饼
+dairy	"adj.奶制的，牛奶的；n.牛奶厂"
+cool	"v.（使）冷却；变凉；adj.酷的；极好的，绝妙的"
+annual	(adj.)年度的，一年一次的
+call on	(phr.)要求（某人讲话等）
+twin	(adj.)双胞胎之一的；成双的
+rid	(v.)使摆脱
+burglar	(n.)窃贼
+shock	"v.使……震惊；n.震惊；电击，触电"
+odor	(n.)（常指难闻的）气味
+uncomfortable	(adj.)不舒服的
+scold	(v.)怒骂，责骂，训斥
+quotation	(n.)引文，语录
+question	(n.)疑问，问题；v.怀疑
+Buddhism	(n.)佛教
+thermos	(n.)热水瓶，保温瓶
+destroy	(v.)破坏；摧毁
+passer-by	(n.)过客，过路人
+doctor	(n.)医生，医师
+equal	"adj.平等的；相同的；相等的；v.导致"
+means	(n.)方法，手段
+hill	(n.)小山，山岗；斜坡
+danger	"n.危险，风险，危险的物（或人）"
+revolution	(n.)革命
+explore	(v.)探索；探讨，研究
+calorie	(n.)【热量单位】卡，卡路里
+province	(n.)省
+ward	"n.病房；选区；受监护人；v.守护，躲开"
+immigrant	"n.移民，外侨；adj.移民的"
+east	(n.)东方
+shaver	(n.)电动剃须刀
+industry	(n.)行业
+pride	(n.)自豪
+bring in	"phr.增加，赚取，产生，引进"
+amuse	(v.)逗乐
+mouthful	(n.)一口，满口
+quality	(n.)质量；品质
+astronomy	(n.)天文学
+flexible	(adj.)灵活的
+truth	(n.)真相；真理
+pretend	(v.)假装，装扮
+lack	(n.)缺乏，短缺；v.缺乏
+reform	(n.)改革
+registration	(n.)登记，注册，挂号
+X-ray	(n.)X射线；X光照片
+radioactive	(adj.)辐射的，放射性的
+donate	(v.)捐赠
+response	(n.)反应；回应
+poisonous	(adj.)引起中毒的，有毒的
+system	(n.)系统
+commonwealth	(n.)英联邦
+confidential	(adj.)机密的；表示信任的
+challenge	(n.)挑战；vt.挑战
+characteristic	(n.)特征
+absolutely	(adv.)绝对地
