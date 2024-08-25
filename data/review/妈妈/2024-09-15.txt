@@ -10,10 +10,3 @@ passeport	护照
 valise	手提箱
 il a une valise	他有一个手提箱
 tu as un avion	你有飞机吗？
-son fils	他、她的儿子
-sa fille	他她的女儿
-gâteau	蛋糕
-tu manges une pizza	你吃一个披萨
-bienvenue marie	欢迎你，Marie
-bonjour marie enchanté	你好Marie，很高兴认识你
-au revoir	再见
