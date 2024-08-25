@@ -1,3 +1,29 @@
+perfume	(n.) 香水
+chip	"n.木屑，碎片；缺口；芯片；v.使碎裂；切下，…"
+distinction	(n.) 差别，区分
+role	(n.) 作用；角色
+acre	(n.) 英亩（≈4047平方米）
+mascot	"n.吉祥物（动物、物品、人等）"
+telescope	(n.) 望远镜
+cancel	"v.取消；（因素，情况）抵消，对消"
+throat	(n.) 咽喉，喉咙
+jog	(n.) 慢跑；v.慢跑
+corrupt	(adj.) 腐败的；v.使腐败
+physics	(n.) 物理（学）
+staff	(n.) 工作人员，全体职员
+referee	(n.) 裁判员，仲裁者
+criminal	(adj.) 可耻的
+rap	"n.（尤指人或事的不良）名声，声誉"
+reading	(n.) 阅读；读物
+pray	(v.) 请求，恳求
+supply	(v.) 供应；n.供给品
+literary	(adj.) 文学的，文学上的
+skyscraper	(n.) 摩天大楼
+delight	(n.) 快乐
+amusing	(adj.) 有趣的
+herb	(n.) 草本植物
+beyond	"prep.超出；除…之外；在更远处；adv.在更远处"
+wire	"n.电线，电缆，导线，金属丝，金属线"
 atlas (n.) 地图集
 vehicle "n.车辆；工具，手段；交通工具"
 ownership (n.) 所有权
