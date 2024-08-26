@@ -207,8 +207,10 @@ class TxtToXLSX:
 class TextToSpeechConverter:
     def __init__(self, txt_to_xlsx):
         self.txt_to_xlsx = txt_to_xlsx
+        self.daily_folder = get_sub_folder_path('data/daily')
 
-    async def convert_text_to_audio(self, file_name, repeat=2, max_items=None):
+    async def convert_text_to_audio(self, file_name, language="fr", repeat=2, max_items=None):
+        file_name = os.path.join(self.daily_folder, file_name)
         extracted_data = self.txt_to_xlsx.read_text(file_name)
 
         if max_items is not None and 0 < max_items < len(extracted_data):
@@ -224,8 +226,12 @@ class TextToSpeechConverter:
         #     'Microsoft Server Speech Text to Speech Voice (fr-FR, EloiseNeural)',
         # ]
         # english_voice = voice_names[0]
-        english_voice = voices.find(Language="fr", Locale="fr-FR")
-        # english_voice = random.choice(english_voice)["Name"]
+        if language == "fr":
+            voice_list = voices.find(Language="fr", Locale="fr-FR")
+        elif language == "en":
+            voice_list = voices.find(Language="en", Locale="en-GB")
+        else:
+            raise ValueError("Unsupported language specified. Please choose 'fr' for French or 'en' for English.")
         chinese_voice = voices.find(
             Language='zh'
             , Gender="Male"
@@ -238,16 +244,15 @@ class TextToSpeechConverter:
             for index, item in enumerate(extracted_data):
                 english_word = item['单词']
                 chinese_meaning = item['释意']
-                print(f"French: {english_word}, Translation: {chinese_meaning}")
                 # print(f"{index + 1}: {english_word}, 翻译为_______")
                 # print(f"{index + 1}: _______, 翻译为 {chinese_meaning}")
 
-                english_voice_name = random.choice(english_voice)["Name"]
+                voice_name = random.choice(voice_list)["Name"]
                 chinese_voice_name = random.choice(chinese_voice)["Name"]
-
+                print(f"French: {english_word}, Translation: {chinese_meaning}, Voice: {voice_name}")
                 # Repeat English audio twice
                 for _ in range(repeat):
-                    english_stream = edge_tts.Communicate(english_word, voice=english_voice_name, rate="-32%").stream()
+                    english_stream = edge_tts.Communicate(english_word, voice=voice_name, rate="-32%").stream()
                     async for chunk in english_stream:
                         if chunk["type"] == "audio":
                             file.write(chunk["data"])
@@ -327,13 +332,14 @@ class GenerateTool:
 
     @Test()
     def generate_media_word_list(self):
-        def en_and_cn(file, max_items):
+        def en_and_cn(file, max_items, language="fr"):
             start_time = time.time()  # Record start time
             converter = TextToSpeechConverter(tool)
-            asyncio.run(converter.convert_text_to_audio(file, max_items=max_items))
+            asyncio.run(converter.convert_text_to_audio(file, language, max_items=max_items))
             end_time = time.time()  # Record end time
             elapsed_time = end_time - start_time  # Calculate elapsed time
             print(f"Time taken: {elapsed_time} seconds")
 
         tool = TxtToXLSX()
-        en_and_cn('每日法語.txt', max_items=None)
+        en_and_cn('每日法語.txt', max_items=None, language="fr")
+        en_and_cn('每日英語.txt', max_items=None, language="en")
