@@ -1,3 +1,28 @@
+j'ai une voiture	我有一辆汽车
+paul habite avec son père	"Paul和他父亲一起住"
+sœur	姐妹
+père	父亲
+mère	母亲
+mari	丈夫
+femme	妻子
+son père	他的，她的父亲（加阳性名词）
+sa sœur	他的，她的姐妹（加阳性名词）
+ma famille habite en france	我一家人住在法国
+famille	“家庭；家属；家族”的意思，阴性名词;一家人
+ma mère et sa sœur	我母亲和她的姐妹
+université	大学
+la famille	一家人
+ma femme est journaliste	我妻子是记者
+le fils de paul	"Paul的儿子"
+je veux	（我想要）
+tu veux	（你想要）
+il veut	（他想要）
+elle veut	（她想要）
+on veut	（它想要）
+nous voulons	（我们想要）
+vous voulez	（您/你们想要）
+ils veulent	（他们想要）
+elles veulent	（她们想要）
 billet	票,入场券,门票，（车、船）票
 s'il vous plait	请给我；请问。
 billet d'avion	机票
