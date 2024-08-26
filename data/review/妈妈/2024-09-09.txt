@@ -20,10 +20,3 @@ elle a un billet d'avion	她有一张机票
 une gare	一座火车站（相当于英语中的“railwaystation”“trainstation”或“busstation”。）
 C'est l'aéroport	这是机场
 je vais à paris	我去巴黎
-son fils	他、她的儿子
-sa fille	他她的女儿
-gâteau	蛋糕
-tu manges une pizza	你吃一个披萨
-bienvenue marie	欢迎你，Marie
-bonjour marie enchanté	你好Marie，很高兴认识你
-au revoir	再见

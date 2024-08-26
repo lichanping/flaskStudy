@@ -1,3 +1,25 @@
+billet	票,入场券,门票，（车、船）票
+s'il vous plait	请给我；请问。
+billet d'avion	机票
+Où est le taxi	出租车在哪里？
+tu prends la voiture	你乘坐汽车吗？
+le restaurant espagnol	那家西班牙饭馆
+c'est une gare francaise	这是一座法国火车站
+chanson	歌曲
+tu vas à l'aéroport	你去这个机场
+marie va à l'aéroport en voiture	"Marie乘汽车去那个机场"
+il va à la gare	他去那座火车站
+je vais à paris en train	我乘火车去巴黎
+Je prends la voiture	我乘坐汽车
+je vais à paris en voiture	我乘汽车去巴黎
+tu prends le taxi	你乘坐出租车吗？
+où est le restaurant	这家饭馆在哪里？
+tu as un billet d'avion	你有机票吗？
+Duo a un passeport	朵儿有一本护照。
+elle a un billet d'avion	她有一张机票
+une gare	一座火车站（相当于英语中的“railwaystation”“trainstation”或“busstation”。）
+C'est l'aéroport	这是机场
+je vais à paris	我去巴黎
 tu parles	你说（s不发音）
 tu habites a paris	你住在巴黎吗？
 j'étudie a bordeaux	我在波尔多（法国西南部的一座城市）学习
