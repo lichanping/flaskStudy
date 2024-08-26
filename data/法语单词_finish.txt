@@ -243,3 +243,53 @@ je travaille à londres	我在伦敦工作（后面是城市，用à）
 je travaille en angleterre	我在英国工作（后面是国家，用en）
 j'habite à paris	我住在巴黎（不发音的h前面的短词，经常和后面的单词合并缩写）
 il est americain	"He是American."
+le garçon	这个男孩（le用于阳性名词）
+l'homme	这个男人（以原音或者不发音的h开头，则用l')
+tu vas	你去
+il va	他去
+elle va	她去
+nous allons	（我们去）
+vous allez	（您/你们去）
+ils vont	（他们去）
+elles vont	（她们去）
+tu as	你有
+il a	他有
+elle a	她有
+j'ai un passeport	我有一个护照
+gustave	古斯塔夫（人名）
+tango	探戈舞；探戈舞曲
+espagnol	西班牙的；西班牙语；西班牙人
+aéroport	机场
+hotel	旅馆,饭店
+Tu vas à Paris	你要去巴黎
+avion	飞机
+un avion	一架飞机
+C'est un hotel espagnol	这是一家西班牙酒店
+passeport	护照
+valise	手提箱
+il a une valise	他有一个手提箱
+marc a un passeport	"Marc有一本护照"
+tu as un avion	你有飞机吗？
+tu as une voiture francaise	你有一辆法国汽车
+billet d'avion	机票
+un restaurant	一家饭馆
+montréal	蒙特利尔（加拿大主要港市)
+la femme	这个女人（la用于阴性名词）
+je vais	我去
+j'ai	我有（当动词以原音开头，je要改成j')
+gants	手套
+compagne	同伴；伴侣；伙伴
+l'aéroport	这个/那个机场
+aéro	“大气”和“航空”（名词）
+Tu vas à la gare	你要去火车站
+j'ai une valise	我有一个手提箱
+voiture	汽车
+billet	票,入场券,门票，（车、船）票
+s'il vous plait	请给我；请问。
+Où est le taxi	出租车在哪里？
+tu prends la voiture	你乘坐汽车吗？
+le restaurant espagnol	那家西班牙饭馆
+berlin	柏林
+c'est une gare francaise	这是一座法国火车站
+chanson	歌曲
+tu vas à l'aéroport	你去这个机场

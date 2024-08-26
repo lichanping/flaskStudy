@@ -2126,3 +2126,13 @@ amusing	(adj.) 有趣的
 herb	(n.) 草本植物
 beyond	"prep.超出；除…之外；在更远处；adv.在更远处"
 wire	"n.电线，电缆，导线，金属丝，金属线"
+lock	(v.) 锁上；n.锁
+main	(adj.) 主要的，最重要的
+couple	"n.几个（人或事物）；夫妇；v.配对，连接，结合"
+knee	(n.) 膝盖
+Italian	"n.意大利语；adj.意大利的"
+adaptation	(n.) 适应，适应性的变化
+sudden	(adj.) 突然的，意外的
+treat	"v.对待；治疗；请客，款待；视为；n.款待"
+increase	(v.) 增加
+package	"n.包装盒；包价（旅游）；成套出售的东西，套餐"

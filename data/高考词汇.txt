@@ -1,13 +1,3 @@
-lock	(v.) 锁上；n.锁
-main	(adj.) 主要的，最重要的
-adaptation	(n.) 适应，适应性的变化
-sudden	(adj.) 突然的，意外的
-treat	"v.对待；治疗；请客，款待；视为；n.款待"
-increase	(v.) 增加
-couple	"n.几个（人或事物）；夫妇；v.配对，连接，结合"
-knee	(n.) 膝盖
-Italian	"n.意大利语；adj.意大利的"
-package	"n.包装盒；包价（旅游）；成套出售的东西，套餐"
 worth	"adj.值得的；值……钱；n.可维持(一段时间)的东…"
 rapids	(n.) 急流，湍流
 weep	(v.) 哭泣，流泪
