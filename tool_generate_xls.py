@@ -249,10 +249,14 @@ class TextToSpeechConverter:
 
                 voice_name = random.choice(voice_list)["Name"]
                 chinese_voice_name = random.choice(chinese_voice)["Name"]
-                print(f"French: {english_word}, Translation: {chinese_meaning}, Voice: {voice_name}")
+                print(f"Word: {english_word}, Translation: {chinese_meaning}, Voice: {voice_name}")
                 # Repeat English audio twice
                 for _ in range(repeat):
-                    english_stream = edge_tts.Communicate(english_word, voice=voice_name, rate="-32%").stream()
+                    if language == "fr":
+                        english_stream = edge_tts.Communicate(english_word, voice=voice_name, rate="-32%").stream()
+                    elif language == "en":
+                        english_stream = edge_tts.Communicate(english_word, voice=voice_name).stream()
+
                     async for chunk in english_stream:
                         if chunk["type"] == "audio":
                             file.write(chunk["data"])
@@ -342,4 +346,4 @@ class GenerateTool:
 
         tool = TxtToXLSX()
         en_and_cn('每日法語.txt', max_items=None, language="fr")
-        en_and_cn('每日英語.txt', max_items=None, language="en")
+        # en_and_cn('每日英語.txt', max_items=None, language="en")
