@@ -1,36 +1,3 @@
-j'ai une voiture	我有一辆汽车
-un train	一列火车
-la gare	那座火车站
-le croissant français	那个法国牛角面包
-paul habite avec son père	"Paul和他父亲一起住"
-frère	兄弟
-sœur	姐妹
-père	父亲
-mère	母亲
-mari	丈夫
-femme	妻子
-son père	他的，她的父亲（加阳性名词）
-sa sœur	他的，她的姐妹（加阳性名词）
-ma famille habite en france	我一家人住在法国
-parle	说话
-C'est ma famille	这是我一家人
-famille	“家庭；家属；家族”的意思，阴性名词;一家人
-ma mère et sa sœur	我母亲和她的姐妹
-université	大学
-professeur	老师
-la famille	一家人
-ma femme est journaliste	我妻子是记者
-la fille de paul	"Paul的女儿"
-le fils de paul	"Paul的儿子"
-je veux	（我想要）
-tu veux	（你想要）
-il veut	（他想要）
-elle veut	（她想要）
-on veut	（它想要）
-nous voulons	（我们想要）
-vous voulez	（您/你们想要）
-ils veulent	（他们想要）
-elles veulent	（她们想要）
 boutique	商店
 j'étudie à bordeaux	我在波尔多学习
 étudiant	男大学生
