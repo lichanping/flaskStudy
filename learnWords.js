@@ -304,6 +304,9 @@ export async function renderQuestion() {
 
         let englishWordInput = document.getElementById("englishWordTextBox");
         englishWordInput.value = currentEnglishWord;
+        if (currentEnglishWord.length > 13) {
+            displayToast(currentEnglishWord);
+        }
         englishWordInput.style.visibility = 'visible';
         // Clear previous options
         optionsLine.innerHTML = '';
@@ -354,7 +357,7 @@ export function checkSpelling() {
         'à': 'a', 'â': 'a', 'ä': 'a',
         'ô': 'o', 'ö': 'o',
         'ç': 'c',
-        'œ': 'oe','’': '\''
+        'œ': 'oe', '’': '\''
     };
 
     // 将字符串中的法语特殊字符替换为对应的英语字母
@@ -524,5 +527,5 @@ function displayToast(message) {
     // Automatically remove toast after 3 seconds
     setTimeout(() => {
         toast.remove();
-    }, 3000);
+    }, 5000);
 }
