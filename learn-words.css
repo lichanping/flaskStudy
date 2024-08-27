@@ -83,7 +83,7 @@ input:checked + .slider:before {
 #renderQuestion,
 #file,
 #clearText,
-#switchStudentButton,#checkSpellingButton {
+#switchStudentButton, #checkSpellingButton {
     border-radius: 10px; /* Adjust the value as needed */
     color: #ffffff; /* White font color */
     background-color: inherit; /* Dark background color */
@@ -106,6 +106,8 @@ input:checked + .slider:before {
     border-radius: 5px;
     z-index: 9999; /* Ensure it appears above other content */
     font-size: 20px;
+    max-width: 500px; /* Set a maximum width */
+    width: auto; /* Adjust width based on content */
 }
 
 /* Score and error count containers */
@@ -252,18 +254,21 @@ input:checked + .slider:before {
     align-items: center; /* Vertically center content */
     margin-right: 20px; /* Add right margin */
 }
+
 .tiny-button {
-    font-size: 12px;  /* Adjusted font size for the icon */
-    padding: 2px 5px;  /* Small padding */
+    font-size: 12px; /* Adjusted font size for the icon */
+    padding: 2px 5px; /* Small padding */
     margin-left: 10px; /* Space between the counter and the button */
     background-color: transparent; /* Transparent background */
     border: none; /* Remove border */
     cursor: pointer; /* Pointer cursor on hover */
     color: #007BFF; /* Icon color */
 }
+
 .tiny-button:hover {
     color: #0056b3; /* Darker color on hover */
 }
+
 /* Media queries for smaller screens */
 @media only screen and (max-width: 600px) {
     /* Adjustments for smaller screens */
