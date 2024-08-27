@@ -324,3 +324,53 @@ tension	(n.) （精神上的）紧张，不安
 pronunciation	(n.) 发音
 harbor	(n.) 港口
 walnut	(n.) 核桃，胡桃
+competition	(n.) 比赛；竞争
+favorable	(adj.) 有利的，有助于...的
+watery	(adj.) 平淡的，稀薄无味的
+safety	(n.) 安全
+entrepreneur	(n.) 企业家，创业者
+ready	"adj.准备好的；即将……的，可能……的；v.预…"
+cure	"n.治疗，医治；vt.治愈，治疗"
+metal	(n.) 金属，合金，金属制品
+favorite	"adj.最爱的（同favourite）；n.最喜爱…"
+product	(n.) 产品；产物
+ankle	(n.) 踝，踝关节
+oxygen	(n.) 氧气，氧
+translation	(n.) 翻译
+middle	"adj.中部的，中间的；n.中部，中间"
+equally	(adv.) 同样地；平等地
+honestly	(adv.) 真诚地
+Friday	(n.) 星期五
+imply	(vt.) 暗示
+forest	(n.) 森林
+scholar	(n.) 学者
+researcher	(n.) 研究员
+female	"adj.雌性的；女性的；n.雌性动物"
+adapt	(v.) 适应
+factual	(adj.) 事实的
+motor	"n.马达，发动机；adj.机动车的"
+impair	(v.) 损害
+drop	"v.减少；降低；投，丢；中途卸客，中途卸货；放弃…"
+imprisonment	(n.) 监禁
+stain	"n.污渍，污迹；v.弄脏；玷污；染色"
+description	(n.) 描写，形容，叙述
+merchant	(n.) 商人；批发商
+relate	(v.) 相关，有联系；联系
+cater	(v.) 迎合，满足需要
+quick	(adj.) 迅速的，快捷的
+ink	(n.) 墨水，油墨
+belt	(n.) 传送带
+fierce	"adj.激烈的；凶猛的，凶狠的"
+paddle	"v.用脚（手）划水，荡桨；n.桨"
+cheese	(n.) 乳酪，干酪，芝士
+praise	"n.称赞，表扬；vt.称赞，表扬"
+systematic	(adj.) 系统的，有条理的
+adopt	(v.) 采纳，采用；收养
+lunar	"adj.阴历的，农历的；月亮的，月球的"
+bless	(vi.) 有幸具有
+misunderstand	(v.) 误解，误会
+Korea	(n.) 朝鲜或韩国
+bar	"n.酒吧；(金属)棒；小吃店，小吃部，小馆子；条…"
+military	(adj.) 军事的
+countless	(adj.) 无数的
+meanwhile	(adv.) 同时，与此同时
