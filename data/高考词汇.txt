@@ -1,38 +1,3 @@
-worth	"adj.值得的；值……钱；n.可维持(一段时间)的东…"
-rapids	(n.) 急流，湍流
-weep	(v.) 哭泣，流泪
-cut	"v.减少；剪；割，砍；使隔绝；vt.切；n.（尤指钱…"
-existence	(n.) 存在；生活方式
-personally	(adv.) 作为个人
-warm	"adj.温暖的；热情的；v.使温暖"
-insect	(n.) 昆虫
-youth	(n.) 青年；青春
-moment	(n.) 瞬间，片刻；时刻
-constitution	(n.) 宪法，章程
-clay	"n.（制砖瓦、陶瓷制品的）黏土"
-willing	"adj.愿意的，心甘情愿的；乐意的"
-travel	"v.旅行；行走；行进，被传播；走过，驶过；n.旅…"
-splendid	(adj.) 极好的，出色的
-gravity	(n.) 重力，引力；严重性
-league	(n.) 社团；联盟
-italic	"adj.斜体的；n.斜体字（或字母、数码等）"
-Tuesday	(n.) 星期二
-armchair	(n.) 扶椅
-organization	(n.) 组织，体制，团体，机构
-microwave	(n.) 微波炉，微波
-ambulance	(n.) 救护车
-January	(n.) 一月
-vase	(n.) 花瓶
-teen	(n.) (13～19岁的)青少年
-candy	(n.) 糖果
-depth	(n.) 深度
-informal	(adj.) 非正式的
-someone	(pron.) 有人，某人
-export	"v.出口，输出；传播（读作/ɪkˈspɔrt/）；n.出口…"
-pollution	"n.污染；噪音污染，光污染；污染物"
-offence	(n.) 冒犯
-regulation	"n.规章，法规，条例；调整，调节"
-meaning	(n.) 意思，含义；意义，价值
 electronic	(adj.) 电子的
 recite	"vt.朗诵，吟诵；背诵；vi.背诵"
 cheerful	"adj.高兴的；令人愉快的；乐观的"
