@@ -42,26 +42,3 @@ je vais au parc	我去公园（当à和le一起出现，要合并成au）
 elle est amusante	她很有趣
 nous sommes chinois	我们是中国人
 les garcons sont étudiants	那些男孩是大学生
-compagne	同伴；伴侣；伙伴
-espagnol	西班牙的；西班牙语；西班牙人
-l'aéroport	这个/那个机场
-aéro	“大气”和“航空”（名词）
-hotel	旅馆,饭店
-Tu vas à la gare	你要去火车站
-un avion	一架飞机
-C'est un hotel espagnol	这是一家西班牙酒店
-passeport	护照
-valise	手提箱
-il a une valise	他有一个手提箱
-tu as un avion	你有飞机吗？
-a bientot	回头见àbientôt
-bonne soirée	祝你晚上愉快
-bonne nuit	晚安
-je suis chinois	我是中国人
-elle est coréenne	她是韩国人;她是韩国人（阴性）
-je suis en chine	我在中国
-il est en france	他在法国吗？
-elle parle espagnol	她说西班牙语
-il est chinois	他是中国人（国籍用形容词，阳性）
-il est coréen	他是韩国人（阳性）
-un livre francais	一本法国书
