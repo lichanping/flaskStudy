@@ -255,3 +255,5 @@ je vais au parc	我去公园（当à和le一起出现，要合并成au）
 elle est amusante	她很有趣
 nous sommes chinois	我们是中国人
 les garcons sont étudiants	那些男孩是大学生
+ils mangent deux pizzas	他们吃两个披萨
+les filles sont en espagne	这些女孩在西班牙
