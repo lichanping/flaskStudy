@@ -214,8 +214,8 @@ le chat de marie	"Marie的猫"
 le chien d'anna	"Anna的狗"（注意，de在元音前要变成d')
 la musique	音乐
 lire un livre	阅读一本书
-je prends	（我乘坐/拿）
-tu prends	（你乘坐/拿）
+je prends	（我乘坐/拿）The verb prendre has an s ending for both the je and tu forms.
+tu prends	（你乘坐/拿）The verb prendre has an s ending for both the je and tu forms.
 il prend	（他乘坐/拿）
 elle prend	（她乘坐/拿）
 nous prenons	（我们乘坐/拿）
