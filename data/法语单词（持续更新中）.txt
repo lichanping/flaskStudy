@@ -183,7 +183,7 @@ mère	母亲
 mari	丈夫
 femme	妻子
 son père	他的，她的父亲（加阳性名词）
-sa sœur	他的，她的姐妹（加阳性名词）
+sa sœur	他的，她的姐妹（加阴性名词, 根据所修饰的名词的阴阳性来变化，因为 “sœur” 是阴性，所以用 “sa” 来修饰）
 ma famille habite en france	我一家人住在法国
 parle	说话
 C'est ma famille	这是我一家人
