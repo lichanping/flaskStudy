@@ -1,3 +1,18 @@
+marie va à l'aéroport en voiture	"Marie乘汽车去那个机场"
+Je prends la voiture	我乘坐汽车
+c'est une valise	这是一个手提箱
+où est le restaurant	这家饭馆在哪里？
+un croissant s'il vous plaît	请给我一个羊角面包
+la gare	那座火车站
+le croissant français	那个法国牛角面包
+paul habite avec son père	"Paul和他父亲一起住"
+frère	兄弟
+mari	丈夫
+femme	妻子
+son père	他的，她的父亲（加阳性名词）
+ma famille habite en france	我一家人住在法国
+parle	说话
+ma mère et sa sœur	我母亲和她的姐妹
 j'habite en france	我住在法国（不发音的h前面的短词，经常和后面的单词合并缩写）
 je travaille en espagne	我在西班牙工作
 gabriel est espagnol	"Gabriel是Spanish."
