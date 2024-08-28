@@ -1,38 +1,3 @@
-marie va à l'aéroport en voiture	"Marie乘汽车去那个机场"
-il va à la gare	他去那座火车站
-je vais à paris en train	我乘火车去巴黎
-Je prends la voiture	我乘坐汽车
-je vais à paris en voiture	我乘汽车去巴黎
-je prends l'avion	我乘坐飞机
-c'est une valise	这是一个手提箱
-tu prends le taxi	你乘坐出租车吗？
-où est le restaurant	这家饭馆在哪里？
-où est paul	"Paul在哪里"
-tu as un billet d'avion	你有机票吗？
-Duo a un passeport	朵儿有一本护照。
-un croissant s'il vous plaît	请给我一个羊角面包
-elle a un billet d'avion	她有一张机票
-une gare	一座火车站（相当于英语中的“railwaystation”“trainstation”或“busstation”。）
-C'est l'aéroport	这是机场
-je vais à paris	我去巴黎
-j'ai une voiture	我有一辆汽车
-un train	一列火车
-la gare	那座火车站
-le croissant français	那个法国牛角面包
-paul habite avec son père	"Paul和他父亲一起住"
-frère	兄弟
-sœur	姐妹
-père	父亲
-mère	母亲
-mari	丈夫
-femme	妻子
-son père	他的，她的父亲（加阳性名词）
-sa sœur	他的，她的姐妹（加阳性名词）
-ma famille habite en france	我一家人住在法国
-parle	说话
-C'est ma famille	这是我一家人
-famille	“家庭；家属；家族”的意思，阴性名词;一家人
-ma mère et sa sœur	我母亲和她的姐妹
 université	大学
 professeur	老师
 la famille	一家人
