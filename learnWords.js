@@ -257,11 +257,11 @@ export async function goToPreviousQuestion() {
 
     // Optional: Clear or reset specific elements if needed
     document.getElementById('englishWordTextBox').style.backgroundColor = '';
-    document.getElementById('incorrectWords').innerHTML = '';
-    document.getElementById("scoreNumber").textContent = "0";
-    document.getElementById("errorCount").textContent = "0";
-    document.getElementById("spellingErrors").textContent = "0";
-    document.getElementById("noCorrectAnswerCount").textContent = "0";
+//    document.getElementById('incorrectWords').innerHTML = '';
+//    document.getElementById("scoreNumber").textContent = "0";
+//    document.getElementById("errorCount").textContent = "0";
+//    document.getElementById("spellingErrors").textContent = "0";
+//    document.getElementById("noCorrectAnswerCount").textContent = "0";
 }
 
 export async function renderQuestion() {
