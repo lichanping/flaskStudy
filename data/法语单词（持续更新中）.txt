@@ -183,7 +183,7 @@ mère	母亲
 mari	丈夫
 femme	妻子
 son père	他的，她的父亲（加阳性名词）
-sa sœur	他的，她的姐妹（加阴性名词, 根据所修饰的名词的阴阳性来变化，因为 “sœur” 是阴性，所以用 “sa” 来修饰）
+sa sœur	他的，她的姐妹（加阴性名词,根据所修饰的名词的阴阳性来变化，因为“sœur”是阴性，所以用“sa”来修饰）
 ma famille habite en france	我一家人住在法国
 parle	说话
 C'est ma famille	这是我一家人
@@ -214,8 +214,8 @@ le chat de marie	"Marie的猫"
 le chien d'anna	"Anna的狗"（注意，de在元音前要变成d')
 la musique	音乐
 lire un livre	阅读一本书
-je prends	（我乘坐/拿）The verb prendre has an s ending for both the je and tu forms.
-tu prends	（你乘坐/拿）The verb prendre has an s ending for both the je and tu forms.
+je prends	（我乘坐/拿）Theverbprendrehasansendingforboththejeandtuforms.
+tu prends	（你乘坐/拿）Theverbprendrehasansendingforboththejeandtuforms.
 il prend	（他乘坐/拿）
 elle prend	（她乘坐/拿）
 nous prenons	（我们乘坐/拿）
@@ -365,11 +365,22 @@ tu prends un thé	你想要茶吗？（吃、喝、乘坐）
 petits	小，小的
 petit	小；小的；矮
 grands	大；高；大型的
-magasin	商店
+magasin	商店;商店；店
 salade	沙拉
-bouteille	瓶子
+bouteille	瓶子;瓶子；瓶
 eau	水
 verre	杯子；玻璃杯
 vin	葡萄酒
 bière	啤酒
 tasse	杯子
+ville	城市
+vélo	自行车
+plante	植物
+vert	绿色；绿色的
+ouvert	营业；开着；开
+pharmacie	药店
+supermarché	超市
+petites	小；小的
+petite	小；小的；矮
+grandes	大；高；大的
+grande	大；大的；大型的；伟大的；优秀的
