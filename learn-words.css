@@ -170,7 +170,7 @@ input:checked + .slider:before {
 /* English word text box */
 #englishWordTextBox {
     height: 40px; /* Match height to the button */
-    font-size: 24px; /* Adjust the font size for the English word */
+    font-size: 20px; /* Adjust the font size for the English word */
     display: inline-block;
     vertical-align: middle;
     width: calc(100% - 130px); /* Set width to auto */

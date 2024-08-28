@@ -304,7 +304,7 @@ export async function renderQuestion() {
 
         let englishWordInput = document.getElementById("englishWordTextBox");
         englishWordInput.value = currentEnglishWord;
-        if (currentEnglishWord.length > 13) {
+        if (currentEnglishWord.length > 15) {
             displayToast(currentEnglishWord);
         }
         englishWordInput.style.visibility = 'visible';
