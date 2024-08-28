@@ -182,3 +182,14 @@ verre	杯子；玻璃杯
 vin	葡萄酒
 bière	啤酒
 tasse	杯子
+ville	城市
+vélo	自行车
+plante	植物
+vert	绿色；绿色的
+ouvert	营业；开着；开
+pharmacie	药店
+supermarché	超市
+petites	小；小的
+petite	小；小的；矮
+grandes	大；高；大的
+grande	大；大的；大型的；伟大的；优秀的
