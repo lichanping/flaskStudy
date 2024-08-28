@@ -233,7 +233,7 @@ discount	"n.折扣（读作/ˈdɪsˌkaunt/）；（价格、债…"
 per	(prep.)每，每一
 help	(v.)帮助；n.帮助
 assist	"v.帮助；协助；促进；n.帮助；助攻"
-harm	(v.)伤害；n.伤害，损害
+harm	(v.)伤害；n.伤害，损害;(v.) 伤害；n.伤害，损害
 remind	(v.)提醒；vt.使想起
 discrimination	(n.)歧视
 prejudice	"n.偏见，成见；损害，侵害；【法】对合法权益损…"
@@ -250,7 +250,7 @@ retire	(v.)退休
 plant	"n.植物；发电厂；工厂；v.种植"
 botany	"n.植物学；（总称）一个地区的植物"
 diver	(n.)潜水员
-unpleasant	(adj.)令人不快的，讨厌的
+unpleasant	(adj.)令人不快的，讨厌的;(adj.) 令人不快的，讨厌的
 utilize	(v.)利用；使用；运用
 disgusting	"adj.令人厌恶的；令人无法接受的"
 newly	(adv.)最近，新近
@@ -2496,53 +2496,116 @@ tension	(n.)（精神上的）紧张，不安
 pronunciation	(n.)发音
 harbor	(n.)港口
 walnut	(n.)核桃，胡桃
-competition	(n.) 比赛；竞争
-favorable	(adj.) 有利的，有助于...的
-watery	(adj.) 平淡的，稀薄无味的
-safety	(n.) 安全
-entrepreneur	(n.) 企业家，创业者
+competition	(n.)比赛；竞争
+favorable	(adj.)有利的，有助于...的
+watery	(adj.)平淡的，稀薄无味的
+safety	(n.)安全
+entrepreneur	(n.)企业家，创业者
 ready	"adj.准备好的；即将……的，可能……的；v.预…"
 cure	"n.治疗，医治；vt.治愈，治疗"
-metal	(n.) 金属，合金，金属制品
+metal	(n.)金属，合金，金属制品
 favorite	"adj.最爱的（同favourite）；n.最喜爱…"
-product	(n.) 产品；产物
-ankle	(n.) 踝，踝关节
-oxygen	(n.) 氧气，氧
-translation	(n.) 翻译
+product	(n.)产品；产物
+ankle	(n.)踝，踝关节
+oxygen	(n.)氧气，氧
+translation	(n.)翻译
 middle	"adj.中部的，中间的；n.中部，中间"
-equally	(adv.) 同样地；平等地
-honestly	(adv.) 真诚地
-Friday	(n.) 星期五
-imply	(vt.) 暗示
-forest	(n.) 森林
-scholar	(n.) 学者
-researcher	(n.) 研究员
+equally	(adv.)同样地；平等地
+honestly	(adv.)真诚地
+Friday	(n.)星期五
+imply	(vt.)暗示
+forest	(n.)森林
+scholar	(n.)学者
+researcher	(n.)研究员
 female	"adj.雌性的；女性的；n.雌性动物"
-adapt	(v.) 适应
-factual	(adj.) 事实的
+adapt	(v.)适应
+factual	(adj.)事实的
 motor	"n.马达，发动机；adj.机动车的"
-impair	(v.) 损害
+impair	(v.)损害
 drop	"v.减少；降低；投，丢；中途卸客，中途卸货；放弃…"
-imprisonment	(n.) 监禁
+imprisonment	(n.)监禁
 stain	"n.污渍，污迹；v.弄脏；玷污；染色"
-description	(n.) 描写，形容，叙述
-merchant	(n.) 商人；批发商
-relate	(v.) 相关，有联系；联系
-cater	(v.) 迎合，满足需要
-quick	(adj.) 迅速的，快捷的
-ink	(n.) 墨水，油墨
-belt	(n.) 传送带
+description	(n.)描写，形容，叙述
+merchant	(n.)商人；批发商
+relate	(v.)相关，有联系；联系
+cater	(v.)迎合，满足需要
+quick	(adj.)迅速的，快捷的
+ink	(n.)墨水，油墨
+belt	(n.)传送带
 fierce	"adj.激烈的；凶猛的，凶狠的"
 paddle	"v.用脚（手）划水，荡桨；n.桨"
-cheese	(n.) 乳酪，干酪，芝士
+cheese	(n.)乳酪，干酪，芝士
 praise	"n.称赞，表扬；vt.称赞，表扬"
-systematic	(adj.) 系统的，有条理的
-adopt	(v.) 采纳，采用；收养
+systematic	(adj.)系统的，有条理的
+adopt	(v.)采纳，采用；收养
 lunar	"adj.阴历的，农历的；月亮的，月球的"
-bless	(vi.) 有幸具有
-misunderstand	(v.) 误解，误会
-Korea	(n.) 朝鲜或韩国
+bless	(vi.)有幸具有
+misunderstand	(v.)误解，误会
+Korea	(n.)朝鲜或韩国
 bar	"n.酒吧；(金属)棒；小吃店，小吃部，小馆子；条…"
-military	(adj.) 军事的
-countless	(adj.) 无数的
-meanwhile	(adv.) 同时，与此同时
+military	(adj.)军事的
+countless	(adj.)无数的
+meanwhile	(adv.)同时，与此同时
+petal	(n.) 花瓣
+barbershop	(n.) 理发店
+soup	(n.) 汤
+noble	(adj.) 贵族的，高贵的
+economic	(adj.) 经济上的，经济学的
+claim	"v.声称；认领，要求（拥有）；n.声明"
+Halloween	"n.万圣节前夕（指10月31日夜晚）"
+irrigation	(n.) 灌溉
+announcer	(n.) 播音员
+native	"adj.出生地的；母语的；土著的"
+afterwards	(adv.) 以后
+unrest	(n.) 不安，骚动；动荡的局面
+potter	(n.) 陶工
+cage	(n.) 笼，鸟笼
+makeup	(n.) 组成，构成
+catch	"v.赶上；染上，患(感冒等疾病)；抓住；接住；引…"
+brighten	(v.) （使）变亮
+bomb	(n.) 炸弹
+sugary	(adj.) 含糖的，甜的
+operate	(v.) 运转；运营；操作
+darkness	(n.) 黑暗，漆黑
+globe	(n.) 地球，世界
+packet	(n.) 小袋，小包装
+extinct	(adj.) 灭绝的；（火山）死的
+reunite	(v.) 重逢，再次相聚
+wrinkle	(n.) 窍门
+forbid	(v.) 禁止
+capsule	(n.) 胶囊；航天舱，密封舱
+data	(n.) 数据
+selflessly	(adv.) 无私地
+breakdown	"n.故障，损坏；分解；倒塌，崩溃"
+bee	(n.) 蜜蜂
+cucumber	(n.) 黄瓜
+subscribe	(vi.) 订阅
+sustainable	(adj.) 可持续的
+injury	(n.) 伤害
+key	"adj.关键的；n.钥匙；关键，要诀；键；音调，声调"
+chocolate	(n.) 巧克力
+written	(adj.) 书面的
+courtroom	(n.) 法庭；审判室
+wealth	(n.) 财富，财产
+essay	(n.) 文章，短文；论文
+cave	"n.山洞，洞穴；v.洞穴探险"
+motto	"n.座右铭；格言；箴言；口号"
+headache	(n.) 头痛；麻烦
+pursue	(v.) 追求
+exploit	(v.) 利用
+swim	(v.) 游泳；n.游泳
+sound	"v.听起来；n.声音，声响；adj.明智的"
+nickname	"n.诨号；绰号；昵称；vt.起绰号"
+Britain	(n.) 大不列颠，英国
+dismiss	(v.) 不考虑
+steady	(adj.) 稳步的
+round	"prep.在…周围，包围；(adj.) 圆的，球形的"
+ought	(v.) 应该，应当，本该
+prevention	(n.) 预防，防止，防范
+homework	(n.) 家庭作业
+vulnerable	(adj.) 易受伤的
+clothing	(n.) 衣服
+lay	"v.下蛋；位于（lie的过去式）；奠定（基础）"
+strawberry	(n.) 草莓
+pursuit	(n.) 追求，寻找
+sneeze	(v.) 打喷嚏；n.喷嚏
