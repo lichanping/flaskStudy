@@ -1,3 +1,30 @@
+recite	"vt.朗诵，吟诵；背诵；vi.背诵"
+cheerful	"adj.高兴的；令人愉快的；乐观的"
+annoyance	(n.) 恼怒
+pill	(n.) 药丸，药片
+beard	(n.) （下巴上的）胡须
+portion	(n.) （食物的）一份；份额
+cushion	(n.) 坐垫
+knight	(n.) 骑士
+qualification	(n.) 资格，学历
+plain	"adj.朴素的，不做修饰的；清楚的，显而易见的；平…"
+expression	"n.表情；表达；(艺术表演中的)情感表现"
+temporary	(adj.) 临时的；暂时的
+tale	(n.) 故事，传说
+account	"n.账目，账户；描述；叙述；v.占（一定数量或…"
+hardship	(n.) 艰难，困苦
+comparison	(n.) 比较
+queue	(n.) 行列
+Cantonese	(n.) 粤语
+sector	(n.) （经济等的）行业；部门
+tax	(n.) 税，税款
+shade	"n.色度；百叶窗；一点，略微"
+agent	(n.) 代理商，代理人；特工
+chalk	(n.) 粉笔
+compromise	(v.) 妥协
+repetition	(n.) 重复，反复
+experiment	"n.实验；试验；v.进行实验"
+acquaintance	(n.) 相识的人，熟人；认识
 perfume	(n.) 香水
 chip	"n.木屑，碎片；缺口；芯片；v.使碎裂；切下，…"
 distinction	(n.) 差别，区分
