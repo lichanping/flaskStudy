@@ -88,3 +88,7 @@ petites	小；小的
 petite	小；小的；矮
 grandes	大；高；大的
 grande	大；大的；大型的；伟大的；优秀的
+aujourd'hui	今天
+fermé	关着
+cinq	五
+quatre	四；四个
