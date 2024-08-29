@@ -122,7 +122,7 @@ loss	（n.失去；损失；减少，降低；遗失"
 scan	（v.细看；浏览；扫描；详细调查；押韵；【计】扫描…"
 chief	（adj.首席的，最高级别的；主要的；n.首领，酋长"
 capital	（n.资金，资本；首都；大写字母；省会；【财】资本…"
-secondary	（adj.第二的；次要的；(疾病、感染等)继发性的；…"
+secondary	（adj.第二的；次要的；(疾病、感染等)继发性的；中学的
 endangered	（adj.濒危的
 doubt	（n.)怀疑；疑虑；v.怀疑；不确定"
 due	（adj.由于，因为；预期的；到期的"
@@ -233,7 +233,7 @@ discount	"n.折扣（读作/ˈdɪsˌkaunt/）；（价格、债…"
 per	(prep.)每，每一
 help	(v.)帮助；n.帮助
 assist	"v.帮助；协助；促进；n.帮助；助攻"
-harm	(v.)伤害；n.伤害，损害;(v.) 伤害；n.伤害，损害
+harm	(v.)伤害；n.伤害，损害;(v.)伤害
 remind	(v.)提醒；vt.使想起
 discrimination	(n.)歧视
 prejudice	"n.偏见，成见；损害，侵害；【法】对合法权益损…"
@@ -250,7 +250,7 @@ retire	(v.)退休
 plant	"n.植物；发电厂；工厂；v.种植"
 botany	"n.植物学；（总称）一个地区的植物"
 diver	(n.)潜水员
-unpleasant	(adj.)令人不快的，讨厌的;(adj.) 令人不快的，讨厌的
+unpleasant	(adj.)令人不快的，讨厌的
 utilize	(v.)利用；使用；运用
 disgusting	"adj.令人厌恶的；令人无法接受的"
 newly	(adv.)最近，新近
@@ -2546,66 +2546,114 @@ bar	"n.酒吧；(金属)棒；小吃店，小吃部，小馆子；条…"
 military	(adj.)军事的
 countless	(adj.)无数的
 meanwhile	(adv.)同时，与此同时
-petal	(n.) 花瓣
-barbershop	(n.) 理发店
-soup	(n.) 汤
-noble	(adj.) 贵族的，高贵的
-economic	(adj.) 经济上的，经济学的
+petal	(n.)花瓣
+barbershop	(n.)理发店
+soup	(n.)汤
+noble	(adj.)贵族的，高贵的
+economic	(adj.)经济上的，经济学的
 claim	"v.声称；认领，要求（拥有）；n.声明"
 Halloween	"n.万圣节前夕（指10月31日夜晚）"
-irrigation	(n.) 灌溉
-announcer	(n.) 播音员
+irrigation	(n.)灌溉
+announcer	(n.)播音员
 native	"adj.出生地的；母语的；土著的"
-afterwards	(adv.) 以后
-unrest	(n.) 不安，骚动；动荡的局面
-potter	(n.) 陶工
-cage	(n.) 笼，鸟笼
-makeup	(n.) 组成，构成
+afterwards	(adv.)以后
+unrest	(n.)不安，骚动；动荡的局面
+potter	(n.)陶工
+cage	(n.)笼，鸟笼
+makeup	(n.)组成，构成
 catch	"v.赶上；染上，患(感冒等疾病)；抓住；接住；引…"
-brighten	(v.) （使）变亮
-bomb	(n.) 炸弹
-sugary	(adj.) 含糖的，甜的
-operate	(v.) 运转；运营；操作
-darkness	(n.) 黑暗，漆黑
-globe	(n.) 地球，世界
-packet	(n.) 小袋，小包装
-extinct	(adj.) 灭绝的；（火山）死的
-reunite	(v.) 重逢，再次相聚
-wrinkle	(n.) 窍门
-forbid	(v.) 禁止
-capsule	(n.) 胶囊；航天舱，密封舱
-data	(n.) 数据
-selflessly	(adv.) 无私地
+brighten	(v.)（使）变亮
+bomb	(n.)炸弹
+sugary	(adj.)含糖的，甜的
+operate	(v.)运转；运营；操作
+darkness	(n.)黑暗，漆黑
+globe	(n.)地球，世界
+packet	(n.)小袋，小包装
+extinct	(adj.)灭绝的；（火山）死的
+reunite	(v.)重逢，再次相聚
+wrinkle	(n.)窍门
+forbid	(v.)禁止
+capsule	(n.)胶囊；航天舱，密封舱
+data	(n.)数据
+selflessly	(adv.)无私地
 breakdown	"n.故障，损坏；分解；倒塌，崩溃"
-bee	(n.) 蜜蜂
-cucumber	(n.) 黄瓜
-subscribe	(vi.) 订阅
-sustainable	(adj.) 可持续的
-injury	(n.) 伤害
+bee	(n.)蜜蜂
+cucumber	(n.)黄瓜
+subscribe	(vi.)订阅
+sustainable	(adj.)可持续的
+injury	(n.)伤害
 key	"adj.关键的；n.钥匙；关键，要诀；键；音调，声调"
-chocolate	(n.) 巧克力
-written	(adj.) 书面的
-courtroom	(n.) 法庭；审判室
-wealth	(n.) 财富，财产
-essay	(n.) 文章，短文；论文
+chocolate	(n.)巧克力
+written	(adj.)书面的
+courtroom	(n.)法庭；审判室
+wealth	(n.)财富，财产
+essay	(n.)文章，短文；论文
 cave	"n.山洞，洞穴；v.洞穴探险"
 motto	"n.座右铭；格言；箴言；口号"
-headache	(n.) 头痛；麻烦
-pursue	(v.) 追求
-exploit	(v.) 利用
-swim	(v.) 游泳；n.游泳
+headache	(n.)头痛；麻烦
+pursue	(v.)追求
+exploit	(v.)利用
+swim	(v.)游泳；n.游泳
 sound	"v.听起来；n.声音，声响；adj.明智的"
 nickname	"n.诨号；绰号；昵称；vt.起绰号"
-Britain	(n.) 大不列颠，英国
-dismiss	(v.) 不考虑
-steady	(adj.) 稳步的
-round	"prep.在…周围，包围；(adj.) 圆的，球形的"
-ought	(v.) 应该，应当，本该
-prevention	(n.) 预防，防止，防范
-homework	(n.) 家庭作业
-vulnerable	(adj.) 易受伤的
-clothing	(n.) 衣服
+Britain	(n.)大不列颠，英国
+dismiss	(v.)不考虑
+steady	(adj.)稳步的
+round	"prep.在…周围，包围；(adj.)圆的，球形的"
+ought	(v.)应该，应当，本该
+prevention	(n.)预防，防止，防范
+homework	(n.)家庭作业
+vulnerable	(adj.)易受伤的
+clothing	(n.)衣服
 lay	"v.下蛋；位于（lie的过去式）；奠定（基础）"
-strawberry	(n.) 草莓
-pursuit	(n.) 追求，寻找
-sneeze	(v.) 打喷嚏；n.喷嚏
+strawberry	(n.)草莓
+pursuit	(n.)追求，寻找
+sneeze	(v.)打喷嚏；n.喷嚏
+devote	"vt.献身于，专心致力于，把……专用于"
+inch	(n.) 英寸；少许，少量
+order	"v.订购；点（食物、饮料）；命令；n.订单；…"
+courage	(n.) 勇气，胆量
+pollute	(v.) 污染，弄脏
+sponsor	(vt.) 赞助；n.赞助人
+sick	(adj.) 生病的；对...厌倦的
+troublesome	(adj.) 引起麻烦的
+hail	"n.冰雹；v.下冰雹；赞扬，称颂（尤用于报章等）"
+northeast	(n.) 东北；adj.位于东北的
+hold	"v.举办，进行；拥有；拿住，握着；保持不变；支撑"
+salt	(n.) 盐
+lucky	(adj.) 幸运的；好运的
+bump	"n.撞击；隆起物；（碰撞造成的）肿块；v.颠簸地…"
+mentally	"adv.精神上，智力上，心理上"
+habit	(n.) 习惯
+discovery	(n.) 发现
+army	(n.) 陆军，军队，部队
+jury	(n.) 陪审团；裁判团，评委团
+extra	"adj.额外的，附加的；(adv.) 额外地"
+outbreak	"n.（战争、疾病等坏事的）爆发，突然发生"
+thanksgiving	(n.) 感恩节
+journal	"n.定期刊物，杂志；日志，日记"
+stress	(n.) 压力；v.强调
+bitter	(adj.) 带来痛苦的
+altitude	(n.) 海拔
+slightly	(adv.) 稍微，轻微地
+answer	(n.) 答案；v.回答，答复
+interact	(v.) 交流，互动
+leftover	(adj.) 残余的
+dish	(n.) 菜肴；碟，盘子
+court	(n.) 庭院；球场
+abruptly	(adv.) 突然地
+inn	(n.) 客栈，小旅馆
+simple	(adj.) 简单的，易于理解的
+leg	(n.) 腿，腿部
+tick	"v.用勾作为记号；发出滴答声；n.勾号；一刹那；…"
+easily	(adv.) 容易地
+rubber	(n.) 橡胶
+unemployment	(n.) 失业
+difficulty	(n.) 困难
+peach	(n.) 桃子，桃树
+platform	(n.) 平台，阵地
+survivor	(n.) 生还者
+name	"n.名字；vt.给……取（或命）名；说出......的名称…"
+hole	(n.) 洞；孔；坑
+identical	"adj.相同的，同一的；n.完全相同的事物"
+smoke	(n.) 烟，烟尘；v.抽（烟）
