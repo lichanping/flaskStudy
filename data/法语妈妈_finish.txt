@@ -149,7 +149,7 @@ berlin	柏林
 je prends l'avion	我乘坐飞机
 c'est une valise	这是一个手提箱
 où est paul	"Paul在哪里"
-un croissant s'il vous plaît	请给我一个羊角面包
+un croissant s'il vous plaît	请给我一个牛角面包
 billet	票,入场券,门票，（车、船）票
 s'il vous plait	请给我；请问。
 billet d'avion	机票
