@@ -328,3 +328,53 @@ son père	他的，她的父亲（加阳性名词）
 ma famille habite en france	我一家人住在法国
 parle	说话
 ma mère et sa sœur	我母亲和她的姐妹
+université	大学
+professeur	老师
+la famille	一家人
+tu veux	（你想要）
+il veut	（他想要）
+elle veut	（她想要）
+nous voulons	（我们想要）
+vous voulez	（您/你们想要）
+ils veulent	（他们想要）
+elles veulent	（她们想要）
+l'avion	这个/那个飞机（阳性）
+l'orange	那个橙子（阴性）
+le chien d'anna	"Anna的狗"（注意，de在元音前要变成d')
+la musique	音乐
+tu prends	（你乘坐/拿）
+il prend	（他乘坐/拿）
+elle prend	（她乘坐/拿）
+nous prenons	（我们乘坐/拿）
+vous prenez	（您/你们乘坐/拿）
+ils prennent	（他们乘坐/拿）
+elles prennent	（她们乘坐/拿）。
+elle va au zoo	她去动物园
+je mange	我吃;（我吃）
+tu manges	你吃（s不发音）;（你吃）
+il mange	他吃;（他吃）
+elle mange	她吃;（她吃）
+nous mangeons	（我们吃）
+vous mangez	（您/你们吃）
+ils mangent	（他们吃）
+elles mangent	（她们吃）。
+je suis	我是
+tu es	你是
+il est	他是
+elle est	她是
+ma femme est journaliste	我妻子是记者
+la fille de paul	"Paul的女儿"
+le fils de paul	"Paul的儿子"
+je veux	（我想要）
+on veut	（它想要）
+boutique	商店
+j'étudie à bordeaux	我在波尔多学习
+étudiant	男大学生
+étudiante	女大学生
+le chat de marie	"Marie的猫"
+lire un livre	阅读一本书
+je prends	（我乘坐/拿）
+tu vas au restaurant	你去饭馆
+des chiens	这些狗
+les étudiants étudient	那些大学生学习
+ils travaillent en france	他们在法国工作
