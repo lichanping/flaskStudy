@@ -61,7 +61,7 @@ ont	（有）的第三人称复数形式
 ils ont des livres	（他们有一些书。“des”在法语中是不定冠词，用于复数名词前，表示“一些”。）
 étudiants	大学生们
 étudiantes	大学生们
-étudient	学习
+étudie	学习(直陈式现在时第三人称单数)
 habitent	（居住）的第三人称复数形式
 ils habitent à Paris	（他们住在巴黎。）
 professeurs	老师们
