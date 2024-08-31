@@ -1,3 +1,78 @@
+la valise	那个手提箱（是阴性名词）
+où est la gare	火车站在哪里？
+le billet d'avion	机票（“le”是定冠词，用于修饰阳性名词，“d'”是“de”的缩写形式,表示所属关系）
+où est le taxi	那辆出租车在哪里？
+bonsoir	晚上好
+tu vas à l'hotel	你去这家旅馆hôtel
+salut à demain	再见，明天见！
+trois personnes	三个人
+pour toi	给你的
+le serveur parle francais	服务员说法语
+le jus d'orange	橙汁（“jus”是阳性名词，意为“果汁”。）
+tu aimes les restaurants francais	你喜欢法国饭馆吗？（“aimes”（喜欢）的第二人称单数变位，“français”形容词，“法国的”）
+l'addition s'il vous plait	请给我账单
+tu prends un thé	你想要茶吗？（吃、喝、乘坐）
+petits	小，小的
+petit	小；小的；矮
+grands	大；高；大型的
+magasin	商店
+salade	沙拉
+bouteille	瓶子
+eau	水
+verre	杯子；玻璃杯
+vin	葡萄酒
+bière	啤酒
+tasse	杯子
+ville	城市
+vélo	自行车
+plante	植物
+vert	绿色；绿色的
+ouvert	营业；开着；开
+pharmacie	药店
+supermarché	超市
+petites	小；小的
+grande	大；大的；大型的；伟大的；优秀的
+aujourd'hui	今天
+fermé	关着
+cinq	五
+journalistes	记者
+ont	（有）的第三人称复数形式
+ils ont des livres	（他们有一些书。“des”在法语中是不定冠词，用于复数名词前，表示“一些”。）
+étudiantes	大学生们
+étudient	学习
+habitent	（居住）的第三人称复数形式
+ils habitent à Paris	（他们住在巴黎。）
+travaillent	（工作）的第三人称复数形式
+mangent	（吃）的第三人称复数形式
+ils mangent des fruits.	（他们吃水果。）
+trois	三；三只
+aimes	喜欢；爱的第二人称单数形式
+banque	银行
+école	学校
+musique	音乐
+habitons	（居住）的第一人称复数形式
+voulons	想要（第一人称复数形式）
+jardin	花园
+maison	房子
+chouette	猫头鹰
+animal de compagnie	宠物
+les étudiants	（这些学生）“les”在法语中是定冠词“the”，用于修饰复数名词。
+pour moi	给我的；为了我；对于我
+ce livre est pour moi	（这本书是给我的。）
+une table	一张桌子
+une personne	一个人
+les toilettes pour femmes	女卫生间，“les”是定冠词，修饰复数名词“toilettes”（卫生间）;“pourfemmes”意思是“为女性”
+une table pour deux personnes	一张双人桌
+où sont les toilettes	卫生间在哪里
+c'est pour moi	这是给我的吗？
+j'aime les restaurants francais	我喜欢法国饭馆
+la serveuse est américaine	服务员是美国人
+je voudrais un thé	我想要一杯茶
+un jus d'orange	一杯橙汁
+le serveur parle anglais	服务员说英语
+tu veux un thé	你想要茶吗？
+la serveuse est francaise	服务员是法国人
+une chanson chinoise	一首中国歌曲
 contente	高兴的；满意；很高兴
 ses	“他的/她的/它的（复数）”
 Ses livres sont intéressants	他/她/它的书很有趣。
