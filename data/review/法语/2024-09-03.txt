@@ -1,3 +1,13 @@
+elles aiment la musique	（她们喜欢音乐。）
+tes	你的（复数）
+mes livres sont intéressants	（我的书很有趣。）
+frères	兄弟们
+ont	（有）的第三人称复数形式
+étudiants	大学生们
+étudie	学习(直陈式现在时第三人称单数)
+habitent	（居住）的第三人称复数形式
+travaillent	（工作）的第三人称复数形式
+mangent	（吃）的第三人称复数形式
 nous sommes	（我们是）
 vous êtes	（您/你们是）
 boulangerie	面包房;面包店

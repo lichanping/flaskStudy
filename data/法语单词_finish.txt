@@ -428,3 +428,23 @@ ses	“他的/她的/它的（复数）”
 ses livres sont intéressants	他/她/它的书很有趣。
 ce sont	他们是；她们是
 aiment	喜欢（第三人称复数形式）
+tes livres	你的书
+mes	我的（复数）
+voitures	汽车
+chiens	“狗”的复数形式
+journalistes	记者
+ils ont des livres	（他们有一些书。“des”在法语中是不定冠词，用于复数名词前，表示“一些”。）
+étudiantes	大学生们
+ils habitent à Paris	（他们住在巴黎。）
+professeurs	老师们
+hommes	“男人”“男子”的复数形式
+elles aiment la musique	（她们喜欢音乐。）
+tes	你的（复数）
+mes livres sont intéressants	（我的书很有趣。）
+frères	兄弟们
+ont	（有）的第三人称复数形式
+étudiants	大学生们
+étudie	学习(直陈式现在时第三人称单数)
+habitent	（居住）的第三人称复数形式
+travaillent	（工作）的第三人称复数形式
+mangent	（吃）的第三人称复数形式
