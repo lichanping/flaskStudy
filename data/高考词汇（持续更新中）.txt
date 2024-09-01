@@ -2658,52 +2658,149 @@ hole	(n.)洞；孔；坑
 identical	"adj.相同的，同一的；n.完全相同的事物"
 smoke	(n.)烟，烟尘；v.抽（烟）
 primary	"adj.小学教育的；主要的，基本的"
-extreme	(adj.) 极端的
-navigation	(n.) 导航，领航
-port	(n.) 港，港口，口岸
-camera	(n.) 照相机，摄影机
+extreme	(adj.)极端的
+navigation	(n.)导航，领航
+port	(n.)港，港口，口岸
+camera	(n.)照相机，摄影机
 squeeze	"v.削减，紧缩（资金）；n.挤，塞"
-alike	(adv.) 相像地，相似地
-vet	(n.) 兽医；v.审查
-economy	(n.) 经济
+alike	(adv.)相像地，相似地
+vet	(n.)兽医；v.审查
+economy	(n.)经济
 display	"v.显示；陈列；展示；n.展览"
-theft	(n.) 偷盗，盗窃
-niece	(n.) 侄女，外甥女
-suitable	(adj.) 合适的，适宜的
-rabbit	(n.) 兔子，（野）兔
-renew	(v.) 更新
-sharpener	(n.) 磨具，卷笔刀，磨刀石
-hunt	(n.) 打猎
-pupil	(n.) 小学生
-approve	(v.) 批准，称许
-precise	(adj.) 精确的；恰好的
-gift	(n.) 礼物，赠品
-cruel	(adj.) 残忍的，残酷的
-calf	(n.) 小牛，牛犊
-teammate	(n.) 队友
+theft	(n.)偷盗，盗窃
+niece	(n.)侄女，外甥女
+suitable	(adj.)合适的，适宜的
+rabbit	(n.)兔子，（野）兔
+renew	(v.)更新
+sharpener	(n.)磨具，卷笔刀，磨刀石
+hunt	(n.)打猎
+pupil	(n.)小学生
+approve	(v.)批准，称许
+precise	(adj.)精确的；恰好的
+gift	(n.)礼物，赠品
+cruel	(adj.)残忍的，残酷的
+calf	(n.)小牛，牛犊
+teammate	(n.)队友
 wrestle	"v.摔跤，角斗；努力斗争；n.摔跤，角力，扭斗"
-despite	(prep.) 尽管，不顾
-invitation	(n.) 邀请
-cruelty	(n.) 残忍
-ivory	(n.) 象牙
+despite	(prep.)尽管，不顾
+invitation	(n.)邀请
+cruelty	(n.)残忍
+ivory	(n.)象牙
 upright	"adv.直立地；adj.直立的，挺直的"
-championship	(n.) 冠军称号
-punish	(v.) 惩罚，处罚
+championship	(n.)冠军称号
+punish	(v.)惩罚，处罚
 neighbor	"n.邻居，邻人（=neighbour）"
-classroom	(n.) 教室，课堂
-cafeteria	(n.) 自助餐厅
-carriage	(n.) 四轮马车
-prescription	(n.) 处方，药方
-enter	(v.) 进入；报名参加
-lifelong	(adj.) 终身的
+classroom	(n.)教室，课堂
+cafeteria	(n.)自助餐厅
+carriage	(n.)四轮马车
+prescription	(n.)处方，药方
+enter	(v.)进入；报名参加
+lifelong	(adj.)终身的
 carrier	"n.运输公司；航空公司；电话公司，互联网公司，通…"
-theoretical	(adj.) 理论（上）的
-market	(n.) 市场；v.推销，促销
-circulate	(v.) （使）传播，流传
-grill	(v.) 烤；拷问
-routine	(n.) 惯例，习惯
-pulse	"n.脉搏；（电子）脉冲；(vi.) （使）跳动，搏动，…"
-park	(n.) 公园；v.停车
-August	(n.) 八月
-endanger	(vt.) 危及，危害
-humor	(n.) 幽默，诙谐
+theoretical	(adj.)理论（上）的
+market	(n.)市场；v.推销，促销
+circulate	(v.)（使）传播，流传
+grill	(v.)烤；拷问
+routine	(n.)惯例，习惯
+pulse	"n.脉搏；（电子）脉冲；(vi.)（使）跳动，搏动，…"
+park	(n.)公园；v.停车
+August	(n.)八月
+endanger	(vt.)危及，危害
+humor	(n.)幽默，诙谐
+peaceful	"adj.平静的，安宁的；和平的"
+well-balanced	"adj.均衡的；神智健全的，头脑清醒的"
+quake	(v.)震动；颤抖
+manage	(v.)设法完成，管理
+eastern	"adj.东方的，东部的，朝东的"
+update	"n.最新消息（读作/ˈΛpˌdeɪt/）；vt.更新"
+ox	(n.)公牛
+suffer	(v.)遭受（痛苦）
+rainfall	(n.)降雨
+European	(adj.)欧洲的
+withdraw	(v.)(使)退出(活动、组织等)
+stone	(n.)石头
+country	"n.国家；（按地理特点划分的）地区；区域"
+competence	(n.)能力
+normal	"adj.正常的，一般的；n.常态"
+used	(adj.)旧的
+vitamin	(n.)维生素
+zoo	(n.)动物园
+wish	"v.希望，想要；n.愿望，心愿；祝愿"
+steak	(n.)牛排
+user	(n.)用户，使用者
+applicant	(n.)申请人
+sex	(n.)性
+competitor	(n.)竞争对手
+wooden	(adj.)木制的，木质的
+band	(n.)乐队；环
+teamwork	(n.)团队合作，协力
+southwest	(n.)西南方；adj.西南方的
+base	"v.以……作基础；n.基地，大本营；基础成分"
+behalf	(n.)代表（某人），因为某人
+breast	(n.)乳房
+protective	(adj.)防护的，保护的
+mankind	(n.)人类
+reward	"n.回报；报酬；vt.奖励，奖赏"
+compensate	(v.)弥补
+briefly	(adv.)简要地；短暂地
+limited	(adj.)有限的；被限制的
+meal	(n.)一餐，一顿饭
+historical	"adj.历史的，有关历史的；历史题材（为基础）的"
+hungry	(adj.)饥饿的
+spray	(n.)喷雾；v.喷
+salesman	(n.)男推销员，男售货员
+international	(adj.)国际的，世界的
+injure	(v.)伤害，使受伤
+passion	(n.)强烈的情感，激情
+hush	(vi.)安静下来；vt.使安静
+die	(v.)死亡；消亡
+manufacture	(v.)（批量）生产，制造
+companion	(n.)同伴
+washroom	(n.)盥洗室，厕所
+record	"v.记录（读作/rɪˈkɔrd/）；录制；n.记录；最好成绩"
+cook	(v.)烹饪；煮，烧；n.厨师
+pocket	(n.)口袋，兜，衣袋
+phrase	(n.)短语，词组
+worn-out	(adj.)磨破的；穿旧的
+yogurt	"n.（=yoghurt）酸奶，酵母乳"
+cooperation	(n.)合作
+leadership	(n.)领导，领导地位
+salty	(adj.)含盐的，咸的，咸味的
+campus	(n.)校园
+dampness	(n.)湿度
+revolve	"vi.（使）旋转；转动；围绕，环绕"
+explanation	(n.)解释，说明
+slippery	(adj.)滑的；易滑脱的
+uniform	"n.校服；制服，军服；adj.相同的，统一的"
+scientific	(adj.)科学的
+rewind	(v.)倒回（磁带等），倒带
+replace	(v.)代替，接替；更换，替换
+bishop	(n.)主教
+ice	(n.)冰块
+sour	(adj.)酸的
+joke	(n.)笑话
+always	(adv.)总是
+standard	"adj.标准的；n.标准，规格"
+photographer	(n.)摄影师
+parking	(n.)停车；停车位
+keyboard	(n.)键盘
+classify	(vt.)把……分类
+bell	(n.)铃，钟，门铃
+mailbox	(n.)邮箱
+river	(n.)河，江
+tug	"v.用力拖（或拉）；n.猛拉；牵引"
+ballet	(n.)芭蕾舞，芭蕾舞剧
+kite	(n.)风筝
+rot	(v.)（使）腐烂
+avoid	(v.)避免，防止
+physician	(n.)内科医生
+nowadays	(adv.)现在，当今
+unfortunate	(adj.)不幸的
+nice	"adj.好看的，美好的；漂亮的；令人愉快的；好心的"
+kick	(v.)踢
+blue	(adj.)蓝色的
+income	(n.)收入，收益
+mainly	(adv.)主要地
+unite	(v.)团结，联合
+balcony	(n.)阳台
+affection	(n.)喜爱，爱慕
