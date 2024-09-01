@@ -18,7 +18,7 @@ professeurs	老师们
 hommes	“男人”“男子”的复数形式
 travaillent	（工作）的第三人称复数形式
 mangent	（吃）的第三人称复数形式
-ils mangent des fruits.	（他们吃水果。）
+ils mangent des fruits	（他们吃水果。）
 trois	三；三只
 cinéma	电影院
 aimes	喜欢；爱的第二人称单数形式
@@ -97,3 +97,11 @@ aujourd'hui	今天
 fermé	关着
 cinq	五
 quatre	四；四个
+un homme mange un chocolat	一个男人吃一块巧克力
+le mari de julia	"Julia的丈夫"
+le frère de louis	"Louis的兄弟"
+tu es un cheval	你是一匹马吗？
+un bon café	一杯好咖啡
+je suis dans le jardin	我在花园里
+ta sœur parle francais你的姐妹说法语
+mon père et ma mère我的父亲和我的母亲

@@ -316,7 +316,7 @@ habitent	（居住）的第三人称复数形式
 ils habitent à Paris	（他们住在巴黎。）
 travaillent	（工作）的第三人称复数形式
 mangent	（吃）的第三人称复数形式
-ils mangent des fruits.	（他们吃水果。）
+ils mangent des fruits	（他们吃水果。）
 trois	三；三只
 aimes	喜欢；爱的第二人称单数形式
 banque	银行
