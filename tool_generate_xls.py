@@ -58,9 +58,14 @@ class FrenchTTSProcessor:
                 communicate = edge_tts.Communicate(text, name)
                 await communicate.save(output_file)
             else:
+                excluded_voices = [
+                    'Microsoft Server Speech Text to Speech Voice (fr-FR, EloiseNeural)',
+                ]
                 # Choose voice from the voice library
-                voice = voices.find(Language="fr", Locale="fr-FR")  # For French voices
-                selected_voice = random.choice(voice)["Name"]
+                all_voices = voices.find(Language="fr", Locale="fr-FR")  # For French voices
+                # Filter out the excluded voices
+                available_voices = [voice for voice in all_voices if voice["Name"] not in excluded_voices]
+                selected_voice = random.choice(available_voices)["Name"]
                 print(f"Processing text: '{text}' with voice: '{selected_voice}'")
                 # Use Edge TTS API to convert text to speech and save as MP3 file
                 communicate = edge_tts.Communicate(text, selected_voice, rate="-32%")
