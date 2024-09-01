@@ -1,6 +1,6 @@
 contente	高兴的；满意；很高兴
 ses	“他的/她的/它的（复数）”
-Ses livres sont intéressants	他/她/它的书很有趣。
+ses livres sont intéressants	他/她/它的书很有趣。
 ce sont	他们是；她们是
 aiment	喜欢（第三人称复数形式）
 elles aiment la musique	（她们喜欢音乐。）
