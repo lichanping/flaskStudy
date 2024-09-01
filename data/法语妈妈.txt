@@ -26,3 +26,13 @@ la maison est grande	房子很大
 les universités américaines	美国大学（复数）
 les vélos	自行车（复数）
 la station de métro	地铁站
+où est l'hôpital	医院在哪里？
+le restaurant est ouvert	饭馆营业中
+duo est vert	朵儿是绿色的
+une école verte	一个绿色的学校
+j'ai un vélo	我有一辆自行车
+la pharmacie	药店
+une plante	一株植物
+une ville française	一个法国城市
+le supermarché est ouvert	超市营业中
+j'aime les plantes	我喜欢植物
