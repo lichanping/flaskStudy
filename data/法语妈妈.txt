@@ -36,3 +36,15 @@ une plante	一株植物
 une ville française	一个法国城市
 le supermarché est ouvert	超市营业中
 j'aime les plantes	我喜欢植物
+visitons	去玩；参观（第一人称复数命令式形式)意思是“让我们参观”。
+voyages	“旅行”(复数形式)例如：J'aimelesvoyages.（我喜欢旅行。）
+vacances	假期;度假
+vont	（去）的第三人称复数形式。例如：Ilsvontàl'école.（他们去学校。）
+voyage	旅行
+visite	去玩；“参观；访问；（动词/名词）
+pays	“国家；乡村”
+voyageons	旅行、航行(第一人称复数的现在时变位形式)例如“nousvoyageons”（我们旅行）
+voyagent	旅行（第三人称复数的现在时变位形式）
+plage	沙滩
+visites	去玩(第二人称单数的现在时变位形式)
+musée	博物馆
