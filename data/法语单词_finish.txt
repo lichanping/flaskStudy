@@ -448,3 +448,33 @@ ont	（有）的第三人称复数形式
 habitent	（居住）的第三人称复数形式
 travaillent	（工作）的第三人称复数形式
 mangent	（吃）的第三人称复数形式
+ils mangent des fruits	（他们吃水果。）
+cinéma	电影院
+musique	音乐
+appartement	公寓
+les étudiants	（这些学生）“les”在法语中是定冠词“the”，用于修饰复数名词。
+une table	一张桌子
+une personne	一个人
+une table pour deux personnes	一张双人桌
+c'est pour moi	这是给我的吗？
+les toilettes pour hommes	男卫生间
+j'aime les restaurants francais	我喜欢法国饭馆
+trois	三；三只
+aimes	喜欢；爱的第二人称单数形式
+métro	地铁
+banque	银行
+école	学校
+habitons	（居住）的第一人称复数形式
+voulons	想要（第一人称复数形式）
+jardin	花园
+maison	房子
+chouette	猫头鹰
+animal de compagnie	宠物
+pour moi	给我的；为了我；对于我
+ce livre est pour moi	（这本书是给我的。）
+les toilettes pour femmes	女卫生间，“les”是定冠词，修饰复数名词“toilettes”（卫生间）;“pourfemmes”意思是“为女性”
+où sont les toilettes	卫生间在哪里
+la serveuse est américaine	服务员是美国人
+je voudrais un thé	我想要一杯茶
+deux cafés	两杯咖啡
+un jus d'orange	一杯橙汁
