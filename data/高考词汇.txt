@@ -543,3 +543,52 @@ unite	(v.)团结，联合
 balcony	(n.)阳台
 affection	(n.)喜爱，爱慕
 fill	(v.) 装满；占满
+trouble	"n.问题，麻烦；疾病；困境；v.（使）烦恼，麻烦"
+acquisition	"n.获得；掌握；获得物；取得物"
+differently	(adv.) 不同地
+several	(det.) 几个，一些
+odd	"adj.奇怪的；古怪的；奇数的"
+gym	(n.) 体育馆，健身房
+pasta	(n.) 意大利面食
+unnecessary	"adj.不必要的，不需要的，多余的"
+jewelry	(n.) 珠宝
+introduce	"vt.介绍；传入，引进；采用；v.使初次了解；使…"
+ambition	(n.) 雄心，野心
+coal	(n.) 煤
+import	(v.) 进口；n.含义，意义
+thread	(n.) 线
+promote	"v.促进；宣传；提升，升级；推动"
+automatic	(adj.) 自动的
+thunderstorm	(n.) 雷暴雨，雷雨
+device	(n.) 装置，设备
+solve	(v.) 解决
+dependent	(adj.) 依赖的
+stranger	(n.) 陌生人
+violent	"adj.暴力的，粗暴的；强烈的，猛烈的"
+lovely	(adj.) 美丽的，可爱的
+terminal	(n.) 终点，终端
+attention	"n.专心，注意力；兴趣，关注"
+fortune	(n.) 运气；大笔的钱，巨款
+pond	(n.) 池塘
+via	(prep.) 经过，通过
+opportunity	(n.) 机会，良机
+cartoon	(n.) 卡通（片），动画片
+lap	"n.（坐下时的）大腿部；（跑道的）一圈"
+lonely	(adj.) 孤独的
+spaghetti	(n.) 意大利细面条
+bad	"adj.糟糕的；严重的，厉害的；坏的，恶的，错的；…"
+ripe	"adj.熟的，成熟的；时机成熟的"
+cutting	(n.) 剪报
+hopeless	(adj.) 绝望的
+production	"n.生产；（戏剧、电影等的）制作；产量"
+concise	"adj.简洁的，简要的；简明的，简略的"
+penniless	(adj.) 身无分文的，贫穷的
+background	"n.出身，经历；（图片、布景等的）背景；（事件的…"
+marathon	(n.) 马拉松赛跑
+mild	(adj.) 温和的；轻微的
+advise	(v.) 建议
+unpaid	(adj.) 无报酬的
+full	"adj.满的，充满的；全部的；吃饱了的"
+soap	(n.) 肥皂
+breath	(n.) 呼吸
+servant	(n.) 佣人，仆人
