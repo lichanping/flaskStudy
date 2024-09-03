@@ -1,3 +1,15 @@
+le serveur parle anglais	服务员说英语
+la serveuse est francaise	服务员是法国人
+une chanson chinoise	一首中国歌曲
+merci beaucoup	非常感谢
+et toi	你呢？
+bonsoir	晚上好
+bonne journée	祝你一天愉快
+salut à demain	再见，明天见！
+pour toi	给你的
+l'addition s'il vous plait	请给我账单
+petits	小，小的
+petit	小；小的；矮
 la femme	这个女人（la用于阴性名词）
 je vais	我去
 j'ai	我有（当动词以原音开头，je要改成j')
