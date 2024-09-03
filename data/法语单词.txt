@@ -1,28 +1,3 @@
-le serveur parle anglais	服务员说英语
-tu veux un thé	你想要茶吗？
-la serveuse est francaise	服务员是法国人
-une chanson chinoise	一首中国歌曲
-oui elle est coréenne	是的，她是韩国人
-merci beaucoup	非常感谢
-la valise	那个手提箱（是阴性名词）
-où est la gare	火车站在哪里？
-le billet d'avion	机票（“le”是定冠词，用于修饰阳性名词，“d'”是“de”的缩写形式,表示所属关系）
-où est le taxi	那辆出租车在哪里？
-et toi	你呢？
-bonsoir	晚上好
-tu vas à l'hotel	你去这家旅馆hôtel
-le train	那列火车
-bonne journée	祝你一天愉快
-salut à demain	再见，明天见！
-trois personnes	三个人
-pour toi	给你的
-le serveur parle francais	服务员说法语
-le jus d'orange	橙汁（“jus”是阳性名词，意为“果汁”。）
-tu aimes les restaurants francais	你喜欢法国饭馆吗？（“aimes”（喜欢）的第二人称单数变位，“français”形容词，“法国的”）
-l'addition s'il vous plait	请给我账单
-tu prends un thé	你想要茶吗？（吃、喝、乘坐）
-petits	小，小的
-petit	小；小的；矮
 grands	大；高；大型的
 magasin	商店
 salade	沙拉
