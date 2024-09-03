@@ -96,3 +96,7 @@ voyagent	旅行（第三人称复数的现在时变位形式）
 plage	沙滩
 visites	去玩(第二人称单数的现在时变位形式)
 musée	博物馆
+veulent	“想要”“愿意”“希望”(第三人称复数形式)“theywant”（他们想要）
+château	城堡(阳性名词)
+église	教堂(阴性名词)
+aux-	是“à”+“les”的缩合形式。例如：Jevaisauxéglises.（我去那些教堂。）
