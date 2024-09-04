@@ -1,0 +1,19 @@
+Bonjour, monsieur.	先生，您好。
+Vous vous appelez...?	您的姓名是什么。。？
+Doucet. Yves Doucet.    杜塞特。伊夫·杜塞特.
+Et voici ma femme, Alice.  	还有这是我的妻子Alice
+Bonjour, madame.	您好，女士
+Bonjour. Je suis Alice Doucet.   早上好。我是爱丽丝·杜塞特。
+Vous êtes madame Falco？	您是法尔科夫人吗？
+Bonjour. Oui, je m'appelle Nicole Falco.    你好。是的，我叫妮可·法尔科。
+Aldo, mon mari.     奥尔多，我的丈夫。
+Arnaud? 阿诺德？
+Non, Aldo.  不，奥尔多。 Il s'appelle Aldo	他的名字叫奥尔多
+Qui est-ce? 	你是谁？
+C'est Aldo. Aldo Falco.   是奥尔多。奥尔多·法尔科。
+Aldo? Il est italien?	奥尔多？他是意大利人吗？
+Oui, et elle, c'est Nicole. 	是的，她就是 妮可。
+Elle est française.   她是法国人.
+Tu t'appelles Giacomo!	    你的名字是贾科莫吗!
+Tu es italien?	    你是意大利人吗？
+Oui, oui. Ju suis italien.	  是的。我是意大利人。
