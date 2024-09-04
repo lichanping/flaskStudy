@@ -17,7 +17,7 @@ aime	喜欢
 deux	二
 ton chien	你的狗
 chien	狗
-et	和
+et	和，而，且conj
 café	咖啡
 ou	还是
 thé	茶
@@ -456,3 +456,22 @@ tu voyages avec ton père	你和你的父亲一起旅行吗？
 ils aiment les vacances	他们喜欢假期
 nous visitons le brésil	我们去巴西玩
 nous visitons berlin	我们去柏林玩
+appeler	名叫
+bienvenue	欢迎n.f.
+bonjour	您好，早上好n.m
+ce	这pron.dém
+un club	俱乐部，会，社n.m
+être	是v.i
+italien	意大利的；n.意大利人；n.m.意大利语
+italienne	意大利的；n.意大利人；n.m.意大利语(阴性）
+la baule	拉波尔（法国西部海滨城市）
+madame	夫人n.f
+madames	夫人们n.f
+maman	妈妈（儿语，对母亲的爱称）n.f
+monsieur	先生n.m
+nationalité	国籍n.f.
+nom	姓氏n.m.
+non	不adv
+prénom	名字n.m.[prenɔ̃]
+qui	谁pron.interr.
+voici	这是，这儿是，这就是prep
