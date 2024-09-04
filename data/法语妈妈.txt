@@ -17,6 +17,18 @@ non	不adv
 prénom	名字n.m.[prenɔ̃]
 qui	谁pron.interr.
 voici	这是，这儿是，这就是prep
+bonjour monsieur	先生，您好。
+vous vous appelez	您的姓名。。？
+et voici ma femme alice	还有这是我的妻子Alice
+bonjour madame	您好，女士
+vous êtes madame falco	您是法尔科夫人吗？
+il s'appelle aldo	他的名字叫奥尔多
+qui est-ce	你是谁？
+il est italien	他是意大利人
+oui et elle c'est nicole	是的，她是妮可
+tu t'appelles giacomo	你的名字是贾科莫
+tu es italien	你是意大利人
+ju suis italien	我是意大利人
 un homme mange un chocolat	一个男人吃一块巧克力
 le mari de julia	"Julia的丈夫"
 le frère de louis	"Louis的兄弟"
