@@ -503,3 +503,28 @@ pour toi	给你的
 l'addition s'il vous plait	请给我账单
 petits	小，小的
 petit	小；小的；矮
+salade	沙拉
+plante	植物
+supermarché	超市
+grandes	大；高；大的
+grande	大；大的；大型的；伟大的；优秀的
+un homme mange un chocolat	一个男人吃一块巧克力
+grands	大；高；大型的
+magasin	商店
+bouteille	瓶子
+eau	水
+verre	杯子；玻璃杯
+vin	葡萄酒
+bière	啤酒
+tasse	杯子
+ville	城市
+vélo	自行车
+vert	绿色；绿色的
+ouvert	营业；开着；开
+pharmacie	药店
+petites	小；小的
+petite	小；小的；矮
+aujourd'hui	今天
+fermé	关着
+cinq	五
+quatre	四；四个

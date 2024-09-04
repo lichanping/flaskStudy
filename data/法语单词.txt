@@ -1,28 +1,3 @@
-grands	大；高；大型的
-magasin	商店
-salade	沙拉
-bouteille	瓶子
-eau	水
-verre	杯子；玻璃杯
-vin	葡萄酒
-bière	啤酒
-tasse	杯子
-ville	城市
-vélo	自行车
-plante	植物
-vert	绿色；绿色的
-ouvert	营业；开着；开
-pharmacie	药店
-supermarché	超市
-petites	小；小的
-petite	小；小的；矮
-grandes	大；高；大的
-grande	大；大的；大型的；伟大的；优秀的
-aujourd'hui	今天
-fermé	关着
-cinq	五
-quatre	四；四个
-un homme mange un chocolat	一个男人吃一块巧克力
 le mari de julia	"Julia的丈夫"
 le frère de louis	"Louis的兄弟"
 tu es un cheval	你是一匹马吗？

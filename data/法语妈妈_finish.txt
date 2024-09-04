@@ -388,3 +388,4 @@ grande	大；大的；大型的；伟大的；优秀的
 aujourd'hui	今天
 fermé	关着
 cinq	五
+quatre	四；四个
