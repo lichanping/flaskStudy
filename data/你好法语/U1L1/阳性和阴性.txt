@@ -1,0 +1,9 @@
+法语的名词有阳性和阴性之分，分别用n.m. 和 n.f来表示。
+表示人或动物的名词依其天然性别区分阴阳属性；其他名词的阴阳性则是约定俗成的。
+用来替代名词的代词和用来修饰、限定名词的形容词和冠词也有阴阳性的变化，要和相关联的名词保持一致。
+C'est un journal. 这是一份报纸(journal n.m.)
+C'est une revue. 这是一本杂志。(revue n.f)
+Il s'appelle Yves. 他叫伊夫。
+Elle s'appelle Alice. 她叫爱丽丝。
+Yves est français. 伊夫是法国人。
+Alice est française. 爱丽丝是法国人。
