@@ -1,0 +1,9 @@
+qui用来就人进行提问，意思是“谁”,例如： 
+-Qui est-ce? 这是谁?
+-C'est Nicole. 这是尼可。
+- Qui êtes-vous ? 您是谁?
+-Je suis Alice Doucet. 我是爱丽丝 ·杜赛。
+
+问“这是谁?”(Qui est-ce ?),动词être 永远用单数第三人称的变位形式，即使回答里包含了好几个人。如：
+-Qui est-ce? 这是谁?
+-Ce sont Aldo et Giacomo.  这是阿尔多和贾科莫。
