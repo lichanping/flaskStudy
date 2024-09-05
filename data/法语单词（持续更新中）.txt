@@ -487,3 +487,4 @@ oui et elle c'est nicole	是的，她是妮可
 tu t'appelles giacomo	你的名字是贾科莫
 tu es italien	你是意大利人
 ju suis italien	我是意大利人
+une chaise	一把椅子
