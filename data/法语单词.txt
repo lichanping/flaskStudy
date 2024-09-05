@@ -97,3 +97,4 @@ tu voyages avec ton père	你和你的父亲一起旅行吗？
 ils aiment les vacances	他们喜欢假期
 nous visitons le brésil	我们去巴西玩
 nous visitons berlin	我们去柏林玩
+une chaise	一把椅子
