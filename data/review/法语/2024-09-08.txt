@@ -1,3 +1,13 @@
+appeler	名叫
+bienvenue	欢迎n.f.
+italien	意大利的；n.意大利人；n.m.意大利语
+la baule	拉波尔（法国西部海滨城市）
+maman	妈妈（儿语，对母亲的爱称）n.f
+nationalité	国籍n.f.
+nom	姓氏n.m.
+qui	谁pron.interr.
+et voici ma femme alice	还有这是我的妻子Alice
+qui est-ce	你是谁？
 le serveur parle anglais	服务员说英语
 la serveuse est francaise	服务员是法国人
 une chanson chinoise	一首中国歌曲
