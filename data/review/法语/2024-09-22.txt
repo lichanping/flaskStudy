@@ -1,3 +1,13 @@
+appeler	名叫
+bienvenue	欢迎n.f.
+italien	意大利的；n.意大利人；n.m.意大利语
+la baule	拉波尔（法国西部海滨城市）
+maman	妈妈（儿语，对母亲的爱称）n.f
+nationalité	国籍n.f.
+nom	姓氏n.m.
+qui	谁pron.interr.
+et voici ma femme alice	还有这是我的妻子Alice
+qui est-ce	你是谁？
 elles aiment la musique	（她们喜欢音乐。）
 tes	你的（复数）
 mes livres sont intéressants	（我的书很有趣。）
