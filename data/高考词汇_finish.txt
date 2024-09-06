@@ -2261,3 +2261,23 @@ bind	(v.) 捆绑；装订；约束；结合
 interviewee	(n.) 被接见者，被访问者
 shrink	(v.) 缩小
 receiver	"n.听筒；接管人；收音机；接待者"
+sofa	(n.) （长）沙发
+slide	"v.使滑动；滑落；n.幻灯片"
+near	(prep.) 靠近；adj.近的
+direct	"adj.直接的；v.指导，引导；导演"
+Spanish	"n.西班牙语；adj.西班牙的"
+revolutionary	(adj.) 革命性的
+valid	(adj.) 有效的，正式认可的
+cupboard	(n.) 碗橱，衣柜
+carnival	(n.) 狂欢节
+mile	(n.) 英里
+invaluable	"adj.非常宝贵的，极为有用的"
+reliable	(adj.) 可靠的，可信赖的
+steam	(n.) 蒸汽，水蒸气
+wool	(n.) （羊等动物的）毛
+appeal	(v.) 有吸引力；n.吸引力
+brake	(vi.) 刹车；n.刹车，闸
+disturb	(v.) 打扰
+gain	"v.获得；增加；赢得；n.好处"
+exit	(n.) 出口；v.离开，出去
+brunch	(n.) 早午餐
