@@ -67,3 +67,19 @@ ils aiment les vacances	他们喜欢假期
 nous visitons le brésil	我们去巴西玩
 nous visitons berlin	我们去柏林玩
 une chaise	一把椅子
+à	在；向，到；给……prép.
+ah	啊!唉!interj.
+assistant	助理，助手，副手
+assistante	助理，助手，副手n.
+belge	比利时的adj.;比利时人n.Belge（首字母大写）
+chinois	中国的adj.；中国人n.（首字母大写）
+chinoise	中国的adj.中国人n.（首字母大写）
+cours	课，课程n.m.
+dans	在……里；处于….prép
+directeur	经理n.阳性形式
+directrice	经理n.阴性形式
+en	在……(指地点)prép.
+espagnole	西班牙的adj.；西班牙人(首字母大写）n.
+français	法语n.m.
+france	法国(首字母大写）n.f
+genève	日内瓦(瑞士)(首字母大写）
