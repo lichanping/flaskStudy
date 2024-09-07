@@ -1,3 +1,17 @@
+le mari de julia	"Julia的丈夫"
+le frère de louis	"Louis的兄弟"
+tu es un cheval	你是一匹马吗？
+un bon café	一杯好咖啡
+je suis dans le jardin	我在花园里
+le chat est dans la voiture	猫在汽车里
+ma famille habite dans une maison	我一家人住在一幢房子里
+mon mari veut une voiture	我的丈夫想要一辆汽车
+où habite ta grandmère	你祖母住在哪里？
+ma maison	我的房子
+les magasins sont grands	商店很大
+les tables sont petites	桌子很小（复数）
+la maison est grande	房子很大
+les universités américaines	美国大学（复数）
 appeler	名叫
 bienvenue	欢迎n.f.
 italien	意大利的；n.意大利人；n.m.意大利语
