@@ -1,33 +1,3 @@
-clarify	(v.)阐明，澄清
-aboard	(prep.)上（交通工具）
-mature	(adj.)成熟的；v.成熟
-air	(n.)空气；天空，空中
-gone	"v.走，去（go的过去分词）"
-approval	(n.)认可
-canteen	(n.)食堂
-personnel	(n.)员工，人员
-county	(n.)<英>郡，<美>县
-popcorn	(n.)爆米花
-common	(adj.)普通的；共同的
-botanical	(adj.)植物（学）的
-blow	(v.)吹，吹动，吹气
-generate	"v.产生（热、电等能量）；引起，造成，创造"
-sunburnt	(adj.)晒黑的，晒伤的
-interdependence	(n.)互相依赖
-insurance	(n.)保险
-advancement	(n.)前进，促进，进展
-introduction	(n.)介绍；引言
-virtue	(n.)美德，高尚的道德
-cheap	(adj.)便宜的
-engineer	(n.)工程师；vt.设计
-tiresome	(adj.)烦人的，讨厌的
-typical	(adj.) 典型的，有代表性的
-suitcase	(n.) 小提箱，手提箱
-contradict	"v.与……发生矛盾，与……抵触，与……对立"
-thief	(n.) 小偷；窃贼
-solution	(n.) 解决办法
-agenda	(n.) 议程，议程表
-useless	"adj.无用的，无价值的，无效的"
 winner	(n.) 获胜者，得奖者
 trigger	"vt.触发，引起，激发；n.诱因"
 combat	"n.战斗，格斗；v.与……战斗，与……斗争（读…"
