@@ -105,7 +105,7 @@ triumph	（n.喜悦，狂喜；胜利，凯旋；vi.成功，获胜"
 victory	（n.)胜利；成功；克服
 hip	（n.臀部
 ass	（n.驴；笨蛋；臀部；adv.（常用作后置）用于贬损…"
-soil	（n.泥土，土壤；国土，领土；vt.弄脏；污损"
+soil	（n.)泥土，土壤；国土，领土；vt.弄脏；污损"
 work	（v.工作，劳动；起作用，有效果，奏效；运转，运行…"
 undertake	（v.承担，承包
 ingredient	（n.成分，构成要素；（烹调的）原料"
@@ -119,7 +119,7 @@ examination	(n.)考试；检查；审查，调查
 collapse	（n.崩溃；v.崩溃
 crash	（n.撞车；碰撞；坠毁；崩溃；轰隆声；v.碰撞；猛撞
 loss	（n.失去；损失；减少，降低；遗失"
-scan	（v.细看；浏览；扫描；详细调查；押韵"; n.扫描
+scan	（v.）细看；浏览；扫描；详细调查；押韵";n.扫描
 chief	（adj.首席的，最高级别的；主要的；n.首领，酋长"
 capital	（n.资金，资本；首都；大写字母；省会；【财】资本…"
 secondary	（adj.第二的；次要的；(疾病、感染等)继发性的；中学的
@@ -128,7 +128,7 @@ doubt	（n.)怀疑；疑虑；v.怀疑；不确定"
 due	（adj.由于，因为；预期的；到期的"
 owed	（adj.亏欠的；负债的；感恩的"
 diagram	（n.图表
-chart	（n.图表，表格；航海图；每周排行榜；vt.制成图表…"
+chart	（n.)航海图；每周排行榜；vt.制成图表…";"v.记录，跟踪（变化或进展）；n.图表，表格"
 friendly	（adj.友好的
 evidence	（n.证据，证明
 transmission	（n.传输，发射
@@ -285,7 +285,7 @@ wise	(adj.)有智慧的，博学的
 bright	(adj.)明亮的；聪明的；欢快的；adv.光亮地；明亮地"
 clever	(adj.)聪明的；机智的，熟练的;(adj.)聪明的
 intelligent	(adj.)有智慧的，聪明的；智能的
-smart	(adj.)时髦的，衣着讲究的；聪明的；敏捷的；巧妙的…
+smart	(adj.)时髦的，衣着讲究的；聪明的；智能的；敏捷的；巧妙的
 foolish	(adj.)愚蠢的；傻乎乎的
 distinct	(adj.)独特的
 want	(v.)想要；n.短缺，需要的东西
@@ -2807,50 +2807,144 @@ affection	(n.)喜爱，爱慕
 fill	(v.)装满；占满
 trouble	"n.问题，麻烦；疾病；困境；v.（使）烦恼，麻烦"
 acquisition	"n.获得；掌握；获得物；取得物"
-differently	(adv.) 不同地
-several	(det.) 几个，一些
+differently	(adv.)不同地
+several	(det.)几个，一些
 odd	"adj.奇怪的；古怪的；奇数的"
-gym	(n.) 体育馆，健身房
-pasta	(n.) 意大利面食
+gym	(n.)体育馆，健身房
+pasta	(n.)意大利面食
 unnecessary	"adj.不必要的，不需要的，多余的"
-jewelry	(n.) 珠宝
+jewelry	(n.)珠宝
 introduce	"vt.介绍；传入，引进；采用；v.使初次了解；使…"
-ambition	(n.) 雄心，野心
-coal	(n.) 煤
-import	(v.) 进口；n.含义，意义
-thread	(n.) 线
+ambition	(n.)雄心，野心
+coal	(n.)煤
+import	(v.)进口；n.含义，意义
+thread	(n.)线
 promote	"v.促进；宣传；提升，升级；推动"
-automatic	(adj.) 自动的
-thunderstorm	(n.) 雷暴雨，雷雨
-device	(n.) 装置，设备
-solve	(v.) 解决
-dependent	(adj.) 依赖的
-stranger	(n.) 陌生人
+automatic	(adj.)自动的
+thunderstorm	(n.)雷暴雨，雷雨
+device	(n.)装置，设备
+solve	(v.)解决
+dependent	(adj.)依赖的
+stranger	(n.)陌生人
 violent	"adj.暴力的，粗暴的；强烈的，猛烈的"
-lovely	(adj.) 美丽的，可爱的
-terminal	(n.) 终点，终端
+lovely	(adj.)美丽的，可爱的
+terminal	(n.)终点，终端
 attention	"n.专心，注意力；兴趣，关注"
-fortune	(n.) 运气；大笔的钱，巨款
-pond	(n.) 池塘
-via	(prep.) 经过，通过
-opportunity	(n.) 机会，良机
-cartoon	(n.) 卡通（片），动画片
+fortune	(n.)运气；大笔的钱，巨款
+pond	(n.)池塘
+via	(prep.)经过，通过
+opportunity	(n.)机会，良机
+cartoon	(n.)卡通（片），动画片
 lap	"n.（坐下时的）大腿部；（跑道的）一圈"
-lonely	(adj.) 孤独的
-spaghetti	(n.) 意大利细面条
+lonely	(adj.)孤独的
+spaghetti	(n.)意大利细面条
 bad	"adj.糟糕的；严重的，厉害的；坏的，恶的，错的；…"
 ripe	"adj.熟的，成熟的；时机成熟的"
-cutting	(n.) 剪报
-hopeless	(adj.) 绝望的
+cutting	(n.)剪报
+hopeless	(adj.)绝望的
 production	"n.生产；（戏剧、电影等的）制作；产量"
 concise	"adj.简洁的，简要的；简明的，简略的"
-penniless	(adj.) 身无分文的，贫穷的
+penniless	(adj.)身无分文的，贫穷的
 background	"n.出身，经历；（图片、布景等的）背景；（事件的…"
-marathon	(n.) 马拉松赛跑
-mild	(adj.) 温和的；轻微的
-advise	(v.) 建议
-unpaid	(adj.) 无报酬的
+marathon	(n.)马拉松赛跑
+mild	(adj.)温和的；轻微的
+advise	(v.)建议
+unpaid	(adj.)无报酬的
 full	"adj.满的，充满的；全部的；吃饱了的"
-soap	(n.) 肥皂
-breath	(n.) 呼吸
-servant	(n.) 佣人，仆人
+soap	(n.)肥皂
+breath	(n.)呼吸
+servant	(n.)佣人，仆人
+box	"n.盒子，箱子；方格；小亭，岗亭"
+enemy	(n.) 敌人
+football	(n.) <英>足球
+refrigerator	(n.) 冰箱，冷藏库
+dark	"adj.黑暗的，昏暗的；黑色的；深色的；n.黑暗，…"
+fantastic	(adj.) 极好的
+obstacle	(n.) 障碍
+although	(conj.) 虽然，尽管，即使
+interpersonal	(adj.) 人际的
+wall	(n.) 墙；围墙
+paperwork	(n.) 全部文件，全部资料
+tradition	(n.) 传统，惯例
+thick	"adj.茂密的，繁茂的；稠的，浓的"
+sew	(v.) 缝，缝纫；缝补
+divide	"v.分开，划分；除以；除；n.差异"
+howl	"v.（狼、狗等）嗥叫；吼叫，哀号；n.嗥叫，哀号"
+paper	"n.试卷，论文；纸；报纸；adj.纸制的"
+soul	(n.) 人
+morning	(n.) 早晨，上午
+advocate	(v.) 提倡，主张
+advanced	(adj.) 先进的；高级的
+meeting	(n.) 会议；会合，聚集
+hostess	(n.) 女主人
+site	(n.) 地点；网站
+blind	(adj.) 失明的；v.蒙蔽
+triangle	(n.) 三角形
+date	"n.日期，日子；约会；v.始于（某一历史时期）；…"
+thinking	(n.) 想法，见解
+quickly	(adv.) 很快地
+typewriter	(n.) 打字机
+clumsy	"adj.笨拙的，不灵活的；拙劣的，不得体的"
+patience	(n.) 耐心，忍耐
+nut	(n.) 坚果
+obtain	(v.) 获得，赢得，取得
+Christian	"n.基督教徒；adj.基督教的，基督教徒的"
+misty	(adj.) 模糊的
+month	(n.) 月
+graze	(v.) 放牧
+barrier	(n.) 障碍
+slogan	(n.) 口号
+attend	"v.参加；上（学），去（教堂）"
+advertise	(v.) 为……做广告
+risky	(adj.) 危险的
+kettle	(n.) 壶，水壶
+umbrella	(n.) 伞，雨伞
+anchor	"n.锚；（广播电视新闻节目的）主持人"
+card	(n.) 卡，卡片，贺卡，名片
+desk	(n.) 书桌，办公桌；服务台
+item	(n.) 物品；条款，项目
+specific	(adj.) 特定的；具体的
+reckon	(vt.) 认为
+plan	(n.) 计划；v.计划，打算
+chorus	(n.) 齐声
+haze	"n.薄雾，雾气；烟雾；vt.（使）变朦胧"
+homeland	(n.) 祖国
+circle	"n.圆圈；（相同兴趣、职业等的人形成的）圈子，界…"
+chemical	"n.化学品，化学物质；adj.化学的，与化学有关的"
+princess	(n.) 公主
+catastrophe	(n.) 大灾难
+hotel	(n.) 酒店，旅馆
+terrible	"adj.可怕的，骇人的；非常严重的，糟糕的"
+expert	(n.) 专家
+severe	(adj.) 严重的；严厉的
+Catholic	"adj.天主教的；n.天主教徒"
+arrange	(v.) 安排
+taxpayer	(n.) 纳税人
+consumer	(n.) 消费者
+aid	(n.) 援助
+communist	(n.) 共产主义者，共产党员
+arithmetic	(n.) 算术；计算
+resist	(v.) 抵抗，抵制
+modern	(adj.) 现代的，现代化的
+consistent	(adj.) 坚持的
+authentic	(adj.) 真实的；真正的
+motherland	(n.) 祖国
+disappear	(vi.) 消失
+blast	(n.) 热闹的聚会，狂欢
+route	(n.) 路线
+plenty	(pron.) 大量，丰富
+opinion	(n.) 意见，看法，观点
+analytical	(adj.) 分析的
+suspect	"v.怀疑，猜疑；n.犯罪嫌疑人，可疑分子"
+holy	(adj.) 神圣的，圣洁的
+low	"adj.低的，矮的，少的；沮丧的"
+concept	(n.) 概念
+statement	(n.) 陈述；声明
+silk	(n.) 丝，丝绸
+substance	(n.) 物质
+bag	(n.) 袋，包
+neck	(n.) 脖子，颈
+ridiculous	(adj.) 可笑的，荒谬的
+spokesman	(n.) 发言人（尤指男性）
+consumption	(n.) 消耗，消耗量，消费
+defend	"v.保卫，防守；为……辩护，为……辩解；捍卫，…"
