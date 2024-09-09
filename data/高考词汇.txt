@@ -547,3 +547,97 @@ full	"adj.满的，充满的；全部的；吃饱了的"
 soap	(n.) 肥皂
 breath	(n.) 呼吸
 servant	(n.) 佣人，仆人
+box	"n.盒子，箱子；方格；小亭，岗亭"
+enemy	(n.) 敌人
+football	(n.) <英>足球
+refrigerator	(n.) 冰箱，冷藏库
+dark	"adj.黑暗的，昏暗的；黑色的；深色的；n.黑暗，…"
+fantastic	(adj.) 极好的
+obstacle	(n.) 障碍
+although	(conj.) 虽然，尽管，即使
+interpersonal	(adj.) 人际的
+wall	(n.) 墙；围墙
+paperwork	(n.) 全部文件，全部资料
+tradition	(n.) 传统，惯例
+thick	"adj.茂密的，繁茂的；稠的，浓的"
+sew	(v.) 缝，缝纫；缝补
+divide	"v.分开，划分；除以；除；n.差异"
+howl	"v.（狼、狗等）嗥叫；吼叫，哀号；n.嗥叫，哀号"
+paper	"n.试卷，论文；纸；报纸；adj.纸制的"
+soul	(n.) 人
+morning	(n.) 早晨，上午
+advocate	(v.) 提倡，主张
+advanced	(adj.) 先进的；高级的
+meeting	(n.) 会议；会合，聚集
+hostess	(n.) 女主人
+site	(n.) 地点；网站
+blind	(adj.) 失明的；v.蒙蔽
+triangle	(n.) 三角形
+date	"n.日期，日子；约会；v.始于（某一历史时期）；…"
+thinking	(n.) 想法，见解
+quickly	(adv.) 很快地
+typewriter	(n.) 打字机
+clumsy	"adj.笨拙的，不灵活的；拙劣的，不得体的"
+patience	(n.) 耐心，忍耐
+nut	(n.) 坚果
+obtain	(v.) 获得，赢得，取得
+Christian	"n.基督教徒；adj.基督教的，基督教徒的"
+misty	(adj.) 模糊的
+month	(n.) 月
+graze	(v.) 放牧
+barrier	(n.) 障碍
+slogan	(n.) 口号
+attend	"v.参加；上（学），去（教堂）"
+advertise	(v.) 为……做广告
+risky	(adj.) 危险的
+kettle	(n.) 壶，水壶
+umbrella	(n.) 伞，雨伞
+anchor	"n.锚；（广播电视新闻节目的）主持人"
+card	(n.) 卡，卡片，贺卡，名片
+desk	(n.) 书桌，办公桌；服务台
+item	(n.) 物品；条款，项目
+specific	(adj.) 特定的；具体的
+reckon	(vt.) 认为
+plan	(n.) 计划；v.计划，打算
+chorus	(n.) 齐声
+haze	"n.薄雾，雾气；烟雾；vt.（使）变朦胧"
+homeland	(n.) 祖国
+circle	"n.圆圈；（相同兴趣、职业等的人形成的）圈子，界…"
+chemical	"n.化学品，化学物质；adj.化学的，与化学有关的"
+princess	(n.) 公主
+catastrophe	(n.) 大灾难
+hotel	(n.) 酒店，旅馆
+terrible	"adj.可怕的，骇人的；非常严重的，糟糕的"
+expert	(n.) 专家
+severe	(adj.) 严重的；严厉的
+Catholic	"adj.天主教的；n.天主教徒"
+arrange	(v.) 安排
+taxpayer	(n.) 纳税人
+consumer	(n.) 消费者
+aid	(n.) 援助
+communist	(n.) 共产主义者，共产党员
+arithmetic	(n.) 算术；计算
+resist	(v.) 抵抗，抵制
+modern	(adj.) 现代的，现代化的
+consistent	(adj.) 坚持的
+authentic	(adj.) 真实的；真正的
+motherland	(n.) 祖国
+disappear	(vi.) 消失
+blast	(n.) 热闹的聚会，狂欢
+route	(n.) 路线
+plenty	(pron.) 大量，丰富
+opinion	(n.) 意见，看法，观点
+analytical	(adj.) 分析的
+suspect	"v.怀疑，猜疑；n.犯罪嫌疑人，可疑分子"
+holy	(adj.) 神圣的，圣洁的
+low	"adj.低的，矮的，少的；沮丧的"
+concept	(n.) 概念
+statement	(n.) 陈述；声明
+silk	(n.) 丝，丝绸
+substance	(n.) 物质
+bag	(n.) 袋，包
+neck	(n.) 脖子，颈
+ridiculous	(adj.) 可笑的，荒谬的
+spokesman	(n.) 发言人（尤指男性）
+consumption	(n.) 消耗，消耗量，消费
+defend	"v.保卫，防守；为……辩护，为……辩解；捍卫，…"
