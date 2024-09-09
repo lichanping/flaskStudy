@@ -176,7 +176,6 @@ class TxtToXLSX:
         missing_sound_file = os.path.join(self.data_folder, "MissingSound.txt")  # Path to store missing sound words
         file_path = os.path.join(self.data_folder, file_name)
         data = []
-        missing_words = []  # List to store missing sound words
         pattern = re.compile(r'([a-zA-Zéèêëîïùûüàâäôöçœ\'\s\-\.\/]+)\s*(.*)')
         with open(file_path, 'r', encoding='utf-8') as file:
             for line in file:
