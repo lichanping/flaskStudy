@@ -207,7 +207,6 @@ export function play_audio() {
         audioIcon.classList.remove('playing-animation');
     }, 2000); // Remove the class after 2 seconds (adjust as needed)
     // Play corresponding sound if available
-    // const soundFileName = englishWordTextBox.value.trim().toLowerCase() + '.mp3';
     const isRandom = document.getElementById("random-toggle").checked;
     let word;
     if (isRandom) {
@@ -215,7 +214,8 @@ export function play_audio() {
     } else {
         word = englishWordTextBox;
     }
-    word = word.value.trim().toLowerCase()
+    // word = word.value.trim().toLowerCase()
+    word = word.value.trim()
     const soundFileName = encodeURIComponent(word) + '.mp3';
     const soundFilePath = `static/sounds/${soundFileName}`;
     console.log(`Attempting to play sound from path: ${soundFilePath}`);
