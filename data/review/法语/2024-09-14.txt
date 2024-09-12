@@ -1,3 +1,18 @@
+six enfants	六个孩子[sis]
+sept	七[sɛt]
+huit	八[ɥit]
+neuf	九[nœf]
+dix	十[dis]
+onze	十一[ɔ̃z]
+douze	十二[du:z]
+treize	十三[trɛ:z]
+quatorze	十四[katɔrz]
+quinze	十五[kɛ̃z]
+seize personnes	十六个人[sɛz]
+dix-sept	十七[dissɛt]
+dix-huit	十八[dizɥit]
+dix-neuf	十九[diznœf]
+vingt	二十[vɛ̃t]
 la station de métro	地铁站
 où est l'hôpital	医院在哪里？
 le restaurant est ouvert	饭馆营业中
