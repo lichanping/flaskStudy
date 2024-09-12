@@ -153,7 +153,7 @@ groundwater	（n.地下水
 underground water	（n.地下水
 environmental	（adj.环境的
 figure	（n.身形；v.认为，认定
-shape	（vt.使形成，塑造；决定，影响；决定；vi.摆好姿…
+shape	（vt.）使形成，塑造；决定，影响；决定；vi.摆好姿…;"n.形状；身材；
 maybe	（adv.可能，大概，也许
 perhaps	(adv.)或许，可能
 possibly	（adv.也许，或许；竟然（表示强调）；尽量，尽…
@@ -2855,96 +2855,244 @@ soap	(n.)肥皂
 breath	(n.)呼吸
 servant	(n.)佣人，仆人
 box	"n.盒子，箱子；方格；小亭，岗亭"
-enemy	(n.) 敌人
-football	(n.) <英>足球
-refrigerator	(n.) 冰箱，冷藏库
+enemy	(n.)敌人
+football	(n.)<英>足球
+refrigerator	(n.)冰箱，冷藏库
 dark	"adj.黑暗的，昏暗的；黑色的；深色的；n.黑暗，…"
-fantastic	(adj.) 极好的
-obstacle	(n.) 障碍
-although	(conj.) 虽然，尽管，即使
-interpersonal	(adj.) 人际的
-wall	(n.) 墙；围墙
-paperwork	(n.) 全部文件，全部资料
-tradition	(n.) 传统，惯例
+fantastic	(adj.)极好的
+obstacle	(n.)障碍
+although	(conj.)虽然，尽管，即使
+interpersonal	(adj.)人际的
+wall	(n.)墙；围墙
+paperwork	(n.)全部文件，全部资料
+tradition	(n.)传统，惯例
 thick	"adj.茂密的，繁茂的；稠的，浓的"
-sew	(v.) 缝，缝纫；缝补
+sew	(v.)缝，缝纫；缝补
 divide	"v.分开，划分；除以；除；n.差异"
 howl	"v.（狼、狗等）嗥叫；吼叫，哀号；n.嗥叫，哀号"
 paper	"n.试卷，论文；纸；报纸；adj.纸制的"
-soul	(n.) 人
-morning	(n.) 早晨，上午
-advocate	(v.) 提倡，主张
-advanced	(adj.) 先进的；高级的
-meeting	(n.) 会议；会合，聚集
-hostess	(n.) 女主人
-site	(n.) 地点；网站
-blind	(adj.) 失明的；v.蒙蔽
-triangle	(n.) 三角形
+soul	(n.)人
+morning	(n.)早晨，上午
+advocate	(v.)提倡，主张
+advanced	(adj.)先进的；高级的
+meeting	(n.)会议；会合，聚集
+hostess	(n.)女主人
+site	(n.)地点；网站
+blind	(adj.)失明的；v.蒙蔽
+triangle	(n.)三角形
 date	"n.日期，日子；约会；v.始于（某一历史时期）；…"
-thinking	(n.) 想法，见解
-quickly	(adv.) 很快地
-typewriter	(n.) 打字机
+thinking	(n.)想法，见解
+quickly	(adv.)很快地
+typewriter	(n.)打字机
 clumsy	"adj.笨拙的，不灵活的；拙劣的，不得体的"
-patience	(n.) 耐心，忍耐
-nut	(n.) 坚果
-obtain	(v.) 获得，赢得，取得
+patience	(n.)耐心，忍耐
+nut	(n.)坚果
+obtain	(v.)获得，赢得，取得
 Christian	"n.基督教徒；adj.基督教的，基督教徒的"
-misty	(adj.) 模糊的
-month	(n.) 月
-graze	(v.) 放牧
-barrier	(n.) 障碍
-slogan	(n.) 口号
+misty	(adj.)模糊的
+month	(n.)月
+graze	(v.)放牧
+barrier	(n.)障碍
+slogan	(n.)口号
 attend	"v.参加；上（学），去（教堂）"
-advertise	(v.) 为……做广告
-risky	(adj.) 危险的
-kettle	(n.) 壶，水壶
-umbrella	(n.) 伞，雨伞
+advertise	(v.)为……做广告
+risky	(adj.)危险的
+kettle	(n.)壶，水壶
+umbrella	(n.)伞，雨伞
 anchor	"n.锚；（广播电视新闻节目的）主持人"
-card	(n.) 卡，卡片，贺卡，名片
-desk	(n.) 书桌，办公桌；服务台
-item	(n.) 物品；条款，项目
-specific	(adj.) 特定的；具体的
-reckon	(vt.) 认为
-plan	(n.) 计划；v.计划，打算
-chorus	(n.) 齐声
+card	(n.)卡，卡片，贺卡，名片
+desk	(n.)书桌，办公桌；服务台
+item	(n.)物品；条款，项目
+specific	(adj.)特定的；具体的
+reckon	(vt.)认为
+plan	(n.)计划；v.计划，打算
+chorus	(n.)齐声
 haze	"n.薄雾，雾气；烟雾；vt.（使）变朦胧"
-homeland	(n.) 祖国
+homeland	(n.)祖国
 circle	"n.圆圈；（相同兴趣、职业等的人形成的）圈子，界…"
 chemical	"n.化学品，化学物质；adj.化学的，与化学有关的"
-princess	(n.) 公主
-catastrophe	(n.) 大灾难
-hotel	(n.) 酒店，旅馆
+princess	(n.)公主
+catastrophe	(n.)大灾难
+hotel	(n.)酒店，旅馆
 terrible	"adj.可怕的，骇人的；非常严重的，糟糕的"
-expert	(n.) 专家
-severe	(adj.) 严重的；严厉的
+expert	(n.)专家
+severe	(adj.)严重的；严厉的
 Catholic	"adj.天主教的；n.天主教徒"
-arrange	(v.) 安排
-taxpayer	(n.) 纳税人
-consumer	(n.) 消费者
-aid	(n.) 援助
-communist	(n.) 共产主义者，共产党员
-arithmetic	(n.) 算术；计算
-resist	(v.) 抵抗，抵制
-modern	(adj.) 现代的，现代化的
-consistent	(adj.) 坚持的
-authentic	(adj.) 真实的；真正的
-motherland	(n.) 祖国
-disappear	(vi.) 消失
-blast	(n.) 热闹的聚会，狂欢
-route	(n.) 路线
-plenty	(pron.) 大量，丰富
-opinion	(n.) 意见，看法，观点
-analytical	(adj.) 分析的
+arrange	(v.)安排
+taxpayer	(n.)纳税人
+consumer	(n.)消费者
+aid	(n.)援助
+communist	(n.)共产主义者，共产党员
+arithmetic	(n.)算术；计算
+resist	(v.)抵抗，抵制
+modern	(adj.)现代的，现代化的
+consistent	(adj.)坚持的
+authentic	(adj.)真实的；真正的
+motherland	(n.)祖国
+disappear	(vi.)消失
+blast	(n.)热闹的聚会，狂欢
+route	(n.)路线
+plenty	(pron.)大量，丰富
+opinion	(n.)意见，看法，观点
+analytical	(adj.)分析的
 suspect	"v.怀疑，猜疑；n.犯罪嫌疑人，可疑分子"
-holy	(adj.) 神圣的，圣洁的
+holy	(adj.)神圣的，圣洁的
 low	"adj.低的，矮的，少的；沮丧的"
-concept	(n.) 概念
-statement	(n.) 陈述；声明
-silk	(n.) 丝，丝绸
-substance	(n.) 物质
-bag	(n.) 袋，包
-neck	(n.) 脖子，颈
-ridiculous	(adj.) 可笑的，荒谬的
-spokesman	(n.) 发言人（尤指男性）
-consumption	(n.) 消耗，消耗量，消费
+concept	(n.)概念
+statement	(n.)陈述；声明
+silk	(n.)丝，丝绸
+substance	(n.)物质
+bag	(n.)袋，包
+neck	(n.)脖子，颈
+ridiculous	(adj.)可笑的，荒谬的
+spokesman	(n.)发言人（尤指男性）
+consumption	(n.)消耗，消耗量，消费
 defend	"v.保卫，防守；为……辩护，为……辩解；捍卫，…"
+psychology	(n.) 心理学
+horrible	(adj.) 糟糕的
+structure	"n.结构；v.赋予……结构，使形成结构"
+escape	"v.逃跑，逃脱；n.逃跑，逃脱"
+funny	(adj.) 有趣的，好玩的
+hunger	(n.) 饥饿；v.渴望
+app	(n.) 应用程序
+microorganism	(n.) 微生物
+upward	(adv.) 向上地；adj.向上的
+confidence	(n.) 信心；信任
+civilian	"adj.平民的，百姓的，民用的"
+anyhow	"adv.不论用何种方法，无论如何；尽管如此"
+analyst	(n.) 分析员
+skateboard	(n.) 滑板；vi.滑滑板
+encourage	(v.) 鼓励，支持；促使
+republic	(n.) 共和国，共和政体
+continent	(n.) 大陆，洲
+lion	(n.) 狮子
+newspaper	(n.) 报纸
+distant	(adj.) 遥远的；疏远的
+headwind	(n.) 逆风，顶风
+lid	(n.) 盖，盖子
+quiz	"n.小测验，测试；知识竞赛；v.对……进行测验"
+video	(n.) 视频，录像
+arrogant	(adj.) 傲慢的，妄自尊大的
+breakthrough	"n.突破，突破性进展，重大进展"
+specialize	(v.) 专门研究，专门从事
+rather	"conj.而不是；adv.宁愿（wouldrather）；相当"
+receptionist	(n.) 接待员
+born	(adj.) 天生的
+reflect	"v.反映；反射；反思，反省；倒映"
+corporation	(n.) 公司
+cassette	"n.录像带，盒式磁带；磁带盒"
+bottle	(n.) 瓶子
+spy	"v.暗中监视（或侦察）；n.间谍，密探"
+throughout	"prep.在……期间，在整个时期；遍及，到处，各处…"
+calmly	(adv.) 平静地
+apparent	(adj.) 显然的
+interpreter	(n.) 口译员，口译者
+February	(n.) 二月（略作Feb.）
+foggy	(adj.) 有雾的
+vest	(n.) 汗衫，背心，马甲
+rosebud	(n.) 玫瑰花蕾
+organic	(adj.) 有机的
+reduce	(v.) 减少，减小，降低
+challenging	(adj.) 艰巨的，具有挑战性的
+suit	(v.) 适合；n.西服，套装
+salute	"v.敬礼；n.致意；致敬，欢迎"
+weight	(n.) 体重；重量，分量
+transport	"n.运输；交通车辆，运输工具；交通运输系统（读作…"
+reproduce	(v.) 繁殖；再生产
+security	(n.) 安全；保护措施
+example	(n.) 例子，实例
+regard	"v.把……视为；认为；n.尊敬"
+kingdom	(n.) 王国
+pressure	(n.) 压力
+adjustment	"n.（行为、思想的）调整，适应"
+heat	"n.【物理学】热；高温；v.加热"
+Internet	(n.) 互联网
+allow	"v.允许，准许；使（有可能）"
+stand	(v.) 站立；忍受；n.货摊
+conservation	(n.) 保护
+socialist	"adj.社会主义的；n.社会主义者"
+accomplish	(vt.) （通过努力）完成
+recently	(adv.) 最近地
+software	(n.) 软件
+underneath	(prep.) 在……下面
+since	(conj.) 自从；由于
+possible	(adj.) 可能
+up and down	"phr.上上下下，起伏；来回，来来回回"
+president	"n.（各机构的）会长，院长，主席；总裁"
+athletics	(n.) 体育运动
+exact	(adj.) 确切的
+sensible	(adj.) 合理的
+determined	(adj.) 有决心的
+comprehension	(n.) 理解；理解练习
+modem	(n.) 调制解调器
+deposit	(v.) 沉淀；n.定金
+edge	"n.边；（悬崖、峭壁的）边缘"
+Roman	"adj.罗马的，罗马文字的，罗马人的"
+skate	(v.) 滑冰，溜冰，滑（滑板）
+reserve	(n.) 保护区；v.预订；保留
+annoyed	"adj.恼怒的，烦闷的；v.使烦恼，打扰"
+sneaker	(n.) 运动鞋；鬼鬼祟祟的人
+occasion	(n.) 场合，时候，活动
+deaf	(adj.) 聋的；不愿听的
+career	(n.) 职业，事业；生涯，经历
+avenue	(n.) 方式，手段
+abroad	(adv.) 到国外，在国外
+radium	(n.) 镭
+cozy	"adj.温馨舒适的，安逸的（=cosy）；v.取悦"
+soon	(adv.) 快，早；立刻，不久
+heartily	(adv.) 起劲地，痛快地
+vertical	(adj.) 垂直的
+crane	(n.) 鹤
+additional	(adj.) 额外的；附加的
+restore	(vt.) 恢复；修补，修复
+kiss	(v.) 吻，接吻
+call for	(phr.) 需要
+choir	"n.（教会的）歌唱队，唱诗班"
+necklace	(n.) 项链
+entire	(adj.) 完整的，全部的
+thankful	(adj.) 感谢的
+oil	"n.石油；（绘画用）油彩；油，食用油"
+acceptable	(adj.) 可接受的
+wound	(n.) 伤口（读作/wuːnd/）
+striker	"n.（足球的）前锋；罢工者；锤，报点时钟"
+warn	(v.) 警告，告诫
+harmony	(n.) 和谐
+desert	"v.离弃（读作/dɪˈz3ːt/）；n.荒漠，沙漠（读作/…"
+allocate	(v.) 分配，配给
+unjust	(adj.) 不公平的
+widely	(adv.) 广泛地，普遍地
+degree	(n.) 学位；度；程度
+radiation	(n.) 辐射
+hope	"v.希望，期望（某事发生）；n.希望；期望"
+assistance	(n.) 帮助；援助
+subway	(n.) 地铁
+carry	"v.拿，提，搬，扛；携带（疾病、病菌）；运载；…"
+billboard	(n.) 告示牌，广告牌
+mountainside	(n.) 山坡
+growth	"n.发展，进步；生长，成长；增长"
+settler	(n.) 移民者，定居者
+prison	(n.) 监狱
+statue	(n.) 雕像
+guard	(n.) 看守；vt.看守，监视
+policymaker	(n.) 决策者，政策制定者
+unconditional	(adj.) 绝对的，无条件的
+worsen	(v.) （使)恶化
+acquire	"v.（通过努力、能力）获得；购得"
+toothache	(n.) 牙痛
+rectangle	(n.) 长方形，矩形
+amount	(n.) 数量；v.总计
+sweater	"n.毛衣，厚运动衫，羊毛衫，针织套衫"
+supporting	(adj.) 次要的
+grateful	(adj.) 感激的
+wage	(n.) 工资，薪水
+nitrogen	(n.) 氮，氮气
+result	"n.结果，成效；v.导致；(from)起因于，因……而…"
+section	(n.) 部分；阶层；部门
+submit	(v.) 提交；呈递
+punishment	(n.) 惩罚，处罚
+souvenir	(n.) 纪念品
+eventually	(adv.) 终于，最后
+remarkably	"adv.出乎意外地；引人注目地，明显地"
+curtain	(n.) 窗帘；幕布
+output	(n.) 产量
+drive	"v.驾车，开车；驾驶；驱使，迫使；促进，推进；…"

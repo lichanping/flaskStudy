@@ -576,3 +576,151 @@ ridiculous	(adj.) 可笑的，荒谬的
 spokesman	(n.) 发言人（尤指男性）
 consumption	(n.) 消耗，消耗量，消费
 defend	"v.保卫，防守；为……辩护，为……辩解；捍卫，…"
+psychology	(n.) 心理学
+horrible	(adj.) 糟糕的
+structure	"n.结构；v.赋予……结构，使形成结构"
+escape	"v.逃跑，逃脱；n.逃跑，逃脱"
+funny	(adj.) 有趣的，好玩的
+hunger	(n.) 饥饿；v.渴望
+app	(n.) 应用程序
+microorganism	(n.) 微生物
+upward	(adv.) 向上地；adj.向上的
+confidence	(n.) 信心；信任
+civilian	"adj.平民的，百姓的，民用的"
+anyhow	"adv.不论用何种方法，无论如何；尽管如此"
+analyst	(n.) 分析员
+skateboard	(n.) 滑板；vi.滑滑板
+encourage	(v.) 鼓励，支持；促使
+republic	(n.) 共和国，共和政体
+continent	(n.) 大陆，洲
+lion	(n.) 狮子
+newspaper	(n.) 报纸
+distant	(adj.) 遥远的；疏远的
+headwind	(n.) 逆风，顶风
+lid	(n.) 盖，盖子
+quiz	"n.小测验，测试；知识竞赛；v.对……进行测验"
+video	(n.) 视频，录像
+arrogant	(adj.) 傲慢的，妄自尊大的
+breakthrough	"n.突破，突破性进展，重大进展"
+specialize	(v.) 专门研究，专门从事
+rather	"conj.而不是；adv.宁愿（wouldrather）；相当"
+receptionist	(n.) 接待员
+born	(adj.) 天生的
+reflect	"v.反映；反射；反思，反省；倒映"
+corporation	(n.) 公司
+cassette	"n.录像带，盒式磁带；磁带盒"
+bottle	(n.) 瓶子
+spy	"v.暗中监视（或侦察）；n.间谍，密探"
+throughout	"prep.在……期间，在整个时期；遍及，到处，各处…"
+calmly	(adv.) 平静地
+apparent	(adj.) 显然的
+interpreter	(n.) 口译员，口译者
+February	(n.) 二月（略作Feb.）
+foggy	(adj.) 有雾的
+vest	(n.) 汗衫，背心，马甲
+rosebud	(n.) 玫瑰花蕾
+organic	(adj.) 有机的
+reduce	(v.) 减少，减小，降低
+challenging	(adj.) 艰巨的，具有挑战性的
+suit	(v.) 适合；n.西服，套装
+salute	"v.敬礼；n.致意；致敬，欢迎"
+weight	(n.) 体重；重量，分量
+transport	"n.运输；交通车辆，运输工具；交通运输系统（读作…"
+reproduce	(v.) 繁殖；再生产
+security	(n.) 安全；保护措施
+example	(n.) 例子，实例
+regard	"v.把……视为；认为；n.尊敬"
+kingdom	(n.) 王国
+pressure	(n.) 压力
+adjustment	"n.（行为、思想的）调整，适应"
+heat	"n.【物理学】热；高温；v.加热"
+Internet	(n.) 互联网
+allow	"v.允许，准许；使（有可能）"
+stand	(v.) 站立；忍受；n.货摊
+conservation	(n.) 保护
+socialist	"adj.社会主义的；n.社会主义者"
+accomplish	(vt.) （通过努力）完成
+recently	(adv.) 最近地
+software	(n.) 软件
+underneath	(prep.) 在……下面
+since	(conj.) 自从；由于
+possible	(adj.) 可能
+up and down	"phr.上上下下，起伏；来回，来来回回"
+president	"n.（各机构的）会长，院长，主席；总裁"
+athletics	(n.) 体育运动
+exact	(adj.) 确切的
+sensible	(adj.) 合理的
+determined	(adj.) 有决心的
+comprehension	(n.) 理解；理解练习
+modem	(n.) 调制解调器
+deposit	(v.) 沉淀；n.定金
+edge	"n.边；（悬崖、峭壁的）边缘"
+Roman	"adj.罗马的，罗马文字的，罗马人的"
+skate	(v.) 滑冰，溜冰，滑（滑板）
+reserve	(n.) 保护区；v.预订；保留
+annoyed	"adj.恼怒的，烦闷的；v.使烦恼，打扰"
+sneaker	(n.) 运动鞋；鬼鬼祟祟的人
+occasion	(n.) 场合，时候，活动
+deaf	(adj.) 聋的；不愿听的
+career	(n.) 职业，事业；生涯，经历
+avenue	(n.) 方式，手段
+abroad	(adv.) 到国外，在国外
+radium	(n.) 镭
+cozy	"adj.温馨舒适的，安逸的（=cosy）；v.取悦"
+soon	(adv.) 快，早；立刻，不久
+heartily	(adv.) 起劲地，痛快地
+vertical	(adj.) 垂直的
+crane	(n.) 鹤
+additional	(adj.) 额外的；附加的
+restore	(vt.) 恢复；修补，修复
+kiss	(v.) 吻，接吻
+call for	(phr.) 需要
+choir	"n.（教会的）歌唱队，唱诗班"
+necklace	(n.) 项链
+entire	(adj.) 完整的，全部的
+thankful	(adj.) 感谢的
+oil	"n.石油；（绘画用）油彩；油，食用油"
+acceptable	(adj.) 可接受的
+wound	(n.) 伤口（读作/wuːnd/）
+striker	"n.（足球的）前锋；罢工者；锤，报点时钟"
+warn	(v.) 警告，告诫
+harmony	(n.) 和谐
+desert	"v.离弃（读作/dɪˈz3ːt/）；n.荒漠，沙漠（读作/…"
+allocate	(v.) 分配，配给
+unjust	(adj.) 不公平的
+widely	(adv.) 广泛地，普遍地
+degree	(n.) 学位；度；程度
+radiation	(n.) 辐射
+hope	"v.希望，期望（某事发生）；n.希望；期望"
+assistance	(n.) 帮助；援助
+subway	(n.) 地铁
+carry	"v.拿，提，搬，扛；携带（疾病、病菌）；运载；…"
+billboard	(n.) 告示牌，广告牌
+mountainside	(n.) 山坡
+growth	"n.发展，进步；生长，成长；增长"
+settler	(n.) 移民者，定居者
+prison	(n.) 监狱
+statue	(n.) 雕像
+guard	(n.) 看守；vt.看守，监视
+policymaker	(n.) 决策者，政策制定者
+unconditional	(adj.) 绝对的，无条件的
+worsen	(v.) （使)恶化
+acquire	"v.（通过努力、能力）获得；购得"
+toothache	(n.) 牙痛
+rectangle	(n.) 长方形，矩形
+amount	(n.) 数量；v.总计
+sweater	"n.毛衣，厚运动衫，羊毛衫，针织套衫"
+supporting	(adj.) 次要的
+grateful	(adj.) 感激的
+wage	(n.) 工资，薪水
+nitrogen	(n.) 氮，氮气
+result	"n.结果，成效；v.导致；(from)起因于，因……而…"
+section	(n.) 部分；阶层；部门
+submit	(v.) 提交；呈递
+punishment	(n.) 惩罚，处罚
+souvenir	(n.) 纪念品
+eventually	(adv.) 终于，最后
+remarkably	"adv.出乎意外地；引人注目地，明显地"
+curtain	(n.) 窗帘；幕布
+output	(n.) 产量
+drive	"v.驾车，开车；驾驶；驱使，迫使；促进，推进；…"
