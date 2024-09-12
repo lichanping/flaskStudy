@@ -68,18 +68,18 @@ juif	犹太的,犹太人的（阳性）
 juive	犹太的,犹太人的（阴性）
 informaticien	计算机编程员，信息论专家（阳性）
 informaticienne	计算机编程员，信息论专家（阴性）
-six enfants	六个孩子
-sept	七
-huit	八
-neuf	九
-dix	十
-onze	十一
-douze	十二
-treize	十三
-quatorze	十四
-quinze	十五
-seize personnes	十六个人
-dix-sept	十七
-dix-huit	十八
-dix-neuf	十九
-vingt	二十
+six enfants	六个孩子[sis]
+sept	七[sɛt]
+huit	八[ɥit]
+neuf	九[nœf]
+dix	十[dis]
+onze	十一[ɔ̃z]
+douze	十二[du:z]
+treize	十三[trɛ:z]
+quatorze	十四[katɔrz]
+quinze	十五[kɛ̃z]
+seize personnes	十六个人[sɛz]
+dix-sept	十七[dissɛt]
+dix-huit	十八[dizɥit]
+dix-neuf	十九[diznœf]
+vingt	二十[vɛ̃t]
