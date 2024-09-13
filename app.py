@@ -33,7 +33,7 @@ class TxtReader:
     def read_words_from_txt(self, file_name, limit=50):
         file_path = os.path.join(self.data_folder, file_name)
         words = []
-        pattern = re.compile(r'([a-zA-Zéèêëîïùûüàâäôöçœ\'\s\-\.\/]+)\s*(.*)')
+        pattern = re.compile(r'([a-zA-Zéèêëîïùûüàâäôöçœ\'\s\-\.\/\?\？]+)\s*(.*)')
         with open(file_path, 'r', encoding='utf-8') as file:
             for index, line in enumerate(file, start=1):  # Start index from 1
                 if index > limit:  # Break if the limit is reached
@@ -59,7 +59,7 @@ class TxtReader:
         with open(file_path, 'r', encoding='utf-8') as file, \
                 open(new_file_path, 'a', encoding='utf-8') as new_file:
             for line in file:
-                word_match = re.match(r'([a-zA-Zéèêëîïùûüàâäôöçœ\'\s\-\.\/]+)\s*(.*)', line.strip())
+                word_match = re.match(r'([a-zA-Zéèêëîïùûüàâäôöçœ\'\s\-\.\/\?\？]+)\s*(.*)', line.strip())
                 if word_match:
                     english_word, translation = word_match.groups()
                     if english_word.strip() in selected_words:
@@ -83,7 +83,7 @@ class TxtReader:
         translations = {}
         with open(os.path.join(self.data_folder, selected_file), 'r', encoding='utf-8') as file:
             for line in file:
-                word_match = re.match(r'([a-zA-Zéèêëîïùûüàâäôöçœ\'\s\-\.\/]+)\s*(.*)', line.strip())
+                word_match = re.match(r'([a-zA-Zéèêëîïùûüàâäôöçœ\'\s\-\.\/\?\？]+)\s*(.*)', line.strip())
                 if word_match:
                     english_word, translation = word_match.groups()
                     translations[english_word.strip()] = translation.strip()
