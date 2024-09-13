@@ -441,7 +441,7 @@ château	城堡(阳性名词)
 église	教堂(阴性名词)
 aux-	是“à”+“les”的缩合形式。例如：Jevaisauxéglises.（我去那些教堂。）
 le mexique est un pays	墨西哥是一个国家
-je visite le japon	
+je visite le japon	我去日本玩
 j'aime le mexique	我喜欢墨西哥
 le japon est un pays	日本是一个国家
 le brésil est ton pays	巴西是你的国家
