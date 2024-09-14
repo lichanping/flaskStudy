@@ -58,3 +58,20 @@ dix-sept	十七[dissɛt]
 dix-huit	十八[dizɥit]
 dix-neuf	十九[diznœf]
 vingt	二十[vɛ̃t]
+américain	美国的；美国人的
+américaine	美国的；美国人的（阴性）
+familier	(adj.)家庭的;亲近的,亲密的,亲热的;熟悉的;习以为常的,习惯的;通晓的
+familière	(adj.)家庭的;(阴性）
+neuf	九[nœf];(adj.)新的，新建的，新做的，尚未用过的；
+neuve	(adj.)新的（阴性）
+cher	(adj.)(m)亲爱的
+chère	(adj.)(m)亲爱的（阴性）
+heureux	(adj.)幸福的，美满的；快乐的;高兴的
+heureuse	(adj.)幸福的，美满的；快乐的;高兴的(阴性）
+le Japon	日本（介词+国别名词）阳性
+le Canada	加拿大
+l'Iran	伊朗
+la France	法国（介词+国别名词）阴性
+la Chine	中国
+l'Italie	意大利
+les États-Unis	美国
