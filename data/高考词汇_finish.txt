@@ -2371,3 +2371,43 @@ likability	(n.) 讨喜度
 entirely	(adv.) 完全地
 mineral	(n.) 矿物，矿物质；矿产
 overall	"adj.全面的，全部的；adv.总体上；总共（读…"
+kangaroo	(n.) 袋鼠
+wing	(n.) 翅膀
+fun	"adj.有趣的，供娱乐使用的；n.娱乐，乐趣"
+northern	"adj.北部的，北方的，有北方特征的"
+weekend	(n.)周末
+immediately	(adv.)马上
+lunch	(n.)午餐
+except	(prep.)除……之外
+uncertain	(adj.)不确定的
+view	"n.观点，看法；风景；视野；（一次）观看；v.…"
+pie	(n.)派，果馅饼
+cool	"v.（使）冷却；变凉；adj.酷的；极好的，绝妙的"
+twin	(adj.)双胞胎之一的；成双的
+rid	(v.)使摆脱
+shock	"v.使……震惊；n.震惊；电击，触电"
+uncomfortable	(adj.)不舒服的
+question	(n.)疑问，问题；v.怀疑
+destroy	(v.)破坏；摧毁
+likely	(adj.) 有可能的
+request	"n.（正式或礼貌的）请求；要求；v.请求，要求"
+resemble	(vt.) 类似，相似
+citizenship	(n.)国籍
+mime	"n.默剧表演，默剧；v.表演默剧，做口型"
+conscience	(n.)良心，良知
+prisoner	(n.)囚犯，俘虏
+rigid	(adj.)死板的
+architect	(n.)建筑师
+abstract	(adj.)抽象的
+acute	(adj.)严重的；敏锐的
+dull	"adj.枯燥的，沉闷的；愚笨的，迟钝的"
+dairy	"adj.奶制的，牛奶的；n.牛奶厂"
+annual	(adj.)年度的，一年一次的
+call on	(phr.)要求（某人讲话等）
+burglar	(n.)窃贼
+odor	(n.)（常指难闻的）气味
+scold	(v.)怒骂，责骂，训斥
+quotation	(n.)引文，语录
+Buddhism	(n.)佛教
+thermos	(n.)热水瓶，保温瓶
+passer-by	(n.)过客，过路人
