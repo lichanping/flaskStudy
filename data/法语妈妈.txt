@@ -158,6 +158,6 @@ J'habite aux Philippines.	我住在菲律宾。
 le Caire	(开罗)个别城市名有阴阳性之分
 Il habite au Caire.	(他住在开罗。au=à+le)遇到介词à时，介词要与定冠词缩合
 Vous êtes photographe？	您是摄影师吗？
-Vous êtes française?	你是法国人吗？
-Vous habitez en France?	您居住在法国?
-Vous êtes dans le cours d'italien?	您正在学习意大利语课程
+Vous êtes française	你是法国人吗？
+Vous habitez en France	您居住在法国?
+Vous êtes dans le cours d'italien	您正在学习意大利语课程
