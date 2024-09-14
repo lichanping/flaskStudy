@@ -146,3 +146,18 @@ la France	法国（介词+国别名词）阴性
 la Chine	中国
 l'Italie	意大利
 les États-Unis	美国
+les Pays-Bas	荷兰
+les Philippines	菲律宾
+J'habite en France.	我住在法国。n+阴性单数国名(省略冠词）
+J'habite en Italie.	我住在意大利。n+阴性单数国名(省略冠词）
+Elle habite en Iran	她住在伊朗。en+以元音开头的阳性单数国名(省略冠词）
+J'habite au Japon	我住在日本。au+以辅音开头的阳性单数国名(au=à+le）
+J'habite au Canada	我住在加拿大。
+J'habite aux États-Unis.	我住在美国。
+J'habite aux Philippines.	我住在菲律宾。
+le Caire	(开罗)个别城市名有阴阳性之分
+Il habite au Caire.	(他住在开罗。au=à+le)遇到介词à时，介词要与定冠词缩合
+Vous êtes photographe？	您是摄影师吗？
+Vous êtes française?	你是法国人吗？
+Vous habitez en France?	您居住在法国?
+Vous êtes dans le cours d'italien?	您正在学习意大利语课程
