@@ -1,3 +1,24 @@
+belge	比利时的adj.;比利时人n.Belge（首字母大写）
+directeur	经理n.阳性形式
+directrice	经理n.阴性形式
+français	法语n.m.
+rendez-vous	约会，预约n.m.
+sur rendez-vous	(医生接待)预约就诊(的病人)
+s'il vous plaît	请，请您，请问loc.
+téléphone	电话；电话机n.m
+l'héroïne	女英雄；女主人公
+C'est une belle voiture	这是一辆漂亮的车
+La voiture est à M.Dupont	这是杜邦先生的。（表示前面已经提到过的人或事物，用定冠词la)
+Vous n'avez pas de cours ce matin	你们今天上午没课吗?
+Non Le professeur est malade	没有。老师病了。(表示谈话双方皆知的人或事物,用定冠词le)
+Anne est la petite sœur de Paul	安娜是保罗的小妹妹。（用在受其他成分限定的名词前）
+J'aime beaucoup le café	我很喜欢咖啡。（表示人或事物的总体概念）
+La Terre est ronde	地球是圆的。（表示独一无二的事物。）
+boulanger	面包师傅（阳性）
+boulangère	面包师傅（阴性）
+juif	犹太的,犹太人的（阳性）
+juive	犹太的,犹太人的（阴性）
+six enfants	六个孩子[sis]
 plage	沙滩
 visites	去玩(第二人称单数的现在时变位形式)
 musée	博物馆
