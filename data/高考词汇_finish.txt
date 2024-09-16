@@ -2411,3 +2411,53 @@ quotation	(n.)引文，语录
 Buddhism	(n.)佛教
 thermos	(n.)热水瓶，保温瓶
 passer-by	(n.)过客，过路人
+doctor	(n.)医生，医师
+equal	"adj.平等的；相同的；相等的；v.导致"
+means	(n.)方法，手段
+hill	(n.)小山，山岗；斜坡
+danger	"n.危险，风险，危险的物（或人）"
+explore	(v.)探索；探讨，研究
+east	(n.)东方
+mouthful	(n.)一口，满口
+quality	(n.)质量；品质
+truth	(n.)真相；真理
+X-ray	(n.)X射线；X光照片
+response	(n.)反应；回应
+poisonous	(adj.)引起中毒的，有毒的
+system	(n.)系统
+challenge	(n.)挑战；vt.挑战
+absolutely	(adv.)绝对地
+similarity	(n.) 相似（点），类似（性）
+against	"prep.反对；靠近，倚在；映衬；以……为背景"
+mess	"n.凌乱，脏乱，杂乱；v.弄脏，弄乱"
+almost	(adv.) 几乎，差不多
+scissors	(n.) 剪刀
+season	"n.季（节）；季（电视或电影节目）"
+education	(n.) 教育，培养
+proud	(adj.) 自豪的
+certain	"adj.某一，某些，一定（量）的；确定的"
+revolution	(n.)革命
+calorie	(n.)【热量单位】卡，卡路里
+province	(n.)省
+ward	"n.病房；选区；受监护人；v.守护，躲开"
+immigrant	"n.移民，外侨；adj.移民的"
+shaver	(n.)电动剃须刀
+industry	(n.)行业
+pride	(n.)自豪
+bring in	"phr.增加，赚取，产生，引进"
+amuse	(v.)逗乐
+astronomy	(n.)天文学
+flexible	(adj.)灵活的
+pretend	(v.)假装，装扮
+lack	(n.)缺乏，短缺；v.缺乏
+reform	(n.)改革
+registration	(n.)登记，注册，挂号
+radioactive	(adj.)辐射的，放射性的
+donate	(v.)捐赠
+commonwealth	(n.)英联邦
+confidential	(adj.)机密的；表示信任的
+characteristic	(n.)特征
+fascinate	(v.) 使着迷
+accommodation	(n.) 住宿，膳宿
+conference	(n.) 会议
+regain	(vt.) 恢复；重新获得
