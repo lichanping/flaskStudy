@@ -161,3 +161,72 @@ Vous êtes photographe？	您是摄影师吗？
 Vous êtes française	你是法国人吗？
 Vous habitez en France	您居住在法国?
 Vous êtes dans le cours d'italien	您正在学习意大利语课程
+mon école	我的学校（以元音字母或哑音h开头的阴性名词前，使用阳性定冠词“mon”“ton”“son”）
+ton amie	你的朋友（以元音字母或哑音h开头的阴性名词前，使用阳性定冠词“mon”“ton”“son”）
+son histoire	它的历史（以元音字母或哑音h开头的阴性名词前，使用阳性定冠词“mon”“ton”“son”）
+adresse	地址，住址n.f.
+Quelle est ton adresse	你的地址是什么？
+Quelle est votre adresse	您的地址是什么？
+âge	年龄，年纪n.m.
+aller	去；走；处于（某种状态）;运转，进行，进展v.i.
+je vais	我去
+tu vas	你去
+il va	他去
+elle va	她去
+nous allons	（我们去）
+vous allez	（您/你们去）
+ils vont	（他们去）
+elles vont	（她们去）
+alors	那么，在这种情况下adv.=Then
+amie	女朋友n.f.
+ami	朋友n.m.
+C'est mon ami	他是我的朋友
+avec	和。。。一起prep.=with
+Ju suis avec mon ami	我和我的朋友在一起
+avoir	有v.t.
+j'ai	我有（当动词以原音开头，je要改成j')
+tu as	你有
+il a	他有
+elle a	她有
+nous avons	（我们有）
+vous avez	（你们有；您有，用于第二人称复数或敬称单数）
+ils ont	（他们有）
+elles ont	（她们有）
+tu as son adresse	你有他的地址？
+Je suis au Canada	我在加拿大n.m.
+fille	女孩，姑娘；女儿n.f.
+C'est ma fille	这是我的女儿
+C'est mon fils	这是我的儿子
+C'est une fille	这是一个女孩
+Hôtel	宾馆n.m.
+journée	一天；白天，白昼n.f.
+Bonne journée	祝你一天愉快
+maintenant	现在，目前adv.
+Merci à vous	谢谢您
+Montréal	蒙特利尔(加拿大一座充满魅力的城市)
+Notre-Dame	圣母院n.f.inv(没有性数变化)
+Notre-Dame de Paris	巴黎圣母院
+Notre-Dame de Marseille	马赛圣母院
+Nuit	夜n.f.
+Bonne nuit	晚安
+Bonne soirée	晚安
+Bonne route	祝您旅途愉快
+Bonne semaine	祝你一周愉快[s(ə)mεn]
+Bon week-end	周末愉快
+Bon voyage	旅行愉快
+Numéro	号码n.m.
+Le Numéro de téléphone	电话号码
+Les Champs-Élysées	香榭丽舍大街
+La Tour Eiffel	埃菲尔铁塔
+Le Louvre	卢浮宫
+parler	说话，讲话；交谈v.t.dir.(直接及物动词)讲（某种语言）
+Il parle espagnol	他会说西班牙语
+Je parle français	我会说法语
+Elle parle chinois	她会说中文
+Vous parlez quelle langue	您讲哪种语言
+Quel est votre nom	您姓什么？
+Quelle est votre profession	您的职业是什么？
+Quelle est son adresse	他的地址是什幺？
+rue	街道，马路n.f.
+votre	你们的，您的
+vous您；你们pron.pers.（人称代词）
