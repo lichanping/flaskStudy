@@ -350,4 +350,3 @@ class GenerateTool:
         tool = TxtToXLSX()
         en_and_cn('每日法語.txt', max_items=None, language="fr")
         # en_and_cn('每日英語.txt', max_items=None, language="en")
-        # en_and_cn('征洋（纠音）.txt', max_items=None, language="en")
