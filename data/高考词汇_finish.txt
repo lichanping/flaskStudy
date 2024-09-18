@@ -2461,3 +2461,33 @@ fascinate	(v.) 使着迷
 accommodation	(n.) 住宿，膳宿
 conference	(n.) 会议
 regain	(vt.) 恢复；重新获得
+balloon	(n.) 热气球
+news	(n.) 新闻，消息
+electric	(adj.) 电动的；电的，带电的
+betray	"v.背叛；失信于；泄露（秘密等）；（非故意地）流露"
+present	"n.现在，目前；礼物（读作/ˈprezənt/）；v.呈现…"
+opening	"n.开幕，开幕式；职位空缺；adj.开始的，开场的"
+paint	"v.绘画；给…刷涂料，给……刷油漆；n.油漆"
+starvation	(n.) 饥饿
+plus	"prep.加，加上；adj.（分数后）加，略高"
+reply	(v.) 回答；n.答复，回答
+necessarily	(adv.) 必定
+land	"n.陆地，土地；大地；v.成功得到，赢得，捞到（…"
+illness	(n.) 疾病
+player	"n.参赛选手，队员；重要参与者；播放器；玩家"
+nerve	(n.) 神经
+remark	(n.) 话语，话
+bound	"adj.必然的；有义务的；受约束的，（在法律或道德…"
+stem	"n.茎，（树）干；v.起源于"
+decide	(v.) 决定；判决
+guarantee	(v.) 保证，确保；n.保证
+posture	"n.姿势；看法；态度；v.装模作样"
+classical	(adj.) 古典的
+centigrade	(n.) 摄氏度；adj.摄氏度的
+succeed	(v.) 成功
+urgent	(adj.) 急迫的
+steel	(n.) 钢，钢铁
+purpose	(n.) 目的，意图
+regulate	(vt.) 管理，控制；调节
+primitive	(adj.) 原始的；简陋的
+management	(n.) 经营，管理，处理
