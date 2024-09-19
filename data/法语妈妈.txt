@@ -234,5 +234,10 @@ vous	您；你们pron.pers.（人称代词）
 soixante	六十
 soixante et un	六十一
 soixante et une	六十一（阴性）
-soixante quatre	六十四
-soixante huit	六十八
+soixante-quatre	六十四
+soixante-huit	六十八
+soixante-dix	七十
+soixante-onze	七十一
+soixante-dix-sept	七十七
+soixante-dix-huit	七十八
+soixante-dix-neuf	七十九
