@@ -1,3 +1,14 @@
+mon école	我的学校（以元音字母或哑音h开头的阴性名词前，使用阳性定冠词“mon”“ton”“son”）
+ton amie	你的朋友（以元音字母或哑音h开头的阴性名词前，使用阳性定冠词“mon”“ton”“son”）
+son histoire	它的历史（以元音字母或哑音h开头的阴性名词前，使用阳性定冠词“mon”“ton”“son”）
+Quelle est ton adresse	你的地址是什么？
+aller	去；走；处于（某种状态）;运转，进行，进展v.i.
+je vais	我去
+alors	那么，在这种情况下adv.=Then
+avec	和。。。一起prep.=with
+avoir	有v.t.
+nous avons	（我们有）
+vous avez	（你们有；您有，用于第二人称复数或敬称单数）
 six enfants	六个孩子[sis]
 sept	七[sɛt]
 huit	八[ɥit]
