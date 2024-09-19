@@ -636,4 +636,9 @@ Quelle est votre profession	您的职业是什么？
 Quelle est son adresse	他的地址是什幺？
 rue	街道，马路n.f.
 votre	你们的，您的
-vous您；你们pron.pers.（人称代词）
+vous	您；你们pron.pers.（人称代词）
+soixante	六十
+soixante et un	六十一
+soixante et une	六十一（阴性）
+soixante quatre	六十四
+soixante huit	六十八
