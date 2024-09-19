@@ -184,7 +184,7 @@ C'est mon ami	他是我的朋友
 avec	和。。。一起prep.=with
 Ju suis avec mon ami	我和我的朋友在一起
 avoir	有v.t.
-j'ai	我有（当动词以原音开头，je要改成j')
+j'ai	我有（当动词以原音开头，je要改成j')/e/
 tu as	你有
 il a	他有
 elle a	她有
@@ -241,3 +241,12 @@ soixante-onze	七十一
 soixante-dix-sept	七十七
 soixante-dix-huit	七十八
 soixante-dix-neuf	七十九
+j'ai un secrétaire	我有一个秘书
+Vous avez un rendez-vous	您有预约吗？
+il a une carte de visite	他有一张名片
+quatre-vingts	八十
+quatre-vingts-un	八十一
+quatre-vingts-dix	九十
+quatre-vingts-onze	九十一
+quatre-vingts-dix-neuf	九十九
+cent-un	一百零一

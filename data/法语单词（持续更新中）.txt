@@ -647,3 +647,12 @@ soixante-onze	七十一
 soixante-dix-sept	七十七
 soixante-dix-huit	七十八
 soixante-dix-neuf	七十九
+j'ai un secrétaire	我有一个秘书
+Vous avez un rendez-vous	您有预约吗？
+il a une carte de visite	他有一张名片
+quatre-vingts	八十
+quatre-vingts-un	八十一
+quatre-vingts-dix	九十
+quatre-vingts-onze	九十一
+quatre-vingts-dix-neuf	九十九
+cent-un	一百零一
