@@ -1,34 +1,3 @@
-mon école	我的学校（以元音字母或哑音h开头的阴性名词前，使用阳性定冠词“mon”“ton”“son”）
-ton amie	你的朋友（以元音字母或哑音h开头的阴性名词前，使用阳性定冠词“mon”“ton”“son”）
-son histoire	它的历史（以元音字母或哑音h开头的阴性名词前，使用阳性定冠词“mon”“ton”“son”）
-adresse	地址，住址n.f.
-Quelle est ton adresse	你的地址是什么？
-Quelle est votre adresse	您的地址是什么？
-âge	年龄，年纪n.m.
-aller	去；走；处于（某种状态）;运转，进行，进展v.i.
-je vais	我去
-tu vas	你去
-il va	他去
-elle va	她去
-nous allons	（我们去）
-vous allez	（您/你们去）
-ils vont	（他们去）
-elles vont	（她们去）
-alors	那么，在这种情况下adv.=Then
-amie	女朋友n.f.
-ami	朋友n.m.
-C'est mon ami	他是我的朋友
-avec	和。。。一起prep.=with
-Ju suis avec mon ami	我和我的朋友在一起
-avoir	有v.t.
-j'ai	我有（当动词以原音开头，je要改成j')
-tu as	你有
-il a	他有
-elle a	她有
-nous avons	（我们有）
-vous avez	（你们有；您有，用于第二人称复数或敬称单数）
-ils ont	（他们有）
-elles ont	（她们有）
 tu as son adresse	你有他的地址？
 Je suis au Canada	我在加拿大n.m.
 fille	女孩，姑娘；女儿n.f.
