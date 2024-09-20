@@ -3,7 +3,7 @@ class LearnWords {
         // 从 sessionStorage 中获取 studentName
         let studentName = sessionStorage.getItem('studentName');
         // 判断 studentName 是否为 null 或空值
-        const directoryName = studentName && studentName.trim() !== '' ? studentName : '英语';
+        const directoryName = studentName && studentName.trim() !== '' ? studentName : '法语';
         const filePath = `data/review/${directoryName}/${fileName}`;
         const cachedData = localStorage.getItem(filePath);
 
@@ -155,7 +155,7 @@ export function handleSwitchStudentClick() {
     const storedName = sessionStorage.getItem('studentName') || '';
 
     // Prompt the user to enter a student name and password
-    var input = prompt('请输入学生姓名和密码以继续 (例如 英语xx):', storedName);
+    var input = prompt('请输入学生姓名和密码以继续 (例如 法语xx):', storedName);
 
     // Check if the user entered input
     if (input !== null && input.trim() !== '') {
@@ -483,7 +483,7 @@ spellingInput.addEventListener('keydown', function (event) {
 function clearCachedData() {
     const fileName = document.getElementById("file").value + ".txt";
     // 从 sessionStorage 获取学生姓名，如果为空则使用默认值
-    const studentName = sessionStorage.getItem('studentName') || '英语';
+    const studentName = sessionStorage.getItem('studentName') || '法语';
     const filePath = `data/review/${studentName}/${fileName}`; // Adjust the file name accordingly
     localStorage.removeItem(filePath); // Remove cached data
 }
