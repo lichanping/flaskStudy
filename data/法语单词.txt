@@ -136,3 +136,23 @@ Je suis boulanger	我是一名面包师
 J'aime la photo	我喜欢摄影
 Portraits	肖像
 trouvez l'objet	找到物品
+Il y a	有,存在ph.
+des fleurs	一些花
+Il y a des fleurs dans le jardin	花园里有一些花
+Il y a trois arbres	有三棵树
+une fenêtre	一扇窗户
+J'aime les fleurs	我喜欢花
+Elle ouvrent les fenêtres	她们打开窗户
+Il ouvre la porte	他打开门
+Mon chien est blanc	我的狗是白色的
+Alice est très gentille	爱丽丝非常和善
+une voiture blanche	一辆白色的汽车
+Il y a un salon dans ma maison	我的房子里有一个客厅
+une vache	一头奶牛
+Les fleurs sont blanches	花是白色的
+Alice est ma voisine	爱丽丝是我的邻居
+la table et les chaises	桌子和椅子
+une pièce	一个房间
+J'ouvre la porte de la voiture	我打开汽车的门
+Nous aimons les fleurs	我们喜欢花
+les chats blancs	白色的猫
