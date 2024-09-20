@@ -267,3 +267,42 @@ hotmail point com	点；圆点；句点，标点；分数；学分[pwɛ̃]n.m.
 Comment va ton ami espagnol	你的西班牙朋友怎么样了？
 Il est à Paris avec son fils	他在巴黎和他的儿子一起。
 Il parle français maintenant	他现在会说法语
+Quel professeur tu préfères	你更喜欢哪个老师？
+Quelle voiture tu cherches	你想买什么车？
+Une Renault	雷诺车
+aimer	爱，热爱v.t.
+aussi	也adv.
+moi aussi	我也是。=metoo.
+Belgique	比利时n.f.
+bientôt	不久，马上adv.
+à bientôt	一会儿见，回头见loc.adv.
+boulangerie	面包房;面包店
+boulangerère	面包师傅n.f.
+boulanger	面包师傅（阳性）;面包师傅n.m.
+Bruxelles	布鲁塞尔（比利时的首都）
+Cayenne	卡宴（圭亚那的首府卡宴）
+chercher	找，寻找，寻觅
+Je cherche du travail	我正在找工作
+classique	古典的adj.
+la musique classique	古典乐
+cinéma	电影院;电影，电影艺术；电影院
+correspondante	通信者，有信件往来者（去e变成阳性）
+Dakar	达喀尔（塞内加尔的首都）
+espagnol	西班牙的；西班牙语；西班牙人n.m.
+guyanais	圭亚那的;圭亚那人
+Lausanne	洛桑[瑞士]
+littérature	文学n.f.
+moi	给我；我=me
+monde	世界n.m.
+musique	音乐
+la nature	自然n.f.
+québécoise	加拿大魁北克的adj.(去e变阳性）
+Sénégal	塞加内尔n.m.(位于西非，以其丰富的文化、音乐和多样的自然景观而闻名。)
+Sénégalaise	塞加内尔人
+Sénégalais	塞加内尔人（阳性）
+serveuse	服务员n.f.
+serveur	服务员n.m.
+souvent	经常，常常adv.
+un sport	一项体育运动，体育项目n.m.
+un peu	一点儿，一下，少许，稍微loc.adv.（副词短语）
+volley-ball	排球，排球运动n.m.
