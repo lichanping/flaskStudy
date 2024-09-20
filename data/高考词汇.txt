@@ -1,33 +1,3 @@
-midnight	(n.) 子夜，午夜
-trip	(n.) 旅行，远足
-tension	(n.) （精神上的）紧张，不安
-pronunciation	(n.) 发音
-harbor	(n.) 港口
-walnut	(n.) 核桃，胡桃
-competition	(n.) 比赛；竞争
-favorable	(adj.) 有利的，有助于...的
-watery	(adj.) 平淡的，稀薄无味的
-safety	(n.) 安全
-entrepreneur	(n.) 企业家，创业者
-ready	"adj.准备好的；即将……的，可能……的；v.预…"
-cure	"n.治疗，医治；vt.治愈，治疗"
-metal	(n.) 金属，合金，金属制品
-favorite	"adj.最爱的（同favourite）；n.最喜爱…"
-product	(n.) 产品；产物
-ankle	(n.) 踝，踝关节
-oxygen	(n.) 氧气，氧
-translation	(n.) 翻译
-middle	"adj.中部的，中间的；n.中部，中间"
-equally	(adv.) 同样地；平等地
-honestly	(adv.) 真诚地
-Friday	(n.) 星期五
-imply	(vt.) 暗示
-forest	(n.) 森林
-scholar	(n.) 学者
-researcher	(n.) 研究员
-female	"adj.雌性的；女性的；n.雌性动物"
-adapt	(v.) 适应
-factual	(adj.) 事实的
 motor	"n.马达，发动机；adj.机动车的"
 impair	(v.) 损害
 drop	"v.减少；降低；投，丢；中途卸客，中途卸货；放弃…"
