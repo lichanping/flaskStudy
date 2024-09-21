@@ -26,19 +26,3 @@ cage	(n.) 笼，鸟笼
 brighten	(v.) （使）变亮
 sugary	(adj.) 含糖的，甜的
 extinct	(adj.) 灭绝的；（火山）死的
-trigger	"vt.触发，引起，激发；n.诱因"
-combat	"n.战斗，格斗；v.与……战斗，与……斗争（读…"
-tank	(n.) 水槽，池塘
-construction	(n.) 建造；建筑；构造
-tolerate	"vt.忍受，容忍；容许，允许"
-contribute	"v.有助于；贡献；促成，导致"
-permission	(n.) 允许，同意
-steadily	(adv.) 持续地，稳步地
-religious	(adj.) 宗教的
-brick	(n.) 砖
-cell	(n.) 细胞；电池
-distribute	(v.) 分配；分发
-likability	(n.) 讨喜度
-entirely	(adv.) 完全地
-mineral	(n.) 矿物，矿物质；矿产
-overall	"adj.全面的，全部的；adv.总体上；总共（读…"

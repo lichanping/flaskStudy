@@ -1,3 +1,17 @@
+fille	女孩，姑娘；女儿n.f.
+journée	一天；白天，白昼n.f.
+Bonne journée	祝你一天愉快
+maintenant	现在，目前adv.
+Merci à vous	谢谢您
+Notre-Dame	圣母院n.f.inv(没有性数变化)
+Bonne nuit	晚安
+Bonne soirée	晚安
+Bonne route	祝您旅途愉快
+Bonne semaine	祝你一周愉快[s(ə)mεn]
+Bon voyage	旅行愉快
+Numéro	号码n.m.
+Le Numéro de téléphone	电话号码
+Les Champs-Élysées	香榭丽舍大街
 mon école	我的学校（以元音字母或哑音h开头的阴性名词前，使用阳性定冠词“mon”“ton”“son”）
 ton amie	你的朋友（以元音字母或哑音h开头的阴性名词前，使用阳性定冠词“mon”“ton”“son”）
 son histoire	它的历史（以元音字母或哑音h开头的阴性名词前，使用阳性定冠词“mon”“ton”“son”）
