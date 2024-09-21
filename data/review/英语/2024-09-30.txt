@@ -1,3 +1,31 @@
+motor	"n.马达，发动机；adj.机动车的"
+impair	(v.) 损害
+imprisonment	(n.) 监禁
+stain	"n.污渍，污迹；v.弄脏；玷污；染色"
+description	(n.) 描写，形容，叙述
+merchant	(n.) 商人；批发商
+cater	(v.) 迎合，满足需要
+ink	(n.) 墨水，油墨
+fierce	"adj.激烈的；凶猛的，凶狠的"
+paddle	"v.用脚（手）划水，荡桨；n.桨"
+systematic	(adj.) 系统的，有条理的
+adopt	(v.) 采纳，采用；收养
+bless	(vi.) 有幸具有
+misunderstand	(v.) 误解，误会
+military	(adj.) 军事的
+petal	(n.) 花瓣
+barbershop	(n.) 理发店
+noble	(adj.) 贵族的，高贵的
+claim	"v.声称；认领，要求（拥有）；n.声明"
+irrigation	(n.) 灌溉
+announcer	(n.) 播音员
+afterwards	(adv.) 以后
+unrest	(n.) 不安，骚动；动荡的局面
+potter	(n.) 陶工
+cage	(n.) 笼，鸟笼
+brighten	(v.) （使）变亮
+sugary	(adj.) 含糖的，甜的
+extinct	(adj.) 灭绝的；（火山）死的
 nerve	(n.) 神经
 remark	(n.) 话语，话
 bound	"adj.必然的；有义务的；受约束的，（在法律或道德…"
