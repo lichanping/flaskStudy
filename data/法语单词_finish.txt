@@ -752,3 +752,28 @@ avec	和。。。一起prep.=with
 avoir	有v.t.
 nous avons	（我们有）
 vous avez	（你们有；您有，用于第二人称复数或敬称单数）
+tu as son adresse	你有他的地址？
+Je suis au Canada	我在加拿大n.m.
+C'est ma fille	这是我的女儿
+C'est mon fils	这是我的儿子
+C'est une fille	这是一个女孩
+Hôtel	宾馆n.m.
+Montréal	蒙特利尔(加拿大一座充满魅力的城市)
+Notre-Dame de Paris	巴黎圣母院
+Notre-Dame de Marseille	马赛圣母院
+Nuit	夜n.f.
+Bon week-end	周末愉快
+fille	女孩，姑娘；女儿n.f.
+journée	一天；白天，白昼n.f.
+Bonne journée	祝你一天愉快
+maintenant	现在，目前adv.
+Merci à vous	谢谢您
+Notre-Dame	圣母院n.f.inv(没有性数变化)
+Bonne nuit	晚安
+Bonne soirée	晚安
+Bonne route	祝您旅途愉快
+Bonne semaine	祝你一周愉快[s(ə)mεn]
+Bon voyage	旅行愉快
+Numéro	号码n.m.
+Le Numéro de téléphone	电话号码
+Les Champs-Élysées	香榭丽舍大街
