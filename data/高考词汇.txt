@@ -653,3 +653,51 @@ rag	(n.) 抹布，破布，碎布
 command	"v.掌管，控制；n.掌握；控制"
 plug	"vt.插入（插头），接通（电源）；补足；把......…"
 basket	(n.) 篮，篓，筐
+coax	(v.) 哄，哄诱
+librarian	(n.) 图书管理员
+importance	(n.) 重要性
+choke	"v.呛，噎，（使）窒息；n.窒息，噎住"
+component	(n.) 零件，组成部分
+spit	(v.) 吐（唾沫）
+game	(n.) 游戏；比赛
+sustainability	(n.) 持续性，能维持性
+usual	(adj.) 通常的，惯常的
+peak	"adj.峰值的；v.达到最高点；n.尖端；山峰，峰…"
+reject	(v.) 拒绝，拒绝接受
+cooker	(n.) 炉具，炊具
+acid	"n.【化学】酸；酸性物质；adj.酸的"
+relation	(n.) 关系，联系
+right	"adj.正确的；合适的；右边的；adv.正好，恰好；…"
+preparation	(n.) 准备，预备；准备工作
+narrow	"v.使缩小，压缩；adj.（想法、态度或信仰）狭…"
+obesity	(n.) 肥胖
+visitor	(n.) 游客
+weave	(v.) 迂回行进
+unclear	(adj.) 不清楚的
+shelter	(n.) 隐蔽处，躲避处
+being	(n.) 生命
+airplane	(n.) 飞机
+assumption	(n.) 假定，设想
+modest	(adj.) 谦虚的
+block	"v.阻挡，妨碍，阻塞；n.街区；阻碍；块状物"
+correctly	(adv.) 正确地
+advice	(n.) 建议，意见
+shuttle	"n.短程穿梭运行的车辆；vi.穿梭，移动"
+choose	(v.) 选择，挑选
+handle	"v.处理，解决；操纵（车辆、动物、工具等）；n.…"
+immediate	(adj.) 立刻的
+lantern	(n.) 灯笼
+serious	"adj.严重的；认真的，严肃的"
+passport	(n.) 护照
+abnormal	(adj.) 反常的
+lazy	(adj.) 懒惰的，懒散的
+bachelor	(n.) 学士
+under	"prep.在……之下；在……的领导下；处于……情况…"
+relative	"adj.相对的；n.亲戚，家人，亲属"
+caution	(n.) 谨慎，小心
+tissue	"n.（人、动植物细胞的）组织"
+spell	(v.) 拼写
+classic	(adj.) 经典的；n.经典著作
+pan	(n.) 平底锅
+climate	(n.) 气候
+violin	(n.) 小提琴
