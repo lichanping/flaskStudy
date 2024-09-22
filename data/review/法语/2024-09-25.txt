@@ -1,3 +1,7 @@
+Vous parlez quelle langue	您讲哪种语言
+Quel est votre nom	您姓什么？
+Quelle est votre profession	您的职业是什么？
+rue	街道，马路n.f.
 plage	沙滩
 visites	去玩(第二人称单数的现在时变位形式)
 musée	博物馆
