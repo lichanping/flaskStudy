@@ -1,3 +1,7 @@
+Vous parlez quelle langue	您讲哪种语言
+Quel est votre nom	您姓什么？
+Quelle est votre profession	您的职业是什么？
+rue	街道，马路n.f.
 mon école	我的学校（以元音字母或哑音h开头的阴性名词前，使用阳性定冠词“mon”“ton”“son”）
 ton amie	你的朋友（以元音字母或哑音h开头的阴性名词前，使用阳性定冠词“mon”“ton”“son”）
 son histoire	它的历史（以元音字母或哑音h开头的阴性名词前，使用阳性定冠词“mon”“ton”“son”）

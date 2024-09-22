@@ -1,3 +1,7 @@
+Vous parlez quelle langue	您讲哪种语言
+Quel est votre nom	您姓什么？
+Quelle est votre profession	您的职业是什么？
+rue	街道，马路n.f.
 fille	女孩，姑娘；女儿n.f.
 journée	一天；白天，白昼n.f.
 Bonne journée	祝你一天愉快
