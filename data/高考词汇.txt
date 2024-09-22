@@ -1,33 +1,3 @@
-reunite	(v.) 重逢，再次相聚
-wrinkle	(n.) 窍门
-forbid	(v.) 禁止
-capsule	(n.) 胶囊；航天舱，密封舱
-data	(n.) 数据
-selflessly	(adv.) 无私地
-breakdown	"n.故障，损坏；分解；倒塌，崩溃"
-bee	(n.) 蜜蜂
-cucumber	(n.) 黄瓜
-subscribe	(vi.) 订阅
-sustainable	(adj.) 可持续的
-injury	(n.) 伤害
-key	"adj.关键的；n.钥匙；关键，要诀；键；音调，声调"
-chocolate	(n.) 巧克力
-written	(adj.) 书面的
-courtroom	(n.) 法庭；审判室
-wealth	(n.) 财富，财产
-essay	(n.) 文章，短文；论文
-cave	"n.山洞，洞穴；v.洞穴探险"
-motto	"n.座右铭；格言；箴言；口号"
-headache	(n.) 头痛；麻烦
-pursue	(v.) 追求
-exploit	(v.) 利用
-swim	(v.) 游泳；n.游泳
-sound	"v.听起来；n.声音，声响；adj.明智的"
-nickname	"n.诨号；绰号；昵称；vt.起绰号"
-Britain	(n.) 大不列颠，英国
-dismiss	(v.) 不考虑
-steady	(adj.) 稳步的
-round	"prep.在…周围，包围；(adj.) 圆的，球形的"
 ought	(v.) 应该，应当，本该
 prevention	(n.) 预防，防止，防范
 homework	(n.) 家庭作业
