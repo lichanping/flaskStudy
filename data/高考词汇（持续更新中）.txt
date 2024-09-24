@@ -191,7 +191,7 @@ supermarket	(n.)超市
 grocery store	(n.)食品杂货店
 food	(n.)食物，食品，养料
 cuisine	(n.)菜肴；烹饪；风味
-dilemma	(n.)进退两难的窘境
+dilemma	(n.)进退两难的窘境;困境
 vine	(n.)藤，蔓；葡萄属植物；葡萄藤
 mobile	(adj.)可移动的；行动方便的
 portable	(adj.)轻便的，手提的，便携式的；【财】便于携带的…
@@ -386,7 +386,7 @@ little	"adj.幼小的；小的；少的；det.几乎没有；（与不可…"
 tiny	"adj.很少的；微小的；极小的；矮小的；n.小孩子…"
 attack	"v.攻击，袭击；全力应对，奋力处理；n.疾病发作…"
 drown	(v.)淹没
-tip	(n.)诀窍，建议；小费；尖端
+tip	(n.)诀窍，建议；小费；尖端;顶端，小费
 access	"n.（使用或见到的）机会，权利；接触；通道；访问…"
 entrance	"n.入口，通道；大门口；出场，登场；进入；（大学…"
 change	"n.改变，变化；v.变化，改变"
@@ -903,7 +903,7 @@ fluent	(adj.)（语言）讲得流利的
 end	"n.终止，结束；末端，终点；v.结束"
 alongside	"prep.在旁边，和……并排；和……一起；和......…"
 explosion	(n.)爆炸
-still	(adv.)还，仍
+still	(adv.)还，仍;仍然
 improve	(v.)改进，改善；提高
 weekly	"adj.每周的，一周一次的；adv.一周一次地"
 application	(n.)应用；申请（书）
@@ -1512,7 +1512,7 @@ power	"n.力量；电力；权力；v.驱动"
 transportation	(n.)交通；运输
 AIDS	"abbr.艾滋病，获得性免疫缺陷综合征"
 tight	(adj.)严密的；紧张的
-sideways	"adv.向侧面地；侧；斜着地；adj.旁边的；斜着…"
+sideways	"adv.向侧面地；侧；斜着地；adj.旁边的；斜着…";横向的
 cheers	(int.)干杯
 express	(v.)表达；adj.快速的
 frequent	"adj.时常的，频繁的（读作/ˈfrikwənt/）"
@@ -1560,7 +1560,7 @@ major	"adj.主要的；严重的；n.主修（科目）；主修学生…"
 stewardess	"n.（飞机上的）女服务员，空姐；女管家"
 astonishing	(adj.)令人惊讶的
 blank	"n.空白，空白处；adj.（纸等）空白的；茫然的"
-swell	(v.)膨胀，鼓起
+swell	(v.)膨胀，鼓起;肿胀
 prepare	(v.)准备
 jet	"n.喷气式飞机；vi.乘坐喷气式飞机"
 competent	(adj.)有能力的
@@ -1686,7 +1686,7 @@ tremendous	(adj.)巨大的
 cowboy	(n.)牛仔
 kind	"n.种类；adj.善良的，仁慈的，亲切的，和蔼的"
 calculator	(n.)计算器，计算者
-dominant	(adj.)主要的，占优势的
+dominant	(adj.)主要的，占优势的;支配的
 resolve	(v.)解决（问题或困难）
 library	(n.)图书馆，藏书室
 consider	"v.考虑，细想；认为；把…看作"
@@ -3163,7 +3163,7 @@ though	"conj.虽然，尽管；adv.然而，不过"
 authority	(n.)当局，官方；权威，威信
 unable	(adj.)不能的
 wrist	(n.)腕部
-forward	(adv.)向前，向将来；前进
+forward	(adv.)向前，向将来；前进;向前的
 backbone	(n.)脊椎；骨干，支柱
 laboratory	(n.)（=lab）实验室
 nurse	(n.)护士
@@ -3285,3 +3285,29 @@ landlord	地主，房东
 grandchild	孙子，孙女
 stale	不新鲜过时的
 correspond	一致
+jewellery	珠宝
+exterior	外部，外表
+privilege	特权
+asset	资产，优点
+wicked	邪恶的，淘气的
+notion	观念，意图
+proceed	进行，前进
+commander	指挥官
+sketch	草图，梗概
+tackle	对付，阻截
+squirrel	松鼠
+devil	魔鬼，家伙
+accelerate	加速，促进
+decent	正派的，得体的
+perceive	感知，理解
+pop	通俗的，流行的
+recipient	接受者，接收者
+massacre	大屠杀
+videophone	可视电话
+spear	矛，梭镖
+oblige	迫使，施恩于
+adjective	形容词
+fuss	忙乱，小题大做
+virtually	实际上，事实上
+fame	声誉
+conjunction	联合，连词
