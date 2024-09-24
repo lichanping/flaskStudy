@@ -387,7 +387,7 @@ elle est japonaise	她是日本人
 en angleterre	在英国
 les magasins sont grands	商店很大
 le magasin	商店
-la voiture est grands	汽车很大
+la voiture est grande	汽车很大
 les tables sont petites	桌子很小（复数）
 les écoles sont petites	学校很小（复数）
 la banque est petite	银行很小
@@ -748,3 +748,4 @@ une pièce	一个房间
 J'ouvre la porte de la voiture	我打开汽车的门
 Nous aimons les fleurs	我们喜欢花
 les chats blancs	白色的猫
+ta sœur parle francais	你的姐妹说法语
