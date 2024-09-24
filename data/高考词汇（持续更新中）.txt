@@ -255,7 +255,7 @@ utilize	(v.)利用；使用；运用
 disgusting	"adj.令人厌恶的；令人无法接受的"
 newly	(adv.)最近，新近
 prize	(n.)奖品，奖赏
-award	"n.奖品；奖学金；判决；奖赏；奖，奖章；vt.奖励…";(n.) 奖，奖章；v.授予
+award	"n.奖品；奖学金；判决；奖赏；奖，奖章；vt.奖励…";(n.)奖，奖章；v.授予
 eagle	"n.鹰；（高尔夫球赛中）少击两杆入穴的成绩；vt.…"
 disposal	(n.)销毁，丢掉，处理
 position	"n.职位；位置；地位；姿势；v.安置"
@@ -455,7 +455,7 @@ drawer	(n.)抽屉
 become	"开始变得；v.成为；变成"
 garlic	(n.)大蒜
 argue	(v.)争论；主张，认为
-debate	"n.辩论；讨论，争论；v.辩论；争论，议论";(n.) 辩论；v.辩论
+debate	"n.辩论；讨论，争论；v.辩论；争论，议论";(n.)辩论；v.辩论
 eastward	(adv.)向东；adj.向东的
 stand for	(phr.)代表，象征
 argument	(n.)论据，论点；争吵，争论
@@ -926,7 +926,7 @@ picnic	(n.)野餐
 governor	(n.)州长；主管，负责人
 April	(n.)四月（略作Apr.）
 emotional	(adj.)感情的，情绪的
-genuine	(adj.)真的；真正的；真诚的
+genuine	(adj.)真的；真正的；真诚的;真诚的，真的
 flash	"v.闪光；闪现，闪过；n.闪光；刹那"
 skill	(n.)技能；技巧
 artist	(n.)艺术家，画家
@@ -2287,7 +2287,7 @@ comfort	(n.)舒适；v.安慰
 liberation	(n.)解脱，解放
 workshop	"n.车间，工场，工作室；研讨会"
 possession	(n.)拥有；所有物
-parade	(n.)游行
+parade	(n.)游行;游行，检阅
 logically	"adv.逻辑上，合逻辑地，有条理地"
 discard	(v.)丢掉
 course	(n.)课程；过程；adv.当然
@@ -2614,7 +2614,7 @@ inch	(n.)英寸；少许，少量
 order	"v.订购；点（食物、饮料）；命令；n.订单；…"
 courage	(n.)勇气，胆量
 pollute	(v.)污染，弄脏
-sponsor	(vt.)赞助；n.赞助人
+sponsor	(vt.)赞助；n.赞助人;赞助者
 sick	(adj.)生病的；对...厌倦的
 troublesome	(adj.)引起麻烦的
 hail	"n.冰雹；v.下冰雹；赞扬，称颂（尤用于报章等）"
@@ -3225,51 +3225,63 @@ rag	(n.)抹布，破布，碎布
 command	"v.掌管，控制；n.掌握；控制"
 plug	"vt.插入（插头），接通（电源）；补足；把......…"
 basket	(n.)篮，篓，筐
-coax	(v.) 哄，哄诱
-librarian	(n.) 图书管理员
-importance	(n.) 重要性
+coax	(v.)哄，哄诱
+librarian	(n.)图书管理员
+importance	(n.)重要性
 choke	"v.呛，噎，（使）窒息；n.窒息，噎住"
-component	(n.) 零件，组成部分
-spit	(v.) 吐（唾沫）
-game	(n.) 游戏；比赛
-sustainability	(n.) 持续性，能维持性
-usual	(adj.) 通常的，惯常的
+component	(n.)零件，组成部分
+spit	(v.)吐（唾沫）
+game	(n.)游戏；比赛
+sustainability	(n.)持续性，能维持性
+usual	(adj.)通常的，惯常的
 peak	"adj.峰值的；v.达到最高点；n.尖端；山峰，峰…"
-reject	(v.) 拒绝，拒绝接受
-cooker	(n.) 炉具，炊具
+reject	(v.)拒绝，拒绝接受
+cooker	(n.)炉具，炊具
 acid	"n.【化学】酸；酸性物质；adj.酸的"
-relation	(n.) 关系，联系
+relation	(n.)关系，联系
 right	"adj.正确的；合适的；右边的；adv.正好，恰好；…"
-preparation	(n.) 准备，预备；准备工作
+preparation	(n.)准备，预备；准备工作
 narrow	"v.使缩小，压缩；adj.（想法、态度或信仰）狭…"
-obesity	(n.) 肥胖
-visitor	(n.) 游客
-weave	(v.) 迂回行进
-unclear	(adj.) 不清楚的
-shelter	(n.) 隐蔽处，躲避处
-being	(n.) 生命
-airplane	(n.) 飞机
-assumption	(n.) 假定，设想
-modest	(adj.) 谦虚的
+obesity	(n.)肥胖
+visitor	(n.)游客
+weave	(v.)迂回行进
+unclear	(adj.)不清楚的
+shelter	(n.)隐蔽处，躲避处
+being	(n.)生命
+airplane	(n.)飞机
+assumption	(n.)假定，设想
+modest	(adj.)谦虚的
 block	"v.阻挡，妨碍，阻塞；n.街区；阻碍；块状物"
-correctly	(adv.) 正确地
-advice	(n.) 建议，意见
+correctly	(adv.)正确地
+advice	(n.)建议，意见
 shuttle	"n.短程穿梭运行的车辆；vi.穿梭，移动"
-choose	(v.) 选择，挑选
+choose	(v.)选择，挑选
 handle	"v.处理，解决；操纵（车辆、动物、工具等）；n.…"
-immediate	(adj.) 立刻的
-lantern	(n.) 灯笼
+immediate	(adj.)立刻的
+lantern	(n.)灯笼
 serious	"adj.严重的；认真的，严肃的"
-passport	(n.) 护照
-abnormal	(adj.) 反常的
-lazy	(adj.) 懒惰的，懒散的
-bachelor	(n.) 学士
+passport	(n.)护照
+abnormal	(adj.)反常的
+lazy	(adj.)懒惰的，懒散的
+bachelor	(n.)学士
 under	"prep.在……之下；在……的领导下；处于……情况…"
 relative	"adj.相对的；n.亲戚，家人，亲属"
-caution	(n.) 谨慎，小心
+caution	(n.)谨慎，小心
 tissue	"n.（人、动植物细胞的）组织"
-spell	(v.) 拼写
-classic	(adj.) 经典的；n.经典著作
-pan	(n.) 平底锅
-climate	(n.) 气候
-violin	(n.) 小提琴
+spell	(v.)拼写
+classic	(adj.)经典的；n.经典著作
+pan	(n.)平底锅
+climate	(n.)气候
+violin	(n.)小提琴
+individual	单独的；个人
+concede	承认，允许
+ridge	山脊
+publication	出版，发表
+rod	杆，棒
+flaw	缺点，瑕疵
+beam	光线，横梁
+dose	剂量，一份
+landlord	地主，房东
+grandchild	孙子，孙女
+stale	不新鲜过时的
+correspond	一致
