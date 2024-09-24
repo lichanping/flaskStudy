@@ -420,3 +420,61 @@ oui et elle c'est nicole	是的，她是妮可
 tu t'appelles giacomo	你的名字是贾科莫
 tu es italien	你是意大利人
 ju suis italien	我是意大利人
+un homme mange un chocolat	一个男人吃一块巧克力
+le mari de julia	"Julia的丈夫"
+le frère de louis	"Louis的兄弟"
+tu es un cheval	你是一匹马吗？
+un bon café	一杯好咖啡
+je suis dans le jardin	我在花园里
+ta sœur parle francais你的姐妹说法语
+mon père et ma mère	我的父亲和我的母亲
+le chat est dans la voiture	猫在汽车里
+dans la voiture	在汽车里
+ma famille habite dans une maison	我一家人住在一幢房子里
+où habite ta grandmère	你祖母住在哪里？
+ma maison	我的房子
+elle est japonaise	她是日本人
+en angleterre	在英国
+les magasins sont grands	商店很大
+le magasin	商店
+la voiture est grands	汽车很大
+les tables sont petites	桌子很小（复数）
+les écoles sont petites	学校很小（复数）
+la banque est petite	银行很小
+la banque est grande	银行很大
+la maison est grande	房子很大
+les universités américaines	美国大学（复数）
+les vélos	自行车（复数）
+la station de métro	地铁站
+où est l'hôpital	医院在哪里？
+duo est vert	朵儿是绿色的
+une école verte	一个绿色的学校
+j'ai un vélo	我有一辆自行车
+la pharmacie	药店
+une plante	一株植物
+le supermarché est ouvert	超市营业中
+j'aime les plantes	我喜欢植物
+voyages	“旅行”(复数形式)例如：J'aimelesvoyages.（我喜欢旅行。）
+vacances	假期;度假
+vont	（去）的第三人称复数形式。例如：Ilsvontàl'école.（他们去学校。）
+voyage	旅行
+visite	去玩；“参观；访问；（动词/名词）
+pays	“国家；乡村”
+voyageons	旅行、航行(第一人称复数的现在时变位形式)例如“nousvoyageons”（我们旅行）
+voyagent	旅行（第三人称复数的现在时变位形式）
+visites	去玩(第二人称单数的现在时变位形式)
+musée	博物馆
+aux-	是“à”+“les”的缩合形式。例如：Jevaisauxéglises.（我去那些教堂。）
+le mexique est un pays	墨西哥是一个国家
+je visite le japon我去日本玩
+j'aime le mexique	我喜欢墨西哥
+le japon est un pays	日本是一个国家
+le brésil est ton pays	巴西是你的国家
+mon mari veut une voiture	我的丈夫想要一辆汽车
+le restaurant est ouvert	饭馆营业中
+une ville française	一个法国城市
+visitons	去玩；参观（第一人称复数命令式形式)意思是“让我们参观”。
+plage	沙滩
+veulent	“想要”“愿意”“希望”(第三人称复数形式)“theywant”（他们想要）
+château	城堡(阳性名词)
+église	教堂(阴性名词)
