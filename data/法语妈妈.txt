@@ -1,53 +1,3 @@
-danseur	舞蹈家（阳性）
-danseuse	舞蹈家（阴性）
-boulanger	面包师傅（阳性）
-boulangère	面包师傅（阴性）
-juif	犹太的,犹太人的（阳性）
-juive	犹太的,犹太人的（阴性）
-informaticien	计算机编程员，信息论专家（阳性）
-informaticienne	计算机编程员，信息论专家（阴性）
-six enfants	六个孩子[sis]
-sept	七[sɛt]
-huit	八[ɥit]
-neuf	九[nœf]
-dix	十[dis]
-onze	十一[ɔ̃z]
-douze	十二[du:z]
-treize	十三[trɛ:z]
-quatorze	十四[katɔrz]
-quinze	十五[kɛ̃z]
-seize personnes	十六个人[sɛz]
-dix-sept	十七[dissɛt]
-dix-huit	十八[dizɥit]
-dix-neuf	十九[diznœf]
-vingt	二十[vɛ̃t]
-américain	美国的；美国人的
-américaine	美国的；美国人的（阴性）
-familier	(adj.)家庭的;亲近的,亲密的,亲热的;熟悉的;习以为常的,习惯的;通晓的
-familière	(adj.)家庭的;(阴性）
-neuf	九[nœf];(adj.)新的，新建的，新做的，尚未用过的；
-neuve	(adj.)新的（阴性）
-cher	(adj.)(m)亲爱的
-chère	(adj.)(m)亲爱的（阴性）
-heureux	(adj.)幸福的，美满的；快乐的;高兴的
-heureuse	(adj.)幸福的，美满的；快乐的;高兴的(阴性）
-le Japon	日本（介词+国别名词）阳性
-le Canada	加拿大
-l'Iran	伊朗
-la France	法国（介词+国别名词）阴性
-la Chine	中国
-l'Italie	意大利
-les États-Unis	美国
-les Pays-Bas	荷兰
-les Philippines	菲律宾
-J'habite en France.	我住在法国。n+阴性单数国名(省略冠词）
-J'habite en Italie.	我住在意大利。n+阴性单数国名(省略冠词）
-Elle habite en Iran	她住在伊朗。en+以元音开头的阳性单数国名(省略冠词）
-J'habite au Japon	我住在日本。au+以辅音开头的阳性单数国名(au=à+le）
-J'habite au Canada	我住在加拿大。
-J'habite aux États-Unis.	我住在美国。
-J'habite aux Philippines.	我住在菲律宾。
-le Caire	(开罗)个别城市名有阴阳性之分
 Il habite au Caire.	(他住在开罗。au=à+le)遇到介词à时，介词要与定冠词缩合
 Vous êtes photographe？	您是摄影师吗？
 Vous êtes française	你是法国人吗？
@@ -170,7 +120,6 @@ bientôt	不久，马上adv.
 à bientôt	一会儿见，回头见loc.adv.
 boulangerie	面包房;面包店
 boulangerère	面包师傅n.f.
-boulanger	面包师傅（阳性）;面包师傅n.m.
 Bruxelles	布鲁塞尔（比利时的首都）
 Cayenne	卡宴（圭亚那的首府卡宴）
 chercher	找，寻找，寻觅
