@@ -111,3 +111,20 @@ une pièce	一个房间
 J'ouvre la porte de la voiture	我打开汽车的门
 Nous aimons les fleurs	我们喜欢花
 les chats blancs	白色的猫
+Les légumes sont bons	蔬菜很好吃
+un légume	一种蔬菜n.m.
+un fruit	一个水果n.m.
+Ces plats sont bons	这些菜很好吃，菜n.m.
+Je cuisine un plat	我做一道菜
+Ces pizzas sont bonnes	这些披萨很好
+Tu cuisines un plat français	你做一道法国菜吗？
+Paul prépare le dîner	保罗做晚餐
+repas	饮食；餐；进餐n.m.
+Tu prépares le repas	你做饭吗？
+prendre	拿，取，抓,吃，喝，vt.
+Ils prennent un thé	他们喝一杯茶（“prennent”是法语动词“prendre”的第三人称复数变位形式。）
+Il veut une pomme	他想要一个苹果n.f.
+Cette banane est bonne	这根香蕉n.f.很好吃(ce的阴性单数)这。
+J'aime les fruits	我喜欢水果n.m.
+Je cuisine des légumes	我做一些蔬菜（“des”可以表示一些，用于修饰可数名词复数，不分阴阳性。）
+Il mange un œuf	他吃了一个鸡蛋
