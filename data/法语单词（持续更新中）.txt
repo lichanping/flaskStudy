@@ -474,7 +474,7 @@ une chaise	一把椅子
 ah	啊!唉!interj.
 médecin assistant	助理医生
 assistante	助理，助手，副手n.
-belge	比利时的adj.英文表达是 “Belgian”;比利时人n.Belge（首字母大写）英文表达是 “Belgian”（单数形式）/“Belgians”（复数形式）
+belge	比利时的adj.英文表达是“Belgian”;比利时人n.Belge（首字母大写）英文表达是“Belgian”（单数形式）/“Belgians”（复数形式）
 chinois	中国的adj.；中国人n.（首字母大写）
 chinoise	中国的adj.中国人n.（首字母大写）
 cours	课，课程n.m.[kur]
@@ -512,8 +512,8 @@ danseur	舞蹈家（阳性）
 danseuse	舞蹈家（阴性）[dɑ̃søz]
 juif	犹太的,犹太人的（阳性）
 juive	犹太的,犹太人的（阴性）
-informaticien	计算机编程员，信息论专家（阳性）[ɛ̃fɔrmatisjɛ̃, -εn]
-informaticienne	计算机编程员，信息论专家（阴性）[ɛ̃fɔrmatisjɛ̃, -εn]
+informaticien	计算机编程员，信息论专家（阳性）[ɛ̃fɔrmatisjɛ̃,-εn]
+informaticienne	计算机编程员，信息论专家（阴性）[ɛ̃fɔrmatisjɛ̃,-εn]
 six enfants	六个孩子[sis]
 sept	七[sɛt]
 huit	八[ɥit]
@@ -543,20 +543,20 @@ le Canada	加拿大
 l'Iran	伊朗
 la France	法国（介词+国别名词）阴性
 la Chine	中国
-l'Italie	意大利(英语中是 “Italy”)
+l'Italie	意大利(英语中是“Italy”)
 les États-Unis	美国
-les Pays-Bas	荷兰(英语中常用 “Netherlands” 或 “Holland” 来表示荷兰)
+les Pays-Bas	荷兰(英语中常用“Netherlands”或“Holland”来表示荷兰)
 les Philippines	菲律宾
 J'habite en France.	我住在法国。n+阴性单数国名(省略冠词）
 J'habite en Italie.	我住在意大利。n+阴性单数国名(省略冠词）
 Elle habite en Iran	她住在伊朗。en+以元音开头的阳性单数国名(省略冠词）
 J'habite au Japon	我住在日本。au+以辅音开头的阳性单数国名(au=à+le）
 J'habite au Canada	我住在加拿大。
-J'habite aux États-Unis.	我住在美国。
-J'habite aux Philippines.	我住在菲律宾。
+J'habite aux États-Unis	我住在美国。
+J'habite aux Philippines	我住在菲律宾。
 le Caire	(开罗)个别城市名有阴阳性之分
-Il habite au Caire.	(他住在开罗。au=à+le)遇到介词à时，介词要与定冠词缩合
-Vous êtes photographe？	您是摄影师吗？
+Il habite au Caire	(他住在开罗。au=à+le)遇到介词à时，介词要与定冠词缩合
+Vous êtes photographe	您是摄影师吗？
 Vous êtes française	你是法国人吗？
 Vous habitez en France	您居住在法国?
 Vous êtes dans le cours d'italien	您正在学习意大利语课程
