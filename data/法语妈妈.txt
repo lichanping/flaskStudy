@@ -1,18 +1,3 @@
-Il habite au Caire.	(他住在开罗。au=à+le)遇到介词à时，介词要与定冠词缩合
-Vous êtes photographe？	您是摄影师吗？
-Vous êtes française	你是法国人吗？
-Vous habitez en France	您居住在法国?
-Vous êtes dans le cours d'italien	您正在学习意大利语课程
-mon école	我的学校（以元音字母或哑音h开头的阴性名词前，使用阳性定冠词“mon”“ton”“son”）
-ton amie	你的朋友（以元音字母或哑音h开头的阴性名词前，使用阳性定冠词“mon”“ton”“son”）
-son histoire	它的历史（以元音字母或哑音h开头的阴性名词前，使用阳性定冠词“mon”“ton”“son”）
-adresse	地址，住址n.f.
-Quelle est ton adresse	你的地址是什么？
-Quelle est votre adresse	您的地址是什么？
-âge	年龄，年纪n.m.
-aller	去；走；处于（某种状态）;运转，进行，进展v.i.
-je vais	我去
-tu vas	你去
 il va	他去
 elle va	她去
 nous allons	（我们去）
