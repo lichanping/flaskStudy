@@ -60,6 +60,7 @@ class FrenchTTSProcessor:
             else:
                 excluded_voices = [
                     'Microsoft Server Speech Text to Speech Voice (fr-FR, EloiseNeural)',
+                    'Microsoft Server Speech Text to Speech Voice (fr-FR, VivienneMultilingualNeural)'
                 ]
                 # Choose voice from the voice library
                 all_voices = voices.find(Language="fr", Locale="fr-FR")  # For French voices
