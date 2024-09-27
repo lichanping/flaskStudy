@@ -225,3 +225,7 @@ livres	书
 vache	奶牛，牛
 gentil	和善
 gentils	和善
+Cédric veut lire trois livres aujourd'hui	"Cédric今天想读三本书"
+la salle	"这个房间"
+Il y a trois pièces	有三个房间
+J'aime l'appartement de mes voisins	我喜欢我邻居的公寓
