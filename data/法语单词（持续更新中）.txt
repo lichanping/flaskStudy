@@ -700,7 +700,7 @@ Sénégalaise	塞加内尔人
 Sénégalais	塞加内尔人（阳性）
 serveuse	服务员n.f.
 serveur	服务员n.m.
-souvent	经常，常常adv.
+souvent	经常，常常adv.;经常
 un sport	一项体育运动，体育项目n.m.
 un peu	一点儿，一下，少许，稍微loc.adv.（副词短语）
 volley-ball	排球，排球运动n.m.
@@ -757,7 +757,7 @@ Je cuisine un plat	我做一道菜
 Ces pizzas sont bonnes	这些披萨很好
 Tu cuisines un plat français	你做一道法国菜吗？
 Paul prépare le dîner	保罗做晚餐
-repas	饮食；餐；进餐n.m.
+repas	饮食；餐；进餐n.m.;饭，菜，餐
 Tu prépares le repas	你做饭吗？
 prendre	拿，取，抓,吃，喝，vt.
 Ils prennent un thé	他们喝一杯茶（“prennent”是法语动词“prendre”的第三人称复数变位形式。）
@@ -766,3 +766,51 @@ Cette banane est bonne	这根香蕉n.f.很好吃(ce的阴性单数)这。
 J'aime les fruits	我喜欢水果n.m.
 Je cuisine des légumes	我做一些蔬菜（“des”可以表示一些，用于修饰可数名词复数，不分阴阳性。）
 Il mange un œuf	他吃了一个鸡蛋
+parfois	有时候
+samedi	周六
+radio	收音机
+dimanche	周日
+écoute	听
+écoutons	“我们听”。例如：Nousécoutonslamusique.（我们听音乐。）
+ai	有
+jeudi	周四
+dors	睡，睡觉，睡得
+vendredi	周五
+lit	读，阅读，床
+nuit	夜晚，晚
+après-midi	下午
+mercredi	周三
+lis	阅读，读
+journal	报纸
+mardi	周二
+joue	演出，演得，踢得
+après	之后，后
+jouent	演出，拉得，演奏。例如：Ilsjouentdupiano.（他们弹钢琴。）
+soir	晚上
+enfant	小孩子，小孩，孩子
+lundi	周一
+chaque	每个，每，每场
+regarde	看
+regardent	看
+jour	天，日子
+télé	电视
+bonnes	好的，好吃的，好
+cuisine	厨房，菜，正在做饭
+cuisines	菜，在做，做
+bons	好吃的，美好的，好
+plat	菜
+légume	蔬菜
+préparent	准备，做
+bonne	好，好的，美好的
+fruit	水果
+pomme	苹果
+banane	香蕉
+ces	这些
+prêt	准备好了
+prépares	准备，做
+prête	准备好了，借
+prépare	准备，做
+cette	这，这所，这个，用于阴性单数名词前。
+préparons	准备，做
+déjeuner	午餐，吃午餐
+dîner	晚餐，吃晚餐
