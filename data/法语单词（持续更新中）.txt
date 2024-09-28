@@ -441,7 +441,7 @@ nous visitons berlin	我们去柏林玩
 appeler	名叫
 bienvenue	欢迎n.f.
 bonjour	您好，早上好n.m
-ce	这pron.dém
+ce	这pron.dém;这，这个
 un club	俱乐部，会，社n.m
 être	是v.i
 italien	意大利的；n.意大利人；n.m.意大利语;(adj.)意大利的，意大利语的
@@ -474,7 +474,7 @@ une chaise	一把椅子
 ah	啊!唉!interj.
 médecin assistant	助理医生
 assistante	助理，助手，副手n.
-belge	比利时的adj.英文表达是 “Belgian”;比利时人n.Belge（首字母大写）英文表达是 “Belgian”（单数形式）/“Belgians”（复数形式）
+belge	比利时的adj.英文表达是“Belgian”;比利时人n.Belge（首字母大写）英文表达是“Belgian”（单数形式）/“Belgians”（复数形式）
 chinois	中国的adj.；中国人n.（首字母大写）
 chinoise	中国的adj.中国人n.（首字母大写）
 cours	课，课程n.m.[kur]
@@ -496,7 +496,7 @@ secrétaire	秘书n.[s(ə)kretεr]
 s'il vous plaît	请，请您，请问loc.
 Suisse	瑞士Suisse（n.f）=英语：Switzerland
 sympa	（俗）给人好感的，讨人喜欢的adj.inv.
-téléphone	电话；电话机n.m
+téléphone	电话；电话机n.m;电话
 le cours	课程
 l'étudiant	男学生
 l'étudiante	女学生
@@ -512,8 +512,8 @@ danseur	舞蹈家（阳性）
 danseuse	舞蹈家（阴性）[dɑ̃søz]
 juif	犹太的,犹太人的（阳性）
 juive	犹太的,犹太人的（阴性）
-informaticien	计算机编程员，信息论专家（阳性）[ɛ̃fɔrmatisjɛ̃, -εn]
-informaticienne	计算机编程员，信息论专家（阴性）[ɛ̃fɔrmatisjɛ̃, -εn]
+informaticien	计算机编程员，信息论专家（阳性）[ɛ̃fɔrmatisjɛ̃,-εn]
+informaticienne	计算机编程员，信息论专家（阴性）[ɛ̃fɔrmatisjɛ̃,-εn]
 six enfants	六个孩子[sis]
 sept	七[sɛt]
 huit	八[ɥit]
@@ -543,20 +543,20 @@ le Canada	加拿大
 l'Iran	伊朗
 la France	法国（介词+国别名词）阴性
 la Chine	中国
-l'Italie	意大利(英语中是 “Italy”)
+l'Italie	意大利(英语中是“Italy”)
 les États-Unis	美国
-les Pays-Bas	荷兰(英语中常用 “Netherlands” 或 “Holland” 来表示荷兰)
+les Pays-Bas	荷兰(英语中常用“Netherlands”或“Holland”来表示荷兰)
 les Philippines	菲律宾
 J'habite en France.	我住在法国。n+阴性单数国名(省略冠词）
 J'habite en Italie.	我住在意大利。n+阴性单数国名(省略冠词）
 Elle habite en Iran	她住在伊朗。en+以元音开头的阳性单数国名(省略冠词）
 J'habite au Japon	我住在日本。au+以辅音开头的阳性单数国名(au=à+le）
 J'habite au Canada	我住在加拿大。
-J'habite aux États-Unis.	我住在美国。
-J'habite aux Philippines.	我住在菲律宾。
+J'habite aux États-Unis	我住在美国。
+J'habite aux Philippines	我住在菲律宾。
 le Caire	(开罗)个别城市名有阴阳性之分
-Il habite au Caire.	(他住在开罗。au=à+le)遇到介词à时，介词要与定冠词缩合
-Vous êtes photographe？	您是摄影师吗？
+Il habite au Caire	(他住在开罗。au=à+le)遇到介词à时，介词要与定冠词缩合
+Vous êtes photographe	您是摄影师吗？
 Vous êtes française	你是法国人吗？
 Vous habitez en France	您居住在法国?
 Vous êtes dans le cours d'italien	您正在学习意大利语课程
@@ -700,7 +700,7 @@ Sénégalaise	塞加内尔人
 Sénégalais	塞加内尔人（阳性）
 serveuse	服务员n.f.
 serveur	服务员n.m.
-souvent	经常，常常adv.
+souvent	经常，常常adv.;经常
 un sport	一项体育运动，体育项目n.m.
 un peu	一点儿，一下，少许，稍微loc.adv.（副词短语）
 volley-ball	排球，排球运动n.m.
@@ -757,7 +757,7 @@ Je cuisine un plat	我做一道菜
 Ces pizzas sont bonnes	这些披萨很好
 Tu cuisines un plat français	你做一道法国菜吗？
 Paul prépare le dîner	保罗做晚餐
-repas	饮食；餐；进餐n.m.
+repas	饮食；餐；进餐n.m.;饭，菜，餐
 Tu prépares le repas	你做饭吗？
 prendre	拿，取，抓,吃，喝，vt.
 Ils prennent un thé	他们喝一杯茶（“prennent”是法语动词“prendre”的第三人称复数变位形式。）
@@ -766,3 +766,104 @@ Cette banane est bonne	这根香蕉n.f.很好吃(ce的阴性单数)这。
 J'aime les fruits	我喜欢水果n.m.
 Je cuisine des légumes	我做一些蔬菜（“des”可以表示一些，用于修饰可数名词复数，不分阴阳性。）
 Il mange un œuf	他吃了一个鸡蛋
+parfois	有时候
+samedi	周六
+radio	收音机
+dimanche	周日
+écoute	听
+écoutons	“我们听”。例如：Nousécoutonslamusique.（我们听音乐。）
+ai	有
+jeudi	周四
+dors	睡，睡觉，睡得
+vendredi	周五
+lit	读，阅读，床
+nuit	夜晚，晚
+après-midi	下午
+mercredi	周三
+lis	阅读，读
+journal	报纸
+mardi	周二
+joue	演出，演得，踢得
+après	之后，后
+jouent	演出，拉得，演奏。例如：Ilsjouentdupiano.（他们弹钢琴。）
+soir	晚上
+enfant	小孩子，小孩，孩子
+lundi	周一
+chaque	每个，每，每场
+regarde	看
+regardent	看
+jour	天，日子
+télé	电视
+bonnes	好的，好吃的，好
+cuisine	厨房，菜，正在做饭
+cuisines	菜，在做，做
+bons	好吃的，美好的，好
+plat	菜
+légume	蔬菜
+préparent	准备，做
+bonne	好，好的，美好的
+fruit	水果
+pomme	苹果
+banane	香蕉
+ces	这些
+prêt	准备好了
+prépares	准备，做
+prête	准备好了，借
+prépare	准备，做
+cette	这，这所，这个，用于阴性单数名词前。
+préparons	准备，做
+déjeuner	午餐，吃午餐
+dîner	晚餐，吃晚餐
+prennent	拿，吃，喝，动词prendre的第三人称复数形式。
+prenons	拿，吃，喝
+petit déjeuner	早餐
+œuf	鸡蛋，蛋
+matin	上午，早上
+venir	来，去（朝着说话者的方向或某个特定的地方移动）vs“aller”离开说话者所在的地方前往别的地方
+utilise	使用，用
+utilises	使用，用
+travailler	工作
+numéro	号码
+écrivent	写，书写;“écrire”（写）的第三人称复数形式。
+e-mail	电子邮件
+écrit	写，写字;“écrire”的第三人称单数形式
+message	信息
+portable	手机
+sur	给，上，关于
+écris	写，在写，正在写;“écrire”的第二人称单数形式
+lettre	信
+stylo	笔
+ordinateur	电脑
+bureau	办公室，办公桌
+travaillons	工作;第一人称复数形式
+collègue	同事
+usine	工厂
+médecin	医生
+chauffeur	司机
+métier	职业
+des	一些，的
+ouvrent	打开;“ouvrir”（打开）的第三人称复数形式。
+fleur	花
+blancs	白色的
+ouvrons	打开;“ouvrir”的第一人称复数形式
+blanches	白色的，白色;“blanc”（白色的）的阴性复数形式
+pièce	房间
+chaise	椅子
+salon	客厅
+ouvres	打开
+blanche	白色的，白色，白
+blanc	白色的
+ouvre	打开
+fenêtre	窗户
+porte	戴，带，穿
+gentille	和善;形容阴性单数名词
+Cette fille est gentille.	（这个女孩很和善。）
+gentilles	和善
+livres	书
+vache	奶牛，牛
+gentil	和善
+gentils	和善
+Cédric veut lire trois livres aujourd'hui	"Cédric今天想读三本书"
+la salle	"这个房间"
+Il y a trois pièces	有三个房间
+J'aime l'appartement de mes voisins	我喜欢我邻居的公寓

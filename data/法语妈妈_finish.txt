@@ -579,3 +579,18 @@ J'habite au Japon	我住在日本。au+以辅音开头的阳性单数国名(au=�
 J'habite aux Philippines.	我住在菲律宾。
 le Caire	(开罗)个别城市名有阴阳性之分
 boulanger	面包师傅（阳性）;面包师傅n.m.
+mon école	我的学校（以元音字母或哑音h开头的阴性名词前，使用阳性定冠词“mon”“ton”“son”）
+ton amie	你的朋友（以元音字母或哑音h开头的阴性名词前，使用阳性定冠词“mon”“ton”“son”）
+âge	年龄，年纪n.m.
+je vais	我去
+Il habite au Caire.	(他住在开罗。au=à+le)遇到介词à时，介词要与定冠词缩合
+Vous êtes photographe？	您是摄影师吗？
+Vous êtes française	你是法国人吗？
+Vous habitez en France	您居住在法国?
+Vous êtes dans le cours d'italien	您正在学习意大利语课程
+son histoire	它的历史（以元音字母或哑音h开头的阴性名词前，使用阳性定冠词“mon”“ton”“son”）
+adresse	地址，住址n.f.
+Quelle est ton adresse	你的地址是什么？
+Quelle est votre adresse	您的地址是什么？
+aller	去；走；处于（某种状态）;运转，进行，进展v.i.
+tu vas	你去
