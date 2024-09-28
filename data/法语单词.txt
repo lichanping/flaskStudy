@@ -1,33 +1,3 @@
-soixante-onze	七十一
-soixante-dix-sept	七十七
-soixante-dix-huit	七十八
-soixante-dix-neuf	七十九
-j'ai un secrétaire	我有一个秘书
-Vous avez un rendez-vous	您有预约吗？
-il a une carte de visite	他有一张名片
-quatre-vingts	八十
-quatre-vingts-un	八十一
-quatre-vingts-dix	九十
-quatre-vingts-onze	九十一
-quatre-vingts-dix-neuf	九十九
-cent-un	一百零一
-toi	你pron.pers
-Comment tu vas	你好吗？
-Comment allez-vous	您还好吗？
-Salut Céline	你好Céline
-tu vas bien	你好吗？
-Et toi	你呢？Andyou?
-J'habite à Montréal maintenant avec ma femme	我现在和我的妻子住在Montréal
-Au Canada	在加拿大吗？
-Et quelle est ton adresse	那么你的地址是什么？
-Mon adresse	我的地址吗？
-rue Notre-Dame	巴黎圣母院街
-Et tu as une adresse e-mail	你有一个email地址吗？
-arobase	电子邮件地址符号“@”
-hotmail point com	点；圆点；句点，标点；分数；学分[pwɛ̃]n.m.
-Comment va ton ami espagnol	你的西班牙朋友怎么样了？
-Il est à Paris avec son fils	他在巴黎和他的儿子一起。
-Il parle français maintenant	他现在会说法语
 Quel professeur tu préfères	你更喜欢哪个老师？
 Quelle voiture tu cherches	你想买什么车？
 Une Renault	雷诺车
