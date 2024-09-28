@@ -1,3 +1,16 @@
+il a une carte de visite	他有一张名片
+cent-un	一百零一
+Comment tu vas	你好吗？
+Comment allez-vous	您还好吗？
+J'habite à Montréal maintenant avec ma femme	我现在和我的妻子住在Montréal
+Et quelle est ton adresse	那么你的地址是什么？
+rue Notre-Dame	巴黎圣母院街
+Et tu as une adresse e-mail	你有一个email地址吗？
+arobase	电子邮件地址符号“@”
+hotmail point com	点；圆点；句点，标点；分数；学分[pwɛ̃]n.m.
+Comment va ton ami espagnol	你的西班牙朋友怎么样了？
+Il est à Paris avec son fils	他在巴黎和他的儿子一起。
+Il parle français maintenant	他现在会说法语
 fille	女孩，姑娘；女儿n.f.
 journée	一天；白天，白昼n.f.
 Bonne journée	祝你一天愉快
