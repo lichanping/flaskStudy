@@ -534,8 +534,6 @@ familier	(adj.)家庭的;亲近的,亲密的,亲热的;熟悉的;习以为常的
 familière	(adj.)家庭的;(阴性）
 neuf	九[nœf];(adj.)新的，新建的，新做的，尚未用过的；
 neuve	(adj.)新的（阴性）
-cher	(adj.)(m)亲爱的
-chère	(adj.)(m)亲爱的（阴性）
 heureux	(adj.)幸福的，美满的；快乐的;高兴的
 heureuse	(adj.)幸福的，美满的；快乐的;高兴的(阴性）
 le Japon	日本（介词+国别名词）阳性
@@ -867,3 +865,9 @@ Cédric veut lire trois livres aujourd'hui	"Cédric今天想读三本书"
 la salle	"这个房间"
 Il y a trois pièces	有三个房间
 J'aime l'appartement de mes voisins	我喜欢我邻居的公寓
+vêtements	衣服
+six	六
+robe	连身裙，连衣裙，洋装
+pantalon	裤子
+cher	(adj.)(m)亲爱的;贵的
+chère	(adj.)(m)亲爱的（阴性）;亲爱的；贵的（阴性形式）
