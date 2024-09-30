@@ -1,0 +1,13 @@
+A:Salut, Céline, tu vas bien ?
+B:Oui. ça va bien. Et toi?
+A:Je vais bien, merci...J'habite à Montréal, maintenant, avec ma femme.
+B:Au Canada?
+A:Oui,oui, au Canada.
+B:Ah! C'est bien. Et quelle est ton adresse ?
+A:Mon adresse ? Alors, c'est: David Delage...
+35(trente-cinq), rue Notre-Dame, à Montréal.
+B:Et tu as une adresse e-mail ?
+A:Oui, c'est: ddelage@(arobase)hotmail.com.
+B:Comment va ton ami espagnol ?
+A:Luis ? Il va bien. Il est à Paris avec son fils. Il parle français maintenant.
+B:Tu as son adresse?
