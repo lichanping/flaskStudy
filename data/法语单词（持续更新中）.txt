@@ -896,3 +896,18 @@ Les sacs sont rouges	包是红色的。
 Les vêtements coûtent neuf euros	衣服要九欧元。
 C'est combien	这多少？
 Ce pantalon est cher	这条裤子很贵
+C'est huit euros	这是八欧元
+Je veux une jupe blanche	我想要一条白色的裙子
+Les sacs sont chers	包很贵。
+les vêtements	衣服
+le prix des jupes	裙子（复数）的价格（“des”在这里是“de”（表示所属关系“的”）和复数定冠词“les”的缩合形式。）
+les chaussures vertes	绿色的鞋
+Il y a sept magasins	有七家商店
+Les pizzas sont chères	披萨很贵。
+Mon sac est ici	我的包在这里。
+Où est ma chaussure	我的鞋在哪里？
+le prix de la pomme	苹果的价格
+le prix de la pizza	披萨的价格
+Le livre coûte huit euros	书要八欧元。
+Combien ça coûte	这要多少钱？
+le prix du sac	包的价格（“du”是“de”（表示“的”，用于引出所属关系等）和定冠词“le”的缩合形式。）
