@@ -2626,3 +2626,33 @@ troublesome	(adj.) 引起麻烦的
 hail	"n.冰雹；v.下冰雹；赞扬，称颂（尤用于报章等）"
 bump	"n.撞击；隆起物；（碰撞造成的）肿块；v.颠簸地…"
 mentally	"adv.精神上，智力上，心理上"
+army	(n.) 陆军，军队，部队
+outbreak	"n.（战争、疾病等坏事的）爆发，突然发生"
+thanksgiving	(n.) 感恩节
+stress	(n.) 压力；v.强调
+answer	(n.) 答案；v.回答，答复
+interact	(v.) 交流，互动
+dish	(n.) 菜肴；碟，盘子
+simple	(adj.) 简单的，易于理解的
+leg	(n.) 腿，腿部
+tick	"v.用勾作为记号；发出滴答声；n.勾号；一刹那；…"
+easily	(adv.) 容易地
+rubber	(n.) 橡胶
+difficulty	(n.) 困难
+peach	(n.) 桃子，桃树
+name	"n.名字；vt.给……取（或命）名；说出......的名称…"
+hole	(n.) 洞；孔；坑
+discovery	(n.) 发现
+jury	(n.) 陪审团；裁判团，评委团
+extra	"adj.额外的，附加的；(adv.) 额外地"
+journal	"n.定期刊物，杂志；日志，日记"
+bitter	(adj.) 带来痛苦的
+altitude	(n.) 海拔
+slightly	(adv.) 稍微，轻微地
+leftover	(adj.) 残余的
+court	(n.) 庭院；球场
+abruptly	(adv.) 突然地
+inn	(n.) 客栈，小旅馆
+unemployment	(n.) 失业
+platform	(n.) 平台，阵地
+survivor	(n.) 生还者
