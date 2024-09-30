@@ -132,6 +132,7 @@ class TxtToXLSX:
         """
         file_path = os.path.join(self.data_folder, file_name)
         english_words = {}  # Dictionary to store English words and their translations
+        duplicates = {}
         with open(file_path, 'r', encoding='utf-8') as file:
             for line in file:
                 match = re.match(r'([a-zA-ZéèêëîïùûüàâäôöçœÉ\'\s\-\.\/\?\？]+)\s*(.*)', line.strip())
@@ -152,21 +153,24 @@ class TxtToXLSX:
                     english_word = english_word.replace("sb", "somebody").replace("sth", "something")
                     english_word = re.sub(r'sw(?!\w)', 'somewhere', english_word)
                     translation = translation.strip()
-                    if english_word not in english_words:
-                        # If the English word is encountered for the first time, initialize its translations as a list
-                        english_words[english_word] = [translation]
+                    if english_word in duplicates:
+                        # If the word is already in duplicates, append the translation
+                        duplicates[english_word].append(translation)
                     else:
-                        # If the English word already exists, append the new translation to its list of translations
-                        existing_translation = english_words[english_word]
-                        if translation not in existing_translation:
-                            existing_translation.append(translation)
+                        if english_word in english_words:
+                            # If it's in english_words, move to duplicates
+                            duplicates[english_word] = [
+                                english_words.pop(english_word)[0]]  # Store the first translation
+                            duplicates[english_word].append(translation)  # Add the new translation
+                        else:
+                            # If it's a new word, add to english_words
+                            english_words[english_word] = [translation]
 
-        # Write the unique English words and their translations back to the original file
         with open(file_path, 'w', encoding='utf-8') as file:
             for english_word, translations in english_words.items():
-                # Merge translations into a single string, separated by semicolons
-                merged_translations = ';'.join(translations)
-                file.write(f"{english_word}\t{merged_translations}\n")
+                file.write(f"{english_word}\t{';'.join(translations)}\n")
+            for english_word, translations in duplicates.items():
+                file.write(f"{english_word}\t{';'.join(translations)}\n")
 
     def read_text(self, file_name):
         """
