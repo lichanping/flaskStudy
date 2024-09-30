@@ -227,3 +227,10 @@ dix	十[dis];十
 neuf	九[nœf];(adj.)新的，新建的，新做的，尚未用过的；;九
 huit	八[ɥit];八
 sept	七[sɛt];七
+les chaussures rouges	红色的鞋
+Les robes sont rouges	连衣裙是红色的
+six robes	六条连衣裙
+Les sacs sont rouges	包是红色的。
+Les vêtements coûtent neuf euros	衣服要九欧元。
+C'est combien	这多少？
+Ce pantalon est cher	这条裤子很贵
