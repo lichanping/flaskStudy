@@ -199,3 +199,9 @@ Cédric veut lire trois livres aujourd'hui	"Cédric今天想读三本书"
 la salle	"这个房间"
 Il y a trois pièces	有三个房间
 J'aime l'appartement de mes voisins	我喜欢我邻居的公寓
+vêtements	衣服
+six	六
+robe	连身裙，连衣裙，洋装
+pantalon	裤子
+cher	(adj.)(m)亲爱的;贵的
+chère	(adj.)(m)亲爱的（阴性）;亲爱的；贵的（阴性形式）
