@@ -294,3 +294,53 @@ Cédric veut lire trois livres aujourd'hui	"Cédric今天想读三本书"
 la salle	"这个房间"
 Il y a trois pièces	有三个房间
 J'aime l'appartement de mes voisins	我喜欢我邻居的公寓
+vêtements	衣服
+six	六
+robe	连身裙，连衣裙，洋装
+pantalon	裤子
+cher	(adj.)(m)亲爱的;贵的
+chère	(adj.)(m)亲爱的（阴性）;亲爱的；贵的（阴性形式）
+t-shirt	"T恤衫"
+rouges	红色的（复数形式）
+rouge	红色的；红色
+achètes	买
+veste	夹克，上衣
+coûtent	要（第三人称复数形式）
+du	从，的，对
+achète	买
+jupe	裙子
+prix	价格，奖
+combien	多少；多少钱
+ça	这，那个，那
+coûte	要（第三人称单数形式）
+chers	贵（阳性复数形式）
+chères	贵（阴性复数形式）
+euro	欧元
+chaussure	鞋
+sac	包
+dix	十[dis];十
+neuf	九[nœf];(adj.)新的，新建的，新做的，尚未用过的；;九
+huit	八[ɥit];八
+sept	七[sɛt];七
+les chaussures rouges	红色的鞋
+Les robes sont rouges	连衣裙是红色的
+six robes	六条连衣裙
+Les sacs sont rouges	包是红色的。
+Les vêtements coûtent neuf euros	衣服要九欧元。
+C'est combien	这多少？
+Ce pantalon est cher	这条裤子很贵
+C'est huit euros	这是八欧元
+Je veux une jupe blanche	我想要一条白色的裙子
+Les sacs sont chers	包很贵。
+les vêtements	衣服
+le prix des jupes	裙子（复数）的价格（“des”在这里是“de”（表示所属关系“的”）和复数定冠词“les”的缩合形式。）
+les chaussures vertes	绿色的鞋
+Il y a sept magasins	有七家商店
+Les pizzas sont chères	披萨很贵。
+Mon sac est ici	我的包在这里。
+Où est ma chaussure	我的鞋在哪里？
+le prix de la pomme	苹果的价格
+le prix de la pizza	披萨的价格
+Le livre coûte huit euros	书要八欧元。
+Combien ça coûte	这要多少钱？
+le prix du sac	包的价格（“du”是“de”（表示“的”，用于引出所属关系等）和定冠词“le”的缩合形式。）
