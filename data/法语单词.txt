@@ -271,3 +271,8 @@ treize	十三[trɛ:z];十三
 douze	十二[du:z];十二
 onze	十一[ɔ̃z];十一
 italien	(adj.)意大利的，意大利语的;n.意大利人；n.m.意大利语;
+marcher	走路，走
+dois	应该
+important	重要的
+aller	去；走；处于（某种状态）;运转，进行，进展v.i.;去
+rue	街道，马路n.f.;街
