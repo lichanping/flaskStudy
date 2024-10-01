@@ -444,7 +444,6 @@ bonjour	您好，早上好n.m
 ce	这pron.dém;这，这个
 un club	俱乐部，会，社n.m
 être	是v.i
-italien	意大利的；n.意大利人；n.m.意大利语;(adj.)意大利的，意大利语的
 italienne	意大利的；n.意大利人；n.m.意大利语(阴性）;(adj.)意大利的，意大利语的(阴性）
 la baule	拉波尔（法国西部海滨城市）
 madame	夫人n.f
@@ -515,11 +514,6 @@ juive	犹太的,犹太人的（阴性）
 informaticien	计算机编程员，信息论专家（阳性）[ɛ̃fɔrmatisjɛ̃,-εn]
 informaticienne	计算机编程员，信息论专家（阴性）[ɛ̃fɔrmatisjɛ̃,-εn]
 six enfants	六个孩子[sis]
-onze	十一[ɔ̃z]
-douze	十二[du:z]
-treize	十三[trɛ:z]
-quatorze	十四[katɔrz]
-quinze	十五[kɛ̃z]
 seize personnes	十六个人[sɛz]
 dix-sept	十七[dissɛt]
 dix-huit	十八[dizɥit]
@@ -561,7 +555,6 @@ adresse	地址，住址n.f.
 Quelle est ton adresse	你的地址是什么？
 Quelle est votre adresse	您的地址是什么？
 âge	年龄，年纪n.m.
-aller	去；走；处于（某种状态）;运转，进行，进展v.i.
 je vais	我去
 tu vas	你去
 il va	他去
@@ -612,7 +605,6 @@ Le Numéro de téléphone	电话号码
 Les Champs-Élysées	香榭丽舍大街
 La Tour Eiffel	埃菲尔铁塔
 Le Louvre	卢浮宫
-parler	说话，讲话；交谈v.t.dir.(直接及物动词)讲（某种语言）
 Il parle espagnol	他会说西班牙语
 Je parle français	我会说法语
 Elle parle chinois	她会说中文
@@ -620,7 +612,6 @@ Vous parlez quelle langue	您讲哪种语言
 Quel est votre nom	您姓什么？
 Quelle est votre profession	您的职业是什么？
 Quelle est son adresse	他的地址是什幺？
-rue	街道，马路n.f.
 votre	你们的，您的
 vous	您；你们pron.pers.（人称代词）
 soixante	六十
@@ -911,3 +902,30 @@ le prix de la pizza	披萨的价格
 Le livre coûte huit euros	书要八欧元。
 Combien ça coûte	这要多少钱？
 le prix du sac	包的价格（“du”是“de”（表示“的”，用于引出所属关系等）和定冠词“le”的缩合形式。）
+peux	能，可以
+brun	棕色的
+quel âge	几岁
+as-tu	你有没有，你有吗
+an	岁
+parlons	说话，说
+venons	来
+blond	金色的，金色头发
+jeune	年轻的
+ne	不，没
+viennent	来
+pas	不，没，没有
+vient	来
+viens	来
+canadien	加拿大人
+parler	说话，讲话；交谈v.t.dir.(直接及物动词)讲（某种语言）;说，说话，谈论
+quatorze	十四[katɔrz];十四
+quinze	十五[kɛ̃z];十五
+treize	十三[trɛ:z];十三
+douze	十二[du:z];十二
+onze	十一[ɔ̃z];十一
+italien	(adj.)意大利的，意大利语的;n.意大利人；n.m.意大利语;
+marcher	走路，走
+dois	应该
+important	重要的
+aller	去；走；处于（某种状态）;运转，进行，进展v.i.;去
+rue	街道，马路n.f.;街
