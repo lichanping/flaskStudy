@@ -194,7 +194,6 @@ cuisine	(n.)菜肴；烹饪；风味
 dilemma	(n.)进退两难的窘境;困境
 vine	(n.)藤，蔓；葡萄属植物；葡萄藤
 mobile	(adj.)可移动的；行动方便的
-portable	(adj.)轻便的，手提的，便携式的；【财】便于携带的…
 directory	(n.)电话号码簿；目录
 drought	(n.)干旱，旱灾
 dictation	(n.)口述；听写
@@ -2571,7 +2570,6 @@ globe	(n.)地球，世界
 packet	(n.)小袋，小包装
 extinct	(adj.)灭绝的；（火山）死的
 reunite	(v.)重逢，再次相聚
-wrinkle	(n.)窍门
 forbid	(v.)禁止
 capsule	(n.)胶囊；航天舱，密封舱
 data	(n.)数据
@@ -3309,5 +3307,65 @@ oblige	迫使，施恩于
 adjective	形容词
 fuss	忙乱，小题大做
 virtually	实际上，事实上
-fame	声誉
 conjunction	联合，连词
+disagree	(v.) 不同意，有分歧
+crime	(n.) 犯罪活动
+length	(n.) 长度
+act	"n.行为，行动；法案；v.行动；表演，扮演；有效果"
+minefield	(n.) 布雷区;充满潜在危险（或问题）的事物;Thesoldierscarefullymadetheirwaythroughtheminefield.（士兵们小心翼翼地穿过布雷区。）
+optimism	(n.) 乐观，乐观主义
+clock	(n.) 钟
+offshore	(adj.) 近海的，海岸的
+stair	(n.) 楼梯
+worm	(n.) 虫，蠕虫
+charming	(adj.) 迷人的
+ring	"v.鸣响，发出铃声；打电话；n.戒指；(电话)响铃"
+millimeter	(n.) 毫米
+complex	"adj.复杂的，难解的；n.建筑群"
+collision	(n.) 碰撞；冲突
+rectangular	(adj.) 长方形的
+jewel	(n.) 宝石
+melancholy	(adj.) 忧郁的，令人伤感的
+airline	"n.航空公司；adj.航空公司的，航线的"
+substitute	(n.) 替代物；替代者
+roof	(n.) 屋顶
+academically	(adv.) 学业上
+deer	(n.) 鹿（单复数同形）
+lift	"n.<英>电梯；v.高兴起来；使更愉快；（使）升…"
+loan	(n.) 暂借；贷款
+shopping	(n.) 购物；从商店采买的东西
+courtyard	(n.) 院子
+rest	"n.剩余部分；休息，休息时间；v.休息，放松"
+negative	(adj.) 消极的，负面的
+refresh	(v.) 使恢复精神
+seagull	(n.) 海鸥
+deep	"adj.深的；深刻的，深切的；有……深的"
+plane	(n.) 飞机
+hunter	(n.) 猎人
+jar	"n.罐子，瓶子，坛子，缸；v.震动"
+employ	(vt.) 使用；雇用
+bread	(n.) 面包
+passenger	(n.) 乘客，旅客
+pension	(n.) 养老金，抚恤金
+volleyball	(n.) 排球
+textbook	(n.) 教科书
+documentary	(n.) 纪录片
+process	(n.) 步骤，过程；v.加工
+selfish	(adj.) 自私的
+pile	(n.) 一堆；v.堆积
+cultural	(adj.) 文化的
+hiker	(n.) 远足者，徒步旅行者
+dynasty	(n.) 王朝，朝代
+ballad	(n.) 歌谣，民谣
+underground	(adj.) 地下的；n.地铁
+analyze	(vt.) 分析
+transparent	(adj.) 透明的，清澈的
+something	(pron.) 某事物
+admirable	"adj.令人钦佩的，值得赞扬的"
+judgment	(n.) 判断
+beneficial	(adj.) 有益的，有利的
+butterfly	(n.) 蝴蝶
+tolerance	(n.) 容忍，宽恕
+wrinkle	"n.皱纹；窍门；转折，改变；褶皱；v.使起皱纹"
+fame	(n.) 名声，声誉
+portable	"adj.轻便的，手提的，便携式的"
