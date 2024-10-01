@@ -1,3 +1,29 @@
+identical	"adj.相同的，同一的；n.完全相同的事物"
+extreme	(adj.) 极端的
+navigation	(n.) 导航，领航
+port	(n.) 港，港口，口岸
+squeeze	"v.削减，紧缩（资金）；n.挤，塞"
+display	"v.显示；陈列；展示；n.展览"
+niece	(n.) 侄女，外甥女
+renew	(v.) 更新
+sharpener	(n.) 磨具，卷笔刀，磨刀石
+approve	(v.) 批准，称许
+precise	(adj.) 精确的；恰好的
+calf	(n.) 小牛，牛犊
+wrestle	"v.摔跤，角斗；努力斗争；n.摔跤，角力，扭斗"
+despite	(prep.) 尽管，不顾
+ivory	(n.) 象牙
+upright	"adv.直立地；adj.直立的，挺直的"
+championship	(n.) 冠军称号
+cafeteria	(n.) 自助餐厅
+carriage	(n.) 四轮马车
+prescription	(n.) 处方，药方
+lifelong	(adj.) 终身的
+carrier	"n.运输公司；航空公司；电话公司，互联网公司，通…"
+theoretical	(adj.) 理论（上）的
+grill	(v.) 烤；拷问
+routine	(n.) 惯例，习惯
+pulse	"n.脉搏；（电子）脉冲；(vi.) （使）跳动，搏动，…"
 prevention	(n.) 预防，防止，防范
 vulnerable	(adj.) 易受伤的
 clothing	(n.) 衣服
