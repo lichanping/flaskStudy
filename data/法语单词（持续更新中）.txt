@@ -585,7 +585,6 @@ C'est mon fils	这是我的儿子
 C'est une fille	这是一个女孩
 Hôtel	宾馆n.m.
 journée	一天；白天，白昼n.f.
-Bonne journée	祝你一天愉快
 maintenant	现在，目前adv.=Now
 Merci à vous	谢谢您
 Montréal	蒙特利尔(加拿大一座充满魅力的城市)
@@ -594,7 +593,6 @@ Notre-Dame de Paris	巴黎圣母院
 Notre-Dame de Marseille	马赛圣母院
 Nuit	夜n.f.
 Bonne nuit	晚安
-Bonne soirée	晚安
 Bonne route	祝您旅途愉快
 Bonne semaine	祝你一周愉快[s(ə)mεn]
 Bon week-end	周末愉快
@@ -938,3 +936,79 @@ tourner	转弯；转动；翻转
 à gauche	在左边
 devant	在……前面
 habiter	居住(在)v.;居住
+Écoutez et répétez les phrases	听并重复这些句子。
+Je voudrais poser une question	我想要提一个问题。
+Qu'est-ce que ça veut dire	这是什么意思？（用于询问某个单词、短语、句子或者某个情况所表达的含义。）
+Qu'est-ce que c'est	这是什么？
+Ça se prononce comment	这个怎么发音？
+Je ne comprends pas	我不明白，我不懂。
+Je n'ai pas bien compris	我没有理解好，我没太明白。（compris是动词“comprendre”（理解，明白）的过去分词形式）
+Vous pouvez expliquer encore une fois	您（你们）可以再解释一次吗，拜托了？,s'ilvousplait
+Je ne comprends pas ce qu'il faut faire	我不明白需要做什么。
+Est-ce qu'il y a des devoirs	有作业吗？
+Je suis désolé	我很抱歉，（我把作业忘在家里了。）
+j'ai oublié mes devoirs à la maison	我把作业忘在家里了。
+Est-ce que c'est possible d'apporter mon devoir demain	明天带来我的作业，这是可能的吗？
+Est-ce que je peux aller aux toilettes	我可以去厕所吗？
+Excusez-moi	“对不起，打扰一下；请原谅我”，是非常常用的礼貌用语。
+je ne me sens pas bien	“我感觉不舒服”。
+infirmerie	(军队、学校等的)诊疗所,医务室（n.f.)
+est-ce que je peux aller à l'infirmerie	我可以去医务室吗？
+Ca va comme ça	“这样就行了吗？这样就可以了吗？这样还好吗？”表示对某个事物或情况是否达到预期状态的一种询问。
+Je ne sais pas	“我不知道”。(sais：是动词“savoir”（知道，会）的第一人称单数现在时)
+J'ai oublié	“我已经忘记了”。(“oublier”（忘记）的过去分词,表示动作已经发生)
+Je serai absent demain	“我明天将缺席”。(serai：是动词“être”（是）的第一人称单数简单将来时)
+prochaine	“下一个的，即将到来的”
+la semaine	“星期，周”(阴性)
+Je serai absent la semaine prochaine.	“我下周将缺席”。
+dernière	“最后的，上一个的”
+J'étais absent la semaine dernière	“我上周缺席了”。(“étais”是动词“être”（是）的第一人称单数未完成过去时变位形式)
+Épelez	动词“épeler”（拼写）的第二人称复数命令式形式
+Épelez votre nom	（拼写你们的名字。）
+Écrivez	动词“écrire”（写）的第二人称复数命令式形式
+Écrivez votre nom	写下你们的名字
+Écoutez	动词“écouter”（听）的第二人称复数命令式形式
+Écoutez bien	好好听
+Répétez	动词“répéter”（重复）的第二人称复数命令式形式
+Répétez après moi	（跟我重复。）
+Ne regardez pas le livre	“不要看这本书”。（regardez：是动词“regarder”（看，注视）的第二人称复数现在时变位形式）
+Ouvrez votre livre	“打开你们的书”。动词“ouvrir”（打开）的第二人称复数命令式
+Fermez le livre	“合上（关闭）这本书”。是动词“fermer”（关闭）的第二人称复数现在时
+Attendez	动词“attendre”（等待）的第二人称复数命令式
+Attendez-moi	（等等我！）
+Encore une fois	“再一次，又一次”。
+Peut-on utiliser le dictionnaire	“可以使用词典吗？”（“peut”是动词“pouvoir”（能够，可以）的第三人称单数现在时变位形式，表示可能性；“-on”是泛指人称代词，相当于“人们，大家”）
+quand	疑问副词，意为“什么时候”
+C'est pour quand	“这是（安排）在什么时候的呢？”
+aider	动词，意为“帮助”
+Vous pouvez m'aider	“您（们）能帮助我吗？”（“m'”是直接宾语人称代词“me”（我），
+Venez ici	“到这里来”，是一种命令或邀请的表达。（动词“venir”（来）的第二人称复数命令式）
+tableau	名词，意为“黑板；图画；表格”
+Venez au tableau	“到黑板这儿来”。
+Qui est absent	“谁缺席了？”
+volontaire	名词，意为“志愿者”，也可作形容词表示“自愿的”
+Est-ce qu'il y a un volontaire	“有志愿者吗？”
+faire	动词，意为“做，制造”
+Vous avez dix minutes pour faire le test	“你们（您）有10分钟来做测试”。（动词“avoir”（有）的第二人称复数现在时）
+fini	形容词，意为“结束的，完成的”
+C'est fini	“结束了”。可以用于表示某个活动、事情已经完成。
+Travaillez	是动词“travailler”（工作，学习，劳动等）的第二人称复数命令式形式
+Travaillez par groupe de deux personnes	“两人一组进行（工作、学习等）”。
+Faites	动词“faire”（做，制造，使……成为）的第二人称复数命令式形式
+Faites des groupes de trois personnes	“组成三人一组（的小组）”。
+Demandez	动词“demander”（问，要求）的第二人称复数命令式形式
+Demandez à votre voisin	“问问你们的邻座（邻居）”。
+Au revoir	“再见”。
+À demain	“明天见”，是一种约定下次见面时间的告别用语。
+semaine	名词，意为“星期、周”
+À la semaine prochaine	“下周见”
+Bonnes vacances	“假期愉快”
+Bonne journée	祝你一天愉快;“祝你度过美好的一天”，是一种常用的祝福语。
+Bonne soirée	晚安;“晚上愉快”，可用于在晚上向他人表达祝福。
+anniversaire	名词，意为“生日；周年纪念日”
+Bon anniversaire	“生日快乐；周年纪念日快乐”，是一种常用的祝福语。
+Joyeux	形容词，意为“快乐的，欢乐的”
+Noël	名词，意为“圣诞节”
+Joyeux Noël	“圣诞快乐”，是在圣诞节期间人们互相祝福的常用语。
+année	名词，意为“年；年份”
+Bonne année	“新年好”，是新年期间人们互相祝福的常用语。
