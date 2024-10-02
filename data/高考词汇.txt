@@ -1,53 +1,3 @@
-Bench	长椅；长凳
-depression	抑郁；沮丧；洼地；不景气
-cheated	欺骗（cheat的过去式和过去分词）
-aims	目的；目标（aim的复数形式）；瞄准（aim的第三人称单数形式）
-targets	目标；对象（target的复数）；把……作为目标（target的第三人称单数）
-objects	物体；对象（object的复数）；反对（object的第三人称单数）
-persuaded	说服；劝说（persuade的过去式和过去分词）
-forced	强迫（force的过去式）
-engaging	迷人的；吸引人的；参加（engage的ing形式）
-sprung	跳跃（spring的过去分词）；突然出现；涌现（spring的过去分词）
-participated	参加；参与（participate的过去式和过去分词）
-invisible	无形的；看不见的
-victim	受害者；牺牲品
-significant	(adj.)重要的；显著的;重要的；显著的
-contribute	"v.有助于；贡献；促成，导致";贡献；有助于；促成
-eventually	(adv.)终于，最后;最终；终于
-barrier	(n.)障碍;障碍；屏障；界限
-attempt	"vt.试图，尝试；n.努力，尝试";企图；试图；尝试
-measure	测量；估量；v.措施，方法；计量标准；(估价…n.;措施；测量；度量；估量
-interact	(v.)交流，互动;互动；相互作用；互相影响
-endanger	(vt.) 危及，危害
-humor	(n.) 幽默，诙谐
-peaceful	"adj.平静的，安宁的；和平的"
-well-balanced	"adj.均衡的；神智健全的，头脑清醒的"
-quake	(v.)震动；颤抖
-manage	(v.)设法完成，管理
-eastern	"adj.东方的，东部的，朝东的"
-update	"n.最新消息（读作/ˈΛpˌdeɪt/）；vt.更新"
-ox	(n.)公牛
-suffer	(v.)遭受（痛苦）
-rainfall	(n.)降雨
-European	(adj.)欧洲的
-withdraw	(v.)(使)退出(活动、组织等)
-stone	(n.)石头
-country	"n.国家；（按地理特点划分的）地区；区域"
-competence	(n.)能力
-normal	"adj.正常的，一般的；n.常态"
-used	(adj.)旧的
-vitamin	(n.)维生素
-zoo	(n.)动物园
-wish	"v.希望，想要；n.愿望，心愿；祝愿"
-steak	(n.)牛排
-user	(n.)用户，使用者
-applicant	(n.)申请人
-sex	(n.)性
-competitor	(n.)竞争对手
-wooden	(adj.)木制的，木质的
-band	(n.)乐队；环
-teamwork	(n.)团队合作，协力
-southwest	(n.)西南方；adj.西南方的
 base	"v.以……作基础；n.基地，大本营；基础成分"
 behalf	(n.)代表（某人），因为某人
 breast	(n.)乳房
@@ -205,7 +155,6 @@ Christian	"n.基督教徒；adj.基督教的，基督教徒的"
 misty	(adj.) 模糊的
 month	(n.) 月
 graze	(v.) 放牧
-barrier	(n.) 障碍
 slogan	(n.) 口号
 attend	"v.参加；上（学），去（教堂）"
 advertise	(v.) 为……做广告
@@ -404,7 +353,6 @@ section	(n.) 部分；阶层；部门
 submit	(v.) 提交；呈递
 punishment	(n.) 惩罚，处罚
 souvenir	(n.) 纪念品
-eventually	(adv.) 终于，最后
 remarkably	"adv.出乎意外地；引人注目地，明显地"
 curtain	(n.) 窗帘；幕布
 output	(n.) 产量
