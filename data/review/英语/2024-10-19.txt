@@ -20,17 +20,3 @@ vitamin	(n.)维生素
 applicant	(n.)申请人
 competitor	(n.)竞争对手
 band	(n.)乐队；环
-discovery	(n.) 发现
-jury	(n.) 陪审团；裁判团，评委团
-extra	"adj.额外的，附加的；(adv.) 额外地"
-journal	"n.定期刊物，杂志；日志，日记"
-bitter	(adj.) 带来痛苦的
-altitude	(n.) 海拔
-slightly	(adv.) 稍微，轻微地
-leftover	(adj.) 残余的
-court	(n.) 庭院；球场
-abruptly	(adv.) 突然地
-inn	(n.) 客栈，小旅馆
-unemployment	(n.) 失业
-platform	(n.) 平台，阵地
-survivor	(n.) 生还者

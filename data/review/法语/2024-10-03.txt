@@ -1,3 +1,12 @@
+Écoutez et répétez les phrases	听并重复这些句子。
+Je voudrais poser une question	我想要提一个问题。
+Qu'est-ce que ça veut dire	这是什么意思？（用于询问某个单词、短语、句子或者某个情况所表达的含义。）
+Ça se prononce comment	这个怎么发音？
+Je ne comprends pas	我不明白，我不懂。
+Je n'ai pas bien compris	我没有理解好，我没太明白。（compris是动词“comprendre”（理解，明白）的过去分词形式）
+Vous pouvez expliquer encore une fois	您（你们）可以再解释一次吗，拜托了？,s'ilvousplait
+Je ne comprends pas ce qu'il faut faire	我不明白需要做什么。
+Est-ce qu'il y a des devoirs	有作业吗？
 il a une carte de visite	他有一张名片
 cent-un	一百零一
 Comment tu vas	你好吗？
