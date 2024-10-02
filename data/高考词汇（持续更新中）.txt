@@ -3,7 +3,6 @@ lean	倾斜v.
 bob	上下浮动v.
 swear	发誓，郑重地说v.
 grind	研磨；折磨；v.苦差事，苦活儿n.
-measure	测量；估量；v.措施，方法；计量标准；(估价…n.
 whistle	口哨（声）；n.吹口哨v.
 look out	当心，留神phr.
 fluid	流动的adj.
@@ -2042,7 +2041,6 @@ spaceman	(n.)宇航员
 pale	(adj.)苍白的，灰白的
 hang up	(phr.)挂断电话
 future	"n.未来；adj.将来的，未来的"
-attempt	"vt.试图，尝试；n.努力，尝试"
 biologist	(n.)生物学家
 wallet	(n.)皮夹，钱包
 unspoken	"adj.无言的，未说出口的，不言而喻的"
@@ -2224,7 +2222,6 @@ march	(n.)稳步前进
 careful	"adj.小心的；仔细的，细心的"
 officer	(n.)官员；高级职员；警官
 weightlessly	(adv.)失重地
-significant	(adj.)重要的；显著的
 clip	"n.（电影、电视节目的）片段"
 overweight	(adj.)超重的
 embarrass	(vt.)使尴尬
@@ -2347,7 +2344,6 @@ fear	"n.害怕；担心；v.担心；害怕"
 finish	(v.)完成；n.结束，完成
 road	(n.)道路；公路
 tolerate	"vt.忍受，容忍；容许，允许"
-contribute	"v.有助于；贡献；促成，导致"
 fat	"n.脂肪，油脂；adj.肥的，肥胖的"
 permission	(n.)允许，同意
 poison	"n.毒物，毒药，毒素；v.毒死，毒害"
@@ -2635,7 +2631,6 @@ bitter	(adj.)带来痛苦的
 altitude	(n.)海拔
 slightly	(adv.)稍微，轻微地
 answer	(n.)答案；v.回答，答复
-interact	(v.)交流，互动
 leftover	(adj.)残余的
 dish	(n.)菜肴；碟，盘子
 court	(n.)庭院；球场
@@ -2890,7 +2885,6 @@ Christian	"n.基督教徒；adj.基督教的，基督教徒的"
 misty	(adj.)模糊的
 month	(n.)月
 graze	(v.)放牧
-barrier	(n.)障碍
 slogan	(n.)口号
 attend	"v.参加；上（学），去（教堂）"
 advertise	(v.)为……做广告
@@ -3089,7 +3083,6 @@ section	(n.)部分；阶层；部门
 submit	(v.)提交；呈递
 punishment	(n.)惩罚，处罚
 souvenir	(n.)纪念品
-eventually	(adv.)终于，最后
 remarkably	"adv.出乎意外地；引人注目地，明显地"
 curtain	(n.)窗帘；幕布
 output	(n.)产量
@@ -3308,64 +3301,84 @@ adjective	形容词
 fuss	忙乱，小题大做
 virtually	实际上，事实上
 conjunction	联合，连词
-disagree	(v.) 不同意，有分歧
-crime	(n.) 犯罪活动
-length	(n.) 长度
+disagree	(v.)不同意，有分歧
+crime	(n.)犯罪活动
+length	(n.)长度
 act	"n.行为，行动；法案；v.行动；表演，扮演；有效果"
-minefield	(n.) 布雷区;充满潜在危险（或问题）的事物;Thesoldierscarefullymadetheirwaythroughtheminefield.（士兵们小心翼翼地穿过布雷区。）
-optimism	(n.) 乐观，乐观主义
-clock	(n.) 钟
-offshore	(adj.) 近海的，海岸的
-stair	(n.) 楼梯
-worm	(n.) 虫，蠕虫
-charming	(adj.) 迷人的
+minefield	(n.)布雷区;充满潜在危险（或问题）的事物;Thesoldierscarefullymadetheirwaythroughtheminefield.（士兵们小心翼翼地穿过布雷区。）
+optimism	(n.)乐观，乐观主义
+clock	(n.)钟
+offshore	(adj.)近海的，海岸的
+stair	(n.)楼梯
+worm	(n.)虫，蠕虫
+charming	(adj.)迷人的
 ring	"v.鸣响，发出铃声；打电话；n.戒指；(电话)响铃"
-millimeter	(n.) 毫米
+millimeter	(n.)毫米
 complex	"adj.复杂的，难解的；n.建筑群"
-collision	(n.) 碰撞；冲突
-rectangular	(adj.) 长方形的
-jewel	(n.) 宝石
-melancholy	(adj.) 忧郁的，令人伤感的
+collision	(n.)碰撞；冲突
+rectangular	(adj.)长方形的
+jewel	(n.)宝石
+melancholy	(adj.)忧郁的，令人伤感的
 airline	"n.航空公司；adj.航空公司的，航线的"
-substitute	(n.) 替代物；替代者
-roof	(n.) 屋顶
-academically	(adv.) 学业上
-deer	(n.) 鹿（单复数同形）
+substitute	(n.)替代物；替代者
+roof	(n.)屋顶
+academically	(adv.)学业上
+deer	(n.)鹿（单复数同形）
 lift	"n.<英>电梯；v.高兴起来；使更愉快；（使）升…"
-loan	(n.) 暂借；贷款
-shopping	(n.) 购物；从商店采买的东西
-courtyard	(n.) 院子
+loan	(n.)暂借；贷款
+shopping	(n.)购物；从商店采买的东西
+courtyard	(n.)院子
 rest	"n.剩余部分；休息，休息时间；v.休息，放松"
-negative	(adj.) 消极的，负面的
-refresh	(v.) 使恢复精神
-seagull	(n.) 海鸥
+negative	(adj.)消极的，负面的
+refresh	(v.)使恢复精神
+seagull	(n.)海鸥
 deep	"adj.深的；深刻的，深切的；有……深的"
-plane	(n.) 飞机
-hunter	(n.) 猎人
+plane	(n.)飞机
+hunter	(n.)猎人
 jar	"n.罐子，瓶子，坛子，缸；v.震动"
-employ	(vt.) 使用；雇用
-bread	(n.) 面包
-passenger	(n.) 乘客，旅客
-pension	(n.) 养老金，抚恤金
-volleyball	(n.) 排球
-textbook	(n.) 教科书
-documentary	(n.) 纪录片
-process	(n.) 步骤，过程；v.加工
-selfish	(adj.) 自私的
-pile	(n.) 一堆；v.堆积
-cultural	(adj.) 文化的
-hiker	(n.) 远足者，徒步旅行者
-dynasty	(n.) 王朝，朝代
-ballad	(n.) 歌谣，民谣
-underground	(adj.) 地下的；n.地铁
-analyze	(vt.) 分析
-transparent	(adj.) 透明的，清澈的
-something	(pron.) 某事物
+employ	(vt.)使用；雇用
+bread	(n.)面包
+passenger	(n.)乘客，旅客
+pension	(n.)养老金，抚恤金
+volleyball	(n.)排球
+textbook	(n.)教科书
+documentary	(n.)纪录片
+process	(n.)步骤，过程；v.加工
+selfish	(adj.)自私的
+pile	(n.)一堆；v.堆积
+cultural	(adj.)文化的
+hiker	(n.)远足者，徒步旅行者
+dynasty	(n.)王朝，朝代
+ballad	(n.)歌谣，民谣
+underground	(adj.)地下的；n.地铁
+analyze	(vt.)分析
+transparent	(adj.)透明的，清澈的
+something	(pron.)某事物
 admirable	"adj.令人钦佩的，值得赞扬的"
-judgment	(n.) 判断
-beneficial	(adj.) 有益的，有利的
-butterfly	(n.) 蝴蝶
-tolerance	(n.) 容忍，宽恕
+judgment	(n.)判断
+beneficial	(adj.)有益的，有利的
+butterfly	(n.)蝴蝶
+tolerance	(n.)容忍，宽恕
 wrinkle	"n.皱纹；窍门；转折，改变；褶皱；v.使起皱纹"
-fame	(n.) 名声，声誉
+fame	(n.)名声，声誉
 portable	"adj.轻便的，手提的，便携式的"
+Bench	长椅；长凳
+depression	抑郁；沮丧；洼地；不景气
+cheated	欺骗（cheat的过去式和过去分词）
+aims	目的；目标（aim的复数形式）；瞄准（aim的第三人称单数形式）
+targets	目标；对象（target的复数）；把……作为目标（target的第三人称单数）
+objects	物体；对象（object的复数）；反对（object的第三人称单数）
+persuaded	说服；劝说（persuade的过去式和过去分词）
+forced	强迫（force的过去式）
+engaging	迷人的；吸引人的；参加（engage的ing形式）
+sprung	跳跃（spring的过去分词）；突然出现；涌现（spring的过去分词）
+participated	参加；参与（participate的过去式和过去分词）
+invisible	无形的；看不见的
+victim	受害者；牺牲品
+significant	(adj.)重要的；显著的;
+contribute	"v.有助于；贡献；促成，导致";贡献；
+eventually	(adv.)终于，最后;最终
+barrier	(n.)障碍;屏障；界限
+attempt	"vt.试图，尝试；n.努力，尝试";企图；试图；尝试
+measure	测量；估量；v.措施，方法；计量标准；(估价…n.;措施；测量；度量；估量
+interact	(v.)交流，互动;相互作用；互相影响
