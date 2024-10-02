@@ -7,7 +7,3 @@ Je n'ai pas bien compris	我没有理解好，我没太明白。（compris是动
 Vous pouvez expliquer encore une fois	您（你们）可以再解释一次吗，拜托了？,s'ilvousplait
 Je ne comprends pas ce qu'il faut faire	我不明白需要做什么。
 Est-ce qu'il y a des devoirs	有作业吗？
-Vous parlez quelle langue	您讲哪种语言
-Quel est votre nom	您姓什么？
-Quelle est votre profession	您的职业是什么？
-rue	街道，马路n.f.
