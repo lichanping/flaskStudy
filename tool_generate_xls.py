@@ -237,7 +237,14 @@ class TextToSpeechConverter:
         # ]
         # english_voice = voice_names[0]
         if language == "fr":
-            voice_list = voices.find(Language="fr", Locale="fr-FR")
+            excluded_voices = [
+                'Microsoft Server Speech Text to Speech Voice (fr-FR, EloiseNeural)',
+                'Microsoft Server Speech Text to Speech Voice (fr-FR, VivienneMultilingualNeural)',
+                # 'Microsoft Server Speech Text to Speech Voice (fr-FR, HenriNeural)',
+                'Microsoft Server Speech Text to Speech Voice (fr-FR, RemyMultilingualNeural)'
+            ]
+            all_voices = voices.find(Language="fr", Locale="fr-FR")
+            voice_list = [voice for voice in all_voices if voice["Name"] not in excluded_voices]
         elif language == "en":
             voice_list = voices.find(Language="en", Locale="en-GB")
         else:
@@ -245,7 +252,7 @@ class TextToSpeechConverter:
         chinese_voice = voices.find(
             Language='zh'
             , Gender="Male"
-            , Locale="zh-CN"
+            # , Locale="zh-CN"
         )
 
         with open(output_file, "wb") as file:
