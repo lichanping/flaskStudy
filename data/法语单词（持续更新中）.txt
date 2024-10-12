@@ -1007,6 +1007,7 @@ Bonne année	“新年好”，是新年期间人们互相祝福的常用语。
 troisième	第三的
 visiter	参观
 lieu	地方
+dangereuse	危险的，是“dangereux”的阴性形式
 dangereux	危险的
 trouver	找到
 deuxième	第二的
