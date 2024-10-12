@@ -926,16 +926,9 @@ dois	应该
 important	重要的
 aller	去；走；处于（某种状态）;运转，进行，进展v.i.;去
 rue	街道，马路n.f.;街
-près de	靠近，接近
-derrière	在……后面
-immeuble	大楼，建筑物
-intéressant	有趣的
-à droite	在右边
-première	第一的；首要的（阴性形式）；第一层（楼）
 tourner	转弯；转动；翻转
 à gauche	在左边
 devant	在……前面
-habiter	居住(在)v.;居住
 Écoutez et répétez les phrases	听并重复这些句子。
 Je voudrais poser une question	我想要提一个问题。
 Qu'est-ce que ça veut dire	这是什么意思？（用于询问某个单词、短语、句子或者某个情况所表达的含义。）
@@ -1012,3 +1005,21 @@ Noël	名词，意为“圣诞节”
 Joyeux Noël	“圣诞快乐”，是在圣诞节期间人们互相祝福的常用语。
 année	名词，意为“年；年份”
 Bonne année	“新年好”，是新年期间人们互相祝福的常用语。
+troisième	第三的
+visiter	参观
+lieu	地方
+dangereux	危险的
+trouver	找到
+deuxième	第二的
+loin	远
+près	附近的
+pont	桥
+route	路
+près du	靠近
+près de	靠近，接近
+derrière	在……后面;后面
+habiter	居住(在)v.;居住
+immeuble	大楼，建筑物;大楼
+intéressant	有趣的
+à droite	在右边;右
+première	第一的；首要的（阴性形式）；第一层（楼）;第一的
