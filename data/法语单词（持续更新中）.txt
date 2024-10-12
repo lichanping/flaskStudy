@@ -948,7 +948,6 @@ je ne me sens pas bien	“我感觉不舒服”。
 infirmerie	(军队、学校等的)诊疗所,医务室（n.f.)
 est-ce que je peux aller à l'infirmerie	我可以去医务室吗？
 Ca va comme ça	“这样就行了吗？这样就可以了吗？这样还好吗？”表示对某个事物或情况是否达到预期状态的一种询问。
-Je ne sais pas	“我不知道”。(sais：是动词“savoir”（知道，会）的第一人称单数现在时)
 J'ai oublié	“我已经忘记了”。(“oublier”（忘记）的过去分词,表示动作已经发生)
 Je serai absent demain	“我明天将缺席”。(serai：是动词“être”（是）的第一人称单数简单将来时)
 prochaine	“下一个的，即将到来的”
@@ -1023,3 +1022,16 @@ immeuble	大楼，建筑物;大楼
 intéressant	有趣的
 à droite	在右边;右
 première	第一的；首要的（阴性形式）；第一层（楼）;第一的
+les pommes de terre	土豆
+Je ne sais pas	“我不知道”。(sais：是动词“savoir”（知道，会）的第一人称单数现在时);我不知道
+savoir	知道，会
+Tu peux marcher	你能走路吗？
+Tu dois aller à droite	你应该去右边
+la première rue	第一条街
+devant la voiture	汽车前面
+Tu dois tourner ici	你应该在这里转弯
+Tu ne peux pas tourner ici	你不能在这里转弯
+C'est à gauche	在左边
+la première rue à droite	右边第一条街
+un immeuble	一栋大楼
+près de la boulangerie	面包店附近

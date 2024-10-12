@@ -304,3 +304,16 @@ immeuble	大楼，建筑物;大楼
 intéressant	有趣的
 à droite	在右边;右
 première	第一的；首要的（阴性形式）；第一层（楼）;第一的
+les pommes de terre	土豆
+Je ne sais pas	“我不知道”。(sais：是动词“savoir”（知道，会）的第一人称单数现在时);我不知道
+savoir	知道，会
+Tu peux marcher	你能走路吗？
+Tu dois aller à droite	你应该去右边
+la première rue	第一条街
+devant la voiture	汽车前面
+Tu dois tourner ici	你应该在这里转弯
+Tu ne peux pas tourner ici	你不能在这里转弯
+C'est à gauche	在左边
+la première rue à droite	右边第一条街
+un immeuble	一栋大楼
+près de la boulangerie	面包店附近
