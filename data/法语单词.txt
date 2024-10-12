@@ -318,3 +318,15 @@ la première rue à droite	右边第一条街
 un immeuble	一栋大楼
 près de la boulangerie	面包店附近
 dangereuse	危险的，是“dangereux”的阴性形式
+C'est un pont important	这是一座重要的桥。
+près de l'école	学校附近
+parisiennes	意为“巴黎的”，是阴性复数形式
+les rues parisiennes	巴黎的街
+C'est loin d'ici	离这里很远。
+la première rue à gauche	左边第一条街
+C'est à droite	在右边吗？
+C'est loin de Paris	离巴黎很远。
+Je dois marcher	我应该走路。
+Tu dois tourner à gauche	你应该左转弯。
+derrière la voiture	汽车后面
+un pont	一座桥
