@@ -317,3 +317,4 @@ C'est à gauche	在左边
 la première rue à droite	右边第一条街
 un immeuble	一栋大楼
 près de la boulangerie	面包店附近
+dangereuse	危险的，是“dangereux”的阴性形式
