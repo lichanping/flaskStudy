@@ -265,7 +265,8 @@ class TextToSpeechConverter:
                 # print(f"{index + 1}: _______, 翻译为 {chinese_meaning}")
 
                 voice_name = random.choice(voice_list)["Name"]
-                chinese_voice_name = random.choice(chinese_voice)["Name"]
+                # chinese_voice_name = random.choice(chinese_voice)["Name"]
+                chinese_voice_name = "Microsoft Server Speech Text to Speech Voice (zh-TW, YunJheNeural)"
                 print(f"Word: {english_word}, Translation: {chinese_meaning}, Voice: {voice_name}")
                 # Repeat English audio twice
                 for _ in range(repeat):
