@@ -20,15 +20,3 @@ physician	(n.)内科医生
 unite	(v.)团结，联合
 balcony	(n.)阳台
 affection	(n.)喜爱，爱慕
-base	"v.以……作基础；n.基地，大本营；基础成分"
-behalf	(n.)代表（某人），因为某人
-breast	(n.)乳房
-mankind	(n.)人类
-compensate	(v.)弥补
-briefly	(adv.)简要地；短暂地
-limited	(adj.)有限的；被限制的
-spray	(n.)喷雾；v.喷
-injure	(v.)伤害，使受伤
-passion	(n.)强烈的情感，激情
-hush	(vi.)安静下来；vt.使安静
-manufacture	(v.)（批量）生产，制造
