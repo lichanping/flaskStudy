@@ -1,3 +1,21 @@
+acquisition	"n.获得；掌握；获得物；取得物"
+odd	"adj.奇怪的；古怪的；奇数的"
+jewelry	(n.) 珠宝
+ambition	(n.) 雄心，野心
+coal	(n.) 煤
+import	(v.) 进口；n.含义，意义
+thread	(n.) 线
+promote	"v.促进；宣传；提升，升级；推动"
+thunderstorm	(n.) 雷暴雨，雷雨
+device	(n.) 装置，设备
+dependent	(adj.) 依赖的
+stranger	(n.) 陌生人
+violent	"adj.暴力的，粗暴的；强烈的，猛烈的"
+terminal	(n.) 终点，终端
+fortune	(n.) 运气；大笔的钱，巨款
+pond	(n.) 池塘
+via	(prep.) 经过，通过
+opportunity	(n.) 机会，良机
 companion	(n.)同伴
 phrase	(n.)短语，词组
 worn-out	(adj.)磨破的；穿旧的
