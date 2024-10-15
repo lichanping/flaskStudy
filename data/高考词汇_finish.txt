@@ -2828,3 +2828,33 @@ physician	(n.)内科医生
 unite	(v.)团结，联合
 balcony	(n.)阳台
 affection	(n.)喜爱，爱慕
+trouble	"n.问题，麻烦；疾病；困境；v.（使）烦恼，麻烦"
+differently	(adv.) 不同地
+several	(det.) 几个，一些
+gym	(n.) 体育馆，健身房
+pasta	(n.) 意大利面食
+unnecessary	"adj.不必要的，不需要的，多余的"
+introduce	"vt.介绍；传入，引进；采用；v.使初次了解；使…"
+automatic	(adj.) 自动的
+solve	(v.) 解决
+lovely	(adj.) 美丽的，可爱的
+attention	"n.专心，注意力；兴趣，关注"
+cartoon	(n.) 卡通（片），动画片
+acquisition	"n.获得；掌握；获得物；取得物"
+odd	"adj.奇怪的；古怪的；奇数的"
+jewelry	(n.) 珠宝
+ambition	(n.) 雄心，野心
+coal	(n.) 煤
+import	(v.) 进口；n.含义，意义
+thread	(n.) 线
+promote	"v.促进；宣传；提升，升级；推动"
+thunderstorm	(n.) 雷暴雨，雷雨
+device	(n.) 装置，设备
+dependent	(adj.) 依赖的
+stranger	(n.) 陌生人
+violent	"adj.暴力的，粗暴的；强烈的，猛烈的"
+terminal	(n.) 终点，终端
+fortune	(n.) 运气；大笔的钱，巨款
+pond	(n.) 池塘
+via	(prep.) 经过，通过
+opportunity	(n.) 机会，良机
