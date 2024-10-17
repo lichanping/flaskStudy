@@ -673,9 +673,9 @@ monde	世界n.m.
 musique	音乐
 la nature	自然n.f.
 québécoise	加拿大魁北克的adj.(去e变阳性）
-Sénégal	塞加内尔n.m.(位于西非，以其丰富的文化、音乐和多样的自然景观而闻名。)
-Sénégalaise	塞加内尔人
-Sénégalais	塞加内尔人（阳性）
+Sénégal	塞内加尔n.m.(位于西非，以其丰富的文化、音乐和多样的自然景观而闻名。)
+Sénégalaise	塞内加尔人
+Sénégalais	塞内加尔人（阳性）
 serveuse	服务员n.f.
 serveur	服务员n.m.
 souvent	经常，常常adv.;经常

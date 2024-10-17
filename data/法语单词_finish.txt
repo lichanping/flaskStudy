@@ -933,7 +933,7 @@ Lausanne	洛桑[瑞士]
 littérature	文学n.f.
 monde	世界n.m.
 québécoise	加拿大魁北克的adj.(去e变阳性）
-Sénégalais	塞加内尔人（阳性）
+Sénégalais	塞内加尔人（阳性）
 serveur	服务员n.m.
 un sport	一项体育运动，体育项目n.m.
 un peu	一点儿，一下，少许，稍微loc.adv.（副词短语）
@@ -955,8 +955,8 @@ Je suis secrétaire	我是一名秘书
 Je cherche une correspondante de trente à quarante ans	我想找一个30岁到40岁的笔友
 J'habite en Suisse à Lausanne	我住在瑞士的洛桑
 J'ai vingt-deux ans	我22岁
-Sénégal	塞加内尔n.m.(位于西非，以其丰富的文化、音乐和多样的自然景观而闻名。)
-Sénégalaise	塞加内尔人
+Sénégal	塞内加尔n.m.(位于西非，以其丰富的文化、音乐和多样的自然景观而闻名。)
+Sénégalaise	塞内加尔人
 serveuse	服务员n.f.
 souvent	经常，常常adv.
 Je suis guyanaise	我是圭亚那人
