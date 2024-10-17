@@ -501,3 +501,26 @@ Je dois marcher	我应该走路。
 Tu dois tourner à gauche	你应该左转弯。
 derrière la voiture	汽车后面
 un pont	一座桥
+le voisin	阳性，男邻居
+la voisine	女邻居
+les voisins	男邻居（复数）
+les voisines	女邻居（复数）
+l'étudiant	男学生;男学生
+les étudiants	（这些学生）“les”在法语中是定冠词“the”，用于修饰复数名词。;男学生（复数）
+les étudiantes	女学生（复数）
+Ce sont les livres de Paul	这些是保罗的书
+Ce sont les étudiants de la première année	这些是一年级的学生
+des voisins	一些邻居（男性邻居或男女混合的邻居）
+des voisines	一些女邻居
+C'est une voisine	这是一位女邻居
+Ce sont des étudiants	这些是学生
+Il va au café	他去咖啡馆
+Je vais au Japon	我去日本
+bibliothèque	图书馆（阴性）
+Elle va à la bibliothèque	她去图书馆
+Il travaille à l'hôtel	他在酒店工作
+Il habite aux États-Unis	他住在美国
+Les États-Unis	美国；美利坚合众国
+les Philippines	菲律宾;“菲律宾”
+les Pays-Bas	荷兰(英语中常用“Netherlands”或“Holland”来表示荷兰);“荷兰”
+C'est une adresse	这是一个地址
