@@ -1,6 +1,3 @@
-il va	他去
-elle va	她去
-nous allons	（我们去）
 vous allez	（您/你们去）
 ils vont	（他们去）
 elles vont	（她们去）

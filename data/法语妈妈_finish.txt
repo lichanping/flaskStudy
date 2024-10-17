@@ -594,3 +594,6 @@ Quelle est ton adresse	你的地址是什么？
 Quelle est votre adresse	您的地址是什么？
 aller	去；走；处于（某种状态）;运转，进行，进展v.i.
 tu vas	你去
+il va	他去
+elle va	她去
+nous allons	（我们去）
