@@ -323,7 +323,6 @@ just	(adv.)仅仅，只不过；刚才
 exactly	(adv.)精确地，准确地；"adv.（答语）正是，没错；精确地，准确地；究竟"
 talented	(adj.)有才能的，天资高的
 untalented	(adj.)没有天赋的；缺乏才能的；不聪明的
-speaker	(n.)说话人，演讲人；说某种语言的人
 may	(aux.)可能，也许；可以，能够；n.五月（首字母…
 might	(n.)力量，威力；"aux.可能，也许（may的过去式）；或许；可以"
 prefer	(vt.)更喜欢
@@ -497,7 +496,6 @@ beauty	(n.)美（丽）
 hamburger	(n.)汉堡包
 elder	(adj.)年长的；n.长辈
 well	"adv.很好地；顺利地；彻底地，完全地；adj.良…"
-address	"n.地址；v.解决；向……讲话"
 charge	(v.)收费；n.负责；费用
 mountain	(n.)山，山脉
 elect	(v.)选举，推选；选择
@@ -793,7 +791,6 @@ wax	(n.)蜡
 acknowledge	(vt.)承认；认可
 foreigner	(n.)外国人
 social	(adj.)社会性的；社交的
-rock	"n.岩石，石头；摇滚乐；v.摇晃"
 wind	(n.)风
 stewardship	"n.管理员、服务员等的职位和职责"
 foresee	(vt.)预测，预料
@@ -837,7 +834,6 @@ stop	"v.停止；阻止；n.停止；车站"
 franc	(n.)法郎
 important	(adj.)重要的，重大的
 sow	(v.)播种；种
-trust	(n.)信任；v.信任，相信
 unexpected	(adj.)想不到的，意外的
 follow	"vi.接踵而至；v.遵循；跟随；追求"
 freezing	(adj.)冰冻的，冰冷的
@@ -1294,7 +1290,6 @@ rugby	(n.)英式橄榄球
 database	(n.)数据库
 apartment	(n.)<美>公寓
 pearl	(n.)珍珠；珠状物
-protect	(v.)保护
 attraction	"n.景点；吸引，魅力；有吸引力的事物"
 clumsily	(adv.)笨拙地
 inject	(v.)给……注射
@@ -1327,7 +1322,6 @@ preview	(n.)（电影、戏剧等的）试映
 dash	(v.)猛冲，突进
 bridge	(n.)桥，桥梁；v.弥合
 vocabulary	(n.)词汇（量）
-shower	(n.)淋浴，淋浴器
 hugely	(adv.)非常地
 chemist	(n.)化学家
 seashell	(n.)贝壳，海贝
@@ -1489,7 +1483,6 @@ body	(n.)身体
 hospital	(n.)医院
 coin	(n.)硬币
 sexual	(adj.)性别的；性的；性感的
-method	(n.)方法
 freedom	(n.)自由
 brush	(v.)擦
 roughly	(adv.)大约，粗略地
@@ -1515,12 +1508,10 @@ express	(v.)表达；adj.快速的
 frequent	"adj.时常的，频繁的（读作/ˈfrikwənt/）"
 tense	(adj.)紧张的
 feast	(n.)盛宴，特别的享受
-schedule	"n.时间表，计划表；v.预订，安排"
 Mexico	(n.)墨西哥
 boxing	(n.)拳击；盒式包装
 skim	(v.)掠过，滑过
 flashlight	(n.)手电筒
-personal	(adj.)个人的，私人的
 minimum	"adj.最少的，最低（限度）的；n.最低限度，最小量"
 incident	(n.)事件
 aviation	(n.)航空，航空学
@@ -1572,7 +1563,6 @@ roast	"adj.烤的，烘的；v.烤，焙，烘"
 measurement	(n.)衡量，测量；尺寸
 fall	"vi.落下；下降，减弱；变成，进入（某种状态）；…"
 propose	(vt.)提议；vi.求婚
-signal	(n.)信号；v.表明
 tightly	(adv.)紧紧地
 outwards	(adv.)向外地
 colleague	(n.)同事
@@ -1581,7 +1571,6 @@ strict	"adj.（条例、法规等）严格的；严厉的"
 corner	(n.)角落，角；拐角
 nationality	(n.)国籍
 consume	"vt.消耗，消费；吃，喝，饮"
-greet	(v.)问候，招呼
 wrongly	(adv.)错误地
 instruction	"n.指令，命令；指示；说明，说明书；指导"
 feeling	"n.（内心和感官的）感觉，感触，情绪；v.感觉"
@@ -1840,7 +1829,6 @@ beast	(n.)野兽
 orchestra	(n.)管弦乐队
 service	(n.)服务
 statistic	(n.)统计数值
-center	(n.)中央，中心；v.集中
 manipulation	(n.)操作，处理
 sake	(n.)理由
 population	(n.)（地区、国家等的）人口
@@ -1917,7 +1905,6 @@ warmth	(n.)温暖，暖和
 alien	"n.外星人；adj.外国的；外星（人）的"
 lame	"adj.瘸的，跛的；站不住脚的"
 asleep	(adj.)睡着的，睡熟的
-review	"n.评论；检查；综述；v.回顾"
 job	(n.)工作；责任
 salad	"n.（生吃的）蔬菜色拉，沙拉"
 ban	"vt.明令禁止；n.禁止，禁令"
@@ -2035,7 +2022,6 @@ labor	(n.)劳动，劳力
 remote	(adj.)偏远的；远程的
 ambassadress	(n.)女大使
 ambassador	"n.（特命全权）大使；代表；使节"
-respect	(v.)尊敬；n.尊敬；方面
 spaceman	(n.)宇航员
 pale	(adj.)苍白的，灰白的
 hang up	(phr.)挂断电话
@@ -2121,7 +2107,6 @@ herb	(n.)草本植物
 beyond	"prep.超出；除…之外；在更远处；adv.在更远处"
 altogether	(adv.)总共，一共；完全
 wire	"n.电线，电缆，导线，金属丝，金属线"
-lock	(v.)锁上；n.锁
 main	(adj.)主要的，最重要的
 adaptation	(n.)适应，适应性的变化
 sudden	(adj.)突然的，意外的
@@ -2193,7 +2178,6 @@ else	(adj.)其他的，另外的
 Cantonese	(n.)粤语
 sector	(n.)（经济等的）行业；部门
 tax	(n.)税，税款
-owner	(n.)所有者，物主，主人
 shade	"n.色度；百叶窗；一点，略微"
 agent	(n.)代理商，代理人；特工
 chalk	(n.)粉笔
@@ -2410,7 +2394,6 @@ means	(n.)方法，手段
 hill	(n.)小山，山岗；斜坡
 danger	"n.危险，风险，危险的物（或人）"
 revolution	(n.)革命
-explore	(v.)探索；探讨，研究
 calorie	(n.)【热量单位】卡，卡路里
 province	(n.)省
 ward	"n.病房；选区；受监护人；v.守护，躲开"
@@ -2604,7 +2587,6 @@ pursuit	(n.)追求，寻找
 sneeze	(v.)打喷嚏；n.喷嚏
 devote	"vt.献身于，专心致力于，把……专用于"
 inch	(n.)英寸；少许，少量
-order	"v.订购；点（食物、饮料）；命令；n.订单；…"
 courage	(n.)勇气，胆量
 pollute	(v.)污染，弄脏
 sponsor	(vt.)赞助；n.赞助人;赞助者
@@ -2635,7 +2617,6 @@ dish	(n.)菜肴；碟，盘子
 court	(n.)庭院；球场
 abruptly	(adv.)突然地
 inn	(n.)客栈，小旅馆
-simple	(adj.)简单的，易于理解的
 leg	(n.)腿，腿部
 tick	"v.用勾作为记号；发出滴答声；n.勾号；一刹那；…"
 easily	(adv.)容易地
@@ -2817,7 +2798,6 @@ thunderstorm	(n.)雷暴雨，雷雨
 device	(n.)装置，设备
 solve	(v.)解决
 dependent	(adj.)依赖的
-stranger	(n.)陌生人
 violent	"adj.暴力的，粗暴的；强烈的，猛烈的"
 lovely	(adj.)美丽的，可爱的
 terminal	(n.)终点，终端
@@ -3165,7 +3145,6 @@ stressful	(adj.)压力大的，令人紧张的
 free	"adj.免费的；自由的；免于，不遭受；空闲的，有…"
 false	(adj.)假的；错误的
 basin	(n.)盆地
-deliver	"v.递送，交付；发表（演讲）；传达"
 unfit	(adj.)不适宜的，不合适的
 cherry	(n.)樱桃（树）
 noise	(n.)噪声；声音，响声
@@ -3429,77 +3408,112 @@ traveler	"n.旅行者，旅客（=traveller）"
 unfortunately	"adv.遗憾地，可惜地，不幸地"
 multiple	(adj.)多个的
 poster	(n.)海报
-status	(n.) 地位；状况
-tennis	(n.) 网球
-effectively	(adv.) 有效地
+status	(n.)地位；状况
+tennis	(n.)网球
+effectively	(adv.)有效地
 spade	"n.铁锹，铲子；黑桃（扑克）"
 among	"prep.在……中间，在……之中"
 composition	"n.作品，乐曲；作文；构成，组成，成分"
-liver	(n.) 肝脏
-influence	(n.) 影响；v.影响
-adore	(vt.) 喜爱
-sightseeing	(n.) 观光
+liver	(n.)肝脏
+influence	(n.)影响；v.影响
+adore	(vt.)喜爱
+sightseeing	(n.)观光
 step	"n.步骤，阶段；一步；措施；脚步，脚步声；vi.…"
-ford	(v.) 涉水，渡河
-arrest	(v.) 逮捕，拘留
+ford	(v.)涉水，渡河
+arrest	(v.)逮捕，拘留
 voyage	"n.航海，航行；vi.航海；航行"
 raise	"v.筹集，筹（钱）；饲养，种植；抚养；提高，增加…"
-nursery	(n.) 托儿所
-Tibetan	(n.) 藏族人；adj.西藏的
-ability	(n.) 能力
-realistic	(adj.) 现实的，实际的
-elegant	(adj.) 优雅的，典雅的
-slave	(n.) 奴隶
-broadcast	(n.) 广播或电视节目
-finding	(n.) 发现，调查结果
+nursery	(n.)托儿所
+Tibetan	(n.)藏族人；adj.西藏的
+ability	(n.)能力
+realistic	(adj.)现实的，实际的
+elegant	(adj.)优雅的，典雅的
+slave	(n.)奴隶
+broadcast	(n.)广播或电视节目
+finding	(n.)发现，调查结果
 sheet	"n.纸张；床单；(冰或水等的)一大片"
 waste	"v.浪费；n.浪费；废料，废品"
-somebody	(pron.) 某人；有人
-recommendation	(n.) 推荐，介绍；建议
+somebody	(pron.)某人；有人
+recommendation	(n.)推荐，介绍；建议
 scratch	"n.抓痕，擦伤；v.抓破，划破；抓，挠，搔（痒）"
 beat	"v.打败；打；有节奏地跳动；敲打；搅拌，（用叉…"
-costume	(n.) 服装，戏装
-greenhouse	(n.) 温室
-maximum	(adj.) 最大的；n.最大值
-compete	(vi.) 竞争
-busy	(adj.) 忙碌的，正被占用的
-cancer	(n.) 癌症
+costume	(n.)服装，戏装
+greenhouse	(n.)温室
+maximum	(adj.)最大的；n.最大值
+compete	(vi.)竞争
+busy	(adj.)忙碌的，正被占用的
+cancer	(n.)癌症
 utter	"vt.说；讲；发出；adj.完全的"
-size	(n.) 大小，尺寸；规模；尺码
-completely	(adv.) 完全地
-yak	(n.) 牦牛
-speed	(n.) 速度，速率；v.加速
-appetite	(n.) 食欲；胃口
-ignore	(v.) 忽略
-meander	(v.) 蜿蜒而行，曲折迂回
-youngster	(n.) 年轻人，少年
+size	(n.)大小，尺寸；规模；尺码
+completely	(adv.)完全地
+yak	(n.)牦牛
+speed	(n.)速度，速率；v.加速
+appetite	(n.)食欲；胃口
+ignore	(v.)忽略
+meander	(v.)蜿蜒而行，曲折迂回
+youngster	(n.)年轻人，少年
 crush	"vt.压扁，压坏；镇压；n.拥挤的人群"
 vivid	"adj.生动的，清晰的（记忆、描述）"
 fair	"adj.合理的，公平的；n.交易会，博览会"
 prime	"adj.首要的，主要的；最好的，一流的；n.青春，…"
-mall	(n.) 购物商场
+mall	(n.)购物商场
 load	"v.装载；n.大量，许多；负载，负荷"
-science	(n.) 科学
-timetable	(n.) 时间表，时刻表
+science	(n.)科学
+timetable	(n.)时间表，时刻表
 tailor	"n.裁缝；v.调整……使适应"
-realize	(v.) 认识到，意识到
-honesty	(n.) 诚实
-dam	(n.) 水坝；母兽
-sickness	(n.) 疾病
+realize	(v.)认识到，意识到
+honesty	(n.)诚实
+dam	(n.)水坝；母兽
+sickness	(n.)疾病
 nature	"n.大自然；天性；本质；性格，秉性；性质"
-ministry	(n.) （政府的）部，内阁
+ministry	(n.)（政府的）部，内阁
 amateur	"adj.业余爱好的；n.业余爱好者"
 spoil	"vt.溺爱；毁坏；n.战利品，赃物"
-reason	(n.) 原因
+reason	(n.)原因
 afraid	"adj.恐怕（礼貌的拒绝）口语；害怕的，畏惧"
-accident	(n.) 事故；意外；车祸
-mountainous	(adj.) 多山的
-scenery	(n.) 风景
-soldier	(n.) 士兵，军人
-superb	(adj.) 极好的；壮丽的
-responsibility	(n.) 责任，义务
-bow	(n.) 弓
-coalition	(n.) 联盟
+accident	(n.)事故；意外；车祸
+mountainous	(adj.)多山的
+scenery	(n.)风景
+soldier	(n.)士兵，军人
+superb	(adj.)极好的；壮丽的
+responsibility	(n.)责任，义务
+bow	(n.)弓
+coalition	(n.)联盟
 diner	"n.（尤指餐馆的）就餐者；车形餐馆"
-correspond	(vi.) 相符，一致
-loyal	(adj.) 忠心的，忠诚的（顾客）忠实的；忠贞的
+correspond	(vi.)相符，一致
+loyal	(adj.)忠心的，忠诚的（顾客）忠实的；忠贞的
+chant	反复呼喊；反复唱
+centre	中心；中央
+distance	距离
+lively	有活力的；活泼的
+dictionary	词典；字典
+thermostat	温控器
+itself	它自己（反身形式）
+alarm	警报器
+mode	模式；方式
+text message	（手机）短信息
+heating	供暖；暖气设备
+alarm clock	闹钟
+keep track of	追踪
+health care	医疗（服务）
+center	(n.)中央，中心；v.集中;（美式）中心；中央
+greet	(v.)问候，招呼;打招呼；欢迎
+method	(n.)方法;方法；措施
+simple	(adj.)简单的，易于理解的;简单的
+address	"n.地址；v.解决；向……讲话";地址
+deliver	"v.递送，交付；发表（演讲）；传达";递送
+trust	(n.)信任；v.信任，相信;信任
+respect	(v.)尊敬；n.尊敬；方面;尊重；尊敬
+speaker	(n.)说话人，演讲人；说某种语言的人;扬声器；喇叭
+stranger	(n.)陌生人;陌生人
+lock	(v.)锁上；n.锁;锁
+explore	(v.)探索；探讨，研究;探索；探究
+rock	"n.岩石，石头；摇滚乐；v.摇晃";（使）轻轻摇晃
+shower	(n.)淋浴，淋浴器;淋浴
+protect	(v.)保护;保护
+review	"n.评论；检查；综述；v.回顾";评论；复习
+personal	(adj.)个人的，私人的;个人的；私人的
+owner	(n.)所有者，物主，主人;物主；主人
+schedule	"n.时间表，计划表；v.预订，安排";日程安排
+order	"v.订购；点（食物、饮料）；命令；n.订单；…";订购
+signal	(n.)信号；v.表明;发信号；示意
