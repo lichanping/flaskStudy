@@ -591,3 +591,51 @@ owner	(n.)所有者，物主，主人;物主；主人
 schedule	"n.时间表，计划表；v.预订，安排";日程安排
 order	"v.订购；点（食物、饮料）；命令；n.订单；…";订购
 signal	(n.)信号；v.表明;发信号；示意
+session	"n.会议；一场；一段时间的（活动）"
+pepper	(n.) 胡椒粉，胡椒
+various	(adj.) 各种各样的，不同的
+bother	"v.打扰，因……操心；(使)担心，(使)生气，(使)苦恼"
+resign	(v.) 辞职，放弃
+department	"n.部门；（大学）系，部；（商场里的）部"
+fingerprint	(n.) 指纹
+nest	(n.) 巢；家，安乐窝
+helpful	"adj.有用的，有帮助的；肯帮忙的，给予帮助的"
+champion	(n.) 冠军，优胜者
+solid	"adj.可靠的；坚固的；实心的"
+sight	"n.看见；景观，名胜；景象，情景；视野"
+counter	(n.) 柜台；v.抵制
+inform	(v.) 告知，通知
+migration	(n.) 迁徙，迁移
+west	(n.) 西方，西部
+brochure	(n.) 手册，小册子
+panic	"n.恐慌，惊恐；v.（使）惊慌失措"
+logical	"adj.合乎逻辑的；推理正确的"
+picture	"n.照片，图片；画，图画；情况，局面；v.想象，…"
+pretty	"adv.很；adj.漂亮的，可爱的"
+strait	(n.) 海峡；窘迫
+fashion	(n.) 时髦，风尚；时装
+bakery	(n.) 面包房，面包店
+debt	(n.) 债
+trolleybus	(n.) 无轨电车
+ever	(adv.) 在任何时候；曾经
+proper	(adj.) 适合的，适用的
+lung	(n.) 肺
+injection	(n.) 注射，注入
+bible	"n.(theBible)《圣经》；权威书籍"
+contradictory	(adj.) 相互矛盾的，对立的
+yawn	"v.打哈欠；打着哈欠说；n.乏味或枯燥的事物"
+hall	(n.) 大厅；会堂，礼堂
+forever	(adv.) 永远
+vague	"adj.含糊的，模糊的；茫然的"
+pianist	(n.) 钢琴家
+translator	(n.) 翻译者
+frog	(n.) 青蛙
+bet	"n.赌，赌注；v.打赌；敢断定"
+media	"n.媒体（medium的复数形式）"
+ensure	(vt.) 确保；保证
+rubbish	(n.) 垃圾，废物
+trial	"adj.试验的，试验性的；n.试验"
+waitress	(n.) 女服务员
+employment	(n.) 工作；就业
+chant	反复呼喊；反复唱;"v.反复地说；吟诵；n.圣歌，赞美诗；吟诵声；重…"
+control	(n.)控制，管理；对照实验；控制装置；克制；【财】…;"v.控制，管理；n.控制，管理"
