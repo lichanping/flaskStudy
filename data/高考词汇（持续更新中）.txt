@@ -205,7 +205,6 @@ disabled	(adj.)有残疾的
 some	"det.一些；某一；pron.一些"
 none	(pron.)没有（一人或一物）
 quiet	"adj.安静的；n.安静，平静；v.使安静，平静"
-silent	"adj.沉默的，安静的；寂静的；n.无声电影"
 soundless	"adj.无声的；完全静寂的；静悄悄的"
 peace	(n.)和平；和睦；平静;(n.)平静
 calm	"adj.冷静的，平静的；风平浪静的；无风的；v.（使）镇定"
@@ -1575,7 +1574,6 @@ instruction	"n.指令，命令；指示；说明，说明书；指导"
 feeling	"n.（内心和感官的）感觉，感触，情绪；v.感觉"
 tear	"v.撕裂，撕碎（读作/ter/）；n.眼泪（读作/tɪr/）"
 admit	"v.承认；准许进入；接纳，接收（入学）"
-emergency	"n.紧急情况，突发事件；adj.紧急情况下的；应急的"
 actress	(n.)女演员
 reservation	"n.（住处、席位的）预订；（美国印第安部落的）居…"
 range	"n.范围，界限；一系列；v.（在一定范围内）变化"
@@ -2794,7 +2792,6 @@ thread	(n.)线
 promote	"v.促进；宣传；提升，升级；推动"
 automatic	(adj.)自动的
 thunderstorm	(n.)雷暴雨，雷雨
-device	(n.)装置，设备
 solve	(v.)解决
 dependent	(adj.)依赖的
 violent	"adj.暴力的，粗暴的；强烈的，猛烈的"
@@ -3516,50 +3513,65 @@ schedule	"n.时间表，计划表；v.预订，安排";日程安排
 order	"v.订购；点（食物、饮料）；命令；n.订单；…";订购
 signal	(n.)信号；v.表明;发信号；示意
 session	"n.会议；一场；一段时间的（活动）"
-pepper	(n.) 胡椒粉，胡椒
-various	(adj.) 各种各样的，不同的
+pepper	(n.)胡椒粉，胡椒
+various	(adj.)各种各样的，不同的
 bother	"v.打扰，因……操心；(使)担心，(使)生气，(使)苦恼"
-resign	(v.) 辞职，放弃
+resign	(v.)辞职，放弃
 department	"n.部门；（大学）系，部；（商场里的）部"
-fingerprint	(n.) 指纹
-nest	(n.) 巢；家，安乐窝
+fingerprint	(n.)指纹
+nest	(n.)巢；家，安乐窝
 helpful	"adj.有用的，有帮助的；肯帮忙的，给予帮助的"
-champion	(n.) 冠军，优胜者
+champion	(n.)冠军，优胜者
 solid	"adj.可靠的；坚固的；实心的"
 sight	"n.看见；景观，名胜；景象，情景；视野"
-counter	(n.) 柜台；v.抵制
-inform	(v.) 告知，通知
-migration	(n.) 迁徙，迁移
-west	(n.) 西方，西部
-brochure	(n.) 手册，小册子
+counter	(n.)柜台；v.抵制
+inform	(v.)告知，通知
+migration	(n.)迁徙，迁移
+west	(n.)西方，西部
+brochure	(n.)手册，小册子
 panic	"n.恐慌，惊恐；v.（使）惊慌失措"
 logical	"adj.合乎逻辑的；推理正确的"
 picture	"n.照片，图片；画，图画；情况，局面；v.想象，…"
 pretty	"adv.很；adj.漂亮的，可爱的"
-strait	(n.) 海峡；窘迫
-fashion	(n.) 时髦，风尚；时装
-bakery	(n.) 面包房，面包店
-debt	(n.) 债
-trolleybus	(n.) 无轨电车
-ever	(adv.) 在任何时候；曾经
-proper	(adj.) 适合的，适用的
-lung	(n.) 肺
-injection	(n.) 注射，注入
+strait	(n.)海峡；窘迫
+fashion	(n.)时髦，风尚；时装
+bakery	(n.)面包房，面包店
+debt	(n.)债
+trolleybus	(n.)无轨电车
+ever	(adv.)在任何时候；曾经
+proper	(adj.)适合的，适用的
+lung	(n.)肺
+injection	(n.)注射，注入
 bible	"n.(theBible)《圣经》；权威书籍"
-contradictory	(adj.) 相互矛盾的，对立的
+contradictory	(adj.)相互矛盾的，对立的
 yawn	"v.打哈欠；打着哈欠说；n.乏味或枯燥的事物"
-hall	(n.) 大厅；会堂，礼堂
-forever	(adv.) 永远
+hall	(n.)大厅；会堂，礼堂
+forever	(adv.)永远
 vague	"adj.含糊的，模糊的；茫然的"
-pianist	(n.) 钢琴家
-translator	(n.) 翻译者
-frog	(n.) 青蛙
+pianist	(n.)钢琴家
+translator	(n.)翻译者
+frog	(n.)青蛙
 bet	"n.赌，赌注；v.打赌；敢断定"
 media	"n.媒体（medium的复数形式）"
-ensure	(vt.) 确保；保证
-rubbish	(n.) 垃圾，废物
+ensure	(vt.)确保；保证
+rubbish	(n.)垃圾，废物
 trial	"adj.试验的，试验性的；n.试验"
-waitress	(n.) 女服务员
-employment	(n.) 工作；就业
+waitress	(n.)女服务员
+employment	(n.)工作；就业
 chant	"v.反复地说；吟诵；n.圣歌，赞美诗；吟诵声；重…"
 control	(n.)控制，管理；对照实验；控制装置；克制;v.控制，管理；
+on purpose	故意地
+in person	亲自
+speechless	无语的
+thoughtless	轻率的
+miles	英里
+dealt with	处理；与……打交道
+faceless	素未谋面
+rock-bottom prices	最低价格
+comforting	安慰的
+nodded	点头
+gratefully	感激地
+signals	信号
+device	(n.)装置，设备;装置
+emergency	"n.紧急情况，突发事件；adj.紧急情况下的；应急的";紧急情况；突发事件
+silent	"adj.沉默的，安静的；寂静的；n.无声电影";无声的
