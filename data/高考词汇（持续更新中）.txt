@@ -40,7 +40,6 @@ sorrow	悲伤n.
 industrial	工业的adj.
 devotion	投入n.
 straw	吸管n.
-evaluate	评估；评价vt.
 sun	太阳n.
 final	最终的；最后的；adj.决赛n.
 artificial	假装的，虚伪的；人造的adj.
@@ -617,7 +616,6 @@ force	"v.强迫；n.力量；军队，部队"
 hotdog	(n.)热狗（面包）
 expectation	(n.)期望；预期
 large	"adj.大量的；大的；n.大号，大尺寸"
-former	(adj.)以前的
 coffee	(n.)咖啡
 ball	(n.)球
 explicit	(adj.)明确的
@@ -1376,7 +1374,6 @@ spelling	(n.)拼法
 attitude	(n.)态度
 doubtful	(adj.)怀疑的，疑惑的
 teenager	(n.)（13～19岁的）青少年
-absolute	(adj.)完全的；绝对的
 tsunami	(n.)海啸
 screen	(n.)屏幕
 ordinary	(adj.)普通的，平常的
@@ -2838,7 +2835,6 @@ thick	"adj.茂密的，繁茂的；稠的，浓的"
 sew	(v.)缝，缝纫；缝补
 divide	"v.分开，划分；除以；除；n.差异"
 howl	"v.（狼、狗等）嗥叫；吼叫，哀号；n.嗥叫，哀号"
-paper	"n.试卷，论文；纸；报纸；adj.纸制的"
 soul	(n.)人
 morning	(n.)早晨，上午
 advocate	(v.)提倡，主张
@@ -3324,7 +3320,6 @@ hiker	(n.)远足者，徒步旅行者
 dynasty	(n.)王朝，朝代
 ballad	(n.)歌谣，民谣
 underground	(adj.)地下的；n.地铁
-analyze	(vt.)分析
 transparent	(adj.)透明的，清澈的
 something	(pron.)某事物
 admirable	"adj.令人钦佩的，值得赞扬的"
@@ -3350,7 +3345,6 @@ invisible	无形的；看不见的
 victim	受害者；牺牲品
 significant	(adj.)重要的；显著的;
 contribute	"v.有助于；贡献；促成，导致";贡献；
-eventually	(adv.)终于，最后;最终
 barrier	(n.)障碍;屏障；界限
 attempt	"vt.试图，尝试；n.努力，尝试";企图；试图；尝试
 measure	测量；估量；v.措施，方法；计量标准；(估价…n.;措施；测量；度量；估量
@@ -3575,3 +3569,16 @@ signals	信号
 device	(n.)装置，设备;装置
 emergency	"n.紧急情况，突发事件；adj.紧急情况下的；应急的";紧急情况；突发事件
 silent	"adj.沉默的，安静的；寂静的；n.无声电影";无声的
+grandmaster	特级大师
+jumped at the idea	欣然接受这个想法
+after all	毕竟；终究；终归
+credits	学分
+appealing	有吸引力的；动人的；引起兴趣的
+meant business	是认真的；当真的；不是开玩笑
+manage to	设法做到；成功做到
+former	(adj.)以前的；从前的
+paper	"n.试卷，论文；纸；报纸；adj.纸制的"
+eventually	(adv.)终于，最后;最终
+absolute	(adj.)完全的；绝对的;无条件的
+analyze	(vt.)分析;剖析
+evaluate	评估；评价vt.;估价
