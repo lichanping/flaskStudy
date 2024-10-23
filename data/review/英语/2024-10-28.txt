@@ -1,3 +1,14 @@
+holy	(adj.) 神圣的，圣洁的
+concept	(n.) 概念
+statement	(n.) 陈述；声明
+silk	(n.) 丝，丝绸
+substance	(n.) 物质
+consumption	(n.) 消耗，消耗量，消费
+defend	"v.保卫，防守；为……辩护，为……辩解；捍卫，…"
+psychology	(n.) 心理学
+structure	"n.结构；v.赋予……结构，使形成结构"
+hunger	(n.) 饥饿；v.渴望
+microorganism	(n.) 微生物
 on purpose	故意地
 in person	亲自
 speechless	无语的

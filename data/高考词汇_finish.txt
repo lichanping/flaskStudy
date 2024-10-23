@@ -2958,3 +2958,23 @@ motherland	(n.) 祖国
 blast	(n.) 热闹的聚会，狂欢
 analytical	(adj.) 分析的
 suspect	"v.怀疑，猜疑；n.犯罪嫌疑人，可疑分子"
+low	"adj.低的，矮的，少的；沮丧的"
+bag	(n.) 袋，包
+neck	(n.) 脖子，颈
+ridiculous	(adj.) 可笑的，荒谬的
+spokesman	(n.) 发言人（尤指男性）
+horrible	(adj.) 糟糕的
+escape	"v.逃跑，逃脱；n.逃跑，逃脱"
+funny	(adj.) 有趣的，好玩的
+app	(n.) 应用程序
+holy	(adj.) 神圣的，圣洁的
+concept	(n.) 概念
+statement	(n.) 陈述；声明
+silk	(n.) 丝，丝绸
+substance	(n.) 物质
+consumption	(n.) 消耗，消耗量，消费
+defend	"v.保卫，防守；为……辩护，为……辩解；捍卫，…"
+psychology	(n.) 心理学
+structure	"n.结构；v.赋予……结构，使形成结构"
+hunger	(n.) 饥饿；v.渴望
+microorganism	(n.) 微生物
