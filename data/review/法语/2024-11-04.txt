@@ -1,3 +1,18 @@
+Portraits	肖像
+trouvez l'objet	找到物品
+Il y a	有,存在ph.
+des fleurs	一些花
+Il y a trois arbres	有三棵树
+une fenêtre	一扇窗户
+Elle ouvrent les fenêtres	她们打开窗户
+Mon chien est blanc	我的狗是白色的
+Alice est très gentille	爱丽丝非常和善
+une voiture blanche	一辆白色的汽车
+Il y a un salon dans ma maison	我的房子里有一个客厅
+une vache	一头奶牛
+Alice est ma voisine	爱丽丝是我的邻居
+la table et les chaises	桌子和椅子
+une pièce	一个房间
 Quel professeur tu préfères	你更喜欢哪个老师？
 Une Renault	雷诺车
 bientôt	不久，马上adv.
