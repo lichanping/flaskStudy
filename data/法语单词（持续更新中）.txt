@@ -472,7 +472,6 @@ une chaise	一把椅子
 ah	啊!唉!interj.
 médecin assistant	助理医生
 assistante	助理，助手，副手n.
-belge	比利时的adj.英文表达是“Belgian”;比利时人n.Belge（首字母大写）英文表达是“Belgian”（单数形式）/“Belgians”（复数形式）
 chinois	中国的adj.；中国人n.（首字母大写）
 chinoise	中国的adj.中国人n.（首字母大写）
 cours	课，课程n.m.[kur]
@@ -559,8 +558,6 @@ vous allez	（您/你们去）
 ils vont	（他们去）
 elles vont	（她们去）
 alors	那么，在这种情况下adv.=Then
-amie	女朋友n.f.
-ami	朋友n.m.
 C'est mon ami	他是我的朋友
 avec	和。。。一起prep.=with
 Ju suis avec mon ami	我和我的朋友在一起
@@ -581,7 +578,6 @@ C'est mon fils	这是我的儿子
 C'est une fille	这是一个女孩
 Hôtel	宾馆n.m.
 journée	一天；白天，白昼n.f.
-maintenant	现在，目前adv.=Now
 Merci à vous	谢谢您
 Montréal	蒙特利尔(加拿大一座充满魅力的城市)
 Notre-Dame	圣母院n.f.inv(没有性数变化)
@@ -605,8 +601,6 @@ Vous parlez quelle langue	您讲哪种语言
 Quel est votre nom	您姓什么？
 Quelle est votre profession	您的职业是什么？
 Quelle est son adresse	他的地址是什幺？
-votre	你们的，您的
-vous	您；你们pron.pers.（人称代词）
 soixante	六十
 soixante et un	六十一
 soixante et une	六十一（阴性）
@@ -966,7 +960,6 @@ Attendez	动词“attendre”（等待）的第二人称复数命令式
 Attendez-moi	（等等我！）
 Encore une fois	“再一次，又一次”。
 Peut-on utiliser le dictionnaire	“可以使用词典吗？”（“peut”是动词“pouvoir”（能够，可以）的第三人称单数现在时变位形式，表示可能性；“-on”是泛指人称代词，相当于“人们，大家”）
-quand	疑问副词，意为“什么时候”
 C'est pour quand	“这是（安排）在什么时候的呢？”
 aider	动词，意为“帮助”
 Vous pouvez m'aider	“您（们）能帮助我吗？”（“m'”是直接宾语人称代词“me”（我），
@@ -1067,3 +1060,35 @@ Les États-Unis	美国；美利坚合众国
 les Philippines	菲律宾;“菲律宾”
 les Pays-Bas	荷兰(英语中常用“Netherlands”或“Holland”来表示荷兰);“荷兰”
 C'est une adresse	这是一个地址
+pourquoi	为什么
+québécois	魁北克人
+voulez	要，想要
+tous les jours	每天
+prenez	带，乘坐，上
+achetez	买
+baguette	法棍面包
+allez	去，会，走
+lisez	阅读，阅
+nos	我们的
+avez	有
+vos	你们的，妳们的，您的
+n'est pas marié	未婚
+notre	我们的
+marié	婚，已婚的
+habitez	住，住在
+ensemble	一起，俱
+aimez	喜欢
+mariés	结婚了
+étudiez	学习
+parlez	说，谈论
+cuisinez	做
+travaillez	工作，工
+dansez	跳舞，舞
+êtes	是，很，在
+quand	疑问副词，意为“什么时候”
+belge	比利时的adj.英文表达是“Belgian”;比利时人n.Belge（首字母大写）英文表达是“Belgian”（单数形式）/“Belgians”（复数形式）;比利时人
+maintenant	现在，目前adv.=Now
+amie	女朋友n.f.
+ami	朋友n.m.
+votre	你们的，您的
+vous	您；你们pron.pers.（人称代词）;您，您们，和你们
