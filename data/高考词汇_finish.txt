@@ -3028,3 +3028,23 @@ security	(n.) 安全；保护措施
 regard	"v.把……视为；认为；n.尊敬"
 pressure	(n.) 压力
 adjustment	"n.（行为、思想的）调整，适应"
+Internet	(n.) 互联网
+allow	"v.允许，准许；使（有可能）"
+stand	(v.) 站立；忍受；n.货摊
+recently	(adv.) 最近地
+possible	(adj.) 可能
+up and down	"phr.上上下下，起伏；来回，来来回回"
+exact	(adj.) 确切的
+conservation	(n.) 保护
+socialist	"adj.社会主义的；n.社会主义者"
+accomplish	(vt.) （通过努力）完成
+software	(n.) 软件
+underneath	(prep.) 在……下面
+since	(conj.) 自从；由于
+president	"n.（各机构的）会长，院长，主席；总裁"
+athletics	(n.) 体育运动
+sensible	(adj.) 合理的
+determined	(adj.) 有决心的
+comprehension	(n.) 理解；理解练习
+modem	(n.) 调制解调器
+deposit	(v.) 沉淀；n.定金
