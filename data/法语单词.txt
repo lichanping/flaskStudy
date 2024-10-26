@@ -293,3 +293,35 @@ Les États-Unis	美国；美利坚合众国
 les Philippines	菲律宾;“菲律宾”
 les Pays-Bas	荷兰(英语中常用“Netherlands”或“Holland”来表示荷兰);“荷兰”
 C'est une adresse	这是一个地址
+pourquoi	为什么
+québécois	魁北克人
+voulez	要，想要
+tous les jours	每天
+prenez	带，乘坐，上
+achetez	买
+baguette	法棍面包
+allez	去，会，走
+lisez	阅读，阅
+nos	我们的
+avez	有
+vos	你们的，妳们的，您的
+n'est pas marié	未婚
+notre	我们的
+marié	婚，已婚的
+habitez	住，住在
+ensemble	一起，俱
+aimez	喜欢
+mariés	结婚了
+étudiez	学习
+parlez	说，谈论
+cuisinez	做
+travaillez	工作，工
+dansez	跳舞，舞
+êtes	是，很，在
+quand	疑问副词，意为“什么时候”
+belge	比利时的adj.英文表达是“Belgian”;比利时人n.Belge（首字母大写）英文表达是“Belgian”（单数形式）/“Belgians”（复数形式）;比利时人
+maintenant	现在，目前adv.=Now
+amie	女朋友n.f.
+ami	朋友n.m.
+votre	你们的，您的
+vous	您；你们pron.pers.（人称代词）;您，您们，和你们
