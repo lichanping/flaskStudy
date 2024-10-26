@@ -420,7 +420,6 @@ Attendez	动词“attendre”（等待）的第二人称复数命令式
 Attendez-moi	（等等我！）
 Encore une fois	“再一次，又一次”。
 Peut-on utiliser le dictionnaire	“可以使用词典吗？”（“peut”是动词“pouvoir”（能够，可以）的第三人称单数现在时变位形式，表示可能性；“-on”是泛指人称代词，相当于“人们，大家”）
-quand	疑问副词，意为“什么时候”
 C'est pour quand	“这是（安排）在什么时候的呢？”
 aider	动词，意为“帮助”
 Vous pouvez m'aider	“您（们）能帮助我吗？”（“m'”是直接宾语人称代词“me”（我），
@@ -553,3 +552,4 @@ amie	女朋友n.f.
 ami	朋友n.m.
 votre	你们的，您的
 vous	您；你们pron.pers.（人称代词）;您，您们，和你们
+quand	疑问副词，意为“什么时候”
