@@ -305,3 +305,61 @@ amie	女朋友n.f.
 ami	朋友n.m.
 votre	你们的，您的
 vous	您；你们pron.pers.（人称代词）;您，您们，和你们
+Ce sont les livres de Paul	这些是保罗的书
+Ce sont des étudiants	这些是学生;这是一些学生
+Il va au café	他去咖啡馆
+Il travaille à l'hôtel	他在酒店工作;他在旅馆工作
+C'est l'adresse du café	这就是那家咖啡馆的地址（du=de+le)
+manteau	“外套”或“大衣”
+C'est le manteau du directeur	这是主任的大衣（du=de+le的缩合)
+directeur	经理n.阳性形式;导演，校长（阳性）;“主任”或“负责人”
+Elle vient du bureau des professeurs	她来自老师们的办公室(des=de+les)
+au coin de la rue	在街角(au=à+le，coin角落)
+la place	广场
+sur la place de l'Opéra	在歌剧院那边的广场上。
+Vous faite de la natation	你是否进行游泳这一活动
+Vous prenez des légumes	你吃蔬菜吗？
+Oui j'en prends	是的，我吃（en做直接宾语，代替des+légumes,部分冠词+名词）
+Tu as beaucoup de cours	你有很多课程吗？（de+名词，引入名词短语，可以被en替代）
+Oui j'en ai beaucoup	(en替代de+名词）是的，我有很多课程。
+Tu vas acheter combien de robes	你将要购买多少裙子？
+Je vais en acheter deux	我要买两条裙子(en替代de+robes)
+la farine	特定的面粉
+Je prends un kilo de farine	我买一公斤的面粉
+Oui tu en prends un kilo	好，你就买一公斤的面粉吧(en指代前面提到过的defarine)
+Est-ce que tu as des frères	(Est-ceque引导一般疑问句，表示“你是否……”。)你有兄弟吗？
+Oui j'en ai trois	是的，我有3个兄弟（en替代desfrères)
+des Chinois	一些中国人(Chinois单复数相同）
+un nez	一个鼻子（z不发音）
+des nez	一些鼻子（名词“nez”的复数形式）
+un noyau	一个种子核
+des noyaux	多个核(以au，eau，eu结尾的，复数形式是加x，不能加s)
+un chapeau	一顶帽子
+des chapeaux	多个“帽子”(以au，eau，eu结尾的，复数形式是加x，不能加s)
+un feu	一个火
+des feux	多个“火”(以au，eau，eu结尾的，复数形式是加x，不能加s)
+un cheval	一匹马
+des chevaux	多个“马”（以al结尾的变aux）
+un journal	一份报纸或一本日记
+des journaux	多个“报纸”（以al结尾的变aux）
+Qu'est-ce que vous avez	您有什么=Whatdoyouhave?（Qu'est-ceque=que+est-ceque，意思是“这是什么”）
+Qu'est-ce que vous faites dans la vie	您从事什么工作？Whatdoyoudoinyourlife?
+Qu'est-ce que vous prenez	您吃点什么？
+Qu'est-ce que vous regardez	您在看什么？
+Qu'est-ce que vous dites	您说什么？
+Qu'est-ce que c'est	这是什么？
+Que faites-vous dans la vie	您在生活中做什么？（Que提前，必须主谓倒装构成问句）
+Vous faites quoi dans la vie	（Que位于居中变为quoi)您在生活中做什么？
+Que dites-vous	您说什么？
+Vous dites quoi	您说什么？（口语）
+C'est quoi	这是什么（口语）
+avec qui	和谁
+avez-vous	你有没有
+problème	问题
+comment	怎么样，什么，怎么
+qui	谁pron.interr.;谁
+semaine	名词，意为“星期、周”;周
+Qu'est-ce qu'il y a dans le café	咖啡中有什么？
+Il y a quoi dans la chambre	在房间里有什么？(口语）
+Qu'est-ce qu'il y a dans la chambre	房间里有什么？（书）
+Il y a un lit une table et deux chaises	有一张床，一个桌子和两把椅子

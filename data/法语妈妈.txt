@@ -553,3 +553,4 @@ ami	朋友n.m.
 votre	你们的，您的
 vous	您；你们pron.pers.（人称代词）;您，您们，和你们
 quand	疑问副词，意为“什么时候”
+avec qui 和谁
