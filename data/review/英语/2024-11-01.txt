@@ -1,3 +1,34 @@
+edge	"n.边；（悬崖、峭壁的）边缘"
+reserve	(n.) 保护区；v.预订；保留
+occasion	(n.) 场合，时候，活动
+deaf	(adj.) 聋的；不愿听的
+career	(n.) 职业，事业；生涯，经历
+avenue	(n.) 方式，手段
+radium	(n.) 镭
+cozy	"adj.温馨舒适的，安逸的（=cosy）；v.取悦"
+heartily	(adv.) 起劲地，痛快地
+vertical	(adj.) 垂直的
+crane	(n.) 鹤
+restore	(vt.) 恢复；修补，修复
+call for	(phr.) 需要
+choir	"n.（教会的）歌唱队，唱诗班"
+entire	(adj.) 完整的，全部的
+wound	(n.) 伤口（读作/wuːnd/）
+striker	"n.（足球的）前锋；罢工者；锤，报点时钟"
+harmony	(n.) 和谐
+allocate	(v.) 分配，配给
+unjust	(adj.) 不公平的
+degree	(n.) 学位；度；程度
+radiation	(n.) 辐射
+assistance	(n.) 帮助；援助
+billboard	(n.) 告示牌，广告牌
+mountainside	(n.) 山坡
+settler	(n.) 移民者，定居者
+prison	(n.) 监狱
+statue	(n.) 雕像
+guard	(n.) 看守；vt.看守，监视
+policymaker	(n.) 决策者，政策制定者
+unconditional	(adj.) 绝对的，无条件的
 upward	(adv.) 向上地；adj.向上的
 civilian	"adj.平民的，百姓的，民用的"
 anyhow	"adv.不论用何种方法，无论如何；尽管如此"
