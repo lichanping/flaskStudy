@@ -1,0 +1,58 @@
+affiche	海报，广告n.f.
+C'est une affiche	这是一张海报
+assiette	盘子n.f.
+C'est une assiette	这是一个盘子
+au-dessous	在下面，通常表示某物在另一物的正下方。
+au-dessus	“在上面”；...以上
+avec	和...一起prep.=with;具有，带有prep
+Il parle français avec un accent anglais	他说法语带有英语口音
+blouson	夹克衫n.m.
+C'est le blouson de Paul	这是保罗的夹克
+chaise	椅子n.f.
+Il y a une chaise	有一张椅子
+chambre	卧室n.f.
+Il y a une chaise dans la chambre	房间里有一把椅子。
+chapeau	帽子n.m.
+C'est un chapeau	这是一顶帽子。
+chatte	母猫
+le mur	墙
+Il y a une chaise contre le mur	墙边有一把椅子。
+côté	旁，侧n.m.通常用来表示物体的侧面或与某事物的关系。
+Il habite à côté	他住在旁边。
+À côté de la table	在桌子旁边。
+cuillère	勺，匙n.f.
+Il est devant moi	他在我面前。
+droite	右面，右边，右方
+tourner à droite	向右转。
+Le café est à droite du cinéma	咖啡馆在电影院的右边。
+étagère	格，隔板，架子；多层架子n.f.
+fauteuil	扶手椅n.m.
+fenêtre	窗户;窗子，窗户，玻璃窗n.f.
+fleur	“花”。它是一个阴性名词
+gauche	左边，左面n.f.
+roulent	行驶（动词“rouler”的第三人称复数形式）
+En Angleterre le voitures roulent à gauche	在英国，汽车靠左行驶。
+Anna est à gauche de Sophie	安娜在索菲的左边
+Il y a une table à côté de la chaise	椅子旁边有一张桌子
+meuble	家具n.m.
+mur	墙壁n.m
+objet	物体；物品，东西n.m.
+ordinateur	电脑n.m.
+pièce	房间n.f.
+porte	戴，带，穿;门n.f.
+que	什么pron.interr.
+sac	包n.m.
+Le chat est sous la table	猫在桌子下面。
+Le livre est sur l'étagère	书在书架上。
+voilà	这就是prep;看，在这里
+trouver	找到;找到，发现v.t.
+le vase	花瓶n.m.
+Il y a des fleurs dans le vase	花瓶里有花
+sur	在..上面prep=On
+sous	在...下面=under
+dans	在……里prép
+devant	在……前面prep
+contre	紧挨着
+à gauche de	在左边
+à droite de	在右边
+à côté de	在...的旁边=next to
