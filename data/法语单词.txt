@@ -421,3 +421,13 @@ contre	紧挨着
 à gauche de	在左边
 à droite de	在右边
 à côté de	在...的旁边=next+to
+Son chapeau et son blouson	他的帽子和他的夹克衫
+Ils sont dans la chambre de Mélanie	他们在梅兰妮的房间里
+sous l'étagère	在架子下面
+sous les affiches	在海报下面
+à côté de la fenêtre	在窗户旁边
+L'étagère avec des livres	带有书的架子
+à gauche de la fenêtre	在窗户的左边
+à droite de la fenêtre	在窗户的右边
+L'étagère contre le mur	靠墙的架子
+Il y a un blouson et un chapeau	有一件夹克和一顶帽子。
