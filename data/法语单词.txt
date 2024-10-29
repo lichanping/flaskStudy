@@ -431,3 +431,20 @@ L'étagère avec des livres	带有书的架子
 à droite de la fenêtre	在窗户的右边
 L'étagère contre le mur	靠墙的架子
 Il y a un blouson et un chapeau	有一件夹克和一顶帽子。
+du soir	晚上
+devez	应该，须
+du matin	上午，凌晨
+horloge	时钟
+rentre	回
+tôt	早，早些
+tard	晚，晚点
+rentrer	回
+heure	点，时间，小时
+sors	出去
+sortir	出去
+midi	中午
+avant	之前，以前，在之前
+minuit	午夜
+chez	家，在家
+il est	他是;他，在，现在是
+chambre	卧室n.f.;房间，卧室，房

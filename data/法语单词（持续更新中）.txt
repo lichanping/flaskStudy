@@ -224,7 +224,6 @@ les étudiants étudient	那些大学生学习
 ils travaillent en france	他们在法国工作
 je suis	我是
 tu es	你是
-il est	他是
 elle est	她是
 nous sommes	（我们是）
 vous êtes	（您/你们是）
@@ -1142,7 +1141,6 @@ blouson	夹克衫n.m.
 C'est le blouson de Paul	这是保罗的夹克
 chaise	椅子n.f.
 Il y a une chaise	有一张椅子
-chambre	卧室n.f.
 Il y a une chaise dans la chambre	房间里有一把椅子。
 chapeau	帽子n.m.
 C'est un chapeau	这是一顶帽子。
@@ -1198,3 +1196,20 @@ L'étagère avec des livres	带有书的架子
 à droite de la fenêtre	在窗户的右边
 L'étagère contre le mur	靠墙的架子
 Il y a un blouson et un chapeau	有一件夹克和一顶帽子。
+du soir	晚上
+devez	应该，须
+du matin	上午，凌晨
+horloge	时钟
+rentre	回
+tôt	早，早些
+tard	晚，晚点
+rentrer	回
+heure	点，时间，小时
+sors	出去
+sortir	出去
+midi	中午
+avant	之前，以前，在之前
+minuit	午夜
+chez	家，在家
+il est	他是;他，在，现在是
+chambre	卧室n.f.;房间
