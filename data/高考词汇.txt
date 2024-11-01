@@ -1,53 +1,3 @@
-excited	兴奋的
-interested	感兴趣的
-amazed	惊讶的
-concerned	担忧的
-meant	意味着
-criteria	标准；条件（criterion的复数）
-option	选择；选择权
-managed	设法做到
-tried	尝试
-hoped	希望
-wished	希望
-putting to use	使用；利用
-thinking about	思考
-referring to	参考；提及
-looking for	寻找
-different	不同的
-new	新的
-influenced	影响
-changed	改变
-improved	提高；改善
-formed	形成
-applicable	可应用的
-instructor	指导者；讲师
-opponent	对手
-serve	服务；提供；对……有用
-decision - making	决策
-hard - earned	来之不易的
-life lessons	生活经验；人生教训
-all	所有的
-not only...but also	不仅……而且……
-grandmaster	特级大师;大师
-ring	"v.鸣响，发出铃声；打电话；n.戒指；(电话)响铃";（声音）响起；听起来是真的（用于ringtrue固定搭配）
-seem	(v.)似乎，好像
-sound	"v.听起来；n.声音，声响；adj.明智的";听起来（后接形容词）
-look	(vi.)看；v.寻找；看起来
-special	"adj.特别的；特殊的，不寻常的；n.特色菜，特产…"
-unique	独一无二的，独特的adj.
-valuable	(adj.)贵重的，有价值的
-useful	(adj.)有用的，有益的
-relevant	(adj.)相关的，有关的
-department	"n.部门；（大学）系，部；（商场里的）部";部门；系
-graduate	"vi.毕业；n.毕业生；adj.研究生的（读作/…";毕业生
-introduction	(n.)介绍；引言;介绍；引言
-profession	(n.)职业;职业；专业
-chess	(n.)国际象棋;国际象棋
-move	"v.移动；（使）改变位置；发展，推移，变化；感动";移动；步骤；策略
-analyze	(vt.)分析;剖析;分析；解析
-evaluate	评估；评价vt.;估价;评价；评估
-eventually	(adv.)终于，最后;最终;最后；终于
-beyond	"prep.超出；除…之外；在更远处；adv.在更远处";超出；非……所能及;超过；越过；在……较远的一边
 apply	(v.)应用；申请；适用;申请；应用
 absolute	(adj.)完全的；绝对的;无条件的;绝对的；完全的；专制的
 kind	"n.种类；adj.善良的，仁慈的，亲切的，和蔼的";善良的
@@ -310,7 +260,6 @@ offshore	(adj.) 近海的，海岸的
 stair	(n.) 楼梯
 worm	(n.) 虫，蠕虫
 charming	(adj.) 迷人的
-ring	"v.鸣响，发出铃声；打电话；n.戒指；(电话)响铃"
 millimeter	(n.) 毫米
 complex	"adj.复杂的，难解的；n.建筑群"
 collision	(n.) 碰撞；冲突
@@ -349,7 +298,6 @@ hiker	(n.) 远足者，徒步旅行者
 dynasty	(n.) 王朝，朝代
 ballad	(n.) 歌谣，民谣
 underground	(adj.) 地下的；n.地铁
-analyze	(vt.) 分析
 transparent	(adj.) 透明的，清澈的
 something	(pron.) 某事物
 admirable	"adj.令人钦佩的，值得赞扬的"
@@ -523,7 +471,6 @@ pepper	(n.) 胡椒粉，胡椒
 various	(adj.) 各种各样的，不同的
 bother	"v.打扰，因……操心；(使)担心，(使)生气，(使)苦恼"
 resign	(v.) 辞职，放弃
-department	"n.部门；（大学）系，部；（商场里的）部"
 fingerprint	(n.) 指纹
 nest	(n.) 巢；家，安乐窝
 helpful	"adj.有用的，有帮助的；肯帮忙的，给予帮助的"
