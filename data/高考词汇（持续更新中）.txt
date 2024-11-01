@@ -649,7 +649,6 @@ piano	(n.)钢琴
 fake	"adj.假的，假装的，冒充的；n.假货，赝品；v.…"
 yellow	(adj.)黄色的
 number	(n.)号码；数量，数额；数字
-identify	(v.)识别出；确定，鉴定
 maintain	"vt.保持，维持；维护，维修"
 then	"adv.然后；当时，那时；那么（通常用于句首或句…"
 urban	"adj.城市的，城镇的，都市的"
@@ -1106,7 +1105,6 @@ guitar	(n.)吉他
 independent	(adj.)独立的，自立的
 exist	(vi.)存在
 today	(n.)今天
-encounter	"vt.邂逅，偶遇；n.相遇，邂逅"
 butter	(n.)黄油；水果酱，干果酱
 enthusiastic	"adj.狂热的，极感兴趣的；热情的"
 communicate	(v.)沟通，交流
@@ -1644,7 +1642,6 @@ window	(n.)窗
 hand in	(phr.)上交，递交
 justice	(n.)正义
 class	"n.课，上课；阶级，社会等级，等级制度；班级，同…"
-grocery	(n.)食品杂货店
 consultant	(n.)顾问；高级顾问医师
 recorder	(n.)录音机
 voluntary	"adj.自愿的；无偿的；n.即兴曲"
@@ -1927,7 +1924,6 @@ lie	"v.存在；位于；躺，平卧；撒谎；n.谎话，谎言"
 custom	(n.)风俗
 variety	(n.)种类；变化，多样性
 imaginary	(adj.)想象的，虚构的
-penny	(n.)便士
 kilogram	(n.)千克；公斤
 scene	(n.)场面，情景；景象
 waterfall	(n.)瀑布
@@ -2098,7 +2094,6 @@ amusing	(adj.)有趣的
 grammar	(n.)语法，语法书
 lamb	(n.)羔羊
 herb	(n.)草本植物
-beyond	"prep.超出；除…之外；在更远处；adv.在更远处"
 altogether	(adv.)总共，一共；完全
 wire	"n.电线，电缆，导线，金属丝，金属线"
 main	(adj.)主要的，最重要的
@@ -2204,7 +2199,6 @@ overweight	(adj.)超重的
 embarrass	(vt.)使尴尬
 topic	(n.)话题，主题
 canal	(n.)运河，河流
-delay	"n.延误，延迟；v.延误，延迟"
 polish	(vt.)磨光，擦亮
 sale	(n.)出售，销售
 wherever	(conj.)无论在哪里
@@ -2259,7 +2253,6 @@ whichever	"adv.（表示什么特征或品质在作决定时重要）…的…"
 comfort	(n.)舒适；v.安慰
 liberation	(n.)解脱，解放
 workshop	"n.车间，工场，工作室；研讨会"
-possession	(n.)拥有；所有物
 parade	(n.)游行;游行，检阅
 logically	"adv.逻辑上，合逻辑地，有条理地"
 discard	(v.)丢掉
@@ -2859,7 +2852,6 @@ graze	(v.)放牧
 slogan	(n.)口号
 attend	"v.参加；上（学），去（教堂）"
 advertise	(v.)为……做广告
-risky	(adj.)危险的
 kettle	(n.)壶，水壶
 umbrella	(n.)伞，雨伞
 anchor	"n.锚；（广播电视新闻节目的）主持人"
@@ -3046,7 +3038,6 @@ rectangle	(n.)长方形，矩形
 amount	(n.)数量；v.总计
 sweater	"n.毛衣，厚运动衫，羊毛衫，针织套衫"
 supporting	(adj.)次要的
-grateful	(adj.)感激的
 wage	(n.)工资，薪水
 nitrogen	(n.)氮，氮气
 result	"n.结果，成效；v.导致；(from)起因于，因……而…"
@@ -3070,7 +3061,6 @@ target	(n.)目标；v.瞄准
 judge	(v.)判断
 oilfield	(n.)油田
 admission	(n.)入场费
-license	(n.)执照
 situation	(n.)情况，场景
 rebuild	(v.)重建
 universe	(n.)宇宙，天地万物
@@ -3413,7 +3403,6 @@ ford	(v.)涉水，渡河
 arrest	(v.)逮捕，拘留
 voyage	"n.航海，航行；vi.航海；航行"
 raise	"v.筹集，筹（钱）；饲养，种植；抚养；提高，增加…"
-nursery	(n.)托儿所
 Tibetan	(n.)藏族人；adj.西藏的
 ability	(n.)能力
 realistic	(adj.)现实的，实际的
@@ -3582,3 +3571,22 @@ eventually	(adv.)终于，最后;最终
 absolute	(adj.)完全的；绝对的;无条件的
 analyze	(vt.)分析;剖析
 evaluate	评估；评价vt.;估价
+seized	抓住；夺取
+crisis	危机；危急关头；决定性时刻
+dining room	餐厅；饭厅
+spot	发现；认出；看出
+respond	回答；回应；作出反应
+take possession of	占有；拥有
+tend to	倾向于；趋向于
+blessed	幸福的；幸运的；有福的
+grocery	(n.)食品杂货店;食品杂货店
+license	(n.)执照;许可证；执照
+penny	(n.)便士;（英国货币单位）便士
+identify	(v.)识别出；确定，鉴定;确认；认出；鉴定
+delay	"n.延误，延迟；v.延误，延迟";延迟；耽搁；延误
+risky	(adj.)危险的;有风险的；冒险的；危险的
+possession	(n.)拥有；所有物;拥有；占有
+nursery	(n.)托儿所;托儿所；幼儿园
+beyond	"prep.超出；除…之外；在更远处；adv.在更远处";超出；非……所能及
+encounter	"vt.邂逅，偶遇；n.相遇，邂逅";偶然碰到；意外地遇见
+grateful	(adj.)感激的;感激的；感谢的
