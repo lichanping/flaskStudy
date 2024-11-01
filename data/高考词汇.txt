@@ -1,3 +1,70 @@
+excited	兴奋的
+interested	感兴趣的
+amazed	惊讶的
+concerned	担忧的
+meant	意味着
+criteria	标准；条件（criterion的复数）
+option	选择；选择权
+managed	设法做到
+tried	尝试
+hoped	希望
+wished	希望
+putting to use	使用；利用
+thinking about	思考
+referring to	参考；提及
+looking for	寻找
+different	不同的
+new	新的
+influenced	影响
+changed	改变
+improved	提高；改善
+formed	形成
+applicable	可应用的
+instructor	指导者；讲师
+opponent	对手
+serve	服务；提供；对……有用
+decision - making	决策
+hard - earned	来之不易的
+life lessons	生活经验；人生教训
+all	所有的
+not only...but also	不仅……而且……
+grandmaster	特级大师;大师
+ring	"v.鸣响，发出铃声；打电话；n.戒指；(电话)响铃";（声音）响起；听起来是真的（用于ringtrue固定搭配）
+seem	(v.)似乎，好像
+sound	"v.听起来；n.声音，声响；adj.明智的";听起来（后接形容词）
+look	(vi.)看；v.寻找；看起来
+special	"adj.特别的；特殊的，不寻常的；n.特色菜，特产…"
+unique	独一无二的，独特的adj.
+valuable	(adj.)贵重的，有价值的
+useful	(adj.)有用的，有益的
+relevant	(adj.)相关的，有关的
+department	"n.部门；（大学）系，部；（商场里的）部";部门；系
+graduate	"vi.毕业；n.毕业生；adj.研究生的（读作/…";毕业生
+introduction	(n.)介绍；引言;介绍；引言
+profession	(n.)职业;职业；专业
+chess	(n.)国际象棋;国际象棋
+move	"v.移动；（使）改变位置；发展，推移，变化；感动";移动；步骤；策略
+analyze	(vt.)分析;剖析;分析；解析
+evaluate	评估；评价vt.;估价;评价；评估
+eventually	(adv.)终于，最后;最终;最后；终于
+beyond	"prep.超出；除…之外；在更远处；adv.在更远处";超出；非……所能及;超过；越过；在……较远的一边
+apply	(v.)应用；申请；适用;申请；应用
+absolute	(adj.)完全的；绝对的;无条件的;绝对的；完全的；专制的
+kind	"n.种类；adj.善良的，仁慈的，亲切的，和蔼的";善良的
+smart	(adj.)时髦的，衣着讲究的；聪明的；智能的；敏捷的；巧妙的;聪明的
+paper	"n.试卷，论文；纸；报纸；adj.纸制的";论文
+journalist	(n.)新闻记者；新闻工作者;新闻工作者；记者
+skill	(n.)技能；技巧;技能
+experience	"n.（一次）经历，感受，体验；经验，实践；v.经…";经历；经验
+personal	(adj.)个人的，私人的;个人的；私人的;个人的
+play	"v.玩；发挥作用；演奏；打/踢（球）；n.戏剧，…";玩；扮演（文中指下棋）
+situation	(n.)情况，场景;情况；形势
+process	(n.)步骤，过程；v.加工;处理；加工；过程
+best	"adj.最好的；adv.最好地；n.（人或事物所能…";最好的
+among	"prep.在……中间，在……之中";在……之中
+still	(adv.)还，仍;仍然;仍然
+today	(n.)今天;今天
+believe	(v.)相信；认为
 worsen	(v.) （使)恶化
 acquire	"v.（通过努力、能力）获得；购得"
 toothache	(n.) 牙痛
