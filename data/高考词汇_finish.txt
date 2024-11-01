@@ -3098,3 +3098,56 @@ statue	(n.) 雕像
 guard	(n.) 看守；vt.看守，监视
 policymaker	(n.) 决策者，政策制定者
 unconditional	(adj.) 绝对的，无条件的
+excited	兴奋的
+interested	感兴趣的
+meant	意味着
+managed	设法做到
+tried	尝试
+hoped	希望
+wished	希望
+thinking about	思考
+different	不同的
+new	新的
+influenced	影响
+changed	改变
+formed	形成
+serve	服务；提供；对……有用
+life lessons	生活经验；人生教训
+all	所有的
+not only...but also	不仅……而且……
+ring	"v.鸣响，发出铃声；打电话；n.戒指；(电话)响铃";（声音）响起；听起来是真的（用于ringtrue固定搭配）
+seem	(v.)似乎，好像
+sound	"v.听起来；n.声音，声响；adj.明智的";听起来（后接形容词）
+look	(vi.)看；v.寻找；看起来
+special	"adj.特别的；特殊的，不寻常的；n.特色菜，特产…"
+unique	独一无二的，独特的adj.
+valuable	(adj.)贵重的，有价值的
+useful	(adj.)有用的，有益的
+department	"n.部门；（大学）系，部；（商场里的）部";部门；系
+graduate	"vi.毕业；n.毕业生；adj.研究生的（读作/…";毕业生
+introduction	(n.)介绍；引言;介绍；引言
+chess	(n.)国际象棋;国际象棋
+move	"v.移动；（使）改变位置；发展，推移，变化；感动";移动；步骤；策略
+eventually	(adv.)终于，最后;最终;最后；终于
+beyond	"prep.超出；除…之外；在更远处；adv.在更远处";超出；非……所能及;超过；越过；在……较远的一边
+ring	"v.鸣响，发出铃声；打电话；n.戒指；(电话)响铃"
+department	"n.部门；（大学）系，部；（商场里的）部"
+amazed	惊讶的
+concerned	担忧的
+criteria	标准；条件（criterion的复数）
+option	选择；选择权
+putting to use	使用；利用
+referring to	参考；提及
+looking for	寻找
+improved	提高；改善
+applicable	可应用的
+instructor	指导者；讲师
+opponent	对手
+decision - making	决策
+hard - earned	来之不易的
+grandmaster	特级大师;大师
+relevant	(adj.)相关的，有关的
+profession	(n.)职业;职业；专业
+analyze	(vt.)分析;剖析;分析；解析
+evaluate	评估；评价vt.;估价;评价；评估
+analyze	(vt.) 分析
