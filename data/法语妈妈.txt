@@ -555,3 +555,4 @@ vous	您；你们pron.pers.（人称代词）;您，您们，和你们
 quand	疑问副词，意为“什么时候”
 avec qui 和谁
 il est	他是;他，在，现在是
+sucre糖
