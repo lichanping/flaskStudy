@@ -1213,9 +1213,9 @@ minuit	午夜
 chez	家，在家
 il est	他是;他，在，现在是
 chambre	卧室n.f.;房间
-sucre糖
-s'il te plaît请，请你，麻烦你（用于比较熟悉的人之间，比如朋友、家人、同学、同事等平辈或者对晚辈）
-beaucoup de很多
-un peu de一点
-lait牛奶，奶
-frigo冰箱
+sucre	糖
+s'il te plaît	请，请你，麻烦你（用于比较熟悉的人之间，比如朋友、家人、同学、同事等平辈或者对晚辈）
+beaucoup de	很多
+un peu de	一点
+lait	牛奶，奶
+frigo	冰箱
