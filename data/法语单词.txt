@@ -466,3 +466,8 @@ Les placards sont ici	壁橱在这里
 Il est deux heures de l'après-midi	现在是下午两点
 Trop de lait	太多牛奶
 Il y a un peu de sucre dans le placard	橱柜里有一点糖
+Je rentre chez moi chaque après-midi	我每个下午回我家。
+Vous devez rentrer très tôt	你们应该非常早回。
+Je rentre chez moi ce soir	我今天晚上回我家。
+horloge	时钟;“时钟”“钟表”
+Tu as une horloge chez toi	你家有时钟吗？
