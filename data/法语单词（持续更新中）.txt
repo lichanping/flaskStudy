@@ -1219,3 +1219,15 @@ beaucoup de	很多
 un peu de	一点
 lait	牛奶，奶
 frigo	冰箱
+une cuisine	一个厨房
+Où est la cuisine	厨房在哪里？
+bain	洗澡，沐浴
+salle	房间，室
+Une salle de bain	一个浴室
+un sel	一份盐
+Trop de sel	太多盐
+Placard	壁橱
+Les placards sont ici	壁橱在这里
+Il est deux heures de l'après-midi	现在是下午两点
+Trop de lait	太多牛奶
+Il y a un peu de sucre dans le placard	橱柜里有一点糖
