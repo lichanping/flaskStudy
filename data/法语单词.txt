@@ -471,3 +471,30 @@ Vous devez rentrer très tôt	你们应该非常早回。
 Je rentre chez moi ce soir	我今天晚上回我家。
 horloge	时钟;“时钟”“钟表”
 Tu as une horloge chez toi	你家有时钟吗？
+Il est onze heures du soir	现在晚上十一点。
+Il y a beaucoup de sucre dans ce gâteau	这个蛋糕里有很多糖。
+Tu sors	你出去吗？
+avant minuit	表示“在午夜之前”
+Tu dois sortir avant minuit	你应该在午夜之前出去。
+sortir	出去;出去
+Il y a beaucoup de placards dans la cuisine	厨房里有很多壁橱。
+Je rentre souvent tard	我经常晚回。
+tard	晚，晚点;晚，迟
+L'horloge blanche	白色的时钟
+Je voudrais un verre de lait	我想要一杯牛奶。
+Il y a quatre chambres dans cette maison	这幢房子里有四个卧室。
+Tu sors de chez Paul	你从保罗家出来吗？
+Où est la salle de bain	浴室在哪里？
+chez Julia et Gabriel	"Julia和Gabriel家"
+Il y a deux chambres chez Paul	保罗家有两个卧室
+Avant-midi	中午之前
+Je ne rentre pas tard	我不晚回
+Je sors très tôt	我非常早出去
+Je peux rentrer tard	我能晚回
+Tu sors de la cuisine	你从厨房里出去吗？
+Il est neuf heures du matin	现在上午九点
+Il y a une horloge chez moi	我家有一个时钟。
+Vous devez rentrer tôt	你必须早点回来
+Trop de café	太多咖啡
+Les placards sont ici	壁橱在这里。
+la table de la cuisine	厨房的桌子
