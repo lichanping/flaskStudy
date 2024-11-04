@@ -1244,7 +1244,6 @@ tard	晚，晚点;晚，迟
 L'horloge blanche	白色的时钟
 Je voudrais un verre de lait	我想要一杯牛奶。
 Il y a quatre chambres dans cette maison	这幢房子里有四个卧室。
-Tu sors de chez Paul	你从保罗家出来吗？
 Où est la salle de bain	浴室在哪里？
 chez Julia et Gabriel	"Julia和Gabriel家"
 Il y a deux chambres chez Paul	保罗家有两个卧室
@@ -1259,3 +1258,13 @@ Vous devez rentrer tôt	你必须早点回来
 Trop de café	太多咖啡
 Les placards sont ici	壁橱在这里。
 la table de la cuisine	厨房的桌子
+Je sors de la maison	我从房子里出去
+Tu sors de chez Paul	你从保罗家出来吗？;你从Paul家出去吗？
+Tu dois sortir	你应该出去
+Je veux un peu de lait	我想要一点牛奶。
+à minuit	在午夜
+Vous devez rentrer à midi	你们应该中午回
+une chambre	一个卧室
+avant midi	中午之前
+Une horloge	一个时钟
+Il est quatre heures de l'après-midi	现在是下午四点
