@@ -317,7 +317,6 @@ discussion	(n.) 讨论，谈论
 bride	(n.) 新娘
 cabbage	(n.) 洋白菜，卷心菜
 rude	(adj.) 粗鲁的，无礼的
-set off	(phr.) 出发，启程
 toilet	(n.) 厕所
 immigration	(n.) 移民
 loneliness	(n.) 孤独，寂寞
