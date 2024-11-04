@@ -335,7 +335,6 @@ south	(n.)南方；adv.向南方，在南方
 downstairs	(n.)楼下
 eat	(v.)吃，吃饭
 good	(adj.)好的；熟练的；有利的；n.(goods)商品
-urge	(v.)敦促，督促
 economical	(adj.)节约的；经济的
 saving	(n.)节省，节约；储蓄；（复数）储蓄金，存款；节省…
 wasteful	(adj.)浪费的，挥霍的
@@ -1537,7 +1536,6 @@ fall	"vi.落下；下降，减弱；变成，进入（某种状态）；…"
 propose	(vt.)提议；vi.求婚
 tightly	(adv.)紧紧地
 outwards	(adv.)向外地
-colleague	(n.)同事
 misunderstanding	(n.)误解，误会，不和
 strict	"adj.（条例、法规等）严格的；严厉的"
 corner	(n.)角落，角；拐角
@@ -1591,7 +1589,6 @@ bear	"vt.生育；忍受，容忍；n.熊"
 all in all	(phr.)总而言之
 dress	"v.打扮，穿着；n.连衣裙；服装"
 jump	(v.)跳
-comment	"n.评论；v.评论，表达意见"
 surrounding	(n.)环境
 cycle	"n.周期，循环；v.骑自行车"
 thunder	(n.)雷，雷声
@@ -1683,7 +1680,6 @@ participate	(vi.)参与，参加
 mathematics	(n.)（=maths）数学
 arise	"vi.由……引起，发生；升起"
 hydrogen	(n.)氢，氢气
-approach	"v.接近；着手处理；n.方法"
 seed	(n.)种子，籽
 smell	"n.气味；v.嗅，闻（......的气味），闻到"
 conventional	(adj.)普通的，常规的
@@ -3001,7 +2997,6 @@ growth	"n.发展，进步；生长，成长；增长"
 settler	(n.)移民者，定居者
 prison	(n.)监狱
 statue	(n.)雕像
-guard	(n.)看守；vt.看守，监视
 policymaker	(n.)决策者，政策制定者
 unconditional	(adj.)绝对的，无条件的
 worsen	(v.)（使)恶化
@@ -3317,7 +3312,6 @@ discussion	(n.)讨论，谈论
 bride	(n.)新娘
 cabbage	(n.)洋白菜，卷心菜
 rude	(adj.)粗鲁的，无礼的
-set off	(phr.)出发，启程
 toilet	(n.)厕所
 immigration	(n.)移民
 loneliness	(n.)孤独，寂寞
@@ -3705,3 +3699,13 @@ instructor	指导者；讲师;(n.)指导者，教员，教练
 essential	(adj.)必不可少的，极其重要的；本质的；重要的；基…;"adj.必不可少的，极其重要的"
 capital	(n.)资金，资本；首都；大写字母；省会；【财】资本;
 painful	(adj.)疼痛的；痛苦的；艰难的
+set up	建立；设立；创建
+remarkable	非凡的；卓越的；引人注目的
+set out	出发；动身
+campaign	（政治、商业性等）“运动；活动”
+set off	(phr.)出发，启程;出发；启程;(phr.)出发，启程
+urge	(v.)敦促，督促;强烈的欲望；冲动
+colleague	(n.)同事;同事；同僚
+comment	"n.评论；v.评论，表达意见";评论；发表意见
+guard	(n.)看守；vt.看守，监视;看守，防护
+approach	"v.接近；着手处理；n.方法";接近；靠近
