@@ -3162,3 +3162,37 @@ comment评论；发表意见
 guard看守，防护
 approach接近；靠近
 set off	(phr.) 出发，启程
+apply	(v.)应用；申请；适用;申请；应用
+kind	"n.种类；adj.善良的，仁慈的，亲切的，和蔼的";善良的
+smart	(adj.)时髦的，衣着讲究的；聪明的；智能的；敏捷的；巧妙的;聪明的
+paper	"n.试卷，论文；纸；报纸；adj.纸制的";论文
+skill	(n.)技能；技巧;技能
+experience	"n.（一次）经历，感受，体验；经验，实践；v.经…";经历；经验
+personal	(adj.)个人的，私人的;个人的；私人的;个人的
+play	"v.玩；发挥作用；演奏；打/踢（球）；n.戏剧，…";玩；扮演（文中指下棋）
+situation	(n.)情况，场景;情况；形势
+best	"adj.最好的；adv.最好地；n.（人或事物所能…";最好的
+among	"prep.在……中间，在……之中";在……之中
+still	(adv.)还，仍;仍然;仍然
+today	(n.)今天;今天
+believe	(v.)相信；认为
+toothache	(n.) 牙痛
+sweater	"n.毛衣，厚运动衫，羊毛衫，针织套衫"
+situation	(n.) 情况，场景
+among	"prep.在……中间，在……之中"
+personal	(adj.)个人的，私人的;个人的；私人的
+absolute	(adj.)完全的；绝对的;无条件的;绝对的；完全的；专制的
+journalist	(n.)新闻记者；新闻工作者;新闻工作者；记者
+process	(n.)步骤，过程；v.加工;处理；加工；过程
+worsen	(v.) （使)恶化
+acquire	"v.（通过努力、能力）获得；购得"
+rectangle	(n.) 长方形，矩形
+amount	(n.) 数量；v.总计
+supporting	(adj.) 次要的
+grateful	(adj.) 感激的
+wage	(n.) 工资，薪水
+nitrogen	(n.) 氮，氮气
+result	"n.结果，成效；v.导致；(from)起因于，因……而…"
+section	(n.) 部分；阶层；部门
+submit	(v.) 提交；呈递
+process	(n.) 步骤，过程；v.加工

@@ -1,33 +1,3 @@
-apply	(v.)应用；申请；适用;申请；应用
-absolute	(adj.)完全的；绝对的;无条件的;绝对的；完全的；专制的
-kind	"n.种类；adj.善良的，仁慈的，亲切的，和蔼的";善良的
-smart	(adj.)时髦的，衣着讲究的；聪明的；智能的；敏捷的；巧妙的;聪明的
-paper	"n.试卷，论文；纸；报纸；adj.纸制的";论文
-journalist	(n.)新闻记者；新闻工作者;新闻工作者；记者
-skill	(n.)技能；技巧;技能
-experience	"n.（一次）经历，感受，体验；经验，实践；v.经…";经历；经验
-personal	(adj.)个人的，私人的;个人的；私人的;个人的
-play	"v.玩；发挥作用；演奏；打/踢（球）；n.戏剧，…";玩；扮演（文中指下棋）
-situation	(n.)情况，场景;情况；形势
-process	(n.)步骤，过程；v.加工;处理；加工；过程
-best	"adj.最好的；adv.最好地；n.（人或事物所能…";最好的
-among	"prep.在……中间，在……之中";在……之中
-still	(adv.)还，仍;仍然;仍然
-today	(n.)今天;今天
-believe	(v.)相信；认为
-worsen	(v.) （使)恶化
-acquire	"v.（通过努力、能力）获得；购得"
-toothache	(n.) 牙痛
-rectangle	(n.) 长方形，矩形
-amount	(n.) 数量；v.总计
-sweater	"n.毛衣，厚运动衫，羊毛衫，针织套衫"
-supporting	(adj.) 次要的
-grateful	(adj.) 感激的
-wage	(n.) 工资，薪水
-nitrogen	(n.) 氮，氮气
-result	"n.结果，成效；v.导致；(from)起因于，因……而…"
-section	(n.) 部分；阶层；部门
-submit	(v.) 提交；呈递
 punishment	(n.) 惩罚，处罚
 souvenir	(n.) 纪念品
 remarkably	"adv.出乎意外地；引人注目地，明显地"
@@ -47,7 +17,6 @@ judge	(v.) 判断
 oilfield	(n.) 油田
 admission	(n.) 入场费
 license	(n.) 执照
-situation	(n.) 情况，场景
 rebuild	(v.) 重建
 universe	(n.) 宇宙，天地万物
 incense	"n.(常指祭祀时用的)香（读作/ˈɪnˌsεns/）；v.激怒…"
@@ -290,7 +259,6 @@ pension	(n.) 养老金，抚恤金
 volleyball	(n.) 排球
 textbook	(n.) 教科书
 documentary	(n.) 纪录片
-process	(n.) 步骤，过程；v.加工
 selfish	(adj.) 自私的
 pile	(n.) 一堆；v.堆积
 cultural	(adj.) 文化的
@@ -360,7 +328,6 @@ status	(n.) 地位；状况
 tennis	(n.) 网球
 effectively	(adv.) 有效地
 spade	"n.铁锹，铲子；黑桃（扑克）"
-among	"prep.在……中间，在……之中"
 composition	"n.作品，乐曲；作文；构成，组成，成分"
 liver	(n.) 肝脏
 influence	(n.) 影响；v.影响
@@ -460,7 +427,6 @@ rock	"n.岩石，石头；摇滚乐；v.摇晃";（使）轻轻摇晃
 shower	(n.)淋浴，淋浴器;淋浴
 protect	(v.)保护;保护
 review	"n.评论；检查；综述；v.回顾";评论；复习
-personal	(adj.)个人的，私人的;个人的；私人的
 owner	(n.)所有者，物主，主人;物主；主人
 schedule	"n.时间表，计划表；v.预订，安排";日程安排
 order	"v.订购；点（食物、饮料）；命令；n.订单；…";订购
