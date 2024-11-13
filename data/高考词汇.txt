@@ -1,33 +1,3 @@
-unable	(adj.) 不能的
-wrist	(n.) 腕部
-forward	(adv.) 向前，向将来；前进
-backbone	(n.) 脊椎；骨干，支柱
-laboratory	(n.) （=lab）实验室
-nurse	(n.) 护士
-unbearable	(adj.) 不堪忍受的
-earn	(v.) 挣得，挣钱；赚得；赢得
-chairman	(n.) 主席，董事长
-split	(v.) 分担；分开
-stressful	(adj.) 压力大的，令人紧张的
-free	"adj.免费的；自由的；免于，不遭受；空闲的，有…"
-false	(adj.) 假的；错误的
-basin	(n.) 盆地
-deliver	"v.递送，交付；发表（演讲）；传达"
-unfit	(adj.) 不适宜的，不合适的
-cherry	(n.) 樱桃（树）
-noise	(n.) 噪声；声音，响声
-garage	(n.) 车库
-relic	(n.) 遗迹
-state	"n.状态，情况；州，邦；v.说明，陈述"
-comedy	(n.) 喜剧，喜剧片，滑稽节目
-correction	(n.) 改正，修正
-shortcoming	(n.) 短处，缺点
-pea	(n.) 豌豆
-press	"v.按，压；n.新闻界；印刷机；压力"
-amusement	(n.) 娱乐活动
-semicircle	(n.) 半圆形
-real	"adj.真实的，实际存在的；真的；adv.很，非常"
-biochemistry	(n.) 生物化学
 jaw	(n.) 颌，颚，下巴
 cross	(v.) 穿过；使交叉
 thus	(adv.) 因此
@@ -346,7 +316,6 @@ greet	(v.)问候，招呼;打招呼；欢迎
 method	(n.)方法;方法；措施
 simple	(adj.)简单的，易于理解的;简单的
 address	"n.地址；v.解决；向……讲话";地址
-deliver	"v.递送，交付；发表（演讲）；传达";递送
 trust	(n.)信任；v.信任，相信;信任
 respect	(v.)尊敬；n.尊敬；方面;尊重；尊敬
 speaker	(n.)说话人，演讲人；说某种语言的人;扬声器；喇叭
