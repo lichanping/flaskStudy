@@ -1,3 +1,13 @@
+obesity	(n.) 肥胖
+weave	(v.) 迂回行进
+shelter	(n.) 隐蔽处，躲避处
+being	(n.) 生命
+assumption	(n.) 假定，设想
+modest	(adj.) 谦虚的
+block	"v.阻挡，妨碍，阻塞；n.街区；阻碍；块状物"
+shuttle	"n.短程穿梭运行的车辆；vi.穿梭，移动"
+immediate	(adj.) 立刻的
+lantern	(n.) 灯笼
 bacteria	(n.) （复数）细菌
 cautious	(adj.) 小心的，谨慎的
 therefore	(adv.) 因此，所以
