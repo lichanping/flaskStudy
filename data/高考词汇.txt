@@ -397,3 +397,66 @@ instructor	指导者；讲师;(n.)指导者，教员，教练
 essential	(adj.)必不可少的，极其重要的；本质的；重要的；基…;"adj.必不可少的，极其重要的"
 capital	(n.)资金，资本；首都；大写字母；省会；【财】资本;
 painful	(adj.)疼痛的；痛苦的；艰难的
+incorporation	(n.) 公司组织；编入，合并
+qualify	"v.（使）合格；限定；胜任，使具有资格；描述，…"
+workbook	"n.练习本；工作记事薄；工作手册"
+sacrifice	"v.牺牲；献祭；奉献；做出牺牲；n.祭品；牺牲；…"
+fox	(n.) 狐狸
+quarrel	(v.) 争吵，争论
+affect	(v.) 影响
+hearing	(n.) 听力
+absurd	(adj.) 荒谬的
+worthy	"adj.值得……的，配得上……的；可尊敬的；有…"
+progress	(n.) 进步；v.进步
+secretary	(n.) 秘书
+interaction	"n.互动；相互作用，相互影响"
+sacred	(adj.) 神圣的
+chance	"n.机会；可能性；风险，冒险；偶然"
+coke	(n.) 可乐
+tap	(v.) 轻叩，轻敲；开发，发掘
+melon	(n.) 瓜
+year	(n.) 年，年龄，年岁
+excellence	(n.) 卓越，杰出
+comb	(v.) 梳（头发）；n.梳子
+premier	(adj.) 第一的，首位的
+sport	(n.) 运动
+mental	(adj.) 心理的；脑力的
+selfless	(adj.) 无私的，忘我的
+sleepy	(adj.) 困乏的，欲睡的
+choice	(n.) 选择，挑选，抉择；选项
+showcase	(v.) 展示
+tornado	(n.) 龙卷风
+extremely	(adv.) 极其，非常
+heal	(v.) 治愈
+part-time	(adj.) 兼职的
+far	"adj.远的，遥远的；adv.很大程度上"
+declare	"v.宣布，宣告；表明；宣称，声称"
+wood	(n.) 木头，木材；林地，树林
+symbol	(n.) 符号；象征
+hurry	(v.) 急忙；赶紧（做某事）
+rope	(n.) 绳子，绳索
+evil	"n.邪恶，罪恶，恶行；adj.邪恶的"
+upper	(adj.) 较高的，上面的
+face	"v.面对，面临；n.脸，面孔；表情"
+chapter	(n.) 章，回，篇
+reference	"n.参考；参考书；引文；v.查阅"
+virus	(n.) 病毒
+belly	"n.肚子；腹部；圆形或凸起部分"
+delighted	"adj.高兴的，愉快的，快乐的"
+mistaken	(adj.) 弄错的；被误解的
+explain	(v.) 解释
+permanent	(adj.) 永久的，永恒的
+nod	(v.) 点头；n.点头
+pence	(n.) 便士
+dollar	(n.) 美元
+occur	(vi.)发生；出现，存在；（想法）被想到;"v.发生；出现，存在；想到；【化】发生，出现；…"
+motivation	(n.)动机；动力；积极性;"n.动力；积极性；动机；【财】激励"
+gain	"v.获得；增加；赢得；n.好处";"v.获得；增加；赢得；取得；赚到；受益；n.增…"
+admit	"v.承认；准许进入；接纳，接收（入学）";"v.承认；准许进入；允许加入；可容纳；准许……进…"
+on purpose	故意地;(phr.) 故意
+recognize	"vt.认出，辨别；v.认可；公认";"vt.认出，辨别；v.赏识，表彰；承认，意识到；赞…"
+achieve	(v.)完成，达到;"v.完成，（尤指凭长期努力）达到（某目标）；…"
+resource	(n.)资源;"v.向…提供资金（或设备）；n.资源；资料；…"
+commitment	(n.)承诺，许诺;"n.承诺，许诺；承担的义务；赞助；委托；信奉；…"
+damp	潮湿的，有湿气的；adj.抑制v.;(adj.) 潮湿的，有湿气的
+squirrel	松鼠;(n.) 松鼠；v.储存
