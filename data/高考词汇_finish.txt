@@ -3367,3 +3367,19 @@ block	"v.阻挡，妨碍，阻塞；n.街区；阻碍；块状物"
 shuttle	"n.短程穿梭运行的车辆；vi.穿梭，移动"
 immediate	(adj.) 立刻的
 lantern	(n.) 灯笼
+lazy	(adj.) 懒惰的，懒散的
+under	"prep.在……之下；在……的领导下；处于……情况…"
+relative	"adj.相对的；n.亲戚，家人，亲属"
+spell	(v.) 拼写
+classic	(adj.) 经典的；n.经典著作
+pan	(n.) 平底锅
+violin	(n.) 小提琴
+abnormal	(adj.) 反常的
+bachelor	(n.) 学士
+caution	(n.) 谨慎，小心
+tissue	"n.（人、动植物细胞的）组织"
+climate	(n.) 气候
+individual	单独的；个人
+concede	承认，允许
+ridge	山脊
+individual	单独的；个人;(adj.)个人的；n.个人
