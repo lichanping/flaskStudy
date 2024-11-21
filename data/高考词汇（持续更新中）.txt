@@ -67,7 +67,6 @@ renewal	更新n.
 employee	雇员n.
 dry	干的；adj.弄干v.
 moisture	水分；潮湿；湿度；湿气n.
-intend	打算v.
 bare	空的adj.
 kindergarten	幼儿园n.
 preschool	未满学龄的，就学前的，入学前的；adj.幼儿…n.
@@ -449,7 +448,6 @@ drag	(v.)拖，拉，拽，扯
 paragraph	(n.)（文章的）段，节；段落
 theater	"n.戏院，电影院，剧场；戏剧，戏剧事业"
 economics	(n.)经济学；经济情况
-appreciate	(v.)欣赏；感谢，感激；领会
 world	(n.)世界
 baseball	(n.)棒球（运动）
 drunken	(adj.)喝醉的；酗酒的
@@ -1571,7 +1569,6 @@ unlike	(prep.)不像；和……不同
 raincoat	(n.)雨衣
 candle	(n.)蜡烛
 idea	(n.)想法，主意；思想，概念
-astonish	(vt.)使十分惊讶
 accompany	(v.)陪伴；陪同
 rejoice	(v.)感到欣喜，感到高兴
 operator	(n.)经营者
@@ -3421,7 +3418,6 @@ thermostat	温控器
 itself	它自己（反身形式）
 alarm	警报器
 mode	模式；方式
-text message	（手机）短信息
 heating	供暖；暖气设备
 alarm clock	闹钟
 keep track of	追踪
@@ -3698,66 +3694,74 @@ colleague	(n.)同事;同事；同僚
 comment	"n.评论；v.评论，表达意见";评论；发表意见
 guard	(n.)看守；vt.看守，监视;看守，防护
 approach	"v.接近；着手处理；n.方法";接近；靠近
-incorporation	(n.) 公司组织；编入，合并
+incorporation	(n.)公司组织；编入，合并
 qualify	"v.（使）合格；限定；胜任，使具有资格；描述，…"
 workbook	"n.练习本；工作记事薄；工作手册"
 sacrifice	"v.牺牲；献祭；奉献；做出牺牲；n.祭品；牺牲；…"
-fox	(n.) 狐狸
-quarrel	(v.) 争吵，争论
-affect	(v.) 影响
-hearing	(n.) 听力
-absurd	(adj.) 荒谬的
+fox	(n.)狐狸
+quarrel	(v.)争吵，争论
+affect	(v.)影响
+hearing	(n.)听力
+absurd	(adj.)荒谬的
 worthy	"adj.值得……的，配得上……的；可尊敬的；有…"
-progress	(n.) 进步；v.进步
-secretary	(n.) 秘书
+progress	(n.)进步；v.进步
+secretary	(n.)秘书
 interaction	"n.互动；相互作用，相互影响"
-sacred	(adj.) 神圣的
+sacred	(adj.)神圣的
 chance	"n.机会；可能性；风险，冒险；偶然"
-coke	(n.) 可乐
-tap	(v.) 轻叩，轻敲；开发，发掘
-melon	(n.) 瓜
-year	(n.) 年，年龄，年岁
-excellence	(n.) 卓越，杰出
-comb	(v.) 梳（头发）；n.梳子
-premier	(adj.) 第一的，首位的
-sport	(n.) 运动
-mental	(adj.) 心理的；脑力的
-selfless	(adj.) 无私的，忘我的
-sleepy	(adj.) 困乏的，欲睡的
-choice	(n.) 选择，挑选，抉择；选项
-showcase	(v.) 展示
-tornado	(n.) 龙卷风
-extremely	(adv.) 极其，非常
-heal	(v.) 治愈
-part-time	(adj.) 兼职的
+coke	(n.)可乐
+tap	(v.)轻叩，轻敲；开发，发掘
+melon	(n.)瓜
+year	(n.)年，年龄，年岁
+excellence	(n.)卓越，杰出
+comb	(v.)梳（头发）；n.梳子
+premier	(adj.)第一的，首位的
+sport	(n.)运动
+mental	(adj.)心理的；脑力的
+selfless	(adj.)无私的，忘我的
+sleepy	(adj.)困乏的，欲睡的
+choice	(n.)选择，挑选，抉择；选项
+showcase	(v.)展示
+tornado	(n.)龙卷风
+extremely	(adv.)极其，非常
+heal	(v.)治愈
+part-time	(adj.)兼职的
 far	"adj.远的，遥远的；adv.很大程度上"
 declare	"v.宣布，宣告；表明；宣称，声称"
-wood	(n.) 木头，木材；林地，树林
-symbol	(n.) 符号；象征
-hurry	(v.) 急忙；赶紧（做某事）
-rope	(n.) 绳子，绳索
+wood	(n.)木头，木材；林地，树林
+symbol	(n.)符号；象征
+hurry	(v.)急忙；赶紧（做某事）
+rope	(n.)绳子，绳索
 evil	"n.邪恶，罪恶，恶行；adj.邪恶的"
-upper	(adj.) 较高的，上面的
+upper	(adj.)较高的，上面的
 face	"v.面对，面临；n.脸，面孔；表情"
-chapter	(n.) 章，回，篇
+chapter	(n.)章，回，篇
 reference	"n.参考；参考书；引文；v.查阅"
-virus	(n.) 病毒
+virus	(n.)病毒
 belly	"n.肚子；腹部；圆形或凸起部分"
 delighted	"adj.高兴的，愉快的，快乐的"
-mistaken	(adj.) 弄错的；被误解的
-explain	(v.) 解释
-permanent	(adj.) 永久的，永恒的
-nod	(v.) 点头；n.点头
-pence	(n.) 便士
-dollar	(n.) 美元
+mistaken	(adj.)弄错的；被误解的
+explain	(v.)解释
+permanent	(adj.)永久的，永恒的
+nod	(v.)点头；n.点头
+pence	(n.)便士
+dollar	(n.)美元
 occur	(vi.)发生；出现，存在；（想法）被想到;"v.发生；出现，存在；想到；【化】发生，出现；…"
 motivation	(n.)动机；动力；积极性;"n.动力；积极性；动机；【财】激励"
 gain	"v.获得；增加；赢得；n.好处";"v.获得；增加；赢得；取得；赚到；受益；n.增…"
 admit	"v.承认；准许进入；接纳，接收（入学）";"v.承认；准许进入；允许加入；可容纳；准许……进…"
-on purpose	故意地;(phr.) 故意
+on purpose	故意地;(phr.)故意
 recognize	"vt.认出，辨别；v.认可；公认";"vt.认出，辨别；v.赏识，表彰；承认，意识到；赞…"
 achieve	(v.)完成，达到;"v.完成，（尤指凭长期努力）达到（某目标）；…"
 resource	(n.)资源;"v.向…提供资金（或设备）；n.资源；资料；…"
 commitment	(n.)承诺，许诺;"n.承诺，许诺；承担的义务；赞助；委托；信奉；…"
-damp	潮湿的，有湿气的；adj.抑制v.;(adj.) 潮湿的，有湿气的
-squirrel	松鼠;(n.) 松鼠；v.储存
+damp	潮湿的，有湿气的；adj.抑制v.;(adj.)潮湿的，有湿气的
+squirrel	松鼠;(n.)松鼠；v.储存
+turn up	"phr.调高，来到，出现，到场；卷起"
+randomly	"adv.任意地；随便地；胡乱地"
+blessing	"n.祝福；幸事；祷告；福气，幸运；v.使幸福；…"
+accompanied	"v.伴随…同时发生；陪同；陪伴；伴奏"
+intend	打算v.;(v.) 打算；想要；计划
+text message	（手机）短信息;(phr.) 短信；短信，文本消息
+astonish	(vt.)使十分惊讶;"vt.使吃惊；使十分惊讶；使大为惊奇；v.使吃惊"
+appreciate	"v.欣赏；感谢，感激；领会；重视；增值；感激；…"
