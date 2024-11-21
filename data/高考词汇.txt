@@ -221,7 +221,6 @@ thermostat	温控器
 itself	它自己（反身形式）
 alarm	警报器
 mode	模式；方式
-text message	（手机）短信息
 heating	供暖；暖气设备
 alarm clock	闹钟
 keep track of	追踪
