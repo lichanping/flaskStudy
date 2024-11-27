@@ -1,23 +1,3 @@
-Quel est votre nom	您姓什么？
-Quelle est votre profession	您的职业是什么？
-Quelle est son adresse	他的地址是什幺？
-rue	街道，马路n.f.
-votre	你们的，您的
-vous您；你们pron.pers.（人称代词）
-vous	您；你们pron.pers.（人称代词）
-soixante	六十
-soixante et un	六十一
-soixante et une	六十一（阴性）
-soixante-quatre	六十四
-soixante-huit	六十八
-soixante-dix	七十
-soixante-onze	七十一
-soixante-dix-sept	七十七
-soixante-dix-huit	七十八
-soixante-dix-neuf	七十九
-j'ai un secrétaire	我有一个秘书
-Vous avez un rendez-vous	您有预约吗？
-il a une carte de visite	他有一张名片
 quatre-vingts	八十
 quatre-vingts-un	八十一
 quatre-vingts-dix	九十
@@ -316,7 +296,6 @@ marcher	走路，走
 dois	应该
 important	重要的
 aller	去；走；处于（某种状态）;运转，进行，进展v.i.;去
-rue	街道，马路n.f.;街
 près de	靠近，接近
 derrière	在……后面
 immeuble	大楼，建筑物
@@ -494,8 +473,6 @@ dansez	跳舞，舞
 êtes	是，很，在
 quand	疑问副词，意为“什么时候”
 belge	比利时的adj.英文表达是“Belgian”;比利时人n.Belge（首字母大写）英文表达是“Belgian”（单数形式）/“Belgians”（复数形式）;比利时人
-votre	你们的，您的
-vous	您；你们pron.pers.（人称代词）;您，您们，和你们
 quand	疑问副词，意为“什么时候”
 avec qui 和谁
 il est	他是;他，在，现在是

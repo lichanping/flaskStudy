@@ -1,0 +1,10 @@
+soixante-onze	七十一
+j'ai un secrétaire	我有一个秘书
+Vous avez un rendez-vous	您有预约吗？
+il a une carte de visite	他有一张名片
+Quel est votre nom	您姓什么？
+rue	街道，马路n.f.;街
+soixante	六十
+soixante et un	六十一
+soixante et une	六十一（阴性）
+soixante-dix	七十
