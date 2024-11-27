@@ -653,3 +653,26 @@ La Tour Eiffel	埃菲尔铁塔
 Le Louvre	卢浮宫
 Vous parlez quelle langue	您讲哪种语言
 Bonne soirée	晚安;“晚上愉快”，可用于在晚上向他人表达祝福。
+Quelle est votre profession	您的职业是什么？
+Quelle est son adresse	他的地址是什幺？
+votre	你们的，您的
+vous您；你们pron.pers.（人称代词）
+vous	您；你们pron.pers.（人称代词）
+soixante-quatre	六十四
+soixante-huit	六十八
+soixante-dix-sept	七十七
+soixante-dix-huit	七十八
+votre	你们的，您的
+vous	您；你们pron.pers.（人称代词）;您，您们，和你们
+Quel est votre nom	您姓什么？
+rue	街道，马路n.f.
+soixante	六十
+soixante et un	六十一
+soixante et une	六十一（阴性）
+soixante-dix	七十
+rue	街道，马路n.f.;街
+soixante-dix-neuf	七十九
+soixante-onze	七十一
+j'ai un secrétaire	我有一个秘书
+Vous avez un rendez-vous	您有预约吗？
+il a une carte de visite	他有一张名片
