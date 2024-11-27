@@ -3761,7 +3761,23 @@ turn up	"phr.调高，来到，出现，到场；卷起"
 randomly	"adv.任意地；随便地；胡乱地"
 blessing	"n.祝福；幸事；祷告；福气，幸运；v.使幸福；…"
 accompanied	"v.伴随…同时发生；陪同；陪伴；伴奏"
-intend	打算v.;(v.) 打算；想要；计划
-text message	（手机）短信息;(phr.) 短信；短信，文本消息
+intend	打算v.;(v.)打算；想要；计划
+text message	（手机）短信息;(phr.)短信；短信，文本消息
 astonish	(vt.)使十分惊讶;"vt.使吃惊；使十分惊讶；使大为惊奇；v.使吃惊"
 appreciate	"v.欣赏；感谢，感激；领会；重视；增值；感激；…"
+hang out with	与…出去玩
+get from	从…处得到…
+hang fire	发射不出
+full stop	句号
+tear strength	撕裂强度
+low cost	低成本
+as it stands	按这种样子
+turn of the century	世纪之交
+hold on	不挂断电话
+stand in the way	阻碍
+one hand	（双打开始时）一次发球权
+turn from	对…感到厌恶
+keep a date	赴约
+keep to oneself	保守秘密
+come together	集合
+apply now	立即应用；立即申请
