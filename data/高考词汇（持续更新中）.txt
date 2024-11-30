@@ -3993,3 +3993,7 @@ detector	(n.)探测器
 distance	(n.)距离
 videophone	(n.)可视电话
 victim	受害者；牺牲品;(n.)受害者
+Russian	"adj.俄罗斯的，俄语的；n.俄罗斯人，俄语"
+pandemic	"adj.全球（全国）流行的；普遍的；n.大规模流行病"
+blogger	(n.) 写博客的人，博主
+individualized	"v.赋予个性，个别地加以考虑"
