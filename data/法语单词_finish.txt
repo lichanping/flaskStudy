@@ -1104,7 +1104,7 @@ fleur	“花”。它是一个阴性名词
 ordinateur	电脑n.m.
 pièce	房间n.f.
 écrivent	写，书写; “écrire”（写）的第三人称复数形式。
-portable	手机
+un portable	手机
 sur	给，上，关于
 collègue	同事
 usine	工厂
