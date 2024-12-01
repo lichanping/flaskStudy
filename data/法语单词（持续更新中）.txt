@@ -795,7 +795,7 @@ numéro	号码
 e-mail	电子邮件
 écrit	写，写字;“écrire”的第三人称单数形式
 message	信息
-portable	手机
+un portable	手机
 écris	写，在写，正在写;“écrire”的第二人称单数形式
 lettre	信
 stylo	笔
