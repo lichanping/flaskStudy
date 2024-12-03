@@ -91,7 +91,6 @@ demanding	（adj.要求高的
 undemanding	（adj.容易的；要求不高的；不严格的"
 underwater	（adj.水下的；adv.在水下
 success	（n.成功，成就；胜利
-triumph	（n.喜悦，狂喜；胜利，凯旋；vi.成功，获胜"
 victory	（n.)胜利；成功；克服
 hip	（n.臀部
 ass	（n.驴；笨蛋；臀部；adv.（常用作后置）用于贬损…"
@@ -241,7 +240,6 @@ award	"n.奖品；奖学金；判决；奖赏；奖，奖章；vt.奖励…";(n.
 eagle	"n.鹰；（高尔夫球赛中）少击两杆入穴的成绩；vt.…"
 disposal	(n.)销毁，丢掉，处理
 dismay	(n.)失望，沮丧；v.使惊恐
-frustration	"n.挫败；沮丧，不满；【财】受挫；【法】合同…"
 purple	(adj.)紫色的
 violet	"n.紫罗兰；紫罗兰色；adj.紫色的，紫罗兰色的"
 school	(n.)学校
@@ -293,7 +291,6 @@ resident	(n.)居民
 kid	(n.)小孩，儿童；v.开玩笑，欺骗
 trait	(n.)特征
 divorce	(n.)离婚，离异；v.离婚
-honor	(n.)荣誉；vt.尊敬，对……表示敬意
 planet	(n.)行星
 star	(n.)星，恒星；明星，名角；五角星形；adj.用星装…
 reusable	(adj.)可重复使用的，可多次使用的
@@ -767,7 +764,6 @@ bandage	(n.)绷带
 format	(n.)格式；版式
 turn	"v.使变成；翻动；转向；转动；n.变化，转变；时机"
 regularly	(adv.)经常，定期地
-survive	"vi.生存，活着；vt.艰难度过"
 snow	(n.)雪
 fortnight	(n.)两星期
 Africa	(n.)非洲
@@ -1221,7 +1217,6 @@ sideline	(n.)球场边线；副业
 channel	(n.)渠道，方法
 jeep	(n.)吉普车
 spacecraft	(n.)航天器
-inspire	(v.)激励，鼓舞；激发灵感
 paste	(n.)糊状物，糨糊
 fund	"n.资金，基金；v.拨款，提供资金"
 troop	"n.军队，部队；群；vi.结队而行"
@@ -1756,7 +1751,6 @@ anyway	(adv.)无论如何，总之
 bunch	"n.束，串，群，伙；v.使成一束（或一群等）"
 thriller	(n.)惊悚片，惊险小说
 thought	"n.思维，思考；思想，想法；v.想，以为（think…"
-treatment	(n.)治疗，疗法；对待，待遇
 jam	"n.阻塞；v.（使）阻塞，使塞满"
 dream	"n.梦想；理想；梦；v.梦想；做梦；adj.理想的…"
 wake	(v.)醒来；变得警觉，意识到
@@ -2095,7 +2089,6 @@ pot	(n.)锅
 experiment	"n.实验；试验；v.进行实验"
 acquaintance	(n.)相识的人，熟人；认识
 winter	(n.)冬，冬季；adj.冬天的
-ceremony	(n.)仪式；典礼
 needle	(n.)针；针状物；指针
 concern	"v.关于；n.所关切的事；担心"
 technical	(adj.)技术的，工艺的
@@ -2871,7 +2864,6 @@ up and down	"phr.上上下下，起伏；来回，来来回回"
 president	"n.（各机构的）会长，院长，主席；总裁"
 athletics	(n.)体育运动
 sensible	(adj.)合理的
-determined	(adj.)有决心的
 comprehension	(n.)理解；理解练习
 modem	(n.)调制解调器
 deposit	(v.)沉淀；n.定金
@@ -3673,7 +3665,6 @@ dollar	(n.)美元
 occur	(vi.)发生；出现，存在；（想法）被想到;"v.发生；出现，存在；想到；【化】发生，出现；…"
 motivation	(n.)动机；动力；积极性;"n.动力；积极性；动机；【财】激励"
 gain	"v.获得；增加；赢得；n.好处";"v.获得；增加；赢得；取得；赚到；受益；n.增…"
-admit	"v.承认；准许进入；接纳，接收（入学）";"v.承认；准许进入；允许加入；可容纳；准许……进…"
 on purpose	故意地;(phr.)故意
 recognize	"vt.认出，辨别；v.认可；公认";"vt.认出，辨别；v.赏识，表彰；承认，意识到；赞…"
 achieve	(v.)完成，达到;"v.完成，（尤指凭长期努力）达到（某目标）；…"
@@ -3995,5 +3986,17 @@ videophone	(n.)可视电话
 victim	受害者；牺牲品;(n.)受害者
 Russian	"adj.俄罗斯的，俄语的；n.俄罗斯人，俄语"
 pandemic	"adj.全球（全国）流行的；普遍的；n.大规模流行病"
-blogger	(n.) 写博客的人，博主
+blogger	(n.)写博客的人，博主
 individualized	"v.赋予个性，个别地加以考虑"
+mission	(n.) 任务，使命
+accomplishment	(n.) 成就；完成
+enthusiasm	(n.) 热情，热心，热忱
+treatment	"n.对待，待遇；治疗，疗法；加工处理；对待方法…"
+survive	"vi.生存，活着；vt.艰难度过"
+ceremony	(n.) 典礼；礼节；仪式
+determined	(adj.)有决心的;"adj.意志坚定的；决定了的；坚决的"
+frustration	"n.挫败；沮丧，不满；【财】受挫；【法】合同…"
+admit	接纳，接收（入学）;"v.承认；准许进入；允许加入；可容纳；准许……进…"
+honor	(n.)荣誉；vt.尊敬，对……表示敬意;(v.) 尊敬，对……表示敬意
+inspire	(v.)激励，鼓舞；激发灵感
+triumph	(n.)喜悦，狂喜；胜利，凯旋；vi.成功，获胜
