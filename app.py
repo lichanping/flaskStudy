@@ -1,6 +1,7 @@
 import json
 import os
 import re
+from collections import Counter
 from datetime import datetime, timedelta
 
 from flask import Flask, render_template, request, send_file
@@ -52,20 +53,30 @@ class TxtReader:
         new_file_name = selected_file.replace('.txt', '_finish.txt')
         new_file_path = os.path.join(self.data_folder, new_file_name)
 
-        # Initialize a list to store lines for the original file
-        remaining_lines = []
+        # Count the occurrences of each selected word
+        selected_word_counts = Counter(selected_words)
+        moved_word_counts = Counter()  # Track how many times each word has been moved
+        remaining_lines = []  # Lines that will stay in the original file
 
-        # Move selected words to the new file and update the original file
         with open(file_path, 'r', encoding='utf-8') as file, \
                 open(new_file_path, 'a', encoding='utf-8') as new_file:
             for line in file:
+                # Match each line with the expected pattern
                 word_match = re.match(r'([a-zA-ZéèêëîïùûüàâäôöçœÉÇÀ\'\s\-\.\/\?\？]+)\s*(.*)', line.strip())
                 if word_match:
                     english_word, translation = word_match.groups()
-                    if english_word.strip() in selected_words:
+                    stripped_word = english_word.strip()
+
+                    # Check if the word is selected and the move count hasn't exceeded the allowed count
+                    if stripped_word in selected_word_counts and \
+                            moved_word_counts[stripped_word] < selected_word_counts[stripped_word]:
                         new_file.write(line.strip() + '\n')
+                        moved_word_counts[stripped_word] += 1  # Increment moved count
                     else:
-                        remaining_lines.append(line)
+                        remaining_lines.append(line)  # Keep the line in the original file
+                else:
+                    # If no match, keep the line in the original file
+                    remaining_lines.append(line)
 
         # Update the original file with the remaining lines
         with open(file_path, 'w', encoding='utf-8') as file:
@@ -100,10 +111,12 @@ class TxtReader:
 
             content = []
             for word in selected_words:
-                if word in translations:
-                    content.append(f"{word}\t{translations[word]}")
+                clean_word = word.strip()  # Remove any whitespace around the word
+
+                if clean_word in translations:
+                    content.append(f"{clean_word}\t{translations[word]}")
                 else:
-                    raise ValueError(f"Translation not found for word: {word}")
+                    raise ValueError(f"Translation not found for word: {clean_word}")
 
             content_to_write = '\n'.join(content)
             # Check if review file exists
