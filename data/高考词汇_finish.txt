@@ -3559,3 +3559,53 @@ rod	杆，棒
 flaw	缺点，瑕疵
 load	"v.装载；n.大量，许多；负载，负荷"
 pavement	(n.)人行道
+landlord	地主，房东
+grandchild	孙子，孙女
+jewellery	珠宝
+wicked	邪恶的，淘气的
+commander	指挥官
+sketch	草图，梗概
+devil	魔鬼，家伙
+pop	通俗的，流行的
+videophone	可视电话
+adjective	形容词
+fame	声誉
+disagree	(v.) 不同意，有分歧
+crime	(n.) 犯罪活动
+length	(n.) 长度
+act	"n.行为，行动；法案；v.行动；表演，扮演；有效果"
+minefield	(n.) 布雷区;充满潜在危险（或问题）的事物;Thesoldierscarefullymadetheirwaythroughtheminefield.（士兵们小心翼翼地穿过布雷区。）
+clock	(n.) 钟
+stair	(n.) 楼梯
+charming	(adj.) 迷人的
+millimeter	(n.) 毫米
+complex	"adj.复杂的，难解的；n.建筑群"
+rectangular	(adj.) 长方形的
+jewel	(n.) 宝石
+airline	"n.航空公司；adj.航空公司的，航线的"
+beam	光线，横梁
+dose	剂量，一份
+stale	不新鲜过时的
+correspond	一致
+exterior	外部，外表
+privilege	特权
+asset	资产，优点
+notion	观念，意图
+proceed	进行，前进
+tackle	对付，阻截
+squirrel	松鼠
+accelerate	加速，促进
+decent	正派的，得体的
+perceive	感知，理解
+recipient	接受者，接收者
+massacre	大屠杀
+spear	矛，梭镖
+oblige	迫使，施恩于
+fuss	忙乱，小题大做
+virtually	实际上，事实上
+conjunction	联合，连词
+optimism	(n.) 乐观，乐观主义
+offshore	(adj.) 近海的，海岸的
+worm	(n.) 虫，蠕虫
+collision	(n.) 碰撞；冲突
+melancholy	(adj.) 忧郁的，令人伤感的
