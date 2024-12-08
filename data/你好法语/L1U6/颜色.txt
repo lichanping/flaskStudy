@@ -1,0 +1,10 @@
+blanc / blanche - 白色的（阳性 / 阴性）
+bleu / bleue - 蓝色的（阳性 / 阴性）
+blond / blonde - 金色的（阳性 / 阴性）
+brun / brune - 棕色的（阳性 / 阴性）
+jaune / jaune - 黄色的（阳性 / 阴性）
+noir / noire - 黑色的（阳性 / 阴性）
+rouge / rouge - 红色的（阳性 / 阴性）
+vert / verte - 绿色的（阳性 / 阴性）
+rose / rose - 粉色的（阳性 / 阴性）
+orange / orange - 橙色的（阳性 / 阴性）
