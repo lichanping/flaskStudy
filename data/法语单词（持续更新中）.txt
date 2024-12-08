@@ -363,7 +363,6 @@ supermarché	超市
 petites	小；小的
 petite	小；小的；矮
 grandes	大；高；大的
-grande	大；大的；大型的；伟大的；优秀的
 aujourd'hui	今天
 fermé	关着
 cinq	五
@@ -827,15 +826,12 @@ Cédric veut lire trois livres aujourd'hui	"Cédric今天想读三本书"
 la salle	"这个房间"
 Il y a trois pièces	有三个房间
 J'aime l'appartement de mes voisins	我喜欢我邻居的公寓
-vêtements	衣服
 six	六
 robe	连身裙，连衣裙，洋装
-pantalon	裤子
 cher	(adj.)(m)亲爱的;贵的
 chère	(adj.)(m)亲爱的（阴性）;亲爱的；贵的（阴性形式）
 t-shirt	"T恤衫"
 rouges	红色的（复数形式）
-rouge	红色的；红色
 achètes	买
 veste	夹克，上衣
 coûtent	要（第三人称复数形式）
@@ -849,7 +845,6 @@ coûte	要（第三人称单数形式）
 chers	贵（阳性复数形式）
 chères	贵（阴性复数形式）
 euro	欧元
-chaussure	鞋
 dix	十[dis];十
 neuf	九[nœf];(adj.)新的，新建的，新做的，尚未用过的；;九
 huit	八[ɥit];八
@@ -877,13 +872,11 @@ Le livre coûte huit euros	书要八欧元。
 Combien ça coûte	这要多少钱？
 le prix du sac	包的价格（“du”是“de”（表示“的”，用于引出所属关系等）和定冠词“le”的缩合形式。）
 peux	能，可以
-brun	棕色的
 quel âge	几岁
 as-tu	你有没有，你有吗
 an	岁
 parlons	说话，说
 venons	来
-blond	金色的，金色头发
 jeune	年轻的
 ne	不，没
 viennent	来
@@ -1268,3 +1261,41 @@ une chambre	一个卧室
 avant midi	中午之前
 Une horloge	一个时钟
 Il est quatre heures de l'après-midi	现在是下午四点
+Elle est à côté de lui	她在他的旁边
+autre	另一个的，别的，另外的adj
+des baskets	篮球鞋，运动鞋（一般用复数）n.f.
+bleu	蓝色的adj，阳性单数
+bleue	蓝色的adj，阴性单数
+blond	金色的，金色头发
+blonde	金色的，金色头发（阴性单数）
+brune	棕色的（阴性）
+brun	棕色的
+chaussure	鞋;鞋子，靴n.f.
+chemise	男式衬衫n.f.
+chemisier	女衬衫n.m.
+chose	事情，事物n.f.
+couleur	颜色n.f.
+d'accord	同意，赞同loc.adv.
+Tu es d'accord	你同意吗？
+Oui je suis d'accord	是的，我同意
+grand	高大的adj阳性
+grande	大；大的；大型的；伟大的；优秀的;高大的adj阴性
+Un homme grand	身材高大的男人
+Un grand homme	伟大的人
+un jean	牛仔裤n.m.
+leur	他们的，她们的，它们的
+leurs	他们的，她们的，它们的
+lui	他，第三人称单数的间接宾语代词
+Je parle à lui	（我在和他说话。）
+lunettes	眼镜，阴性复数名词
+des lunettes	眼镜
+noir	黑色的
+noire	黑色的n.f.
+pantalon	裤子;长裤n.m.
+porter un pantalon	穿戴，佩戴v.t.
+portrait-robot	模拟画像（警方综合搜捕对象的特征所制的）n.m.
+rouge	红色的；红色（阴阳同形）
+tee-shirt	短袖圆领棉汗衫n.m.
+vêtement	衣服，服装，衣裳
+vêtements	衣服
+Quelle couleur	什么颜色?
