@@ -1,3 +1,29 @@
+beam	光线，横梁
+dose	剂量，一份
+stale	不新鲜过时的
+correspond	(vi.) 相符，一致
+exterior	外部，外表
+privilege	特权
+asset	资产，优点
+notion	观念，意图
+proceed	进行，前进
+tackle	对付，阻截
+squirrel	松鼠;(n.) 松鼠；v.储存
+accelerate	加速，促进
+decent	正派的，得体的
+perceive	感知，理解
+recipient	接受者，接收者
+massacre	大屠杀
+spear	矛，梭镖
+oblige	迫使，施恩于
+fuss	忙乱，小题大做
+virtually	实际上，事实上
+conjunction	联合，连词
+optimism	(n.) 乐观，乐观主义
+offshore	(adj.) 近海的，海岸的
+worm	(n.) 虫，蠕虫
+collision	(n.) 碰撞；冲突
+melancholy	(adj.) 忧郁的，令人伤感的
 honeymoon	新婚之月；蜜月
 immunization	免疫
 pest	害虫
