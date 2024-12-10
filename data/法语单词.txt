@@ -256,3 +256,52 @@ tee-shirt	短袖圆领棉汗衫n.m.
 vêtement	衣服，服装，衣裳
 vêtements	衣服
 Quelle couleur	什么颜色?
+nageons	游泳，泳
+dessinez	画画
+nager	游泳
+dessines	画画
+nagent	游泳，泳
+nage	游泳，泳
+dessiner	画画，画
+étudier	学习
+étudions	学习
+écouter	听
+chanter	唱歌
+chantes	唱歌
+chante	唱歌，唱
+écoutes	听
+visitez	去玩
+visitent	去玩
+danse	跳得，舞蹈，跳舞
+danser	跳舞
+danses	舞蹈，跳舞，跳
+marches	走路，走
+marche	走，能使用，走路
+attendre	等待
+en retard	迟到
+vol	航班，班机
+bagage	行李
+question	问题，题
+quelle	哪，哪一家，哪一把
+destination	目的地
+profession	职业，职
+venez	来，去
+quel	哪一名，多么，哪一家
+manger	吃
+je ne sais pas	我不知道
+boire	喝
+quelque chose	某物
+voyagez	去旅行，旅行，旅
+pouvez	可以，能，可
+de rien	没关系，这没什么，没事
+excusez-moi	对不起
+mademoiselle	小姐
+trop de	太多的
+sel	盐
+de l'après-midi	下午的，下午
+salle de bain	浴室
+nationalité	国籍n.f.;国籍
+prénom	名字n.m.[prenɔ̃];名字
+nom	姓氏n.m.;姓，名
+madame	夫人n.f;女士
+monsieur	先生n.m;先生
