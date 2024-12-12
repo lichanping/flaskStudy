@@ -1,36 +1,45 @@
 import asyncio
 import os
-import edge_tts
 import re
 from datetime import datetime
-import time
+
+import edge_tts
 
 
 class WordProcessor:
     def __init__(self):
-        # Create path for data/daily structure
         self.base_folder = os.path.dirname(os.path.abspath(__file__))
         self.data_folder = os.path.join(self.base_folder, 'data')
         self.daily_folder = os.path.join(self.data_folder, 'daily')
 
-        # Create folders if they don't exist
         for folder in [self.data_folder, self.daily_folder]:
             if not os.path.exists(folder):
                 os.makedirs(folder)
 
+    def parse_line(self, line):
+        """Parse line using regex to handle English phrases and Chinese text"""
+        line = line.strip()
+        if not line:
+            return None, None
+
+        # Regex pattern for English part: letters, spaces, and common punctuation
+        pattern = r'^([a-zA-Z\s\-\/\'\,\(\)\.]+?)([^a-zA-Z\s\-\/\'\,\(\)\.].+)$'
+        match = re.match(pattern, line)
+
+        if match:
+            english = match.group(1).strip()
+            chinese = match.group(2).strip()
+            return english, chinese
+
+        return None, None
+
     async def process_word_file(self, filename):
-        # Setup voices
         english_voice = "Microsoft Server Speech Text to Speech Voice (en-GB, SoniaNeural)"
         chinese_voice = "Microsoft Server Speech Text to Speech Voice (zh-CN, XiaoxiaoNeural)"
 
-        # Get filename without extension
         base_filename = os.path.splitext(filename)[0]
-
-        # Create output filename with timestamp
         timestamp = datetime.now().strftime('%Y%m%d_%H%M%S')
         output_file = os.path.join(self.daily_folder, f'{base_filename}_{timestamp}.mp3')
-
-        # Read from daily folder
         file_path = os.path.join(self.daily_folder, filename)
 
         try:
@@ -43,35 +52,23 @@ class WordProcessor:
             print(f"Error reading file: {str(e)}")
             return
 
-        # Process each line and create audio
         with open(output_file, 'wb') as audio_file:
             for line_number, line in enumerate(lines, 1):
                 try:
-                    # Skip empty lines
-                    if not line.strip():
-                        continue
-
-                    # Parse the line
-                    parts = line.strip().split('\t')
-                    if len(parts) != 2:
+                    english_phrase, chinese_translation = self.parse_line(line)
+                    if not english_phrase or not chinese_translation:
                         print(f"Skipping invalid line {line_number}: {line.strip()}")
                         continue
 
-                    english_word = parts[0].strip()
-                    chinese_translation = parts[1].strip()
+                    print(f"Processing: {english_phrase} - {chinese_translation}")
 
-                    # Remove part of speech notation if present
-                    chinese_translation = re.sub(r'\([^)]*\)\s*', '', chinese_translation)
-
-                    print(f"Processing: {english_word} - {chinese_translation}")
-
-                    # English word twice
+                    # English phrase twice
                     for _ in range(2):
-                        communicate = edge_tts.Communicate(english_word, voice=english_voice)
+                        communicate = edge_tts.Communicate(english_phrase, voice=english_voice)
                         async for chunk in communicate.stream():
                             if chunk["type"] == "audio":
                                 audio_file.write(chunk["data"])
-                        await asyncio.sleep(0.5)  # Small pause between repetitions
+                        await asyncio.sleep(0.5)
 
                     # Chinese translation once
                     communicate = edge_tts.Communicate(chinese_translation, voice=chinese_voice)
@@ -79,7 +76,6 @@ class WordProcessor:
                         if chunk["type"] == "audio":
                             audio_file.write(chunk["data"])
 
-                    # Pause between words
                     await asyncio.sleep(1)
 
                 except Exception as e:
