@@ -142,7 +142,7 @@ class TxtToXLSX:
                     english_word = english_word.strip()
 
                     if english_word.endswith(('adj.', 'adv.', 'n.', 'v.', 'phr.', 'vt.', 'prep.', 'vi.', 'det.',
-                                              'pron.', 'conj.', 'int.', 'aux.', 'auxv.', 'num.', "abbr.")):
+                                              'pron.', 'conj.', 'int.', 'aux.', 'auxv.', 'num.', "abbr.", "excl.")):
                         # If it does, move the part of speech to the translation
                         pos = english_word.split()[-1]  # Get the last part of the word as part of speech
                         english_word = english_word[
