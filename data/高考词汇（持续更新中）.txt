@@ -151,7 +151,6 @@ unmanned	（adj.无人驾驶的
 automated	（adj.机械化的；自动化的
 manned	（adj.由人操作的；载人的；有人控制的，需人操纵的
 examine	(vt.)检查；测验；调查
-inspect	(v.)检查，审查
 factor	(n.)因素
 fictional	(adj.)虚构的
 unreal	(adj.)不真实的，脱离现实的；不实在的；奇异的，…
@@ -3115,7 +3114,6 @@ grandchild	孙子，孙女
 stale	不新鲜过时的
 jewellery	珠宝
 exterior	外部，外表
-privilege	特权
 asset	资产，优点
 wicked	邪恶的，淘气的
 notion	观念，意图
@@ -3603,7 +3601,6 @@ painful	(adj.)疼痛的；痛苦的；艰难的
 set up	建立；设立；创建
 remarkable	非凡的；卓越的；引人注目的
 set out	出发；动身
-campaign	（政治、商业性等）“运动；活动”
 set off	(phr.)出发，启程;出发；启程;(phr.)出发，启程
 urge	(v.)敦促，督促;强烈的欲望；冲动
 colleague	(n.)同事;同事；同僚
@@ -3764,7 +3761,6 @@ wagon	四轮载重马车
 expansion	扩大；扩张
 photoelectric	光电的；光电效应的
 jealous	羡慕的；妒忌的
-analysis	分析
 headlines	头版头条新闻
 compulsion	强迫；强制
 napkin	餐巾；小毛巾
@@ -3988,15 +3984,65 @@ Russian	"adj.俄罗斯的，俄语的；n.俄罗斯人，俄语"
 pandemic	"adj.全球（全国）流行的；普遍的；n.大规模流行病"
 blogger	(n.)写博客的人，博主
 individualized	"v.赋予个性，个别地加以考虑"
-mission	(n.) 任务，使命
-accomplishment	(n.) 成就；完成
-enthusiasm	(n.) 热情，热心，热忱
+mission	(n.)任务，使命
+accomplishment	(n.)成就；完成
+enthusiasm	(n.)热情，热心，热忱
 treatment	"n.对待，待遇；治疗，疗法；加工处理；对待方法…"
 survive	"vi.生存，活着；vt.艰难度过"
-ceremony	(n.) 典礼；礼节；仪式
+ceremony	(n.)典礼；礼节；仪式
 determined	(adj.)有决心的;"adj.意志坚定的；决定了的；坚决的"
 frustration	"n.挫败；沮丧，不满；【财】受挫；【法】合同…"
 admit	接纳，接收（入学）;"v.承认；准许进入；允许加入；可容纳；准许……进…"
-honor	(n.)荣誉；vt.尊敬，对……表示敬意;(v.) 尊敬，对……表示敬意
+honor	(n.)荣誉；vt.尊敬，对……表示敬意;(v.)尊敬，对……表示敬意
 inspire	(v.)激励，鼓舞；激发灵感
 triumph	(n.)喜悦，狂喜；胜利，凯旋；vi.成功，获胜
+steward	(n.)管家；乘务员，服务员
+aluminum	(n.)铝（同aluminium）
+Asia	(n.)亚洲
+side	"n.一边，一侧；面；边；一方，一派；adj.副的"
+opera	(n.)歌剧
+imitate	(vt.)模仿
+practical	"adj.实际的，实践的；实用的，可行的"
+playground	"n.操场，游乐区，（学校或公园中的）游戏场"
+swallow	(v.)咽下
+intelligence	(n.)智力；智能
+appendix	(n.)阑尾；附录
+decision	(n.)决定
+statesman	(n.)政治家
+teenage	(adj.)青少年（13～19岁）的
+please	(excl.)请；v.使快乐
+instant	(n.)瞬间
+secure	(v.)确保；adj.安全的
+hate	"v.不喜欢，讨厌；n.恨，憎恶"
+rose	(n.)玫瑰，蔷薇
+spiritual	(adj.)精神（上）的
+reproduction	(n.)繁殖
+sometimes	(adv.)有时，间或
+infection	(n.)感染；传染病
+out of breath	(phr.)上气不接下气
+determination	(n.)决心
+misread	(vt.)读错，误解
+twist	"v.扭；n.（形势或事态的）意外转折"
+humankind	(n.)(总称)人类
+generous	(adj.)慷慨大方的
+religion	(n.)宗教信仰；虔诚的追求
+property	(n.)财物；财产
+foster	(v.)培养
+especially	(adv.)尤其；特别
+suite	(n.)（旅馆的）套间
+office	(n.)办公室
+performer	(n.)表演者
+honey	(n.)蜜，蜂蜜
+image	(n.)形象；图像
+lessen	(v.)减轻；减少
+closely	(adv.)严密地；密切地
+imagination	(n.)想象力；想象
+healthy	(adj.)健康的；合理的
+sympathy	(n.)同情
+global	(adj.)全球的
+Jewish	(adj.)犹太人的
+rent	(v.)租；n.租金
+campaign	（政治、商业性等）“运动；活动”;"n.（社会性、政治性）活动，运动"
+privilege	(n.)特权，优待
+analysis	(n.)分析
+inspect	(v.)检查，审查
