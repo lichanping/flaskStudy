@@ -1343,3 +1343,15 @@ prénom	名字n.m.[prenɔ̃];名字
 nom	姓氏n.m.;姓，名
 madame	夫人n.f;女士
 monsieur	先生n.m;先生
+du pain	面包
+beurre	黄油
+miel	蜂蜜
+du miel	蜂蜜
+préfère	更喜欢
+bois	饮，在喝，正在喝
+détestes	讨厌，厌
+du café	咖啡
+du thé	茶
+au petit déjeuner	早餐时
+adore	喜爱，热爱，钟爱
+du lait	牛奶，奶
