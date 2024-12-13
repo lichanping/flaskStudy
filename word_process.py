@@ -23,7 +23,7 @@ class WordProcessor:
             return None, None
 
         # Regex pattern for English part: letters, spaces, and common punctuation
-        pattern = r'^([a-zA-Z\s\-\/\'\,\(\)\.]+?)([^a-zA-Z\s\-\/\'\,\(\)\.].+)$'
+        pattern = r'^(?:\d+\.\s*)?([a-zA-Z\s\-\/\'\,\(\)\.]+?)([^a-zA-Z\s\-\/\'\,\(\)\.].+?)(?:\s*\(遗忘\s*\d+\s*次\))?$'
         match = re.match(pattern, line)
 
         if match:
