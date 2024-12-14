@@ -1323,3 +1323,53 @@ la place	广场
 sur la place de l'Opéra	在歌剧院那边的广场上。
 Vous faite de la natation	你是否进行游泳这一活动
 Vous prenez des légumes	你吃蔬菜吗？
+Oui tu en prends un kilo	好，你就买一公斤的面粉吧(en指代前面提到过的defarine)
+Est-ce que tu as des frères	(Est-ceque引导一般疑问句，表示“你是否……”。)你有兄弟吗？
+Oui j'en ai trois	是的，我有3个兄弟（en替代desfrères)
+des Chinois	一些中国人(Chinois单复数相同）
+des nez	一些鼻子（名词“nez”的复数形式）
+des noyaux	多个核(以au，eau，eu结尾的，复数形式是加x，不能加s)
+un chapeau	一顶帽子
+des chapeaux	多个“帽子”(以au，eau，eu结尾的，复数形式是加x，不能加s)
+des feux	多个“火”(以au，eau，eu结尾的，复数形式是加x，不能加s)
+un cheval	一匹马
+des chevaux	多个“马”（以al结尾的变aux）
+un journal	一份报纸或一本日记
+des journaux	多个“报纸”（以al结尾的变aux）
+Qu'est-ce que vous avez	您有什么=Whatdoyouhave?（Qu'est-ceque=que+est-ceque，意思是“这是什么”）
+Qu'est-ce que c'est	这是什么？
+Que faites-vous dans la vie	您在生活中做什么？（Que提前，必须主谓倒装构成问句）
+Vous faites quoi dans la vie	（Que位于居中变为quoi)您在生活中做什么？
+Que dites-vous	您说什么？
+Vous dites quoi	您说什么？（口语）
+C'est quoi	这是什么（口语）
+avec qui	和谁
+avez-vous	你有没有
+problème	问题
+comment	怎么样，什么，怎么
+qui	谁pron.interr.;谁
+Qu'est-ce qu'il y a dans le café	咖啡中有什么？
+Il y a quoi dans la chambre	在房间里有什么？(口语）
+Qu'est-ce qu'il y a dans la chambre	房间里有什么？（书）
+Il y a un lit une table et deux chaises	有一张床，一个桌子和两把椅子
+affiche	海报，广告n.f.
+C'est une affiche	这是一张海报
+assiette	盘子n.f.
+C'est une assiette	这是一个盘子
+au-dessous	在下面，通常表示某物在另一物的正下方。
+au-dessus	“在上面”；...以上
+avec	和...一起prep.=with;具有，带有prep
+Il parle français avec un accent anglais	他说法语带有英语口音
+blouson	夹克衫n.m.
+C'est le blouson de Paul	这是保罗的夹克
+Il y a une chaise	有一张椅子
+la farine	特定的面粉
+Je prends un kilo de farine	我买一公斤的面粉
+un nez	一个鼻子（z不发音）
+un noyau	一个种子核
+un feu	一个火
+Qu'est-ce que vous faites dans la vie	您从事什么工作？Whatdoyoudoinyourlife?
+Qu'est-ce que vous prenez	您吃点什么？
+Qu'est-ce que vous regardez	您在看什么？
+Qu'est-ce que vous dites	您说什么？
+semaine	名词，意为“星期、周”;周
