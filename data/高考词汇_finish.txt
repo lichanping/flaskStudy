@@ -3609,3 +3609,53 @@ offshore	(adj.) 近海的，海岸的
 worm	(n.) 虫，蠕虫
 collision	(n.) 碰撞；冲突
 melancholy	(adj.) 忧郁的，令人伤感的
+roof	(n.) 屋顶
+academically	(adv.) 学业上
+deer	(n.) 鹿（单复数同形）
+lift	"n.<英>电梯；v.高兴起来；使更愉快；（使）升…"
+shopping	(n.) 购物；从商店采买的东西
+rest	"n.剩余部分；休息，休息时间；v.休息，放松"
+deep	"adj.深的；深刻的，深切的；有……深的"
+plane	(n.) 飞机
+hunter	(n.) 猎人
+jar	"n.罐子，瓶子，坛子，缸；v.震动"
+employ	(vt.) 使用；雇用
+bread	(n.) 面包
+passenger	(n.) 乘客，旅客
+volleyball	(n.) 排球
+textbook	(n.) 教科书
+selfish	(adj.) 自私的
+hiker	(n.) 远足者，徒步旅行者
+dynasty	(n.) 王朝，朝代
+underground	(adj.) 地下的；n.地铁
+something	(pron.) 某事物
+beneficial	(adj.) 有益的，有利的
+butterfly	(n.) 蝴蝶
+bowling	(n.) 保龄球
+medal	(n.) 奖牌，勋章
+discussion	(n.) 讨论，谈论
+cabbage	(n.) 洋白菜，卷心菜
+rude	(adj.) 粗鲁的，无礼的
+toilet	(n.) 厕所
+substitute	(n.) 替代物；替代者
+loan	(n.) 暂借；贷款
+courtyard	(n.) 院子
+negative	(adj.) 消极的，负面的
+refresh	(v.) 使恢复精神
+seagull	(n.) 海鸥
+pension	(n.) 养老金，抚恤金
+documentary	(n.) 纪录片
+pile	(n.) 一堆；v.堆积
+ballad	(n.) 歌谣，民谣
+transparent	(adj.) 透明的，清澈的
+admirable	"adj.令人钦佩的，值得赞扬的"
+judgment	(n.) 判断
+tolerance	(n.) 容忍，宽恕
+wrinkle	"n.皱纹；窍门；转折，改变；褶皱；v.使起皱纹"
+fame	(n.) 名声，声誉
+portable	"adj.轻便的，手提的，便携式的"
+quilt	(n.) 被子
+community	(n.) 社区
+arrow	(n.) 箭；箭头
+bride	(n.) 新娘
+immigration	(n.) 移民
