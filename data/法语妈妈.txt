@@ -459,3 +459,4 @@ il est	他是;他，在，现在是
 sucre糖
 nageons	游泳，泳
 du pain	面包
+céréales 谷物食品
