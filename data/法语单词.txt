@@ -217,3 +217,16 @@ du thé	茶
 au petit déjeuner	早餐时
 adore	喜爱，热爱，钟爱
 du lait	牛奶，奶
+céréales	谷物食品
+adorent	喜爱
+yaourt	酸奶
+fraise	草莓
+café au lait	牛奶咖啡
+boit	喝，喝得
+jus d'orange	橙汁
+confiture	果酱
+du sucre	糖
+déteste	讨，讨厌，厌
+préfères	更喜欢
+brioche	奶油圆蛋糕
+prendre	拿，取，抓,吃，喝，vt.;带，乘坐，上

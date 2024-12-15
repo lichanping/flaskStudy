@@ -720,7 +720,6 @@ Tu cuisines un plat français	你做一道法国菜吗？
 Paul prépare le dîner	保罗做晚餐
 repas	饮食；餐；进餐n.m.;饭，菜，餐
 Tu prépares le repas	你做饭吗？
-prendre	拿，取，抓,吃，喝，vt.
 Ils prennent un thé	他们喝一杯茶（“prennent”是法语动词“prendre”的第三人称复数变位形式。）
 Il veut une pomme	他想要一个苹果n.f.
 Cette banane est bonne	这根香蕉n.f.很好吃(ce的阴性单数)这。
@@ -1355,3 +1354,16 @@ du thé	茶
 au petit déjeuner	早餐时
 adore	喜爱，热爱，钟爱
 du lait	牛奶，奶
+céréales	谷物食品
+adorent	喜爱
+yaourt	酸奶
+fraise	草莓
+café au lait	牛奶咖啡
+boit	喝，喝得
+jus d'orange	橙汁
+confiture	果酱
+du sucre	糖
+déteste	讨，讨厌，厌
+préfères	更喜欢
+brioche	奶油圆蛋糕
+prendre	拿，取，抓,吃，喝，vt.;带，乘坐，上
