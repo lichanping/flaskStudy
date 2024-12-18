@@ -3659,3 +3659,13 @@ community	(n.) 社区
 arrow	(n.) 箭；箭头
 bride	(n.) 新娘
 immigration	(n.) 移民
+compassion	(n.) 同情；怜悯
+run into	"phr.撞上；遭遇……，陷入……"
+caring	"adj.关怀的，体贴的；关心人的"
+excuse	"n.理由，借口（读作/ɪkˈskjuːs/）；低劣的样品…"
+elementary	(adj.)小学的；基本的;"adj.基本的；初级的；非常简单的；小学的；简单的"
+rare	"adj.罕见的，难得的；稀少的，稀有的";"adj.罕见的，难得的；稀少的，稀有的；珍贵的"
+workshop	"n.车间，工场，工作室；研讨会";"n.车间，工场，工作室；研讨会"
+update	"n.最新消息（读作/ˈΛpˌdeɪt/）；vt.更新";"vt.更新；为……提供最新信息（读作/Λpˈdeɪt/）；…"
+remain	"link-v.保持；v.剩余；n.遗迹";"v.剩余；逗留；仍需去做；保持；仍然是，保持不变…"
+conduct	"v.进行；表现（读作/kənˈdΛkt/）";(v.) 进行；传导

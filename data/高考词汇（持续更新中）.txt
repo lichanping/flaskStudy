@@ -553,7 +553,6 @@ gradually	(adv.)渐渐地
 entry	"n.进入；参赛作品；竞赛答题；入口处"
 convenient	(adj.)方便的；便利的
 celebration	(n.)庆祝
-elementary	(adj.)小学的；基本的
 finance	(n.)金融
 brand	(n.)品牌
 energize	(v.)使......精力充沛
@@ -693,7 +692,6 @@ purchase	(vt.)购买；n.购买
 very	"adv.很，非常；最(在形容词或副词最高级前表示强…"
 slowly	(adv.)缓慢地
 coast	(n.)海岸，海滨
-rare	"adj.罕见的，难得的；稀少的，稀有的"
 around	"prep.在……周围；adv.大约，四处；周围，环绕"
 recovery	(n.)痊愈
 happy	(adj.)快乐的
@@ -1237,7 +1235,6 @@ swing	(v.)摇荡，摆动
 critic	(n.)批判者
 ripen	(v.)使……成熟
 merciful	(adj.)仁慈的，宽大的
-conduct	"v.进行；表现（读作/kənˈdΛkt/）"
 brewery	(n.)啤酒厂
 customer	(n.)顾客
 monster	(n.)怪物
@@ -1344,7 +1341,6 @@ proportion	(n.)比例
 eyesight	(n.)视力
 pioneer	"n.先锋，先驱；vt.开辟，首倡"
 humorous	(adj.)幽默的，搞笑的
-remain	"link-v.保持；v.剩余；n.遗迹"
 contribution	(n.)贡献
 region	(n.)地区，区域，地带
 tendency	(n.)趋向，趋势，倾向
@@ -2157,7 +2153,6 @@ both	(pron.)两者（都）
 whichever	"adv.（表示什么特征或品质在作决定时重要）…的…"
 comfort	(n.)舒适；v.安慰
 liberation	(n.)解脱，解放
-workshop	"n.车间，工场，工作室；研讨会"
 parade	(n.)游行;游行，检阅
 logically	"adv.逻辑上，合逻辑地，有条理地"
 discard	(v.)丢掉
@@ -2565,7 +2560,6 @@ well-balanced	"adj.均衡的；神智健全的，头脑清醒的"
 quake	(v.)震动；颤抖
 manage	(v.)设法完成，管理
 eastern	"adj.东方的，东部的，朝东的"
-update	"n.最新消息（读作/ˈΛpˌdeɪt/）；vt.更新"
 ox	(n.)公牛
 suffer	(v.)遭受（痛苦）
 rainfall	(n.)降雨
@@ -4046,3 +4040,13 @@ campaign	（政治、商业性等）“运动；活动”;"n.（社会性、政�
 privilege	(n.)特权，优待
 analysis	(n.)分析
 inspect	(v.)检查，审查
+compassion	(n.) 同情；怜悯
+run into	"phr.撞上；遭遇……，陷入……"
+caring	"adj.关怀的，体贴的；关心人的"
+excuse	"n.理由，借口（读作/ɪkˈskjuːs/）；低劣的样品…"
+elementary	(adj.)小学的；基本的;"adj.基本的；初级的；非常简单的；小学的；简单的"
+rare	"adj.罕见的，难得的；稀少的，稀有的";"adj.罕见的，难得的；稀少的，稀有的；珍贵的"
+update	"n.最新消息（读作/ˈΛpˌdeɪt/）；vt.更新";"vt.更新；为……提供最新信息（读作/Λpˈdeɪt/）；…"
+remain	"link-v.保持；v.剩余；n.遗迹";"v.剩余；逗留；仍需去做；保持；仍然是，保持不变…"
+conduct	"v.进行；表现（读作/kənˈdΛkt/）";(v.) 进行；传导
+workshop	"n.车间，工场，工作室；研讨会";"n.车间，工场，工作室；研讨会"
