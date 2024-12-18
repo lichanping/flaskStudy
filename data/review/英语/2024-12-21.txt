@@ -1,3 +1,6 @@
+update	"n.最新消息（读作/ˈΛpˌdeɪt/）；vt.更新";"vt.更新；为……提供最新信息（读作/Λpˈdeɪt/）；…"
+remain	"link-v.保持；v.剩余；n.遗迹";"v.剩余；逗留；仍需去做；保持；仍然是，保持不变…"
+conduct	"v.进行；表现（读作/kənˈdΛkt/）";(v.) 进行；传导
 honeymoon	新婚之月；蜜月
 immunization	免疫
 pest	害虫
