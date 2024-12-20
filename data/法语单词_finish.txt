@@ -1373,3 +1373,53 @@ Qu'est-ce que vous prenez	您吃点什么？
 Qu'est-ce que vous regardez	您在看什么？
 Qu'est-ce que vous dites	您说什么？
 semaine	名词，意为“星期、周”;周
+chambre	卧室n.f.
+Il y a une chaise dans la chambre	房间里有一把椅子。
+chapeau	帽子n.m.
+C'est un chapeau	这是一顶帽子。
+chatte	母猫
+le mur	墙
+Il y a une chaise contre le mur	墙边有一把椅子。
+côté	旁，侧n.m.通常用来表示物体的侧面或与某事物的关系。
+Il habite à côté	他住在旁边。
+À côté de la table	在桌子旁边。
+cuillère	勺，匙n.f.
+Il est devant moi	他在我面前。
+droite	右面，右边，右方
+tourner à droite	向右转。
+Le café est à droite du cinéma	咖啡馆在电影院的右边。
+étagère	格，隔板，架子；多层架子n.f.
+fauteuil	扶手椅n.m.
+gauche	左边，左面n.f.
+En Angleterre le voitures roulent à gauche	在英国，汽车靠左行驶。
+Anna est à gauche de Sophie	安娜在索菲的左边
+Il y a une table à côté de la chaise	椅子旁边有一张桌子
+meuble	家具n.m.
+mur	墙壁n.m
+objet	物体；物品，东西n.m.
+que	什么pron.interr.
+Le chat est sous la table	猫在桌子下面。
+Le livre est sur l'étagère	书在书架上。
+voilà	这就是prep;看，在这里
+trouver	找到;找到，发现v.t.
+le vase	花瓶n.m.
+Il y a des fleurs dans le vase	花瓶里有花
+sous	在...下面=under
+dans	在……里prép
+devant	在……前面prep
+contre	紧挨着
+à gauche de	在左边
+à droite de	在右边
+à côté de	在...的旁边=next+to
+Son chapeau et son blouson	他的帽子和他的夹克衫
+Ils sont dans la chambre de Mélanie	他们在梅兰妮的房间里
+sous l'étagère	在架子下面
+sous les affiches	在海报下面
+à côté de la fenêtre	在窗户旁边
+L'étagère avec des livres	带有书的架子
+à gauche de la fenêtre	在窗户的左边
+à droite de la fenêtre	在窗户的右边
+L'étagère contre le mur	靠墙的架子
+Il y a un blouson et un chapeau	有一件夹克和一顶帽子。
+du soir	晚上
+roulent	行驶（动词“rouler”的第三人称复数形式）
