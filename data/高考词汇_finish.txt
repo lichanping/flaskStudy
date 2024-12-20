@@ -3669,3 +3669,53 @@ workshop	"n.车间，工场，工作室；研讨会";"n.车间，工场，工作
 update	"n.最新消息（读作/ˈΛpˌdeɪt/）；vt.更新";"vt.更新；为……提供最新信息（读作/Λpˈdeɪt/）；…"
 remain	"link-v.保持；v.剩余；n.遗迹";"v.剩余；逗留；仍需去做；保持；仍然是，保持不变…"
 conduct	"v.进行；表现（读作/kənˈdΛkt/）";(v.) 进行；传导
+loneliness	(n.) 孤独，寂寞
+sell	(v.) 出售，卖
+cigarette	(n.) 香烟，纸烟，卷烟
+map	(n.) 地图
+put	"v.使处于；放，摆；表达，表述；写上，记上"
+nowhere	(adv.) 任何地方都不
+receive	(v.) 收到，得到；获得
+strangely	(adv.) 奇怪地
+schoolmate	(n.) 同学
+patient	"n.病人，患者；adj.有耐心的"
+kilo	(n.) 公斤（等于kilogram）
+Europe	(n.) 欧洲
+weaken	(v.) 削弱，使虚弱
+outside	"adv.在户外，在外面，向外面；prep.在……外面…"
+govern	(v.) 统治，管理
+heavy	(adj.) 重的；程度深的
+buy	(v.) 买
+sorry	"adj.抱歉的，歉疚的；遗憾的"
+traveler	"n.旅行者，旅客（=traveller）"
+unfortunately	"adv.遗憾地，可惜地，不幸地"
+poster	(n.) 海报
+tennis	(n.) 网球
+influence	(n.) 影响；v.影响
+adore	(vt.) 喜爱
+sightseeing	(n.) 观光
+step	"n.步骤，阶段；一步；措施；脚步，脚步声；vi.…"
+punctuation	(n.) 标点
+identity	(n.) 身份
+reflection	(n.) 反省，沉思；反映
+pub	(n.) 酒吧，酒馆
+thirst	(n.) 渴求，渴望
+Netherlands	(n.) 荷兰
+scarce	(adj.) 缺乏的，不足的
+previous	(adj.) 先前的
+architectural	(adj.) 建筑上的，建筑学的
+tune	(v.) 调整，校准
+manual	(adj.) 手动的
+angle	(n.) 角度
+stout	"adj.矮胖的；结实的；勇敢的；n.烈性啤酒"
+reaction	(n.) 反应
+random	"adj.随机的；n.随意，胡乱"
+multiple	(adj.) 多个的
+status	(n.) 地位；状况
+effectively	(adv.) 有效地
+spade	"n.铁锹，铲子；黑桃（扑克）"
+composition	"n.作品，乐曲；作文；构成，组成，成分"
+liver	(n.) 肝脏
+ford	(v.) 涉水，渡河
+arrest	(v.) 逮捕，拘留
+voyage	"n.航海，航行；vi.航海；航行"

@@ -1,3 +1,4 @@
+roulent	行驶（动词“rouler”的第三人称复数形式）
 savoir	知道，会
 Tu peux marcher	你能走路吗？
 Tu dois aller à droite	你应该去右边

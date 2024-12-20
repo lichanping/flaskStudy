@@ -1,3 +1,27 @@
+punctuation	(n.) 标点
+identity	(n.) 身份
+reflection	(n.) 反省，沉思；反映
+pub	(n.) 酒吧，酒馆
+thirst	(n.) 渴求，渴望
+Netherlands	(n.) 荷兰
+scarce	(adj.) 缺乏的，不足的
+previous	(adj.) 先前的
+architectural	(adj.) 建筑上的，建筑学的
+tune	(v.) 调整，校准
+manual	(adj.) 手动的
+angle	(n.) 角度
+stout	"adj.矮胖的；结实的；勇敢的；n.烈性啤酒"
+reaction	(n.) 反应
+random	"adj.随机的；n.随意，胡乱"
+multiple	(adj.) 多个的
+status	(n.) 地位；状况
+effectively	(adv.) 有效地
+spade	"n.铁锹，铲子；黑桃（扑克）"
+composition	"n.作品，乐曲；作文；构成，组成，成分"
+liver	(n.) 肝脏
+ford	(v.) 涉水，渡河
+arrest	(v.) 逮捕，拘留
+voyage	"n.航海，航行；vi.航海；航行"
 update	"n.最新消息（读作/ˈΛpˌdeɪt/）；vt.更新";"vt.更新；为……提供最新信息（读作/Λpˈdeɪt/）；…"
 remain	"link-v.保持；v.剩余；n.遗迹";"v.剩余；逗留；仍需去做；保持；仍然是，保持不变…"
 conduct	"v.进行；表现（读作/kənˈdΛkt/）";(v.) 进行；传导
