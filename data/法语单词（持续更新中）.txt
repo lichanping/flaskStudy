@@ -941,7 +941,6 @@ Venez au tableau	“到黑板这儿来”。
 Qui est absent	“谁缺席了？”
 volontaire	名词，意为“志愿者”，也可作形容词表示“自愿的”
 Est-ce qu'il y a un volontaire	“有志愿者吗？”
-faire	动词，意为“做，制造”
 Vous avez dix minutes pour faire le test	“你们（您）有10分钟来做测试”。（动词“avoir”（有）的第二人称复数现在时）
 fini	形容词，意为“结束的，完成的”
 C'est fini	“结束了”。可以用于表示某个活动、事情已经完成。
@@ -1162,7 +1161,6 @@ sac	包n.m.
 Le chat est sous la table	猫在桌子下面。
 Le livre est sur l'étagère	书在书架上。
 voilà	这就是prep;看，在这里
-trouver	找到;找到，发现v.t.
 le vase	花瓶n.m.
 Il y a des fleurs dans le vase	花瓶里有花
 sur	在..上面prep=On
@@ -1367,3 +1365,27 @@ déteste	讨，讨厌，厌
 préfères	更喜欢
 brioche	奶油圆蛋糕
 prendre	拿，取，抓,吃，喝，vt.;带，乘坐，上
+J'aime bien cette couleur	我很喜欢这种颜色
+Cent euros pour un tee-shirt	一件T恤一百欧元
+C'est cher	这很贵
+Elle n'est pas très chère	它不太贵
+Elle ne coûte pas très cher	“它花费不多”(cher做副词没有阴阳性变化）
+fait	“faire的变位”，il/elle/on（他/她/人们）
+faire	动词，意为“做，制造”;“做；干；进行”
+Ça fait combien	“这个多少钱？”
+coûter	“值（多少钱）；花费（多少钱）”
+Combien coûte cette robe	“这条裙子多少钱？”
+gris	灰色的、灰白的、花白的
+grise	法语单词“gris”的阴性形式
+C'est pour toi	“这是给你的”
+un pull	一件羊毛套头衫
+quantité	“数量；量；大量；许多”
+taille	(成衣的）尺寸，尺码n.f.
+Quelle est votre taille	“您的尺码是多少？”或者“您的身高是多少？”
+Comment est-ce que tu trouves ce pantalon	“你觉得这条裤子怎么样？”
+trouver	找到;找到，发现v.t.;“找到；发现”“感到，觉得”
+Comment est-ce qu'il trouve Marie	“他觉得玛丽怎么样？”
+J'aime bien ce type de pantalon	“我很喜欢这种类型的裤子”
+J'adore ce type de sport	“我酷爱这种类型的运动”
+vendeur	“售货员，营业员；销售员，推销员”
+vendeuse	售货员（阴性）
