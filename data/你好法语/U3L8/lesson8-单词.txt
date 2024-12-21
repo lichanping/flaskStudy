@@ -1,0 +1,15 @@
+artiste	艺术家n
+le coin	角落，街角n.m
+écrivain	“作家；作者n.m.
+entre	在。。。之间prep.
+entre A et B	在A和B之间
+un film	电影，影片n.m.
+môme	小孩，小家伙<俗>n.一个通俗用语、略带贬义的名词
+musicien	“音乐家；乐师；演奏家”n.m.
+musicienne	“musicien”的阴性形式;“女音乐家；女乐师；女演奏家”
+peintre	“画家；画师；油漆工”n.m.
+poème	“诗；诗篇”
+poète	“诗人”
+sculpteur	“雕塑家；雕刻家”n
+sculptrice	女雕塑家
+tableau	名词，意为“黑板；图画；表格”
