@@ -1,3 +1,18 @@
+Tibetan	(n.) 藏族人；adj.西藏的
+elegant	(adj.) 优雅的，典雅的
+broadcast	(n.) 广播或电视节目
+cancer	(n.) 癌症
+utter	"vt.说；讲；发出；adj.完全的"
+yak	(n.) 牦牛
+appetite	(n.) 食欲；胃口
+ignore	(v.) 忽略
+meander	(v.) 蜿蜒而行，曲折迂回
+vivid	"adj.生动的，清晰的（记忆、描述）"
+tailor	"n.裁缝；v.调整……使适应"
+dam	(n.) 水坝；母兽
+ministry	(n.) （政府的）部，内阁
+spoil	"vt.溺爱；毁坏；n.战利品，赃物"
+mountainous	(adj.) 多山的
 update	"n.最新消息（读作/ˈΛpˌdeɪt/）；vt.更新";"vt.更新；为……提供最新信息（读作/Λpˈdeɪt/）；…"
 remain	"link-v.保持；v.剩余；n.遗迹";"v.剩余；逗留；仍需去做；保持；仍然是，保持不变…"
 conduct	"v.进行；表现（读作/kənˈdΛkt/）";(v.) 进行；传导

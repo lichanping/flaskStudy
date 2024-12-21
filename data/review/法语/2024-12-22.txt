@@ -1,3 +1,14 @@
+quantité	“数量；量；大量；许多”
+devez	应该，须
+horloge	时钟;“时钟”“钟表”
+rentre	回
+tôt	早，早些
+tard	晚，晚点;晚，迟
+sortir	出去;出去
+un sel	一份盐
+Trop de sel	太多盐
+Placard	壁橱
+Les placards sont ici	壁橱在这里。
 roulent	行驶（动词“rouler”的第三人称复数形式）
 voulez	要，想要
 tous les jours	每天
