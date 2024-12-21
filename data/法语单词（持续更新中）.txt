@@ -936,7 +936,6 @@ C'est pour quand	“这是（安排）在什么时候的呢？”
 aider	动词，意为“帮助”
 Vous pouvez m'aider	“您（们）能帮助我吗？”（“m'”是直接宾语人称代词“me”（我），
 Venez ici	“到这里来”，是一种命令或邀请的表达。（动词“venir”（来）的第二人称复数命令式）
-tableau	名词，意为“黑板；图画；表格”
 Venez au tableau	“到黑板这儿来”。
 Qui est absent	“谁缺席了？”
 volontaire	名词，意为“志愿者”，也可作形容词表示“自愿的”
@@ -1389,3 +1388,18 @@ J'aime bien ce type de pantalon	“我很喜欢这种类型的裤子”
 J'adore ce type de sport	“我酷爱这种类型的运动”
 vendeur	“售货员，营业员；销售员，推销员”
 vendeuse	售货员（阴性）
+artiste	艺术家n
+le coin	角落，街角n.m
+écrivain	“作家；作者n.m.
+entre	在。。。之间prep.
+entre A et B	在A和B之间
+un film	电影，影片n.m.
+môme	小孩，小家伙<俗>n.一个通俗用语、略带贬义的名词
+musicien	“音乐家；乐师；演奏家”n.m.
+musicienne	“musicien”的阴性形式;“女音乐家；女乐师；女演奏家”
+peintre	“画家；画师；油漆工”n.m.
+poème	“诗；诗篇”
+poète	“诗人”
+sculpteur	“雕塑家；雕刻家”n
+sculptrice	女雕塑家
+tableau	名词，意为“黑板；图画；表格”
