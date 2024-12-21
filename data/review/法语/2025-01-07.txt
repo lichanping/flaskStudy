@@ -2,6 +2,7 @@ quantité	“数量；量；大量；许多”
 devez	应该，须
 horloge	时钟;“时钟”“钟表”
 rentre	回
+tôt	早，早些
 tard	晚，晚点;晚，迟
 sortir	出去;出去
 un sel	一份盐
