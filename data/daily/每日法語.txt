@@ -1,10 +1,15 @@
-quantité	“数量；量；大量；许多”
-devez	应该，须
-horloge	时钟;“时钟”“钟表”
-rentre	回
-tard	晚，晚点;晚，迟
-sortir	出去;出去
-un sel	一份盐
-Trop de sel	太多盐
-Placard	壁橱
-Les placards sont ici	壁橱在这里。
+artiste	艺术家n
+le coin	角落，街角n.m
+écrivain	“作家；作者n.m.
+entre	在。。。之间prep.
+entre A et B	在A和B之间
+un film	电影，影片n.m.
+môme	小孩，小家伙<俗>n.一个通俗用语、略带贬义的名词
+musicien	“音乐家；乐师；演奏家”n.m.
+musicienne	“musicien”的阴性形式;“女音乐家；女乐师；女演奏家”
+peintre	“画家；画师；油漆工”n.m.
+poème	“诗；诗篇”
+poète	“诗人”
+sculpteur	“雕塑家；雕刻家”n
+sculptrice	女雕塑家
+tableau	名词，意为“黑板；图画；表格”
