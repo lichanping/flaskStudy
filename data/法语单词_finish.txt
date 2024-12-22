@@ -1473,3 +1473,53 @@ un sel	一份盐
 Trop de sel	太多盐
 Placard	壁橱
 Les placards sont ici	壁橱在这里
+artiste	艺术家n
+entre	在。。。之间prep.
+entre A et B	在A和B之间
+un film	电影，影片n.m.
+môme	小孩，小家伙<俗>n.一个通俗用语、略带贬义的名词
+musicien	“音乐家；乐师；演奏家”n.m.
+musicienne	“musicien”的阴性形式;“女音乐家；女乐师；女演奏家”
+peintre	“画家；画师；油漆工”n.m.
+poème	“诗；诗篇”
+poète	“诗人”
+sculpteur	“雕塑家；雕刻家”n
+tableau	名词，意为“黑板；图画；表格”
+Je rentre chez moi chaque après-midi	我每个下午回我家。
+Je rentre chez moi ce soir	我今天晚上回我家。
+Tu as une horloge chez toi	你家有时钟吗？
+Il est onze heures du soir	现在晚上十一点。
+Il y a beaucoup de sucre dans ce gâteau	这个蛋糕里有很多糖。
+avant minuit	表示“在午夜之前”
+Tu dois sortir avant minuit	你应该在午夜之前出去。
+sortir	出去;出去
+Il y a beaucoup de placards dans la cuisine	厨房里有很多壁橱。
+Je rentre souvent tard	我经常晚回。
+L'horloge blanche	白色的时钟
+Il y a quatre chambres dans cette maison	这幢房子里有四个卧室。
+Où est la salle de bain	浴室在哪里？
+chez Julia et Gabriel	"Julia和Gabriel家"
+Il y a deux chambres chez Paul	保罗家有两个卧室
+Avant-midi	中午之前
+Je ne rentre pas tard	我不晚回
+Je sors très tôt	我非常早出去
+Je peux rentrer tard	我能晚回
+Tu sors de la cuisine	你从厨房里出去吗？
+Il est neuf heures du matin	现在上午九点
+Il y a une horloge chez moi	我家有一个时钟。
+Vous devez rentrer tôt	你必须早点回来
+Trop de café	太多咖啡
+Les placards sont ici	壁橱在这里。
+la table de la cuisine	厨房的桌子
+Je sors de la maison	我从房子里出去
+le coin	角落，街角n.m
+écrivain	“作家；作者n.m.
+sculptrice	女雕塑家
+Trop de lait	太多牛奶
+Il y a un peu de sucre dans le placard	橱柜里有一点糖
+Vous devez rentrer très tôt	你们应该非常早回。
+horloge	时钟;“时钟”“钟表”
+Tu sors	你出去吗？
+tard	晚，晚点;晚，迟
+Je voudrais un verre de lait	我想要一杯牛奶。
+Tu sors de chez Paul	你从保罗家出来吗？
