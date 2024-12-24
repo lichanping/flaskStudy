@@ -654,7 +654,6 @@ grown	"v.成长，长大（grow的过去分词）"
 federal	(adj.)联邦制的
 problem	(n.)问题
 sparrow	(n.)麻雀
-fence	(n.)篱笆，围栏，栅栏
 human	(adj.)人的，人类的；n.人
 locate	"v.使……坐落于，位于，处于；找出……的位置"
 cafe	(n.)咖啡馆，餐馆
@@ -1919,7 +1918,6 @@ remote	(adj.)偏远的；远程的
 ambassadress	(n.)女大使
 ambassador	"n.（特命全权）大使；代表；使节"
 spaceman	(n.)宇航员
-pale	(adj.)苍白的，灰白的
 hang up	(phr.)挂断电话
 future	"n.未来；adj.将来的，未来的"
 biologist	(n.)生物学家
@@ -2312,7 +2310,6 @@ fascinate	(v.)使着迷
 almost	(adv.)几乎，差不多
 accommodation	(n.)住宿，膳宿
 scissors	(n.)剪刀
-season	"n.季（节）；季（电视或电影节目）"
 education	(n.)教育，培养
 conference	(n.)会议
 regain	(vt.)恢复；重新获得
@@ -2341,7 +2338,6 @@ plus	"prep.加，加上；adj.（分数后）加，略高"
 steel	(n.)钢，钢铁
 reply	(v.)回答；n.答复，回答
 necessarily	(adv.)必定
-purpose	(n.)目的，意图
 land	"n.陆地，土地；大地；v.成功得到，赢得，捞到（…"
 illness	(n.)疾病
 regulate	(vt.)管理，控制；调节
@@ -2603,7 +2599,6 @@ die	(v.)死亡；消亡
 manufacture	(v.)（批量）生产，制造
 companion	(n.)同伴
 washroom	(n.)盥洗室，厕所
-record	"v.记录（读作/rɪˈkɔrd/）；录制；n.记录；最好成绩"
 cook	(v.)烹饪；煮，烧；n.厨师
 pocket	(n.)口袋，兜，衣袋
 phrase	(n.)短语，词组
@@ -3277,7 +3272,6 @@ waste	"v.浪费；n.浪费；废料，废品"
 somebody	(pron.)某人；有人
 recommendation	(n.)推荐，介绍；建议
 scratch	"n.抓痕，擦伤；v.抓破，划破；抓，挠，搔（痒）"
-beat	"v.打败；打；有节奏地跳动；敲打；搅拌，（用叉…"
 costume	(n.)服装，戏装
 greenhouse	(n.)温室
 maximum	(adj.)最大的；n.最大值
@@ -4050,3 +4044,12 @@ update	"n.最新消息（读作/ˈΛpˌdeɪt/）；vt.更新";"vt.更新；为�
 remain	"link-v.保持；v.剩余；n.遗迹";"v.剩余；逗留；仍需去做；保持；仍然是，保持不变…"
 conduct	"v.表现（读作/kənˈdΛkt/）";(v.)进行；传导
 workshop	"n.车间，工场，工作室；研讨会";"n.车间，工场，工作室；研讨会"
+work out	"phr.算出；锻炼；解决；计划；弄懂某事物"
+struck	(v.) 打；撞；罢工；划燃
+stuck	"adj.不能动的；束手无策的；不得不的；卡住的；…"
+beat	"v.打败；打；有节奏地跳动；敲打；搅拌，（用叉…";"v.敲打；打；搅拌，（用叉等）快速搅拌；打败；有…"
+purpose	(n.)目的，意图;"v.企图；打算；n.目的，意图；用途，效果；决心…"
+pale	(adj.)苍白的，灰白的;"adj.苍白的，灰白的；暗淡的；浅色的；浅色的，淡…"
+season	"n.季（节）；季（电视或电影节目）";"n.季（节）；节期，时期；度假旺季；季（电视或电…"
+record	"v.记录（读作/rɪˈkɔrd/）；录制；n.记录；最好成绩";"v.录制；记录（读作/rɪˈkɔrd/）；n.记录；唱片…"
+fence	(n.)篱笆，围栏，栅栏;(n.) 篱笆，围栏，栅栏
