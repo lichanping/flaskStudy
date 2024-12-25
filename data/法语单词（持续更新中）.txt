@@ -959,7 +959,6 @@ anniversaire	名词，意为“生日；周年纪念日”
 Bon anniversaire	“生日快乐；周年纪念日快乐”，是一种常用的祝福语。
 Joyeux	形容词，意为“快乐的，欢乐的”
 Noël	名词，意为“圣诞节”
-Joyeux Noël	“圣诞快乐”，是在圣诞节期间人们互相祝福的常用语。
 année	名词，意为“年；年份”
 Bonne année	“新年好”，是新年期间人们互相祝福的常用语。
 troisième	第三的
@@ -1403,3 +1402,15 @@ poète	“诗人”
 sculpteur	“雕塑家；雕刻家”n
 sculptrice	女雕塑家
 tableau	名词，意为“黑板；图画；表格”
+Tu prends des yaourts	你吃酸奶吗？
+Je n'aime pas les yaourts	我不喜欢酸奶。
+Tu aimes les fraises	你喜欢草莓吗？
+Ils adorent le chocolat	他们喜欢巧克力。
+Tu bois du café	你喝咖啡吗？
+Je veux prendre un café	我想要喝一杯咖啡。
+Je prends des céréales	我吃谷物食品。
+Elles adorent les fruits	她们喜欢水果。
+Je bois de l'eau	我喝水
+Joyeux Noël	“圣诞快乐”，是在圣诞节期间人们互相祝福的常用语。;“圣诞快乐”
+Tu manges du beurre	你吃黄油吗？
+Tu veux du miel	你想要蜂蜜吗？
