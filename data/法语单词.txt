@@ -119,3 +119,15 @@ déteste	讨，讨厌，厌
 préfères	更喜欢
 brioche	奶油圆蛋糕
 prendre	拿，取，抓,吃，喝，vt.;带，乘坐，上
+Tu prends des yaourts	你吃酸奶吗？
+Je n'aime pas les yaourts	我不喜欢酸奶。
+Tu aimes les fraises	你喜欢草莓吗？
+Ils adorent le chocolat	他们喜欢巧克力。
+Tu bois du café	你喝咖啡吗？
+Je veux prendre un café	我想要喝一杯咖啡。
+Je prends des céréales	我吃谷物食品。
+Elles adorent les fruits	她们喜欢水果。
+Je bois de l'eau	我喝水
+Joyeux Noël	“圣诞快乐”，是在圣诞节期间人们互相祝福的常用语。;“圣诞快乐”
+Tu manges du beurre	你吃黄油吗？
+Tu veux du miel	你想要蜂蜜吗？
