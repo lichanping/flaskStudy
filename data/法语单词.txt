@@ -131,3 +131,22 @@ Je bois de l'eau	我喝水
 Joyeux Noël	“圣诞快乐”，是在圣诞节期间人们互相祝福的常用语。;“圣诞快乐”
 Tu manges du beurre	你吃黄油吗？
 Tu veux du miel	你想要蜂蜜吗？
+partir	出发，离开，出去
+demain	明天
+voir	看，看见，见
+week-end	周末
+prochain	下一个，接下来的
+mois	月
+passer	度过，参加
+rester	待在，待，留
+photo	照片，张
+J'adore le thé	我喜欢茶。
+Je vais voir Paris	我会看见巴黎
+Paul va voyager avec elle	保罗将和她一起旅行。
+Je vais rester chez moi demain	我明天会呆在家里。
+Nous allons rester chez moi.	我们会呆在我家里。
+Où vas-tu passer tes vacances	你将在哪里度假？
+une photo de toi	一张你的照片
+des photos de vacances	一些度假照片
+Vous allez passer le mois prochain à Paris	你们下个月将在巴黎度过。
+lui	他，第三人称单数的间接宾语代词;他，跟他，给他
