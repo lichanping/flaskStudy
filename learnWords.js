@@ -159,13 +159,16 @@ export function checkLoginStatus() {
     }
 }
 
+// Array of student names with associated subjects
+const students = [
+    {name: '英语', password: '0402'},
+    {name: '法语', password: '0402'},
+    {name: '妈妈', password: '0601'},
+];
+
 export function validateLogin() {
     const username = document.getElementById('username').value;
     const password = document.getElementById('password').value;
-
-    // Hardcoded credentials
-    const validUsername = "jx";
-    const validPassword = "jx";
 
     const currentDate = new Date();
 
@@ -182,23 +185,20 @@ export function validateLogin() {
         return;
     }
 
-    // Validate credentials
-    if (username === validUsername && password === validPassword) {
-        // Store login state and date if credentials are correct
+    // Validate credentials using the students array
+    const student = students.find(student => student.name === username && student.password === password);
+
+    if (student) {
+        // Store login state, date, and student's name if credentials are correct
         localStorage.setItem('loggedInWord', 'true');
         localStorage.setItem('loginDate', currentDate.toString());
+        sessionStorage.setItem('studentName', student.name);
         window.location.href = 'index.html';
     } else {
         document.getElementById('error-message').style.display = 'block';
     }
 }
 
-// Array of student names with associated subjects
-const students = [
-    {name: '英语', password: '0402'},
-    {name: '法语', password: '0402'},
-    {name: '妈妈', password: '0601'},
-];
 
 // Function to handle button click and prompt interaction
 export function handleSwitchStudentClick() {
@@ -220,8 +220,7 @@ export function handleSwitchStudentClick() {
 
             // Find if the entered value matches any student in the list
             const student = students.find(student => student.name === inputName && student.password === inputPassword);
-            // // Find if the entered value matches any student in the list
-            // const student = students.find(student => `${student.name}-${student.password}` === input.trim());
+
             if (student) {
                 // Check if the current stored value is different from the new student's name
                 const isDifferent = storedName !== student.name;
@@ -230,7 +229,7 @@ export function handleSwitchStudentClick() {
                     console.log('Entered student name is different:', isDifferent);
                     // Update sessionStorage with the new student's name
                     sessionStorage.setItem('studentName', student.name);
-                    renderQuestion()
+                    renderQuestion();
                 } else {
                     console.log('Values are the same:', !isDifferent);
                 }
