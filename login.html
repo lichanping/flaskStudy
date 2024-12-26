@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login</title>
+    <!-- Link to renamed CSS file -->
+    <link rel="stylesheet" href="login.css">
+</head>
+<body>
+<div class="login-container">
+    <h2>Login</h2>
+    <input type="text" id="username" placeholder="Username" required>
+    <input type="password" id="password" placeholder="Password" required>
+    <button id="login">Login</button>
+    <p id="error-message" style="color: red; display: none;">Invalid credentials</p>
+</div>
+
+<!-- Link to external JavaScript file -->
+<script type="module">
+    import * as script from './learnWords.js';
+
+    document.getElementById("login").addEventListener("click", script.validateLogin);
+</script>
+
+</body>
+</html>
