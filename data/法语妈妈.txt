@@ -1,8 +1,3 @@
-Comment va ton ami espagnol	你的西班牙朋友怎么样了？
-Il est à Paris avec son fils	他在巴黎和他的儿子一起。
-Il parle français maintenant	他现在会说法语
-Quel professeur tu préfères	你更喜欢哪个老师？
-Quelle voiture tu cherches	你想买什么车？
 Une Renault	雷诺车
 aimer	爱，热爱v.t.
 aussi	也adv.
