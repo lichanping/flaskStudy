@@ -145,12 +145,12 @@ class LearnWords {
 export function checkLoginStatus() {
     const currentDate = new Date();
     const storedLoginDate = new Date(localStorage.getItem('loginDate'));
-    const isLoggedIn = localStorage.getItem('isLoggedIn') === 'true';
+    const loggedInWord = localStorage.getItem('loggedInWord') === 'true';
 
     // Calculate the difference in days
     const dayDifference = Math.floor((currentDate - storedLoginDate) / (1000 * 60 * 60 * 24));
 
-    if (isLoggedIn && dayDifference < 30) {
+    if (loggedInWord && dayDifference < 30) {
         // If logged in and the login date is within the last 30 days, allow the user to stay on the page
         // No action needed, user is allowed to stay on the page
     } else {
@@ -171,12 +171,12 @@ export function validateLogin() {
 
     // Check if user is already logged in and if login is valid for the last 30 days
     const storedLoginDate = new Date(localStorage.getItem('loginDate'));
-    const isLoggedIn = localStorage.getItem('isLoggedIn') === 'true';
+    const loggedInWord = localStorage.getItem('loggedInWord') === 'true';
 
     // Calculate the difference in days
     const dayDifference = Math.floor((currentDate - storedLoginDate) / (1000 * 60 * 60 * 24));
 
-    if (isLoggedIn && dayDifference < 30) {
+    if (loggedInWord && dayDifference < 30) {
         // If already logged in for the last 30 days, skip login process
         window.location.href = 'index.html';
         return;
@@ -185,7 +185,7 @@ export function validateLogin() {
     // Validate credentials
     if (username === validUsername && password === validPassword) {
         // Store login state and date if credentials are correct
-        localStorage.setItem('isLoggedIn', 'true');
+        localStorage.setItem('loggedInWord', 'true');
         localStorage.setItem('loginDate', currentDate.toString());
         window.location.href = 'index.html';
     } else {
