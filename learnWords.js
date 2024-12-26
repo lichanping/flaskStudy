@@ -142,6 +142,57 @@ class LearnWords {
     }
 }
 
+export function checkLoginStatus() {
+    const currentDate = new Date();
+    const storedLoginDate = new Date(localStorage.getItem('loginDate'));
+    const isLoggedIn = localStorage.getItem('isLoggedIn') === 'true';
+
+    // Calculate the difference in days
+    const dayDifference = Math.floor((currentDate - storedLoginDate) / (1000 * 60 * 60 * 24));
+
+    if (isLoggedIn && dayDifference < 30) {
+        // If logged in and the login date is within the last 30 days, allow the user to stay on the page
+        // No action needed, user is allowed to stay on the page
+    } else {
+        // If not logged in or the login date is not within the last 30 days, redirect to login.html
+        window.location.href = 'login.html';
+    }
+}
+
+export function validateLogin() {
+    const username = document.getElementById('username').value;
+    const password = document.getElementById('password').value;
+
+    // Hardcoded credentials
+    const validUsername = "jx";
+    const validPassword = "jx";
+
+    const currentDate = new Date();
+
+    // Check if user is already logged in and if login is valid for the last 30 days
+    const storedLoginDate = new Date(localStorage.getItem('loginDate'));
+    const isLoggedIn = localStorage.getItem('isLoggedIn') === 'true';
+
+    // Calculate the difference in days
+    const dayDifference = Math.floor((currentDate - storedLoginDate) / (1000 * 60 * 60 * 24));
+
+    if (isLoggedIn && dayDifference < 30) {
+        // If already logged in for the last 30 days, skip login process
+        window.location.href = 'index.html';
+        return;
+    }
+
+    // Validate credentials
+    if (username === validUsername && password === validPassword) {
+        // Store login state and date if credentials are correct
+        localStorage.setItem('isLoggedIn', 'true');
+        localStorage.setItem('loginDate', currentDate.toString());
+        window.location.href = 'index.html';
+    } else {
+        document.getElementById('error-message').style.display = 'block';
+    }
+}
+
 // Array of student names with associated subjects
 const students = [
     {name: '英语', password: '0402'},
@@ -467,18 +518,6 @@ function triggerAnimation() {
     }, 300); // Adjust the timing of animation as needed (300 milliseconds in this case)
 }
 
-
-const spellingInput = document.getElementById('spellingInput');
-// Add event listener for keydown event
-spellingInput.addEventListener('keydown', function (event) {
-    // Check if the pressed key is Enter
-    if (event.key === 'Enter') {
-        // Prevent the default action of the Enter key (form submission)
-        event.preventDefault();
-        // Perform the spelling check
-        checkSpelling();
-    }
-});
 
 function clearCachedData() {
     const fileName = document.getElementById("file").value + ".txt";
