@@ -1523,3 +1523,13 @@ Tu sors	你出去吗？
 tard	晚，晚点;晚，迟
 Je voudrais un verre de lait	我想要一杯牛奶。
 Tu sors de chez Paul	你从保罗家出来吗？
+Je veux un peu de lait	我想要一点牛奶。
+à minuit	在午夜
+Vous devez rentrer à midi	你们应该中午回
+une chambre	一个卧室
+avant midi	中午之前
+Il est quatre heures de l'après-midi	现在是下午四点
+Elle est à côté de lui	她在他的旁边
+Tu sors de chez Paul	你从保罗家出来吗？;你从Paul家出去吗？
+Tu dois sortir	你应该出去
+Une horloge	一个时钟

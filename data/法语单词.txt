@@ -1,13 +1,3 @@
-Tu sors de chez Paul	你从保罗家出来吗？;你从Paul家出去吗？
-Tu dois sortir	你应该出去
-Je veux un peu de lait	我想要一点牛奶。
-à minuit	在午夜
-Vous devez rentrer à midi	你们应该中午回
-une chambre	一个卧室
-avant midi	中午之前
-Une horloge	一个时钟
-Il est quatre heures de l'après-midi	现在是下午四点
-Elle est à côté de lui	她在他的旁边
 autre	另一个的，别的，另外的adj
 des baskets	篮球鞋，运动鞋（一般用复数）n.f.
 bleu	蓝色的adj，阳性单数
