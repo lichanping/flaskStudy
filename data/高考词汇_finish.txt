@@ -3844,3 +3844,53 @@ stability	(n.) 稳定，稳定性
 insurance	(n.)保险;(n.) 保险；保险费；保险业
 possession	(n.)拥有；所有物;拥有；占有;(n.) 财产；所有物
 donate	(v.)捐赠;"v.捐献；捐赠；献（器），献（血）；献血…"
+inform	(v.) 告知，通知
+west	(n.) 西方，西部
+logical	"adj.合乎逻辑的；推理正确的"
+picture	"n.照片，图片；画，图画；情况，局面；v.想象，…"
+pretty	"adv.很；adj.漂亮的，可爱的"
+fashion	(n.) 时髦，风尚；时装
+bakery	(n.) 面包房，面包店
+ever	(adv.) 在任何时候；曾经
+proper	(adj.) 适合的，适用的
+hall	(n.) 大厅；会堂，礼堂
+forever	(adv.) 永远
+pianist	(n.) 钢琴家
+translator	(n.) 翻译者
+frog	(n.) 青蛙
+ensure	(vt.) 确保；保证
+rubbish	(n.) 垃圾，废物
+waitress	(n.) 女服务员
+control	(n.)控制，管理；对照实验；控制装置；克制；【财】…;"v.控制，管理；n.控制，管理"
+painting	(n.)画作，油画
+maker	(n.)制造者
+badly	"adv.严重地；差地，不令人满意地；（待人）不友…"
+prevent	(v.)预防
+tape	"n.胶带；磁带；vt.用胶带粘贴；录音"
+repeat	"v.重复；n.重复段，反复部分"
+toy	(n.)玩具
+silence	"n.寂静，无声，沉默；v.使沉默"
+solid	"adj.可靠的；坚固的；实心的"
+sight	"n.看见；景观，名胜；景象，情景；视野"
+counter	(n.) 柜台；v.抵制
+migration	(n.) 迁徙，迁移
+brochure	(n.) 手册，小册子
+panic	"n.恐慌，惊恐；v.（使）惊慌失措"
+strait	(n.) 海峡；窘迫
+debt	(n.) 债
+trolleybus	(n.) 无轨电车
+lung	(n.) 肺
+injection	(n.) 注射，注入
+bible	"n.(theBible)《圣经》；权威书籍"
+contradictory	(adj.) 相互矛盾的，对立的
+yawn	"v.打哈欠；打着哈欠说；n.乏味或枯燥的事物"
+vague	"adj.含糊的，模糊的；茫然的"
+bet	"n.赌，赌注；v.打赌；敢断定"
+media	"n.媒体（medium的复数形式）"
+trial	"adj.试验的，试验性的；n.试验"
+employment	(n.) 工作；就业
+chant	反复呼喊；反复唱;"v.反复地说；吟诵；n.圣歌，赞美诗；吟诵声；重…"
+mysterious	(adj.)神秘的
+vein	"n.静脉；血管；叶脉；纹理；迹象"
+Easter	(n.)复活节
+fee	(n.)费用
