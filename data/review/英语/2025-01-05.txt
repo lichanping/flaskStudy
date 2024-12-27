@@ -1,3 +1,27 @@
+solid	"adj.可靠的；坚固的；实心的"
+sight	"n.看见；景观，名胜；景象，情景；视野"
+counter	(n.) 柜台；v.抵制
+migration	(n.) 迁徙，迁移
+brochure	(n.) 手册，小册子
+panic	"n.恐慌，惊恐；v.（使）惊慌失措"
+strait	(n.) 海峡；窘迫
+debt	(n.) 债
+trolleybus	(n.) 无轨电车
+lung	(n.) 肺
+injection	(n.) 注射，注入
+bible	"n.(theBible)《圣经》；权威书籍"
+contradictory	(adj.) 相互矛盾的，对立的
+yawn	"v.打哈欠；打着哈欠说；n.乏味或枯燥的事物"
+vague	"adj.含糊的，模糊的；茫然的"
+bet	"n.赌，赌注；v.打赌；敢断定"
+media	"n.媒体（medium的复数形式）"
+trial	"adj.试验的，试验性的；n.试验"
+employment	(n.) 工作；就业
+chant	反复呼喊；反复唱;"v.反复地说；吟诵；n.圣歌，赞美诗；吟诵声；重…"
+mysterious	(adj.)神秘的
+vein	"n.静脉；血管；叶脉；纹理；迹象"
+Easter	(n.)复活节
+fee	(n.)费用
 struck	(v.) 打；撞；罢工；划燃
 record	"v.记录（读作/rɪˈkɔrd/）；录制；n.记录；最好成绩";"v.录制；记录（读作/rɪˈkɔrd/）；n.记录；唱片…"
 superb	(adj.) 极好的；壮丽的
