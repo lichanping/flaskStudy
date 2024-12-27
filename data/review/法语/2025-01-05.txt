@@ -1,3 +1,6 @@
+Tu sors de chez Paul	你从保罗家出来吗？;你从Paul家出去吗？
+Tu dois sortir	你应该出去
+Une horloge	一个时钟
 le coin	角落，街角n.m
 écrivain	“作家；作者n.m.
 sculptrice	女雕塑家

@@ -1,1 +1,4 @@
+Tu sors de chez Paul	你从保罗家出来吗？;你从Paul家出去吗？
+Tu dois sortir	你应该出去
+Une horloge	一个时钟
 roulent	行驶（动词“rouler”的第三人称复数形式）
