@@ -1,3 +1,8 @@
+vol	航班，班机
+de rien	没关系，这没什么，没事
+beurre	黄油
+miel	蜂蜜
+céréales	谷物食品
 le coin	角落，街角n.m
 écrivain	“作家；作者n.m.
 sculptrice	女雕塑家

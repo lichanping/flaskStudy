@@ -1,15 +1,14 @@
-superb	(adj.) 极好的；壮丽的
-bow	(n.) 弓
-coalition	(n.) 联盟
-chant	反复呼喊；反复唱;"v.反复地说；吟诵；n.圣歌，赞美诗；吟诵声；重…"
-lively	有活力的；活泼的
-thermostat	温控器
-alarm	警报器
-heating	供暖；暖气设备
-keep track of	追踪
-schedule	"n.时间表，计划表；v.预订，安排";日程安排
-signal	(n.)信号；v.表明;发信号；示意
-session	"n.会议；一场；一段时间的（活动）"
-pepper	(n.) 胡椒粉，胡椒
+contract	"n.合同，契约（读作/ˈkɑːntrækt/）"
+select	"v.选择，挑选；adj.精选的，选择的"
+photocopy	(n.) 影印，复印件
+bucket	"n.水桶，（有提梁的）桶；大量；v.颠簸行进；装…"
+tip	(n.) 诀窍，建议；小费；尖端
+desert	"v.离弃（读作/dɪˈzɜːt/）；n.荒漠，沙漠（读作/…"
+issue	(n.) 问题；发行物；v.发行
+silver	(n.) 银，银子
+relative	"adj.相对的；n.亲戚，家人，亲属"
+employ	(vt.) 使用；雇用
+opportunity	(n.) 机会，良机
+advantage	(n.) 优势
 bother	"v.打扰，因……操心；(使)担心，(使)生气，(使)苦恼"
-resign	(v.) 辞职，放弃
+routine	(n.) 惯例，习惯；常规
