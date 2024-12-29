@@ -868,7 +868,6 @@ billion	(num.)十亿
 geological	(adj.)地质学的
 tower	(n.)塔，楼塔
 spend	"v.花（时间或精力）；花费，用钱；度过，消磨"
-association	"n.协会，联盟，社团；关联；联想"
 fond	(adj.)喜欢的，喜爱的
 geologist	(n.)地质学家
 sleeve	(n.)袖子
@@ -968,7 +967,6 @@ pay	"v.支付，偿还；（与某些名词连用，表示施予某物或…"
 complicate	(v.)（使）变复杂
 forum	(n.)论坛
 shop	(n.)商店；v.买东西
-gram	(n.)克
 provide	(v.)提供，供给
 consequently	(adv.)因此，结果
 grand	"adj.大的；壮丽的，宏伟的，宏大的"
@@ -1464,7 +1462,6 @@ astonishing	(adj.)令人惊讶的
 blank	"n.空白，空白处；adj.（纸等）空白的；茫然的"
 swell	(v.)膨胀，鼓起;肿胀
 prepare	(v.)准备
-competent	(adj.)有能力的
 boring	(adj.)无聊的，乏味的
 November	(n.)十一月
 curriculum	"n.课程，（学校或专业的）全部课程"
@@ -1573,7 +1570,6 @@ fast	"adv.迅速地；adj.迅速的，动作敏捷的；很快做…"
 tremendous	(adj.)巨大的
 cowboy	(n.)牛仔
 calculator	(n.)计算器，计算者
-dominant	(adj.)主要的，占优势的;支配的
 resolve	(v.)解决（问题或困难）
 library	(n.)图书馆，藏书室
 consider	"v.考虑，细想；认为；把…看作"
@@ -1610,7 +1606,6 @@ mutton	(n.)羊肉，羊
 probable	(adj.)很可能的
 lane	(n.)巷
 yard	(n.)院子，庭院
-loose	(adj.)宽松的
 multicultural	(adj.)多种文化的
 participate	(vi.)参与，参加
 mathematics	(n.)（=maths）数学
@@ -1777,7 +1772,6 @@ vehicle	"n.车辆；工具，手段；交通工具"
 person	(n.)人
 ownership	(n.)所有权
 organize	(v.)组织；安排；整理
-nephew	(n.)侄子，外甥
 disappoint	(v.)使失望，使受挫折
 maid	(n.)女服务员
 tough	"adj.艰难的；严厉的；困难的，难办的"
@@ -2390,7 +2384,6 @@ petal	(n.)花瓣
 barbershop	(n.)理发店
 soup	(n.)汤
 noble	(adj.)贵族的，高贵的
-economic	(adj.)经济上的，经济学的
 claim	"v.声称；认领，要求（拥有）；n.声明"
 Halloween	"n.万圣节前夕（指10月31日夜晚）"
 irrigation	(n.)灌溉
@@ -2753,7 +2746,6 @@ blast	(n.)热闹的聚会，狂欢
 route	(n.)路线
 plenty	(pron.)大量，丰富
 opinion	(n.)意见，看法，观点
-analytical	(adj.)分析的
 suspect	"v.怀疑，猜疑；n.犯罪嫌疑人，可疑分子"
 holy	(adj.)神圣的，圣洁的
 low	"adj.低的，矮的，少的；沮丧的"
@@ -4369,3 +4361,31 @@ decent	正派的，得体的;(adj.)体面的，得体的
 alarm	警报器;"n.警报器，警报；闹钟；惊恐，忧虑"
 spot	发现；认出；看出;"v.看见，注意到，发现；n.地点；点，斑点"
 spear	矛，梭镖;"n.矛；标枪；嫩枝；v.刺，戳"
+furious	狂怒的
+confess	承认；坦白
+hostile	敌对的
+remedy	治疗方法；
+pointed	尖的;突出的
+coconut	椰子
+hell	地狱
+plankton	浮游生物
+firmness	坚定；坚固
+indicative	象征的；指示的
+lifeless	无生命的；无趣味的
+gamble	赌博
+cease	停止
+empathetic	移情的；有同感的
+presently	一会儿；现在
+auditorium	观众席；礼堂
+exertion	发挥；运用
+drugstore	药店
+discreet	谨慎的
+dramatize	戏剧化
+association	"n.协会，联盟，社团；关联；联想";联合；联盟
+gram	(n.)克;克
+nephew	(n.)侄子，外甥;侄子；外甥
+analytical	(adj.)分析的;分析的
+dominant	(adj.)主要的，占优势的;支配的;显性的；占优势的
+loose	(adj.)宽松的;松的；松散的
+competent	(adj.)有能力的;有能力的
+economic	(adj.)经济上的，经济学的;经济的
