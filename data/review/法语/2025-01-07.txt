@@ -1,3 +1,8 @@
+vol	航班，班机
+de rien	没关系，这没什么，没事
+beurre	黄油
+miel	蜂蜜
+céréales	谷物食品
 quantité	“数量；量；大量；许多”
 devez	应该，须
 horloge	时钟;“时钟”“钟表”

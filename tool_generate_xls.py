@@ -365,5 +365,5 @@ class GenerateTool:
             print(f"Time taken: {elapsed_time} seconds")
 
         tool = TxtToXLSX()
-        en_and_cn('每日法語.txt', max_items=None, language="fr")
+        # en_and_cn('每日法語.txt', max_items=None, language="fr")
         en_and_cn('每日英語.txt', max_items=None, language="en")
