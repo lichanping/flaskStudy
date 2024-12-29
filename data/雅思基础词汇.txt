@@ -14,3 +14,18 @@ skill	(n.)技能；技巧
 size	(n.)大小，尺寸；规模；尺码
 behave	(v.)举动
 scary	(adj.)恐怖的，吓人的
+blind	(adj.) 失明的；v.蒙蔽
+serve	"v.可用作，可当…...使；供 应；服务；对 … ...有用；  …"
+apply	(v.) 应用；申请；适用
+relax	(v.) 放松，休息
+human	(adj.) 人的，人类的；n.人
+stadium	(n.) 体育场，露天大型运动场
+drawing	(n.) 绘图，图样
+clear	"adj.清楚的；显然的；明确 的 ，澄清的；透明的；  晴 …"
+fairly	(adv.) 相当地
+translate	(vt.) 转换；翻译
+connect	(v.) 连接
+hurt	"v.使受伤；adj.受伤的， 受损的"
+involve	"v.涉及；卷入，使参与；包 含"
+logo	(n.) 标识
+poster	(n.) 海报
