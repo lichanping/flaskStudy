@@ -133,6 +133,9 @@ class TxtToXLSX:
         file_path = os.path.join(self.data_folder, file_name)
         english_words = {}  # Dictionary to store English words and their translations
         duplicates = {}
+        current_translation = None
+        previous_word = None
+
         with open(file_path, 'r', encoding='utf-8') as file:
             for line in file:
                 match = re.match(r'([a-zA-ZéèêëîïùûüàâäôöçœÉÇÀ\'\s\-\.\/\?\？]+)\s*(.*)', line.strip())
@@ -153,6 +156,13 @@ class TxtToXLSX:
                     english_word = re.sub(r'\bsb\b', 'somebody', english_word).replace("\bsth\b", "something")
                     english_word = re.sub(r'sw(?!\w)', 'somewhere', english_word)
                     translation = translation.strip()
+
+                    if current_translation:
+                        # Append the current translation to the previous one
+                        current_translation += f" {translation}"
+                        translation = current_translation
+                        current_translation = None
+
                     if english_word in duplicates:
                         # If the word is already in duplicates, append the translation
                         duplicates[english_word].append(translation)
@@ -165,6 +175,11 @@ class TxtToXLSX:
                         else:
                             # If it's a new word, add to english_words
                             english_words[english_word] = [translation]
+                    previous_word = english_word
+                else:
+                    # Assume it's a continuation of the previous line's translation
+                    if previous_word:
+                        english_words[previous_word][-1] += f" {line.strip()}"
 
         with open(file_path, 'w', encoding='utf-8') as file:
             for english_word, translations in english_words.items():
