@@ -131,61 +131,67 @@ class TxtToXLSX:
         Remove duplicate English words or merge their translations directly from the original text file.
         """
         file_path = os.path.join(self.data_folder, file_name)
-        english_words = {}  # Dictionary to store English words and their translations
-        duplicates = {}
-        current_translation = None
+        english_words = {}  # Dictionary to store unique English words and their translations
+        duplicates = {}  # Dictionary to store duplicate words with multiple translations
         previous_word = None
 
         with open(file_path, 'r', encoding='utf-8') as file:
             for line in file:
-                match = re.match(r'([a-zA-ZéèêëîïùûüàâäôöçœÉÇÀ\'\s\-\.\/\?\？]+)\s*(.*)', line.strip())
+                line = line.strip()
+                if not line:
+                    continue  # Skip empty lines
+
+                match = re.match(r'([a-zA-ZéèêëîïùûüàâäôöçœÉÇÀ\'\s\-\.\/\?\？]+)\s*(.*)', line)
                 if match:
                     english_word, translation = match.groups()
-                    translation = re.sub(r'\s+', '', translation)
                     english_word = english_word.strip()
-
-                    if english_word.endswith(('adj.', 'adv.', 'n.', 'v.', 'phr.', 'vt.', 'prep.', 'vi.', 'det.',
-                                              'pron.', 'conj.', 'int.', 'aux.', 'auxv.', 'num.', "abbr.", "excl.")):
-                        # If it does, move the part of speech to the translation
-                        pos = english_word.split()[-1]  # Get the last part of the word as part of speech
-                        english_word = english_word[
-                                       :-len(pos)].strip()  # Remove the part of speech from the English word
-                        translation = f"({pos}) {translation.strip()}"
-
-                    # Replace "sb" with "somebody" and "sth" with "something" only in the English words part
-                    english_word = re.sub(r'\bsb\b', 'somebody', english_word).replace("\bsth\b", "something")
-                    english_word = re.sub(r'sw(?!\w)', 'somewhere', english_word)
                     translation = translation.strip()
 
-                    if current_translation:
-                        # Append the current translation to the previous one
-                        current_translation += f" {translation}"
-                        translation = current_translation
-                        current_translation = None
+                    # Handle part of speech
+                    pos_match = re.search(
+                        r'(adj\.|adv\.|n\.|v\.|phr\.|vt\.|prep\.|vi\.|det\.|pron\.|conj\.|int\.|aux\.|auxv\.|num\.|abbr\.|excl\.)$',
+                        english_word)
+                    if pos_match:
+                        pos = pos_match.group()
+                        english_word = english_word[: -len(pos)].strip()
+                        translation = f"({pos}) {translation}"
+
+                    # Replace abbreviations
+                    english_word = re.sub(r'\bsb\b', 'somebody', english_word)
+                    english_word = re.sub(r'\bsth\b', 'something', english_word)
+                    english_word = re.sub(r'\bsw\b', 'somewhere', english_word)
+
+                    if not english_word:  # Handle cases where `english_word` is empty
+                        if previous_word:  # Append to the previous word's translation
+                            if previous_word in english_words:
+                                english_words[previous_word] += f" {translation}"
+                            elif previous_word in duplicates:
+                                duplicates[previous_word][-1] += f" {translation}"  # Fixed for lists
+                        continue  # Skip to the next line
 
                     if english_word in duplicates:
-                        # If the word is already in duplicates, append the translation
-                        duplicates[english_word].append(translation)
+                        duplicates[english_word].append(translation)  # Changed to `append` for lists
+                    elif english_word in english_words:
+                        # Move to duplicates
+                        duplicates[english_word] = [english_words.pop(english_word), translation]  # Use list here
                     else:
-                        if english_word in english_words:
-                            # If it's in english_words, move to duplicates
-                            duplicates[english_word] = [
-                                english_words.pop(english_word)[0]]  # Store the first translation
-                            duplicates[english_word].append(translation)  # Add the new translation
-                        else:
-                            # If it's a new word, add to english_words
-                            english_words[english_word] = [translation]
+                        # Add new word
+                        english_words[english_word] = translation
+
                     previous_word = english_word
                 else:
-                    # Assume it's a continuation of the previous line's translation
-                    if previous_word:
-                        english_words[previous_word][-1] += f" {line.strip()}"
+                    # Continuation of the previous line
+                    if previous_word and previous_word in english_words:
+                        english_words[previous_word] += f" {line}"
+                    elif previous_word and previous_word in duplicates:
+                        duplicates[previous_word][-1] += f" {line}"  # Fixed for lists
 
+        # Write the cleaned data back to the file
         with open(file_path, 'w', encoding='utf-8') as file:
-            for english_word, translations in english_words.items():
-                file.write(f"{english_word}\t{';'.join(translations)}\n")
+            for english_word, translation in english_words.items():
+                file.write(f"{english_word}\t{translation}\n")
             for english_word, translations in duplicates.items():
-                file.write(f"{english_word}\t{';'.join(translations)}\n")
+                file.write(f"{english_word}\t{'; '.join(translations)}\n")
 
     def read_text(self, file_name):
         """
@@ -322,9 +328,14 @@ class GenerateTool:
 
     @Test()
     def french_words(self):
+        files = [
+            '法语单词（持续更新中）.txt',
+            '你好法语（持续更新中）.txt'
+        ]
         tool = TxtToXLSX()
-        tool.remove_duplicates_or_merge_translations('法语单词（持续更新中）.txt')
-        tool.convert('法语单词（持续更新中）.txt')  # commented the create_excel due to uselessness.
+        for file in files:
+            tool.remove_duplicates_or_merge_translations(file)
+            tool.convert(file)
 
         # Create an instance of FrenchTTSProcessor and call its method
         processor = FrenchTTSProcessor()

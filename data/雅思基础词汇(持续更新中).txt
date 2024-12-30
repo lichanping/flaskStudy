@@ -142,3 +142,38 @@ consider	"v. 考虑 ，细想；认为；把 … 看作"
 pile	(n.) 一堆；   v. 堆积
 region	(n.) 地区，   区域 ，地带
 slowly	(adv.) 缓慢地
+replace	(v.) 代替 ，接替；更换 ，替换
+drama	(n.) 戏剧
+snake	(n.) 蛇
+rule	"n. 规则 ，规定 ，规章 ，条 例；   v. 统治 ，控制"
+form	"n. 形式；方式；表格；形 状；   v. 形成 ，产生，  …"
+dig	(v.) 挖掘 ，翻土
+recycle	(v.) 回收利用
+stage	(n.) 舞台；  阶段
+campsite	(n.) 露营地
+repeat	"v. 重复；   n. 重复段 ，反复 部分"
+half	(n.) 半 ，半时；   det. 半数
+pupil	(n.) 小学生
+biography	(n.) 传记文学 ，传记
+cave	"n. 山洞 ，洞穴；   v. 洞穴探 险"
+art	(n.) 艺术；艺术品
+depth	(n.) 深度
+match	"v.   （使）相配；   n. 比赛； 相配 ，般配"
+importance	(n.) 重要性
+turn	"v. 使变成；翻动；转向；转 动；   n. 变化 ，转变；  时机"
+scene	(n.) 场面 ，情景；景象
+tongue	(n.) 舌头；   vi. 吹奏管乐器
+alike	(adv.) 相像地 ，相似地
+farmer	(n.) 农民 ，农夫
+guy	(n.) 家伙
+bell	(n.) 铃 ，钟，  门铃
+accurate	(adj.) 准确的
+forward	(adv.) 向前，  向将来；前进
+enter	(v.) 进入；报名参加
+profession	(n.) 职业
+visitor	(n.) 游客
+nature	"n. 大自然；天性；本质；性 格 ，秉性；性质"
+meaning	(n.) 意思 ，含义；意义 ，价值
+mood	(n.) 情绪 ，心情
+cent	(n.) 分
+neighbour	(n.) 邻居 ，邻人
