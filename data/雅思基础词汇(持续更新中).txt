@@ -77,3 +77,68 @@ hurt	"v.使受伤；adj.受伤的， 受损的"
 involve	"v.涉及；卷入，使参与；包 含"
 logo	(n.) 标识
 poster	(n.) 海报
+reasonable	(adj.) 合理的
+enormous	(adj.) 巨大的
+pick	"vt. 挑选；采摘；拾起；   n. 精品 ，精华"
+lightning	(n.) 闪电
+ring	"v. 鸣响 ，发出铃声；打电 话；   n. 戒指；  (电话) 响铃"
+lab	(n.) 实验室 ，研究室
+mushroom	(n.) 蘑菇；   v. 迅速发展
+blow	(v.) 吹，  吹动，  吹气
+earth	(n.) 地球
+degree	(n.) 学位；度；程度
+line	"n. 线 ，线条；路线； （戏剧 或电影的）  台词 ，对白；  …"
+fiction	(n.) 小说
+exercise	"n. 操练 ，运动；活动；锻 炼；   v. 锻炼"
+kilometre	(n.) 公里
+recommend	(vt.) 推荐 ，介绍
+generation	(n.) 一代人；产生
+ambition	(n.) 雄心 ，野心
+background	"n. 出身 ，经历； （ 图片 、布 景等的）背景； （事件的 …"
+wooden	(adj.) 木制的 ，木质的
+convenient	"adj. 方便的 ，省事的；便利 的"
+brilliant	(adj.) 极好的；才华横溢的
+heat	"n.   【物理学】  热；高温； (v.) 加热"
+few	"adj. 少数的；   pron. 不多， 很少"
+weak	(adj.) 差的 ，衰弱的；软弱的
+balcony	(n.) 阳台
+jazz	(n.) 爵士乐
+news	(n.) 新闻 ，消息
+bee	(n.) 蜜蜂
+agency	(n.) 代理机构
+theatre	"n. 戏院 ，剧院 （ =theater）"
+heavy	(adj.) 重的；程度深的
+century	(n.) 世纪 ，百年
+insist	(v.) 坚持
+energy	(n.) 能源；活力
+literature	(n.) 文学
+general	"adj. 普遍的 ，总的；一般 的 ，普通的；全面的；  常 …"
+sell	(v.) 出售 ，卖
+sour	(adj.) 酸的
+local	"adj. 当地的；地方性的；   n. 当地人； （沿线每站都停 …"
+crop	(n.) 作物 ，庄稼
+airline	"n. 航空公司；   adj. 航空公 司的 ，航线的"
+regular	"adj. 定期的 ，有规律的；正 常的"
+physics	(n.) 物理（学）
+type	"n. 类型 ，种类；典型 ；   v. 打字"
+western	(adj.) 西部的；西方的
+shelf	(n.) 架子 ，搁板
+bury	(v.) 隐藏 ，埋藏
+spring	"n. 春天；泉 ，泉源；  弹簧； (v.) 反弹 ，跳 ，跃"
+reach	"v. 抵达； （大或长等）足够 达到 ，发展到；与 … …取 …"
+sculpture	(n.) 雕刻 ，雕塑
+present	"n. 现在，   目前；礼物（读 作/ˈprezənt/）；   v. 呈现 …"
+twice	(adv.) 两次；两倍
+build	"v. 建立 ，发展；建造；逐步 增强"
+snack	(n.) 零食 ，小吃 ，快餐
+mind	"n. 头脑 ，思想 ，心智；注意 力 ，心思；   v. 介意"
+dangerous	(adj.) 有危险的，  引起危险的
+curtain	(n.) 窗帘；幕布
+recognize	"vt. 认出 ，辨别；   v. 认可； 公认"
+describe	(v.) 描述
+apart	"adv. 成碎片；分离地 ，分 开地；相隔 ，相距"
+uncle	"n. 伯父 ，叔父 ，舅父 ，姑 父 ，姨父"
+consider	"v. 考虑 ，细想；认为；把 … 看作"
+pile	(n.) 一堆；   v. 堆积
+region	(n.) 地区，   区域 ，地带
+slowly	(adv.) 缓慢地
