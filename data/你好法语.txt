@@ -1,0 +1,160 @@
+assistant	助理，助手，副手
+assistante	助理，助手，副手n.
+belge	比利时的adj.;比利时人n.Belge（首字母大写）
+chinois	中国的adj.；中国人n.（首字母大写）
+chinoise	中国的adj.中国人n.（首字母大写）
+cours	课，课程n.m.
+dans	在……里；处于….prép
+directeur	经理n.阳性形式
+directrice	经理n.阴性形式
+en	在……(指地点)prép.
+espagnole	西班牙的adj.；西班牙人(首字母大写）n.
+français	法语n.m.
+france	法国(首字母大写）n.f
+genève	日内瓦(瑞士)(首字母大写）
+habiter	居住(在)v.
+japon	日本n.m.Japon
+japonais	日本的adj.日本人Japonais（n.）
+japonaise	日本的adj.日本人Japonaise（n.）
+rendez-vous	约会，预约n.m.
+sur rendez-vous	(医生接待)预约就诊(的病人)
+secrétaire	秘书n.
+s'il vous plaît	请，请您，请问loc.
+suisse	瑞士Suisse（n.f）
+sympa	（俗）给人好感的，讨人喜欢的adj.inv.
+téléphone	电话；电话机n.m
+affiche	海报，广告n.f.
+C'est une affiche	这是一张海报
+assiette	盘子n.f.
+C'est une assiette	这是一个盘子
+au-dessous	在下面，通常表示某物在另一物的正下方。
+au-dessus	“在上面”；...以上
+avec	和...一起prep.=with;具有，带有prep
+Il parle français avec un accent anglais	他说法语带有英语口音
+blouson	夹克衫n.m.
+C'est le blouson de Paul	这是保罗的夹克
+chaise	椅子n.f.
+Il y a une chaise	有一张椅子
+chambre	卧室n.f.
+Il y a une chaise dans la chambre	房间里有一把椅子。
+chapeau	帽子n.m.
+C'est un chapeau	这是一顶帽子。
+chatte	母猫
+le mur	墙
+Il y a une chaise contre le mur	墙边有一把椅子。
+côté	旁，侧n.m.通常用来表示物体的侧面或与某事物的关系。
+Il habite à côté	他住在旁边。
+À côté de la table	在桌子旁边。
+cuillère	勺，匙n.f.
+Il est devant moi	他在我面前。
+droite	右面，右边，右方
+tourner à droite	向右转。
+Le café est à droite du cinéma	咖啡馆在电影院的右边。
+étagère	格，隔板，架子；多层架子n.f.
+fauteuil	扶手椅n.m.
+fenêtre	窗户;窗子，窗户，玻璃窗n.f.
+fleur	“花”。它是一个阴性名词
+gauche	左边，左面n.f.
+roulent	行驶（动词“rouler”的第三人称复数形式）
+En Angleterre le voitures roulent à gauche	在英国，汽车靠左行驶。
+Anna est à gauche de Sophie	安娜在索菲的左边
+Il y a une table à côté de la chaise	椅子旁边有一张桌子
+meuble	家具n.m.
+mur	墙壁n.m
+objet	物体；物品，东西n.m.
+ordinateur	电脑n.m.
+pièce	房间n.f.
+porte	戴，带，穿;门n.f.
+que	什么pron.interr.
+sac	包n.m.
+Le chat est sous la table	猫在桌子下面。
+Le livre est sur l'étagère	书在书架上。
+voilà	这就是prep;看，在这里
+trouver	找到;找到，发现v.t.
+le vase	花瓶n.m.
+Il y a des fleurs dans le vase	花瓶里有花
+sur	在..上面prep=On
+sous	在...下面=under
+dans	在……里prép
+devant	在……前面prep
+contre	紧挨着
+à gauche de	在左边
+à droite de	在右边
+à côté de	在...的旁边=next to
+Elle est à côté de lui	她在他的旁边
+autre	另一个的，别的，另外的adj
+des baskets	篮球鞋，运动鞋（一般用复数）n.f.
+bleu	蓝色的adj，阳性单数
+bleue	蓝色的adj，阴性单数
+blond	金色的，金色头发
+blonde	金色的，金色头发（阴性单数）
+brune	棕色的（阴性）
+brun	棕色的
+chaussure	鞋;鞋子，靴n.f.
+chemise	男式衬衫n.f.
+chemisier	女衬衫n.m.
+chose	事情，事物n.f.
+couleur	颜色n.f.
+d'accord	同意，赞同loc.adv.
+Tu es d'accord	你同意吗？
+Oui je suis d'accord	是的，我同意
+grand	高大的adj阳性
+grande	大；大的；大型的；伟大的；优秀的;高大的adj阴性
+Un homme grand	身材高大的男人
+Un grand homme	伟大的人
+un jean	牛仔裤n.m.
+leur	他们的，她们的，它们的
+leurs	他们的，她们的，它们的
+lui	他，第三人称单数的间接宾语代词
+Je parle à lui	（我在和他说话。）
+lunettes	眼镜，阴性复数名词
+des lunettes	眼镜
+noir	黑色的
+noire	黑色的n.f.
+pantalon	裤子;长裤n.m.
+porter un pantalon	穿戴，佩戴v.t.
+portrait-robot	模拟画像（警方综合搜捕对象的特征所制的）n.m.
+rouge	红色的；红色（阴阳同形）
+tee-shirt	短袖圆领棉汗衫n.m.
+vêtement	衣服，服装，衣裳
+vêtements	衣服
+Quelle couleur	什么颜色?
+J'aime bien cette couleur	我很喜欢这种颜色
+Cent euros pour un tee-shirt	一件T恤一百欧元
+C'est cher	这很贵
+Elle n'est pas très chère	它不太贵
+Elle ne coûte pas très cher	“它花费不多”(cher做副词没有阴阳性变化）
+fait	“faire的变位”，il/elle/on（他/她/人们）
+faire	动词，意为“做，制造”;“做；干；进行”
+Ça fait combien	“这个多少钱？”
+coûter	“值（多少钱）；花费（多少钱）”
+Combien coûte cette robe	“这条裙子多少钱？”
+gris	灰色的、灰白的、花白的
+grise	法语单词“gris”的阴性形式
+C'est pour toi	“这是给你的”
+un pull	一件羊毛套头衫
+quantité	“数量；量；大量；许多”
+taille	(成衣的）尺寸，尺码n.f.
+Quelle est votre taille	“您的尺码是多少？”或者“您的身高是多少？”
+Comment est-ce que tu trouves ce pantalon	“你觉得这条裤子怎么样？”
+trouver	找到;找到，发现v.t.;“找到；发现”“感到，觉得”
+Comment est-ce qu'il trouve Marie	“他觉得玛丽怎么样？”
+J'aime bien ce type de pantalon	“我很喜欢这种类型的裤子”
+J'adore ce type de sport	“我酷爱这种类型的运动”
+vendeur	“售货员，营业员；销售员，推销员”
+vendeuse	售货员（阴性）
+artiste	艺术家n
+le coin	角落，街角n.m
+écrivain	“作家；作者n.m.
+entre	在。。。之间prep.
+entre A et B	在A和B之间
+un film	电影，影片n.m.
+môme	小孩，小家伙<俗>n.一个通俗用语、略带贬义的名词
+musicien	“音乐家；乐师；演奏家”n.m.
+musicienne	“musicien”的阴性形式;“女音乐家；女乐师；女演奏家”
+peintre	“画家；画师；油漆工”n.m.
+poème	“诗；诗篇”
+poète	“诗人”
+sculpteur	“雕塑家；雕刻家”n
+sculptrice	女雕塑家
+tableau	名词，意为“黑板；图画；表格”
