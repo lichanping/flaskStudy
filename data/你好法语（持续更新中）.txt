@@ -104,7 +104,6 @@ Un grand homme	伟大的人
 un jean	牛仔裤n.m.
 leur	他们的，她们的，它们的
 leurs	他们的，她们的，它们的
-lui	他，第三人称单数的间接宾语代词
 Je parle à lui	（我在和他说话。）
 lunettes	眼镜，阴性复数名词
 des lunettes	眼镜
@@ -150,7 +149,6 @@ un film	电影，影片n.m.
 môme	小孩，小家伙<俗>n.一个通俗用语、略带贬义的名词
 musicien	“音乐家；乐师；演奏家”n.m.
 musicienne	“musicien”的阴性形式;“女音乐家；女乐师；女演奏家”
-peintre	“画家；画师；油漆工”n.m.
 poème	“诗；诗篇”
 poète	“诗人”
 sculpteur	“雕塑家；雕刻家”n
@@ -158,3 +156,42 @@ sculptrice	女雕塑家
 tableau	名词，意为“黑板；图画；表格”
 dans	在……里；处于….prép;在……里prép
 trouver	找到;找到，发现v.t.;找到;找到，发现v.t.;“找到；发现”“感到，觉得”
+un sculpteur	雕塑家n.m.
+une sculptrice	女雕塑家n.f.
+Camille Claudel	卡米尔·克劳德尔
+un musicien	音乐家n.m.
+un poète	诗人n.m.
+un écrivain	作家n.m.
+Le poète	诗人n.m.
+L'écrivain est à gauche dans le tableau.	作家在画中的左边。
+à gauche du peintre	在画家的左边。
+à droite du sculpteur	在雕塑家的右边。
+À côté de Claude Debussy	在克劳德·德彪西的旁边。
+moi	我pron.
+toi	你pron.
+elle	她pron.
+vous	你们，您pron.
+nous	我们pron.
+eux	他们pron.
+elles	她们pron.
+Ma mère habite avec nous	我妈妈和我们住在一起。
+Vous travaillez chez vous	你们在家工作。
+Eux	, ils adorent le football    他们喜欢足球。
+C'est pour qui	这是给谁的？
+Tu viens avec moi	你和我一起来。
+Il y a un bureau avec une chaise ici	这里有一张桌子和一把椅子。
+C'est un immeuble récent avec un parking	这是一栋带停车场的新楼。
+Où est-ce que le restaurant japonais se trouve	日本餐厅在哪里？
+A côté de chez moi	在我家旁边。
+Tu vas où maintenant	你现在去哪里？(口语）
+A la bibliothèque	去图书馆。
+Où est-ce que tu vas	你去哪里？（书面、口语）
+Où tu vas	你去哪里？（口语）
+Où vas-tu	你去哪里？(书面）
+Tu vas où	你去哪里？（口语）
+Où est-ce que le restaurant se trouve	餐厅在哪里？
+Où le restaurant se trouve	餐厅在哪里？
+Où le restaurant se trouve-t-il	餐厅在哪里？
+Le restaurant se trouve où	餐厅在哪里？
+peintre	“画家；画师；油漆工”n.m.; 画家n.m.
+lui	他，第三人称单数的间接宾语代词; 他pron.
