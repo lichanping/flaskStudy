@@ -436,3 +436,4 @@ nageons	游泳，泳
 du pain	面包
 céréales 谷物食品
 mois	月
+année 年

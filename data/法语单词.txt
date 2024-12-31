@@ -40,3 +40,16 @@ une photo de toi	一张你的照片
 des photos de vacances	一些度假照片
 Vous allez passer le mois prochain à Paris	你们下个月将在巴黎度过。
 lui	他，第三人称单数的间接宾语代词;他，跟他，给他
+cet	这，这个，这件
+été	夏天，夏
+faire de la plongée	去潜水
+janvier	一月
+faire du ski	去滑雪
+faire un voyage	去旅行
+février	二月
+montagne	山里，山
+hiver	冬天，冬
+temps	时间
+eux	他们
+en vacances	度假，去度假
+année	名词，意为“年；年份”; 年
