@@ -12,5 +12,5 @@ directrice	经理n.阴性形式
 en	在……(指地点)prép.
 espagnole	西班牙的adj.；西班牙人(首字母大写）n.
 français	法语n.m.
-france	法国(首字母大写）n.f
-genève	日内瓦(瑞士)(首字母大写）
+la France	法国n.f.
+Genève	日内瓦(瑞士)(首字母大写）
