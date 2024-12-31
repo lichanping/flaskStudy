@@ -1,3 +1,8 @@
+belge	比利时的adj.;比利时人n.Belge（首字母大写）
+rendez-vous	约会，预约n.m.
+assiette	盘子n.f.
+Il parle français avec un accent anglais	他说法语带有英语口音
+cuillère	勺，匙n.f.
 Tu sors de chez Paul	你从保罗家出来吗？;你从Paul家出去吗？
 Tu dois sortir	你应该出去
 Une horloge	一个时钟

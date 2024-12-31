@@ -1,2 +1,7 @@
+belge	比利时的adj.;比利时人n.Belge（首字母大写）
+rendez-vous	约会，预约n.m.
+assiette	盘子n.f.
+Il parle français avec un accent anglais	他说法语带有英语口音
+cuillère	勺，匙n.f.
 portrait-robot	模拟画像（警方综合搜捕对象的特征所制的）n.m.
 nageons	游泳，泳
