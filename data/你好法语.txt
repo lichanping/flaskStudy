@@ -197,3 +197,78 @@ Où le restaurant se trouve-t-il	餐厅在哪里？
 Le restaurant se trouve où	餐厅在哪里？
 peintre	“画家；画师；油漆工”n.m.; 画家n.m.
 lui	他，第三人称单数的间接宾语代词; 他pron.
+agence	代理处，代办处n.f.
+agence immobilière	房地产代理处n.f.(immobilière为阴性形容词)
+ancien	以前的，旧的adj.
+ancienne	以前的，从前的adj.
+un ancien appartement	以前的公寓n.m.
+une ville ancienne	古老的城市n.f.
+annonce	启事，告示，布告，公告n.f.
+une petite annonce	小广告n.f.
+appartement	公寓n.m.
+une maison	房子n.f.
+ascenseur	电梯n.m.
+une avenue	大街，大道n.f.
+bout	末端，尽头n.m.
+au bout de	在……的尽头
+au bout du monde	在世界的尽头
+au bout du couloir	在走廊的尽头
+bruyant	吵闹的adj.
+bruyante	吵闹的adj.
+une rue bruyante	吵闹的街道n.f.
+un bureau	办公室，写字台n.m.
+calme	安静的adj.
+une rue calme	安静的街道n.f.
+chez	在……家
+chez moi	在我家
+chez Julie	在朱利家
+chez Renault	在雷诺公司
+clair	明亮的adj.
+une chambre claire	明亮的房间n.f.
+couloir	走廊n.m.
+douche	淋浴n.f.淋浴设备，莲蓬头
+entrée	入口，进入n.f.门厅
+étage	楼层n.m.
+au rez-de-chaussée	在一楼
+au premier étage	在二楼
+au deuxième étage	在三楼
+au troisième étage	在四楼
+la face	（物体的）面n.f.
+en face de	在……对面
+En face du parc	在公园对面
+Il y a un parking en face du parc	公园对面有一个停车场。
+immeuble	大楼n.m.
+immobilière	房地产的adj.
+immobilier	房地产的adj.阳性
+une agence immobilière	房地产代理处n.f.
+louer	租用，出租v.t.
+louer un appartement	租用一套公寓
+mètre	米n.m.
+mètre carré	平方米n.m.
+mois	月n.m.
+placard	壁橱n.m.
+le plan	平面图n.m.
+premier	第一的adj.
+première	第一的adj.阴性的
+récent	最近的，新的adj.
+récente	最近的，新的adj.
+le responsable	负责人，主管n.m.
+rez-de-chaussée	（建筑物）底层，一楼n.m.
+une salle vide	空旷的房间n.f.
+salle de bains	浴室n.f.
+les salutations	敬意n.f.pl.(信末用语）
+sombre	黑暗的，昏暗的，阴暗的adj.
+une chambre sombre	昏暗的房间n.f.
+toilettes	卫生间，厕所n.f.pl.
+troisième	第三的adj.num.ord.
+un appartement	一套公寓n.m.
+la chambre	卧室n.f.
+la salle de bains	浴室n.f.
+les toilettes	卫生间，厕所n.f.pl.
+la salle à manger	餐厅n.f.
+le salon	客厅n.m.
+le balcon	阳台n.m.
+l'entrée	入口n.f.
+Le couloir	走廊n.m.
+claire	明亮的,清晰的，清楚的adj.; 明亮的，清晰的adj.
+la cuisine	厨房，烹调，烹饪法；菜肴n.f.; 厨房n.f.
