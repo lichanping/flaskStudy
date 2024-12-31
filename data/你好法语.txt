@@ -1,10 +1,11 @@
+à	在；向，到；给……prép.
+ah	啊!唉!interj.
 assistant	助理，助手，副手
 assistante	助理，助手，副手n.
 belge	比利时的adj.;比利时人n.Belge（首字母大写）
 chinois	中国的adj.；中国人n.（首字母大写）
 chinoise	中国的adj.中国人n.（首字母大写）
 cours	课，课程n.m.
-dans	在……里；处于….prép
 directeur	经理n.阳性形式
 directrice	经理n.阴性形式
 en	在……(指地点)prép.
@@ -70,17 +71,15 @@ sac	包n.m.
 Le chat est sous la table	猫在桌子下面。
 Le livre est sur l'étagère	书在书架上。
 voilà	这就是prep;看，在这里
-trouver	找到;找到，发现v.t.
 le vase	花瓶n.m.
 Il y a des fleurs dans le vase	花瓶里有花
 sur	在..上面prep=On
 sous	在...下面=under
-dans	在……里prép
 devant	在……前面prep
 contre	紧挨着
 à gauche de	在左边
 à droite de	在右边
-à côté de	在...的旁边=next to
+à côté de	在...的旁边=nextto
 Elle est à côté de lui	她在他的旁边
 autre	另一个的，别的，另外的adj
 des baskets	篮球鞋，运动鞋（一般用复数）n.f.
@@ -137,7 +136,6 @@ quantité	“数量；量；大量；许多”
 taille	(成衣的）尺寸，尺码n.f.
 Quelle est votre taille	“您的尺码是多少？”或者“您的身高是多少？”
 Comment est-ce que tu trouves ce pantalon	“你觉得这条裤子怎么样？”
-trouver	找到;找到，发现v.t.;“找到；发现”“感到，觉得”
 Comment est-ce qu'il trouve Marie	“他觉得玛丽怎么样？”
 J'aime bien ce type de pantalon	“我很喜欢这种类型的裤子”
 J'adore ce type de sport	“我酷爱这种类型的运动”
@@ -158,3 +156,5 @@ poète	“诗人”
 sculpteur	“雕塑家；雕刻家”n
 sculptrice	女雕塑家
 tableau	名词，意为“黑板；图画；表格”
+dans	在……里；处于….prép;在……里prép
+trouver	找到;找到，发现v.t.;找到;找到，发现v.t.;“找到；发现”“感到，觉得”
