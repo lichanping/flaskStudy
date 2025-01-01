@@ -49,7 +49,6 @@ Il habite à côté	他住在旁边。
 cuillère	勺，匙n.f.
 Il est devant moi	他在我面前。
 droite	右面，右边，右方
-tourner à droite	向右转。
 Le café est à droite du cinéma	咖啡馆在电影院的右边。
 étagère	格，隔板，架子；多层架子n.f.
 fauteuil	扶手椅n.m.
@@ -187,7 +186,6 @@ A la bibliothèque	去图书馆。
 Où est-ce que tu vas	你去哪里？（书面、口语）
 Où tu vas	你去哪里？（口语）
 Où vas-tu	你去哪里？(书面）
-Tu vas où	你去哪里？（口语）
 Où est-ce que le restaurant se trouve	餐厅在哪里？
 Où le restaurant se trouve	餐厅在哪里？
 Où le restaurant se trouve-t-il	餐厅在哪里？
@@ -296,3 +294,96 @@ Meilleures salutations	致以最诚挚的问候
 Alain Dauger	阿兰·多杰尔
 Responsable de l'agence Loca-loisirs	“Loca-loisirs	中介负责人”
 C'est un immeuble récent avec un parking	这是一栋带停车场的新楼。
+prendre	拿(原形)
+Je prends	我拿
+Tu prends	你拿
+Il prend	他拿
+Elle prend	她拿
+Nous prenons	我们拿
+Vous prenez	你们拿
+Ils prennent	他们拿
+Elles prennent	她们拿
+Prenez-vous le bus	你们坐公共汽车吗？
+Je prends le taxi	我打车
+aller	去(原形)
+Je vais	我去
+Tu vas	你去
+Il va	他去
+Elle va	她去
+Nous allons	我们去
+Vous allez	你们去
+Ils vont	他们去
+Elles vont	她们去
+Je vais au cinéma	我去看电影
+l'impératif	命令式
+Excuse-moi	对不起(命令式)
+Fais comme moi	跟我一样做(命令式)
+Suivez-moi	跟我来(命令式)
+parler	说(原形)
+Je parle	我说
+Tu parles	你说
+Il parle	他说
+Elle parle	她说
+Nous parlons	我们说
+Vous parlez	你们说
+Ils parlent	他们说
+Elles parlent	她们说
+Parle	请你说！(命令式，如果动词是er结尾，去掉er加e)
+Parlez	请你们说，请您说！(命令式，如果动词是er结尾，去掉er加ez)
+Parlons	让我们一起说吧！(命令式，如果动词是er结尾，去掉er加ons)
+entrer	进入(原形)
+Tu entres	你进入
+nous entrons	我们进入
+vous entrez	你们进入
+Entrez	请您进！(命令式，如果动词是er结尾，去掉er加ez)
+Entrons	让我们一起进入吧！(命令式，如果动词是er结尾，去掉er加ons)
+tourner	转弯(原形)
+Tu tournes	你转弯
+nous tournons	我们转弯
+vous tournez	你们转弯
+Tourne	请转弯！(命令式，如果动词是er结尾，去掉er加e)
+Tournez	请您转弯！(命令式，如果动词是er结尾，去掉er加ez)
+Tournons	让我们一起转弯吧！(命令式，如果动词是er结尾，去掉er加ons)
+Ne parle pas	不要说(命令式否定式)
+Ne tournez pas	不要转弯(命令式否定式)
+N'entrez pas	不要进入(命令式否定式)
+Va tout droit	你直走（命令式）
+Ne va pas au cinéma	不要去看电影（命令式否定式）
+Allons tout droit	我们直走（命令式）
+N'allons pas au cinéma	不要去看电影（命令式否定式）
+Allez tout droit	你们，您直走（命令式）
+N'allez pas au cinéma	您不要去看电影（命令式否定式）
+Prends le bus	你坐公共汽车（命令式）
+Ne prends pas le train	不要坐火车（命令式否定式）
+Prenons le bus	我们坐公共汽车（命令式）
+Ne prenons pas le train	我们不要坐火车（命令式否定式）
+Prenez le bus	你们坐公共汽车（命令式）
+Ne prenez pas le train	你们不要坐火车（命令式否定式）
+Parle français s'il te plaît	请你说法语（命令式）
+Va à la poste	你去邮局（命令式）
+Vas-y	你去吧（命令式）（加s接元音）
+Donnes-en	给我（命令式）(en代表着一些东西)（加s接元音）
+Parles-en	说给我（命令式）(en代表着一些东西)（加s接元音）
+avoir	有(原形)
+Tu as	你有
+Aie	请你有！(命令式，不规则)
+n'aie pas	不要有！(命令式否定式，不规则)
+ayons	让我们一起有吧！(命令式，不规则)
+n'ayons pas	让我们不要有！(命令式否定式，不规则)
+ayez	请您有！(命令式，不规则)
+n'ayez pas	请您不要有！(命令式否定式，不规则)
+être	是(原形)
+Tu es	你是
+Sois	请你是！(命令式，不规则)
+ne sois pas	请你不要是！(命令式否定式，不规则)
+soyons	让我们一起是吧！(命令式，不规则)
+ne soyons pas	让我们不要是！(命令式否定式，不规则)
+soyez	请您是！(命令式，不规则)
+ne soyez pas	请您不要是！(命令式否定式，不规则)
+Aie de la patience	请你有耐心（命令式）
+Ayez du courage	请您有勇气（命令式）
+Sois patient	请你是有耐心（命令式）
+Soyez courageux	请您是有勇气（命令式）
+Tu vas où	你去哪里？（口语）; 你去哪儿？
+tourner à droite	向右转。; 右转
+Entre	请进！(命令式，如果动词是er结尾，去掉er加e); 请进（命令式）
