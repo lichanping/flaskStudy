@@ -122,3 +122,16 @@ l'entrée	入口n.f.
 Le couloir	走廊n.m.
 claire	明亮的,清晰的，清楚的adj.; 明亮的，清晰的adj.
 la cuisine	厨房，烹调，烹饪法；菜肴n.f.; 厨房n.f.
+cet ami	这位朋友(阳性以元音音素开头的名词前用cet)
+cet hôtel	这家旅馆
+cet objet	这个物体
+ces garçons	这些男孩(复数名词前用ces)
+ces étudiants	这些学生(复数名词前用ces)
+cette fille	这个女孩(阴性名词前用cette)
+ces filles	这些女孩(复数名词前用ces)
+cette année	今年(阴性名词前用cette)
+ce matin	今天早上(阳性名词前用ce)
+ce livre-ci	这本书(阳性名词前用ce, ci表示“这个”)
+cette table-là	那张桌子(阴性名词前用cette, là表示“那个”)
+ces romans-ci	这些小说(复数名词前用ces, ci表示“这些”)
+ces voitures-là	那些汽车(复数名词前用ces, là表示“那些”)
