@@ -180,7 +180,6 @@ Eux	, ils adorent le football    他们喜欢足球。
 C'est pour qui	这是给谁的？
 Tu viens avec moi	你和我一起来。
 Il y a un bureau avec une chaise ici	这里有一张桌子和一把椅子。
-C'est un immeuble récent avec un parking	这是一栋带停车场的新楼。
 Où est-ce que le restaurant japonais se trouve	日本餐厅在哪里？
 A côté de chez moi	在我家旁边。
 Tu vas où maintenant	你现在去哪里？(口语）
@@ -283,3 +282,17 @@ ce livre-ci	这本书(阳性名词前用ce, ci表示“这个”)
 cette table-là	那张桌子(阴性名词前用cette, là表示“那个”)
 ces romans-ci	这些小说(复数名词前用ces, ci表示“这些”)
 ces voitures-là	那些汽车(复数名词前用ces, là表示“那些”)
+L'immeuble est au coin de la rue Victor-Hugo et de la rue Michelet	房子在维克多雨果街和米歇尔街的拐角处。
+L'appartement est au troisième étage avec ascenseur	公寓在四楼，有电梯。
+La cuisine est à gauche de l'entrée	厨房在入口的左边。
+En face de la cuisine	在厨房的对面
+Vous avez les toilettes et une salle de bains avec une douche	你有一个卫生间和一个带淋浴的浴室。
+La chambre est au bout du couloir	卧室在走廊的尽头。
+Il y a un lit et un bureau avec une chaise	有一张床和一张带椅子的书桌。
+À gauche du couloir	在走廊的左边
+Il y a le salon	有客厅。
+Vous avez deux placards dans l'appartement	你在公寓里有两个壁橱。
+Meilleures salutations	致以最诚挚的问候
+Alain Dauger	阿兰·多杰尔
+Responsable de l'agence Loca-loisirs	“Loca-loisirs	中介负责人”
+C'est un immeuble récent avec un parking	这是一栋带停车场的新楼。
