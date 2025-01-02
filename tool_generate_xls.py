@@ -141,7 +141,7 @@ class TxtToXLSX:
                 if not line:
                     continue  # Skip empty lines
 
-                match = re.match(r'([a-zA-ZéèêëîïùûüàâäôöçœÉÇÀ\'\s\-\.\/\?\？]+)\s*(.*)', line)
+                match = re.match(r'([a-zA-ZéèêëîïùûüàâäôöçœÉÇÀ\'\s\-\.\/\?\？，,]+)\s*(.*)', line)
                 if match:
                     english_word, translation = match.groups()
                     english_word = english_word.strip()
@@ -204,7 +204,7 @@ class TxtToXLSX:
         missing_sound_file = os.path.join(self.data_folder, "MissingSound.txt")  # Path to store missing sound words
         file_path = os.path.join(self.data_folder, file_name)
         data = []
-        pattern = re.compile(r'([a-zA-ZéèêëîïùûüàâäôöçœÉÇÀ\'\s\-\.\/\?\？]+)\s*(.*)')
+        pattern = re.compile(r'([a-zA-ZéèêëîïùûüàâäôöçœÉÇÀ\'\s\-\.\/\?\？，,]+)\s*(.*)')
         with open(file_path, 'r', encoding='utf-8') as file:
             for line in file:
                 match = pattern.match(line.strip())
@@ -391,5 +391,5 @@ class GenerateTool:
             print(f"Time taken: {elapsed_time} seconds")
 
         tool = TxtToXLSX()
-        # en_and_cn('每日法語.txt', max_items=None, language="fr")
-        en_and_cn('每日英語.txt', max_items=None, language="en")
+        en_and_cn('每日法語.txt', max_items=None, language="fr")
+        # en_and_cn('每日英語.txt', max_items=None, language="en")
