@@ -1,11 +1,11 @@
-le coin	角落，街角n.m
-écrivain	“作家；作者n.m.
-sculptrice	女雕塑家
-Trop de lait	太多牛奶
-Il y a un peu de sucre dans le placard	橱柜里有一点糖
-Vous devez rentrer très tôt	你们应该非常早回。
-horloge	时钟;“时钟”“钟表”
-Tu sors	你出去吗？
-tard	晚，晚点;晚，迟
-Je voudrais un verre de lait	我想要一杯牛奶。
-Tu sors de chez Paul	你从保罗家出来吗？;你从Paul家出去吗？
+Je vais au Louvre demain	我明天去卢浮宫。
+J'y vais à pied	我走路去。(y=au Louvre,上文提到的地方，作副代词)
+Elle ouvre le placard et y met la robe	她打开橱柜，把裙子放进去。(y=dans le placard,上文提到的地方，作副代词)
+Elle ouvre le placard et met la robe dans le placard	她打开橱柜，把裙子放进橱柜。
+Vous habitez en banlieu	你住在郊区吗？
+Oui, j'y habite	是的，我住在那里。(y=en banlieu,上文提到的地方，作副代词)
+Comment est-ce que tu vas à la poste	你怎么去邮局？(est-ce que是疑问句的标志)
+J'y vais en bus	我坐公共汽车去。(y=à la poste,上文提到的地方，作副代词)
+Il n'y a pas de métro près de chez moi	我家附近没有地铁。(否定句中，ne...pas位于"y+动词"的两边)
+Tu vas au cinéma	你去电影院吗？
+Non,je n'y vais pas	不，我不去。(y=au cinéma,上文提到的地方，作副代词)

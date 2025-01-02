@@ -175,7 +175,7 @@ eux	他们pron.
 elles	她们pron.
 Ma mère habite avec nous	我妈妈和我们住在一起。
 Vous travaillez chez vous	你们在家工作。
-Eux	, ils adorent le football    他们喜欢足球。
+Eux,ils adorent le football	他们喜欢足球。
 C'est pour qui	这是给谁的？
 Tu viens avec moi	你和我一起来。
 Il y a un bureau avec une chaise ici	这里有一张桌子和一把椅子。
@@ -387,3 +387,14 @@ Soyez courageux	请您是有勇气（命令式）
 Tu vas où	你去哪里？（口语）; 你去哪儿？
 tourner à droite	向右转。; 右转
 Entre	请进！(命令式，如果动词是er结尾，去掉er加e); 请进（命令式）
+Je vais au Louvre demain	我明天去卢浮宫。
+J'y vais à pied	我走路去。(y=au Louvre,上文提到的地方，作副代词)
+Elle ouvre le placard et y met la robe	她打开橱柜，把裙子放进去。(y=dans le placard,上文提到的地方，作副代词)
+Elle ouvre le placard et met la robe dans le placard	她打开橱柜，把裙子放进橱柜。
+Vous habitez en banlieu	你住在郊区吗？
+Oui, j'y habite	是的，我住在那里。(y=en banlieu,上文提到的地方，作副代词)
+Comment est-ce que tu vas à la poste	你怎么去邮局？(est-ce que是疑问句的标志)
+J'y vais en bus	我坐公共汽车去。(y=à la poste,上文提到的地方，作副代词)
+Il n'y a pas de métro près de chez moi	我家附近没有地铁。(否定句中，ne...pas位于"y+动词"的两边)
+Tu vas au cinéma	你去电影院吗？
+Non,je n'y vais pas	不，我不去。(y=au cinéma,上文提到的地方，作副代词)
