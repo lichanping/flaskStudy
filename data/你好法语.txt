@@ -253,3 +253,80 @@ J'y vais en bus	我坐公共汽车去。(y=à la poste,上文提到的地方，�
 Il n'y a pas de métro près de chez moi	我家附近没有地铁。(否定句中，ne...pas位于"y+动词"的两边)
 Tu vas au cinéma	你去电影院吗？
 Non,je n'y vais pas	不，我不去。(y=au cinéma,上文提到的地方，作副代词)
+Bonne année	2025  2025年新年快乐
+après	以后adv.然后=after
+Après vous	您先请
+après trois jours	三天以后
+on se parlera après	以后再说（on=我们,se parlera=交谈）
+arriver	到达vi.
+J'arrive au parc en bus	我乘公共汽车到公园
+banque	银行nf.
+bien sûr	当然
+Est-ce que tu aimes le français	你喜欢法语吗？
+Oui,bien sûr	是的,当然
+le bus	公共汽车nm.
+continuer	继续v
+continuer à faire qch	继续做某事
+continuer à parler	继续说话
+direct	直接的adj.
+directe	直接的adj.(f.)
+droit	笔直地adv.
+d'abord	首先adv.
+ensuite	然后adv.接下来
+enfin	最后adv.
+jardin	花园nm.
+entrer dans le jardin	进入花园
+jusque	直到prep.（与介词连用，表示时间或空间的限度）
+aller tout droit jusqu'au café	一直走到咖啡馆
+jusqu'à	直到prep.（与介词连用，表示时间或空间的限度）
+jusqu'aujourd'hui	直到今天
+là	那里adv.
+ligne	线路nf.
+une lingne de métro	一条地铁线路
+la ligne	4 de métro  地铁4号线
+loin	远adv.
+C'est très loin	那很远
+Le bureau est loin de chez moi	办公室离我家很远
+le métro	地铁nm.
+le métropolitain	地铁nm.
+l'entrée du métro de Paris	巴黎地铁入口
+la moto	摩托车n.f.
+musée	博物馆nm.
+Le Musée du Louvre	卢浮宫博物馆
+Le Musée d'Orsay	奥赛博物馆
+opéra	歌剧院nm.
+par	通过prep.
+Par ici	从这边走
+C'est par où	从哪儿走？
+Je vous demande pardon	我向您道歉n.m.
+passer	经过v.
+passer par une banque	经过银行
+pied	脚nm.
+aller à pied	步行
+la place	广场n.f.
+poste	邮局nf.
+la poste	邮局nf.
+le bureau de poste	邮局
+prendre le métro	搭乘地铁
+prendre le bus	搭乘公共汽车
+prendre la rue	走这条路
+rollers	滑轮鞋n.m.pl.
+tout	(adv.) 十分，非常，极其，完全=tres
+C'est tout rouge	完全红了
+travail	工作nm.
+J'aime mon travail	我喜欢我的工作
+traverser	穿过v.穿越
+traverser la rue	穿过这条路
+vélo	自行车nm.
+aller au musée à vélo	骑自行车去博物馆(à vélo=骑自行车)
+en bus	乘公共汽车
+en métro	乘地铁
+en moto	骑摩托车
+en voiture	开车
+voiture	汽车nf.
+Un vélib	公共自行车
+un vélo libre	公共自行车
+entrer	进入(原形); 进入vi.
+C'est par là	从那里走; 从那边走
+prendre	拿(原形); 搭乘，选取（道路，路线）vt.
+aller tout droit	一直走; 一直走
