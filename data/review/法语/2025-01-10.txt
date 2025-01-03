@@ -1,3 +1,16 @@
+fraise	草莓
+boit	喝，喝得
+confiture	果酱
+du sucre	糖
+brioche	奶油圆蛋糕
+Tu aimes les fraises	你喜欢草莓吗？
+Je prends des céréales	我吃谷物食品。
+Je bois de l'eau	我喝水
+Vous travaillez chez vous	你们在家工作。
+Tu viens avec moi	你和我一起来。
+Tu vas où maintenant	你现在去哪里？(口语）
+A la bibliothèque	去图书馆。
+agence	代理处，代办处n.f.
 roulent	行驶（动词“rouler”的第三人称复数形式）
 En Angleterre le voitures roulent à gauche	在英国，汽车靠左行驶。
 vol	航班，班机
