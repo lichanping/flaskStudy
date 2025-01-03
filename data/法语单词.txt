@@ -33,3 +33,12 @@ temps	时间
 eux	他们
 en vacances	度假，去度假
 année	名词，意为“年；年份”; 年
+Je vais voir mes amis	我会去看朋友。
+Je vais passer mes vacances à Paris	我会在巴黎度假。
+la semaine prochaine	下周
+J'ai beaucoup de photos	我有很多照片。
+le mois de janvier	一月
+Tu ne vas pas voyager avec nous	你不会和我们一起旅行吗？
+Je veux partir en vacances	我想要出发去度假。
+Je veux faire de la plongée	我想要去潜水。
+voir	看见，见，看=to see
