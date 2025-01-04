@@ -177,3 +177,751 @@ meaning	(n.) 意思 ，含义；意义 ，价值
 mood	(n.) 情绪 ，心情
 cent	(n.) 分
 neighbour	(n.) 邻居 ，邻人
+laptop	(n.) 笔记本电脑
+cash	(n.) 现金
+northeast	(n.) 东北；   adj. 位于东北的
+unnecessary	"adj. 不必要的 ，不需要的， 多余的"
+wheel	(n.) 轮子
+promise	"v. 允诺 ，保证；   n. 诺言； 前景 ，前途；迹象 ，预示"
+link	"v. 联系；连接；   n.   （链状 物的）环 ，节；联系"
+relation	(n.) 关系 ，联系
+vehicle	"n. 车辆；工具 ，手段；交通 工具"
+escape	"v. 逃跑 ，逃脱；   n. 逃跑， 逃脱"
+smile	(n.) 微笑；   v. 微笑
+main	(adj.) 主要的 ，最重要的
+dive	(vi.) 潜水 ，下潜
+deliver	"v. 递送 ，交付；发表（演 讲）   ；传达"
+top	"n. 顶部；   adj.   （位置 、级 别或程度）最高的；头等 …"
+urgent	(adj.) 急迫的
+lift	"n. <英> 电梯；   v. 高兴起 来；使更愉快； （使）升 …"
+care	"n. 照顾 ，照料；   v. 关心； 在意"
+parcel	(n.) 包裹
+timetable	(n.) 时间表，  时刻表
+guard	(n.) 看守；   vt. 看守 ，监视
+free	"adj. 免费的；   自由的；免 于 ，不遭受；空闲的 ，有 …"
+remove	(v.) 移开；去除
+bookshelf	(n.) 书架
+surprise	"v. 使惊奇 ，使诧异 ，使感到 意外；   n. 惊喜 ，意想不 …"
+zero	(num.) 零
+approach	"v. 接近；着手处理；   n. 方 法"
+nurse	(n.) 护士
+eastern	"adj. 东方的 ，东部的 ，朝东 的"
+accident	(n.) 事故；意外；车祸
+modern	(adj.) 现代的 ，现代化的
+geography	(n.) 地理（学）
+instrument	(n.) 仪器；乐器
+leader	(n.) 领导
+rare	"adj. 罕见的 ，难得的；稀少 的 ，稀有的"
+zone	"n. 地带 ，空间 ，地区，   区 域 ，范围"
+familiar	(adj.) 熟悉的
+believe	(v.) 相信；认为
+insect	(n.) 昆虫
+active	(adj.) 积极的 ，主动的
+bin	(n.) 箱柜 ，仓 ，垃圾箱
+police	(n.) 警察 ，警方
+engine	(n.) 引擎
+branch	(n.) 树枝；分支机构 ，分部
+print	"v. 打印；洗印，  印染；发 表；   n. 印刷，  印刷字"
+ground	"n. 地；地面；土地；场地； 领域；   v.   （在某学科上 …"
+staff	"n. 工作人员；工作人员 ，全 体职员"
+fear	"n. 害怕；担心；   v. 担心； 害怕"
+digital	(adj.) 数字的；数码的
+speaker	"n. 说话人 ，演讲人；说某种 语言的人"
+departure	(n.) 离开
+move	"v. 移动； （使）  改变位置； 发展 ，推移 ，变化；感动"
+strong	"adj. 强大的；强壮的；强烈 的；猛烈的；坚固的"
+alarm	"n. 警报器 ，警报；  闹钟；惊 恐 ，忧虑"
+breath	(n.) 呼吸
+prize	(n.) 奖品 ，奖赏
+tuna	(n.) 金枪鱼
+market	(n.) 市场；   v. 推销 ，促销
+friendship	(n.) 友谊
+map	(n.) 地图
+climbing	(n.) 爬山
+east	(n.) 东方
+south	"n. 南方；   adv. 向南方 ，在 南方"
+ingredient	"n. 成分 ，构成要素； （烹调 的）原料"
+youth	(n.) 青年；青春
+accompany	(v.) 陪伴；  陪同
+spend	"v. 花（时间或精力）   ；花 费 ，用钱；度过 ，消磨"
+technology	"n. 科技；技术 ，工艺 ，工程 技术"
+attract	(v.) 吸引
+service	(n.) 服务
+lend	(v.) 借给（某人钱或东西）
+headline	(n.) 大字标题
+port	(n.) 港 ，港口，   口岸
+refuse	(v.) 拒绝 ，谢绝
+engineering	(n.) 工程
+southwest	(n.) 西南方；   adj. 西南方的
+author	(n.) 作者 ，作家
+fresh	"adj. 新鲜的；新的 ，不同 的；清新的"
+booking	(n.) 预约 ，预订
+dessert	(n.) 甜点
+capital	(n.) 首都；资金 ，资本
+stomach	(n.) 胃，  胃口
+knowledge	(n.) 知识 ，学识
+far	"adj. 远的 ，遥远的；   adv. 很大程度上"
+officer	(n.) 官员；高级职员；警官
+wonder	"v. 想知道 ，想弄明白；   n. 惊奇 ，惊异；奇迹 ，奇观"
+rainforest	(n.) （热带）  雨林
+dozen	(num.) 许多；一打 ，十二个
+interrupt	(v.) 打断
+salmon	(n.) 鲑鱼
+sock	(n.) 短袜
+secretary	(n.) 秘书
+mean	(v.) 表示 ，意思是 ，意味着
+railway	(n.) 铁路
+hundred	(num.) 百 ，百个；许多
+success	(n.) 成功 ，成就；胜利
+unfair	(adj.) 不公平的
+track	"v. 跟踪 ，追赶；   n. 铁路轨 道；跑道；轨迹"
+emergency	"n. 紧急情况 ，突发事件； (adj.) 紧急情况下的；应急的"
+inform	(v.) 告知 ，通知
+writer	(n.) 作家
+wildlife	"n. 野生动植物；   adj. 野生 动植物的"
+benefit	(n.) 好处；   v. 使......受益
+spare	"adj. 多余的，  闲置的；空闲 的；   vt. 抽出 ，腾出"
+site	(n.) 地点；  网站
+drop	"v. 减少；  降低；投 ，丢；  中 途卸客，  中途卸货；放弃 …"
+way	(n.) 方法；道路；方式；方面
+divide	"v. 分开 ，划分；  除以；  除； (n.) 差异"
+lemon	(n.) 柠檬
+meeting	(n.) 会议；会合 ，聚集
+achievement	(n.) 成就
+request	"n.   （ 正式或礼貌的）请求； 要求；   v. 要求 ，请求；  …"
+attempt	"vt. 试图，  尝试；   n. 努力， 尝试"
+rugby	(n.) 英式橄榄球
+jump	(v.) 跳
+climate	(n.) 气候
+location	(n.) 位置 ，地点
+cattle	(n.) （总称）牛 ，牲口
+artist	(n.) 艺术家 ，画家
+centimetre	(n.) 厘米
+include	(v.) 包括
+member	(n.) 成员 ，分子；会员
+furniture	(n.) 家具
+disabled	(adj.) 有残疾的
+financial	"adj. 金融的；经济的；财务 的"
+cartoon	(n.) 卡通（片）   ，动画片
+studio	(n.) 工作室
+upper	(adj.) 较高的 ，上面的
+fifth	(num.) 第五
+rest	"n. 剩余部分；休息 ，休息时 间；   v. 休息 ，放松"
+fee	(n.) 费用
+candidate	(n.) 候选人，  申请人
+drag	(v.) 拖 ，拉 ，拽 ，扯
+souvenir	(n.) 纪念品
+cool	"v.   （使）  冷却；变凉；   adj. 酷的；极好的 ，绝妙的"
+lonely	(adj.) 孤独的
+scientist	(n.) 科学家
+unusual	(adj.) 不寻常的 ，不常见的
+complain	(v.) 抱怨 ，发牢骚
+disappear	(vi.) 消失
+character	(n.) 角色；性格；字
+honey	(n.) 蜜 ，蜂蜜
+smell	"n. 气味；   v. 嗅，  闻（ ......的 气味），  闻到"
+team	(n.) 队 ，组
+result	"n. 结果 ，成效；   v. 导致； (from)起因于，  因 … …而 …"
+national	(adj.) 国家的，  民族的
+install	(v.) 安装 ，安置
+healthy	(adj.) 健康的；合理的
+telephone	(n.) 电话（机）
+security	(n.) 安全；保护措施
+report	(n.) 报告 ，汇报；   v. 报道
+battery	"n. 电池（ 组）   ；一组 ，许 多 ，众多"
+basic	(adj.) 基础的 ，最简单的
+reservation	"n.   （住处 、席位的）预订； （美国印第安部落的）居 …"
+appearance	"n. 外貌 ，外表；  出现 ，公开 露面"
+operate	(v.) 运转；运营；操作
+oven	(n.) 烤箱 ，炉 ，灶
+pedestrian	(n.) 步行者 ，行人
+coach	(n.) 教练；   vt. 训练 ，指导
+tube	(n.) 管子 ，管道
+presentation	(n.) 报告；演讲 ，演示；  陈述
+bicycle	(n.) 自行车
+stick	"v. 坚持；卡住；   n. 棍， 棒 ，手杖"
+dislike	(v.) 不喜欢
+power	"n. 力量；  电力；权力；   v. 驱动"
+permit	(n.) 执照（读作/ˈp3r ˌmɪt/）
+valuable	(adj.) 贵重的 ，有价值的
+roll	"v. 滚动 ，转动；   n. 卷 ，卷 状物"
+disk	(n.) 圆盘，  唱片
+temple	(n.) 庙宇 ，神殿
+defend	"v. 保卫，  防守；为 … …辩 护 ，为 … …辩解；捍卫，  …"
+district	(n.) 地区；  区域
+confident	(adj.) 自信的
+silent	(adj.) 沉默的 ，安静的
+autumn	(n.) 秋天
+break	"v. 打破 ，摔碎；破坏 ，违反 （规则 、承诺或协议）；  …"
+quality	(n.) 质量；  品质
+arrange	(v.) 安排
+compete	(vi.) 竞争
+quiz	"n. 小测验 ，测试；知识竞 赛；   v. 对 … …进行测验"
+sharp	"adj. 敏锐的；  明显的； （增 长 、下跌等）急剧的；锋 …"
+useless	"adj. 无用的 ，无价值的 ，无 效的"
+average	"n. 平均水平；平均数；   adj. 平均的；平庸的 ，普通的 …"
+level	(n.) 水平 ，标准 ，等级
+architect	(n.) 建筑师
+probably	(adv.) 或许 ，大概
+lie	"v. 存在；位于；躺 ，平卧； 撒谎；   n. 谎话 ，谎言"
+dry	"adj. 干的 ，干旱的；   v. 弄 干"
+fortunately	(adv.) 幸运地 ，幸亏
+disco	"n. 迪斯科舞，  以唱片伴奏的 小舞厅"
+raw	(adj.) 未加工的；原始的
+suitable	(adj.) 合适的 ，适宜的
+whale	(n.) 鲸
+perfect	(adj.) 完美的；   v. 完善
+permission	(n.) 允许，  同意
+empty	"adj. 空的；空洞的；   v. 倒 空；腾空"
+brain	(n.) 脑
+diving	(n.) 潜水
+apartment	(n.) <美>公寓
+fuel	(n.) 燃料；   v. 加强；激起
+identification	(n.) 识别；身份证明
+seriously	(adv.) 认真地
+sign	"v. 签名；签字；   n. 标志； 迹象；标牌 ，指示牌"
+machine	(n.) 机器 ，机械装置
+last	"adj. 最近的 ，上一个的；最 后的 ，仅剩下的；   v. 持 …"
+frame	(n.) 画框
+extra	"adj. 额外的，  附加的； (adv.) 额外地"
+storm	"n. 暴风雨 ，暴风雪；   v. 大 发雷霆"
+entrance	"n. 入口 ，通道； （俱乐部、 社团 、大学等的）  准许加 …"
+stranger	(n.) 陌生人
+article	(n.) 文章
+improve	(v.) 改进，  改善；提高
+purpose	(n.) 目的 ，意图
+steal	(v.) 偷盗 ，窃取
+altogether	(adv.) 总共 ，一共；完全
+continent	(n.) 大陆 ，洲
+opera	(n.) 歌剧
+visa	(n.) 签证
+harbour	(n.) 港湾 ，港口 ，安全处
+towel	(n.) 毛巾 ，手巾
+keep	"v. 保持；继续；记下 ，记 录 ，记载"
+position	"n. 职位；位置；地位；姿 势；   v. 安置"
+judge	(v.) 判断
+advertise	(v.) 为 … …做广告
+gallery	(n.) 美术馆 ，画廊
+chess	(n.) 国际象棋
+classmate	(n.) 同班同学
+valley	(n.) 山谷 ，溪谷 ，低谷
+solve	(v.) 解决
+shark	(n.) 鲨鱼
+low	"adj. 低的 ，矮的 ，少的；沮 丧的"
+plan	(n.) 计划；   v. 计划 ，打算
+intermediate	(adj.) 中间的
+net	(n.) 球网；通信网
+soon	(adv.) 快 ，早；立刻 ，不久
+block	"v. 阻挡 ，妨碍，  阻塞；   n. 街区；  阻碍；块状物"
+mile	(n.) 英里
+away	"adv. 离开 ，远离；  … … 掉；   adj. 不在的"
+rarely	(adv.) 很少 ，难得
+concentrate	(v.) 全神贯注于
+document	(n.) 文件 ，公文；   v. 记录
+piano	(n.) 钢琴
+partly	"adv. 部分地 ，在一定程度 上"
+social	(adj.) 社会性的；社交的
+biology	(n.) 生物学
+necessary	"adj. 必需的 ，必要的；   n. 必需品"
+reduce	(v.) 减少 ，减小，  降低
+happen	(vi.) 发生；碰巧 ，偶遇
+neighbourhood	(n.) 社区
+lion	(n.) 狮子
+hire	"v. 雇佣；租用；   n. 雇用； 租用 ，租借"
+password	(n.) 密码，   口令
+price	(n.) 价格 ，价钱；   v. 标价
+dirt	(n.) 泥土
+nearby	"adj. 附近的 ，邻近的； (adv.) 在附近"
+photograph	"n. 照片；   vi. 照相 ，摄影； (vt.) 为 … …拍照"
+talent	(n.) 天赋 ，才能；天才 ，人才
+gain	"v. 获得；增加；赢得；   n. 好处"
+dead	"adj. 死的 ，无生命的；停滞 的 ，不运行的；无生气的"
+hang	(v.) 悬挂；逗留
+electronic	(adj.) 电子的
+passport	(n.) 护照
+copy	"n. 副本 ，拷贝；  (一)本， （一）份； （报刊等的）  …"
+stream	"n. 小河 ，溪；流；一股 ，一 串"
+disease	(n.) 疾病 ，病
+continue	(v.) 继续
+curious	(adj.) 好奇的
+private	(adj.) 私人的
+female	"adj. 雌性的；女性的；   n. 雌性动物"
+fishing	(n.) 钓鱼
+gold	"n. 黄金 ，金币；   adj. 金制 的；金色的"
+accountant	(n.) 会计人员 ，会计师
+expedition	(n.) 探险；远征
+singer	(n.) 歌手
+careful	"adj. 小心的；仔细的 ，细心 的"
+agree	(v.) 同意
+ship	(n.) （大）船 ，舰
+complete	"v. 完成；   adj. 完整的；彻 底的"
+review	"n. 评论；检查；综述；   v. 回顾"
+kilogram	(n.) 千克；公斤
+matter	(n.) 事情，  问题；   v. 要紧
+invent	(vt.) 发明
+powder	"n. 粉末；细面；火药；   v. 抹粉"
+diet	(n.) 饮食
+progress	(n.) 进步；   v. 进步
+chemist	(n.) 化学家
+explanation	(n.) 解释 ，说明
+mail	(n.) 邮件 ，信件
+amazing	"adj. 令人惊奇的 ，令人惊喜 的"
+toy	(n.) 玩具
+goat	(n.) 山羊
+worry	"v. 担心 ，操心；   n. 烦恼， 焦虑 ，担忧"
+castle	(n.) 城堡
+finger	(n.) 手指
+system	(n.) 系统
+fill	(v.) 装满；   占满
+idea	(n.) 想法 ，主意；思想 ，概念
+atmosphere	(n.) 氛围 ，气氛；大气；空气
+phrase	(n.) 短语 ，词组
+king	(n.) 国王 ，君主
+beginning	(n.) 开始 ，开端
+elementary	(adj.) 小学的；基本的
+cyclist	(n.) 骑自行车的人
+peak	"adj. 峰值的；   v. 达到最高 点；   n. 尖端；  山峰，  峰 …"
+role	(n.) 作用；角色
+add	(v.) 加 ，增加；补充
+soldier	(n.) 士兵 ，军人
+waterfall	(n.) 瀑布
+trick	(n.) 诀窍；把戏；   v. 欺诈
+celebration	(n.) 庆祝
+whole	"adj. 全部的；整个的；   n. 全部；整体"
+borrow	(vt.) 借 ，借入；借用
+shade	"n. 色度；百叶窗；一点，  略 微"
+scientific	(adj.) 科学的
+international	(adj.) 国际的 ，世界的
+trade	"n. 贸易 ，商业；职业；手 艺；行当；   v. 经商 ，交易"
+chicken	(n.) 鸡肉；鸡
+final	"adj. 最终的；最后的；   n. 决赛"
+conclusion	(n.) 结论 ，推论；结束 ，结局
+piece	"n. 块 ，碎块；片； （艺术 家 、音乐家或作家的）作 …"
+rat	(n.) 老鼠 ，耗子
+introduce	"vt. 介绍；传入，  引进；采 用；   v. 使初次了解；使 …"
+performance	"n. 表现；表演 ，演出；业 绩 ，成绩；性能"
+description	(n.) 描写 ，形容 ，叙述
+tour	"n. 旅游；   v. 旅游；做巡回 演出"
+medicine	(n.) 药；  医学
+smart	(adj.) 智能的；聪明的
+lamp	(n.) 灯，  台灯
+push	(v.) 推动 ，促使；推；逼迫
+golden	"adj. 特别的 ，美好的；金黄 色的"
+negative	(adj.) 消极的 ，负面的
+broad	"adj. 宽阔的；广泛的；  明显 的"
+calculator	(n.) 计算器 ，计算者
+exchange	(n.) 交换；交流；   v. 交换
+hostel	"n. 旅社 ，招待所（尤指青年 旅社）；  临时收容所"
+thin	(adj.) 瘦的；薄的
+delay	"n. 延误 ，延迟；   v. 延误， 延迟"
+rose	(n.) 玫瑰 ，蔷薇
+abroad	(adv.) 到国外 ，在国外
+incorrect	(adj.) 错误的 ，不正确的
+refund	(n.) 退款（读作/ˈriːfΛnd/）
+reason	(n.) 原因
+stamp	(n.) 邮票
+blame	(vt.) 责怪；把 … … 归咎于
+object	"n. 物体；对象；   v. 反对 （读作/əb ˈdʒekt/）"
+create	"v. 创造；创作；造成，  引 起 ，产生"
+follow	"vi. 接踵而至；   v. 遵循；跟 随；追求"
+freeze	(v.) 冻结 ，结冰；呆住
+material	"n. 材料 ，原料；   adj. 物质 的 ，客观存在的"
+positive	(adj.) 积极的 ，乐观的
+effort	(n.) 努力；力气 ，精力
+novel	"n. 小说 ，长篇故事；   adj. 新奇的 ，新颖的"
+career	(n.) 职业 ，事业；生涯 ，经历
+membership	(n.) 会员资格 ，会员人数
+drum	(n.) 鼓；  圆桶；   v. 击鼓
+discuss	(v.) 讨论 ，商量
+sort	"n. 种类 ，类别；   v. 把 … … 分类 ，整理 ，挑选"
+channel	(n.) 渠道 ，方法
+hill	(n.) 小山，  山岗；斜坡
+painting	(n.) 画作 ，油画
+poet	(n.) 诗人
+fashion	(n.) 时髦 ，风尚；  时装
+reporter	(n.) 记者
+centre	(n.) 中心，  中枢；  中央
+unemployed	(adj.) 失业的 ，未被雇用的
+pattern	(n.) 模型 ，模式；  图案
+iron	(n.) 铁
+menu	(n.) 菜单
+natural	(adj.) 自然的
+action	(n.) 行动；行为；动作；作战
+wool	(n.) （羊等动物的）毛
+laboratory	(n.) （ =lab）  实验室
+fall	"vi. 落下；下降 ，减弱；变 成 ，进入（某种状态）；  …"
+gun	(n.) 枪 ，炮
+upset	"adj. 苦恼的 ，沮丧的 ，心烦 的；   v. 使苦恼；   n. 心烦 …"
+case	(n.) 情况；案件
+solution	(n.) 解决办法
+mix	(v.) 混合；   n. 混合
+pocket	(n.) 口袋 ，兜 ，衣袋
+list	"n. 目录 ，表 ，名单；   v. 列 清单"
+bold	"adj. 大胆自信的，  勇于冒险 的"
+tower	(n.) 塔 ，楼塔
+credit	(n.) 信用；学分
+crowded	(adj.) 拥挤的
+high	"adj. 高的； （标准 、质量 等）  高的 ，好的；   adv. 高"
+knock	"v. 碰 ，撞；敲击；   n. 敲， 敲门"
+explain	(v.) 解释
+platform	(n.) 平台，  阵地
+owe	"v. 欠（债 、情）   ；把 … … 归 于"
+explore	(v.) 探索；探讨 ，研究
+update	"n. 最新消息（读作/ˈΛp ˌdeɪt/）；   vt. 更新"
+celebrity	(n.) 名人 ，名流
+land	"n. 陆地 ，土地；大地；   v. 成功得到 ，赢得 ，捞到（ …"
+quit	"v. 辞职；停止；离开（ 工作 职位 、学校等）"
+strange	(adj.) 奇怪的；  陌生的
+direction	"n. 方向 ，方位；趋势； （复 数）指令 ，说明"
+arrive	(v.) 到达
+heater	(n.) 加热器
+let	(v.) 允许
+tent	(n.) 帐篷
+favour	(n.) 帮助 ，恩惠 ，好事
+fair	"adj. 合理的 ，公平的；   n. 交易会 ，博览会"
+search	(v.) 搜索；搜寻；   n. 搜寻
+event	"n. 活动（指演出 、体育比 赛 、聚会等）   ；事件 ，大事"
+ago	(adv.) 以前
+float	(vi.) 浮动 ，漂流 ，漂浮
+row	(n.) 排 ，行 ，列 ；争吵
+arrangement	(n.) 安排；布置
+field	"n. 领域；  田野，  田地；运动 场"
+culture	(n.) 文化
+boil	(v.) 用开水煮 ，在沸水中煮
+political	(adj.) 政治的 ﬂavour	n. 味道
+disappointing	(adj.) 令人失望的
+sky	(n.) 天空
+canal	(n.) 运河 ，河流
+Queen	(n.) 女王
+hall	(n.) 大厅；会堂 ，礼堂
+keyboard	(n.) 键盘
+welcome	"v. 欢迎；   adj. 受欢迎的； （表示乐于让某人做某事 …"
+volume	(n.) 册 ，卷
+childhood	(n.) 童年 ，幼年
+project	"n. 项目 ，工程，  习作项目； (v.) 估计 ，预估（读作/prə …"
+injure	(v.) 伤害 ，使受伤
+communicate	(v.) 沟通 ，交流
+hockey	(n.) 曲棍球
+detail	"n. 细节；详情；   v. 详细说 明"
+history	(n.) 历史 ，历史学
+union	(n.) 工会
+patient	"n. 病人 ，患者；   adj. 有耐 心的"
+pull	(v.) 拉 ，拖 ，扯 ，拔；  吸引
+parking	(n.) 停车；停车位
+headache	(n.) 头痛；麻烦
+display	"v. 显示；  陈列；展示；   n. 展览"
+knee	(n.) 膝盖
+story	(n.) 故事 ，小说
+separate	"v. 使分开；   adj. 分开的； 单独的（读作/ˈseprət/）"
+fan	(n.) 风扇 ，扇子
+magazine	(n.) 杂志 ，期刊
+sight	"n. 看见；景观 ，名胜；景 象 ，情景；视野"
+translation	(n.) 翻译
+bike	(n.) 自行车
+perform	(v.) 运行；表演；表现；执行
+lead	"v. 导致 ，使得；带领；领 先；   n. 领先地位"
+professor	(n.) 教授
+feed	"v. 给（人或动物）食物， 喂 ，饲养"
+individual	(adj.) 个人的；   n. 个人
+difference	(n.) 差异 ，不同（之处）
+ant	(n.) 蚂蚁
+thousand	(num.) 一千 ，一千个
+entertainment	(n.) 娱乐
+destroy	(v.) 破坏；摧毁
+reception	(n.) 前台 ，接待处
+unit	(n.) 部门 ，单位
+joke	(n.) 笑话
+musical	(adj.) 音乐的；   n. 音乐剧
+fourth	"num. 第四的 ，第四个的， 四分之一的"
+monkey	(n.) 猴子
+proper	(adj.) 适合的 ，适用的
+pool	"n. 泳池 ，水塘；池；   v. 集 中资源（或材料）"
+boss	(n.) 老板 ，上司
+obvious	(adj.) 明显的 ，显而易见的
+experience	"n.   （一次）经历 ，感受 ，体 验；经验 ，实践；   v. 经 …"
+imagine	(v.) 想象 ，幻想
+amount	(n.) 数量；   v. 总计
+design	(n.) 设计；   v. 设计
+gift	(n.) 礼物 ，赠品
+audience	(n.) 观众，  听众
+hero	(n.) 英雄；男主角
+warn	(v.) 警告 ，告诫
+offer	"v. 提供；表示愿意 (做某 事)；   n. 录取（或录用）  …"
+handle	"v. 处理 ，解决；操纵（车 辆 、动物 、工具等）；   n. …"
+succeed	(v.) 成功
+previous	(adj.) 先前的
+publish	(v.) 发表；  出版；公布
+training	(n.) 训练 ，锻炼；培训
+passenger	(n.) 乘客 ，旅客
+discover	(v.) 发现
+complicated	(adj.) 复杂的
+uncomfortable	(adj.) 不舒服的
+mark	"v. 标记出；标志 ，纪念； (n.) （ 重要的）水平 ，标准 …"
+demand	(n.) 需求；   v. 要求
+loan	(n.) 暂借；贷款
+conference	(n.) 会议
+thunder	(n.) 雷，  雷声
+partner	"n. 伙伴 ，搭档；配偶 ，伴 侣；   v. 成为 … … 的合伙人"
+control	"v. 控制 ，管理；   n. 控制， 管理"
+purple	(adj.) 紫色的
+carpet	(n.) 地毯
+club	(n.) 社团 ，俱乐部
+lamb	(n.) 羔羊
+maybe	(adv.) 可能 ，大概 ，也许
+pure	(adj.) 纯粹的
+plastic	"adj. 塑料的；   n. 塑料 ，塑 料制品"
+contain	(v.) 包含 ，含有 ，容纳
+magic	"n. 魔术 ，戏法；   adj. 有魔 力的 ，魔术的"
+luxury	(adj.) 奢侈的 ，豪华的
+pink	(adj.) 粉红色的
+stand	(v.) 站立；忍受；   n. 货摊
+building	(n.) 大楼；建筑
+save	(v.) 节省；拯救
+feeling	"n.   （内心和感官的）感觉， 感触 ，情绪；   v. 感觉"
+sheet	"n. 纸张；床单；  (冰或水等 的)一大片"
+none	(pron.) 没有（一人或一物）
+vocabulary	(n.) 词汇（ 量）
+possibility	(n.) 可能性
+opinion	(n.) 意见 ，看法 ，观点
+monument	(n.) 纪念碑；历史遗迹 ，遗址
+wedding	(n.) 婚礼
+account	"n. 账目 ，账户；描述；叙 述；   v. 占（一定数量或 …"
+accept	"v. 接受（所提供或给予的物 品）"
+thunderstorm	(n.) 雷暴雨，  雷雨
+company	(n.) 公司；  陪伴
+weight	(n.) 体重；重量 ，分量
+comedy	(n.) 喜剧 ，喜剧片 ，滑稽节目
+marvellous	"adj. 不可思议的 ，惊奇的， 极好的 ，绝妙的"
+mild	(adj.) 温和的；轻微的
+warning	(adj.) 警告的
+employee	(n.) 雇员
+product	(n.) 产品 ，制品；产物
+provide	(v.) 提供 ，供给
+attend	"v. 参加；上（学）   ，去（教 堂）"
+foreign	(adj.) 外国的 ，外来的
+manager	(n.) 经理 ，管理人
+recover	"v. 恢复；痊愈 ，恢复健康； 收回"
+occasion	(n.) 场合，  时候 ，活动
+noisy	(adj.) 嘈杂的
+path	"n. 道路；小路； （尤指达到 某一目的或结果的）行动 …"
+argue	(v.) 争论；主张 ，认为
+president	"n.   （各机构的）会长，  院 长 ，主席；总裁"
+side	"n. 一边 ，一侧；面；边；一 方 ，一派；   adj. 副的"
+initial	(adj.) 最初的 ，开始的
+bring	"v. 带来；使处于某种状态； 把 … 引入 (某地) ，把 …介 …"
+spider	(n.) 蜘蛛
+label	"n. 标签；   v. 把 … …称为， 贴标签于 … …"
+bone	(n.) 骨骼
+unexpected	(adj.) 想不到的 ，意外的
+area	(n.) 区域 ，地区
+leather	(n.) 皮革；皮制品
+advice	(n.) 建议 ，意见
+increase	(v.) 增加
+flag	(n.) 国旗 ，旗帜
+hardware	(n.) 五金器具
+surround	(vt.) 包围
+builder	(n.) 建筑工人
+million	(num.) 百万；许多
+twin	(adj.) 双胞胎之一的；成双的
+cotton	(n.) 棉花
+fit	"v. 适合；合得来 ，适应； (adj.) 健康的；合适的；   n. …"
+metal	(n.) 金属 ，合金 ，金属制品
+wave	"n. 涌现的人 ，涌现的事物； (v.) 挥手 ，招手"
+appear	"vi. 出现 ，呈现 ，露面；link-v. 显得 ，好像"
+fight	"v. 与 … ...作斗争；打架 ，打 斗；   n. 战斗"
+surfing	(n.) 冲浪
+technique	(n.) 技巧 ，技能；技术 ，方法
+sunset	(n.) 日落
+raise	"v. 筹集 ，筹（钱）   ；饲养， 种植；抚养；提高 ，增加 …"
+dinosaur	(n.) 恐龙
+length	(n.) 长度
+double	"v. 使 … …翻倍；   adj. 双人 的；两倍的 ，双的"
+historic	"adj. 有历史意义的 ，历史上 著名的"
+bit	(n.) 少量 ，小片
+birth	(n.) 分娩，  出生；创始
+figure	(n.) 身形；   v. 认为 ，认定
+term	"n. 方面 ，角度（ terms）； 术语；期限；学期"
+pour	(v.) 注 ，倒 ，灌
+thought	"n. 思维 ，思考；思想 ，想 法；   v. 想，  以为（ think …"
+pollution	"n. 污染；  噪音污染 ，光污 染；污染物"
+quantity	(n.) 数量 ，数额；大量 ，许多
+decrease	(v.) 减少；  降低；   n. 减少
+view	"n. 观点 ，看法；风景 ，景 色；视野； （一次）观看 …"
+professional	(adj.) 专业的；   n. 专业人员
+rabbit	(n.) 兔子，（ 野）兔
+section	(n.) 部分；  阶层；部门
+casual	(adj.) 随便的
+wood	(n.) 木头 ，木材；林地 ，树林
+cheque	(n.) 支票
+tablet	(n.) 平板电脑
+full-time	(adj.) 全日的
+inexpensive	(adj.) 廉价的 ，便宜的
+bright	"adj. 明亮的；聪明的； (adv.) 明亮地"
+fur	(n.) 毛皮
+outdoor	(adj.) 室外的 ，野外的
+grow	"v. 生长 ，成长；增长；种 植；渐渐变得"
+helicopter	(n.) 直升机
+online	"adj. 在线的， 联网的；(adv.) 联机地, 线上地"
+press	"v. 按 ，压；   n. 新闻界；  印 刷机；压力"
+camel	(n.) 骆驼
+confirm	(v.) 确认 ，使确信；证实
+fully	(adv.) 完全地
+bridge	(n.) 桥 ，桥梁；   v. 弥合
+spot	"v. 看见 ，注意到 ，发现； (n.) 地点；点 ，斑点"
+range	"n. 范围 ，界限；一系列； (v.) （在一定范围内）变化"
+sail	(vi.) 航行
+exam	(n.) 考试
+correct	"adj. 正确的；   v. 改正；矫 正；批改"
+secret	"n. 秘密；诀窍；   adj. 秘密 的 ，保密的"
+tiger	(n.) 老虎
+silly	(adj.) 傻的 ，愚蠢的
+available	(adj.) 可获得的 ，可用的
+cultural	(adj.) 文化的
+argument	"n. 论据 ，论点；争吵 ，争 论 ，争辩"
+plenty	(pron.) 大量 ，丰富
+lecture	(n.) 演讲
+coconut	(n.) 椰子 ，椰肉
+pain	(n.) 痛 ，痛苦
+trend	(n.) 趋势
+waste	"v. 浪费；   n. 浪费；废料， 废品"
+future	"n. 未来；   adj. 将来的 ，未 来的"
+personal	(adj.) 个人的 ，私人的
+popular	(adj.) 受欢迎的
+apology	(n.) 道歉 ，歉意
+cycling	(n.) 骑脚踏车兜风
+step	"n. 步骤，  阶段；一步；措 施；脚步 ，脚步声；   vi. …"
+receive	(v.) 收到 ，得到；获得
+violin	(n.) 小提琴
+screen	(n.) 屏幕
+notice	"v. 注意到 ，意识到；   n. 告 示 ，通知；注意"
+practice	"v. 练习（ =practise）；   n. 实践 ，实行；练习；  习惯"
+bottle	(n.) 瓶子
+chemistry	(n.) 化学
+traditional	(adj.) 传统的
+seat	"n. 座位；   v. 能提供...人座 位"
+prison	(n.) 监狱
+moment	(n.) 瞬间 ，片刻；  时刻
+point	"n. 要点；  时候，  时刻，  阶 段；点； （试图表达的）  …"
+registration	(n.) 登记 ，注册 ，挂号
+information	(n.) 信息
+dream	"n. 梦想；理想；梦；   v. 梦 想；做梦；   adj. 理想的 …"
+southeast	(adj.) 东南方的
+crossing	(n.) 人行横道
+charity	"n. 慈善；慈善机构（或组 织）"
+recent	(adj.) 最近的
+similar	(adj.) 相似的；类似的
+repair	(v.) 修理；   n. 维修
+sum	(n.) 全部 ，总和
+equal	"adj. 平等的；相同的；相等 的；   v. 导致"
+magnificent	"adj. 宏伟的 ，壮丽的 ，极好 的"
+persuade	(v.) 说服
+photography	(n.) 摄影 ，摄影术
+wet	(adj.) 湿的
+record	"v. 记录（读作/rɪˈkɔrd/）； 录制；   n. 记录；最好成绩"
+activity	(n.) 活动
+island	(n.) 岛，  岛屿
+college	(n.) 大学
+equipment	(n.) 设备 ，器材
+creature	(n.) 生物；人
+decide	(v.) 决定；判决
+climb	"v. 攀登 ，爬；上升 ，增长； (n.) 攀爬"
+essay	(n.) 文章 ，短文；论文
+pass	"v. 给 ，传递；经过 ，度过； （时间）流逝；通过；走 …"
+freezer	(n.) 冷冻室
+shoot	"v.   （使朝某方向）  冲 ，奔， 扑 ，射 ，飞驰；射门"
+trumpet	(n.) 喇叭 ，小号
+cream	(n.) 奶油 ，乳脂
+coast	(n.) 海岸 ，海滨
+video	(n.) 视频 ，录像
+wheelchair	(n.) 轮椅
+interval	(n.) 音程
+promote	"v. 促进；宣传；提升 ，升 级；推动"
+petrol	(n.) <英>汽油
+typical	(adj.) 典型的 ，有代表性的
+invitation	(n.) 邀请
+goods	(n.) 货物 ，商品
+advise	(v.) 建议
+mistake	(n.) 错误 ，过失
+documentary	(n.) 纪录片
+shore	(n.) 岸
+paragraph	(n.) （文章的）段 ，节；段落
+check	"v. 检查；核查；   n. 检查； 阻止"
+cover	(v.) 覆盖；   n. 封面
+occupation	(n.) 职业 ，工作
+smooth	(adj.) 平稳的
+population	(n.) （地区 、国家等的）  人口
+deposit	(v.) 沉淀；   n. 定金
+government	(n.) 政府
+weekday	(n.) 工作日 ，平日
+contact	"v. 联系；   n. 接触；联系， 联络；  隐形眼镜"
+voice	(n.) 声音
+style	(n.) 风格；方式 ，特点
+marriage	(n.) 婚姻
+series	(n.) 系列 ，系列节目
+order	"v. 订购；点（食物 、饮 料）   ；命令；   n. 订单；  …"
+crime	(n.) 犯罪活动
+expect	"v. 期望；预计 ，预料 ，预 期 ；猜想 ，认为 ，料想；  …"
+passive	"adj. 被动的；消极的；   n. 被动语态"
+deep	"adj. 深的；深刻的 ，深切 的；有 … …深的"
+call	"v. 打电话给 … ；把 … … 叫 作；召唤，  呼唤，  呼吁"
+golf	(n.) 高尔夫球运动 ﬂow	"n. 流动；   v. 流动； （人， 物）涌向 ，涌进"
+calendar	(n.) 日历 ，挂历
+frog	(n.) 青蛙
+limited	(adj.) 有限的；被限制的
+lawyer	(n.) 律师
+touch	"v. 触 ，碰 ，摸；感动 ，触 动；   n. 联系；触觉"
+win	(v.) 赢得； （获）胜
+brake	(vi.) 刹车；   n. 刹车，  闸
+stuff	(n.) 东西
+temporary	(adj.) 临时的；暂时的
+expert	(n.) 专家
+playground	"n. 操场 ，游乐区，（学校或 公园中的）游戏场"
+danger	"n. 危险 ，风险 ，危险的物 （或人）"
+topic	(n.) 话题 ，主题
+straight	(adj.) 直的
+landscape	(n.) 风景 ，景观
+protect	(v.) 保护
+spice	(n.) 香料 ，调味品
+card	(n.) 卡 ，卡片 ，贺卡 ，名片
+leisure	(n.) 闲暇 ，休闲
+taste	"n. 品味；   v. 品尝，  尝（ ...... 的味道），  尝起来；体验 …"
+prevent	(v.) 预防
+painter	(n.) 画家
+forget	(v.) 忘记 ，遗忘
+require	(v.) 需要；要求 ，规定
+spectacular	(adj.) 壮观的，  引人入胜的
+fact	(n.) 事实 ，现实
+blood	(n.) 血（液）
+motorbike	(n.) 摩托车
+fix	"v. 修理；使固定；解决；确 定"
+comfortable	(adj.) 舒适的
+tear	"v. 撕裂 ，撕碎（读作/ter/ ）   ；   n. 眼泪（读作/tɪr/）"
+season	"n. 季（节）   ；季（电视或电 影节目）"
+opposite	(adj.) 相反的
+roof	(n.) 屋顶
+trip	(n.) 旅行，  出行 ，远足
+couple	"n. 几个（人或事物）   ；夫 妇；   v. 配对 ，连接 ，结合"
+accommodation	(n.) 住宿 ，膳宿
+mirror	(n.) 镜子；   v. 反射 ，反映
+electricity	(n.) 电，   电力
+salad	"n.   （ 生吃的）蔬菜色拉 ，沙 拉"
+blanket	(n.) 毯子
+swimming	(n.) （ swim的ing形式）游泳
+bookshop	(n.) 书店
+challenge	(n.) 挑战；   vt. 挑战
+economics	(n.) 经济学；经济情况
+memory	"n. 记忆；  回忆；记忆力 ，记 性"
+earn	(v.) 挣得 ，挣钱；赚得；赢得
+produce	"v. 产生（读作/prə ˈdu:s/）   ；生产 ，制造"
+square	"adj. 平方的；   n. 广场；   v. 使成平方 ，使成二次幂"
+dancer	(n.) 跳舞者
+brush	(v.) 擦
+chain	(n.) 连锁店 ，连锁集团
+grade	"n. 年级；成绩；成绩等级， 评分级别；分数"
+narrow	"v. 使缩小 ，压缩；   adj. （想法 、态度或信仰）狭 …"
+mouse	(n.) 鼠
+return	(v.) 返回；  归还；   n. 回报
+medium	"n. 媒介；   adj. 中等的；  中 号的"
+register	"v. 注册；登记；   n. 现金收 纳机；登记表 ，注册表"
+charge	(v.) 收费；   n. 负责；费用
+hide	(v.) 隐藏；   n. 躲藏
