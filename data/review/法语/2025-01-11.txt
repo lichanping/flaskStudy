@@ -1,3 +1,5 @@
+une avenue	大街，大道n.f.
+la face	（物体的）面n.f.
 portrait-robot	模拟画像（警方综合搜捕对象的特征所制的）n.m.
 nageons	游泳，泳
 quantité	“数量；量；大量；许多”
