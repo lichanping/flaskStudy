@@ -149,7 +149,7 @@ class TxtToXLSX:
 
                     # Handle part of speech
                     pos_match = re.search(
-                        r'(adj\.|adv\.|n\.|v\.|phr\.|vt\.|prep\.|vi\.|det\.|pron\.|conj\.|int\.|aux\.|auxv\.|num\.|abbr\.|excl\.)$',
+                        r'(adj\.|adv\.|n\.|v\.|phr\.|vt\.|prep\.|vi\.|det\.|pron\.|conj\.|int\.|aux\.|auxv\.|num\.|abbr\.|excl\.|link-v\.)$',
                         english_word)
                     if pos_match:
                         pos = pos_match.group()
