@@ -3944,3 +3944,53 @@ tend	(v.)倾向，趋于
 organ	(n.)器官
 thrill	(v.)（使）非常兴奋
 bonus	(n.)红利
+villager	(n.)村民
+underline	(vt.)画线于……之下
+flour	(n.)面粉
+moveable	(adj.)可移动的，活动的
+warm-hearted	(adj.)热心的
+classmate	(n.)同班同学
+moon	(n.)月球，月亮
+simply	"adv.仅仅，只不过；简单地；实在，的确"
+employer	(n.)雇主，老板
+twice	(adv.)两次；两倍
+treasure	(n.)珍宝；v.珍藏
+instructor	指导者；讲师;(n.)指导者，教员，教练
+capital	(n.)资金，资本；首都；大写字母；省会；【财】资本;
+painful	(adj.)疼痛的；痛苦的；艰难的
+qualify	"v.（使）合格；限定；胜任，使具有资格；描述，…"
+workbook	"n.练习本；工作记事薄；工作手册"
+sacrifice	"v.牺牲；献祭；奉献；做出牺牲；n.祭品；牺牲；…"
+fox	(n.) 狐狸
+affect	(v.) 影响
+hearing	(n.) 听力
+worthy	"adj.值得……的，配得上……的；可尊敬的；有…"
+progress	(n.) 进步；v.进步
+secretary	(n.) 秘书
+interaction	"n.互动；相互作用，相互影响"
+chance	"n.机会；可能性；风险，冒险；偶然"
+coke	(n.) 可乐
+melon	(n.) 瓜
+year	(n.) 年，年龄，年岁
+excellence	(n.) 卓越，杰出
+premier	(adj.) 第一的，首位的
+sport	(n.) 运动
+mental	(adj.) 心理的；脑力的
+awesome	(adj.)极好的，令人惊叹的
+confirm	(v.)确认，使确信；证实
+protein	(n.)蛋白质
+scoop	"n.勺v.挖""铲子；独家新闻；掘"
+endless	(adj.)无止境的；没完没了的
+missile	"n.导弹；投射出的物体或武器"
+unconscious	(adj.)无意识的
+expose	(vt.)显露，暴露；使接触
+statistics	(n.)统计
+mat	(n.)垫子；草席
+ecosystem	(n.)生态系统
+essential	(adj.)必不可少的，极其重要的；本质的；重要的；基…;"adj.必不可少的，极其重要的"
+incorporation	(n.) 公司组织；编入，合并
+quarrel	(v.) 争吵，争论
+absurd	(adj.) 荒谬的
+sacred	(adj.) 神圣的
+tap	(v.) 轻叩，轻敲；开发，发掘
+comb	(v.) 梳（头发）；n.梳子
