@@ -16,9 +16,3 @@ absurd	(adj.) 荒谬的
 sacred	(adj.) 神圣的
 tap	(v.) 轻叩，轻敲；开发，发掘
 comb	(v.) 梳（头发）；n.梳子
-therapy	(n.) 治疗，理疗
-will	"aux.将，将要；表示意愿；将，将会；v.希望…"
-stability	(n.) 稳定，稳定性
-insurance	(n.)保险;(n.) 保险；保险费；保险业
-possession	(n.)拥有；所有物;拥有；占有;(n.) 财产；所有物
-donate	(v.)捐赠;"v.捐献；捐赠；献（器），献（血）；献血…"
