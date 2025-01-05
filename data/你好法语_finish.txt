@@ -248,3 +248,53 @@ placard	壁橱n.m.
 le plan	平面图n.m.
 une avenue	大街，大道n.f.
 la face	（物体的）面n.f.
+premier	第一的adj.
+première	第一的adj.阴性的
+récent	最近的，新的adj.
+récente	最近的，新的adj.
+le responsable	负责人，主管n.m.
+rez-de-chaussée	（建筑物）底层，一楼n.m.
+salle de bains	浴室n.f.
+les salutations	敬意n.f.pl.(信末用语）
+sombre	黑暗的，昏暗的，阴暗的adj.
+une chambre sombre	昏暗的房间n.f.
+toilettes	卫生间，厕所n.f.pl.
+un appartement	一套公寓n.m.
+la chambre	卧室n.f.
+la salle de bains	浴室n.f.
+les toilettes	卫生间，厕所n.f.pl.
+la salle à manger	餐厅n.f.
+le salon	客厅n.m.
+le balcon	阳台n.m.
+l'entrée	入口n.f.
+Le couloir	走廊n.m.
+claire	明亮的,清晰的，清楚的adj.; 明亮的，清晰的adj.
+la cuisine	厨房，烹调，烹饪法；菜肴n.f.; 厨房n.f.
+cet ami	这位朋友(阳性以元音音素开头的名词前用cet)
+cet hôtel	这家旅馆
+cet objet	这个物体
+ces garçons	这些男孩(复数名词前用ces)
+ces étudiants	这些学生(复数名词前用ces)
+cette fille	这个女孩(阴性名词前用cette)
+ces filles	这些女孩(复数名词前用ces)
+ce matin	今天早上(阳性名词前用ce)
+ces voitures-là	那些汽车(复数名词前用ces, là表示“那些”)
+L'immeuble est au coin de la rue Victor-Hugo et de la rue Michelet	房子在维克多雨果街和米歇尔街的拐角处。
+L'appartement est au troisième étage avec ascenseur	公寓在四楼，有电梯。
+La cuisine est à gauche de l'entrée	厨房在入口的左边。
+En face de la cuisine	在厨房的对面
+Vous avez les toilettes et une salle de bains avec une douche	你有一个卫生间和一个带淋浴的浴室。
+La chambre est au bout du couloir	卧室在走廊的尽头。
+Il y a un lit et un bureau avec une chaise	有一张床和一张带椅子的书桌。
+À gauche du couloir	在走廊的左边
+Il y a le salon	有客厅。
+Vous avez deux placards dans l'appartement	你在公寓里有两个壁橱。
+Meilleures salutations	致以最诚挚的问候
+Alain Dauger	阿兰·多杰尔
+Responsable de l'agence Loca-loisirs  “Loca-loisirs	中介负责人”
+une salle vide	空旷的房间n.f.
+troisième	第三的adj.num.ord.
+cette année	今年(阴性名词前用cette)
+ce livre-ci	这本书(阳性名词前用ce, ci表示“这个”)
+cette table-là	那张桌子(阴性名词前用cette, là表示“那个”)
+ces romans-ci	这些小说(复数名词前用ces, ci表示“这些”)

@@ -177,3 +177,53 @@ scene	(n.) 场面 ，情景；景象
 accurate	(adj.) 准确的
 cent	(n.) 分
 neighbour	(n.) 邻居 ，邻人
+cash	(n.) 现金
+northeast	(n.) 东北；   adj. 位于东北的
+unnecessary	"adj. 不必要的 ，不需要的， 多余的"
+wheel	(n.) 轮子
+promise	"v. 允诺 ，保证；   n. 诺言； 前景 ，前途；迹象 ，预示"
+link	"v. 联系；连接；   n.   （链状 物的）环 ，节；联系"
+relation	(n.) 关系 ，联系
+escape	"v. 逃跑 ，逃脱；   n. 逃跑， 逃脱"
+smile	(n.) 微笑；   v. 微笑
+main	(adj.) 主要的 ，最重要的
+dive	(vi.) 潜水 ，下潜
+top	"n. 顶部；   adj.   （位置 、级 别或程度）最高的；头等 …"
+lift	"n. <英> 电梯；   v. 高兴起 来；使更愉快； （使）升 …"
+care	"n. 照顾 ，照料；   v. 关心； 在意"
+timetable	(n.) 时间表，  时刻表
+free	"adj. 免费的；   自由的；免 于 ，不遭受；空闲的 ，有 …"
+remove	(v.) 移开；去除
+bookshelf	(n.) 书架
+surprise	"v. 使惊奇 ，使诧异 ，使感到 意外；   n. 惊喜 ，意想不 …"
+zero	(num.) 零
+nurse	(n.) 护士
+eastern	"adj. 东方的 ，东部的 ，朝东 的"
+accident	(n.) 事故；意外；车祸
+modern	(adj.) 现代的 ，现代化的
+geography	(n.) 地理（学）
+leader	(n.) 领导
+rare	"adj. 罕见的 ，难得的；稀少 的 ，稀有的"
+familiar	(adj.) 熟悉的
+believe	(v.) 相信；认为
+insect	(n.) 昆虫
+active	(adj.) 积极的 ，主动的
+bin	(n.) 箱柜 ，仓 ，垃圾箱
+police	(n.) 警察 ，警方
+engine	(n.) 引擎
+branch	(n.) 树枝；分支机构 ，分部
+print	"v. 打印；洗印，  印染；发 表；   n. 印刷，  印刷字"
+ground	"n. 地；地面；土地；场地； 领域；   v.   （在某学科上 …"
+fear	"n. 害怕；担心；   v. 担心； 害怕"
+digital	(adj.) 数字的；数码的
+speaker	"n. 说话人 ，演讲人；说某种 语言的人"
+laptop	(n.) 笔记本电脑
+vehicle	"n. 车辆；工具 ，手段；交通 工具"
+deliver	"v. 递送 ，交付；发表（演 讲）   ；传达"
+urgent	(adj.) 急迫的
+parcel	(n.) 包裹
+guard	(n.) 看守；   vt. 看守 ，监视
+approach	"v. 接近；着手处理；   n. 方 法"
+instrument	(n.) 仪器；乐器
+zone	"n. 地带 ，空间 ，地区，   区 域 ，范围"
+staff	"n. 工作人员；工作人员 ，全 体职员"

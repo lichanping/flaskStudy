@@ -1,3 +1,9 @@
+une salle vide	空旷的房间n.f.
+troisième	第三的adj.num.ord.
+cette année	今年(阴性名词前用cette)
+ce livre-ci	这本书(阳性名词前用ce, ci表示“这个”)
+cette table-là	那张桌子(阴性名词前用cette, là表示“那个”)
+ces romans-ci	这些小说(复数名词前用ces, ci表示“这些”)
 fraise	草莓
 boit	喝，喝得
 confiture	果酱
