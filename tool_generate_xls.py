@@ -10,6 +10,7 @@ from os.path import dirname, abspath
 
 import edge_tts
 import pandas as pd
+import unicodedata
 from edge_tts import VoicesManager
 from ptest.decorator import TestClass, Test
 
@@ -129,6 +130,7 @@ class TxtToXLSX:
     def remove_duplicates_or_merge_translations(self, file_name):
         """
         Remove duplicate English words or merge their translations directly from the original text file.
+        Normalize ligatures like ﬂ -> fl and ﬁ -> fi in the English part.
         """
         file_path = os.path.join(self.data_folder, file_name)
         english_words = {}  # Dictionary to store unique English words and their translations
@@ -140,6 +142,12 @@ class TxtToXLSX:
                 line = line.strip()
                 if not line:
                     continue  # Skip empty lines
+
+                # Normalize the line to replace ligatures and other Unicode anomalies
+                line = unicodedata.normalize('NFKC', line)  # Decompose and recompose Unicode
+
+                # Replace specific ligatures
+                line = line.replace('ﬂ', 'fl').replace('ﬁ', 'fi')
 
                 match = re.match(r'([a-zA-ZéèêëîïùûüàâäôöçœÉÇÀ\'\s\-\.\/\?\？，,]+)\s*(.*)', line)
                 if match:
