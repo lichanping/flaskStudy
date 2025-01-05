@@ -587,7 +587,7 @@ arrangement	(n.) 安排；布置
 field	"n. 领域；  田野，  田地；运动 场"
 culture	(n.) 文化
 boil	(v.) 用开水煮 ，在沸水中煮
-political	(adj.) 政治的 ﬂavour	n. 味道
+political	(adj.) 政治的
 disappointing	(adj.) 令人失望的
 sky	(n.) 天空
 canal	(n.) 运河 ，河流
@@ -863,7 +863,7 @@ expect	"v. 期望；预计 ，预料 ，预 期 ；猜想 ，认为 ，料想；
 passive	"adj. 被动的；消极的；   n. 被动语态"
 deep	"adj. 深的；深刻的 ，深切 的；有 … …深的"
 call	"v. 打电话给 … ；把 … … 叫 作；召唤，  呼唤，  呼吁"
-golf	(n.) 高尔夫球运动 ﬂow	"n. 流动；   v. 流动； （人， 物）涌向 ，涌进"
+golf	(n.) 高尔夫球运动
 calendar	(n.) 日历 ，挂历
 frog	(n.) 青蛙
 limited	(adj.) 有限的；被限制的
@@ -957,7 +957,7 @@ lose	(v.) 失去
 electrical	(adj.) 电的
 guide	"n. 导游；指南 ，手册；   v. 引导 ，指导"
 instead	(adv.) 代替 ，顶替；更换
-grant	(v.) 允许，  同意，  准允 ﬂight	n. 航班；航程；空中航行
+grant	(v.) 允许，  同意，  准允
 kid	"n. 小孩 ，儿童；   v. 开玩 笑 ，欺骗"
 route	(n.) 路线
 certain	"adj. 某一 ，某些 ，一定 （ 量）  的；确定的"
@@ -1011,7 +1011,7 @@ tiny	"adj. 微小的；极小的；矮小 的"
 access	"n.   （使用或见到的）机会， 权利；接触；通道；访问 …"
 exhibition	(n.) 展览
 reward	"n. 回报；报酬；   vt. 奖励， 奖赏"
-achieve	"v. 完成，（尤指凭长期努 力）达到（某目标）" ﬂood	v. 大量涌入；   n. 洪水
+achieve	"v. 完成，（尤指凭长期努 力）达到（某目标）"
 score	"n. 得分 ，分数；乐谱；   v. 购买 ，取得"
 folk	(n.) 民众；  民间音乐
 rise	"vi. 升起 ，上升 ，上涨；增 长； （权力或地位）升高 …"
@@ -1262,7 +1262,6 @@ afraid	"adj. 恐怕（礼貌的拒绝）  口 语；  害怕的 ，畏惧"
 reply	(v.) 回答；   n. 答复，  回答
 teaching	(n.) 教学
 hunger	(n.) 饥饿；   v. 渴望
-butter	ﬂy	n. 蝴蝶
 broken	(adj.) 损坏的
 explode	(vi.) 爆炸
 planet	(n.) 行星
@@ -1418,7 +1417,7 @@ data	(n.) 数据
 harm	(n.) 伤害 ，损害；   v. 伤害
 treasure	(n.) 金银财宝
 solidify	"v.   （使）凝固，（使）  团 结 ，巩固"
-intent	(adj.) 全神贯注的 ﬂuent	adj.   （ 语言）讲得流利的
+intent	(adj.) 全神贯注的
 generate	"v. 产生（热 、电等能量）； 引起 ，造成 ，创造"
 import	(v.) 进口
 establish	(v.) 建立；使确认；使安全
@@ -1618,3 +1617,9 @@ response	(n.) 反应
 depend	(v.) 取决于；   vi. 依赖
 era	(n.) 时代
 mood	(n.) 情绪 ，心情
+fluent	(adj.) （ 语言）讲得流利的
+butterfly	(n.) 蝴蝶
+flood	(v.) 大量涌入；   n. 洪水
+flight	(n.) 航班；航程；空中航行
+flow	"n. 流动；   v. 流动； （人， 物）涌向 ，涌进"
+flavour	(n.) 味道
