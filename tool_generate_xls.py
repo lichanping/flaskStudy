@@ -333,6 +333,7 @@ class GenerateTool:
         # generate missing sounds
         tool.convert('高考词汇（持续更新中）.txt')
         tool.convert('雅思基础词汇(持续更新中).txt')
+        tool.convert('雅思全部.txt')
 
     @Test()
     def french_words(self):
