@@ -1390,3 +1390,9 @@ response	(n.) 反应
 depend	(v.) 取决于；   vi. 依赖
 era	(n.) 时代
 mood	(n.) 情绪 ，心情
+fluent	(adj.) （ 语言）讲得流利的
+butterfly	(n.) 蝴蝶
+flood	(v.) 大量涌入；   n. 洪水
+flight	(n.) 航班；航程；空中航行
+flow	"n. 流动；   v. 流动； （人， 物）涌向 ，涌进"
+flavour	(n.) 味道
