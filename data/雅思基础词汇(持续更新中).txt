@@ -174,7 +174,6 @@ profession	(n.) 职业
 visitor	(n.) 游客
 nature	"n. 大自然；天性；本质；性 格 ，秉性；性质"
 meaning	(n.) 意思 ，含义；意义 ，价值
-mood	(n.) 情绪 ，心情
 cent	(n.) 分
 neighbour	(n.) 邻居 ，邻人
 laptop	(n.) 笔记本电脑
@@ -1270,3 +1269,352 @@ planet	(n.) 行星
 abandon	(v.) 抛弃；放弃
 statue	(n.) 雕像
 grandfather	"n. 爷爷 ，祖父；外公 ，外祖 父"
+literate	(adj.) 能读会写的
+reptile	(n.) 爬行动物 ，爬虫
+transform	(v.) 改变 ，转换
+composer	(n.) 作曲家
+failure	(n.) 失败；失败者
+award	(n.) 奖赏；   v. 授予
+dramatic	"adj. 戏剧的 ，戏剧性的；  巨 大的 ，突然的 ，急剧的；  …"
+overview	(n.) 综述 ，概观
+autonomy	(n.) 自主权
+realism	(n.) 现实主义
+instruction	(n.) 指导；指令 ，命令；指示
+purify	(v.) 使纯净 ，净化
+evidence	(n.) 证据 ，证明；   v. 证明
+infection	(n.) 感染
+territory	(n.) 领域；范围
+vivid	"adj. 生动的 ，清晰的（ 记 忆 、描述）"
+somewhat	(adv.) 有点儿 ，稍微
+precious	(adj.) 珍贵的，  宝贵的
+variation	(n.) 差异；  [生物] 变异 ，变种
+undergo	(v.) 经历
+philosophy	"n. 生活信条（或态度）   ；哲 学 ，哲学体系"
+fragile	"adj. 易碎的；易损坏的；虚 弱的；脆弱的"
+sensitive	(adj.) 敏感的
+vice	"n. 恶习；缺点；邪恶；罪 行；生理缺陷；   adj. 副 …"
+associate	"v. 与......有关；联系；   adj. 副的"
+tough	"adj. 坚韧的；艰难的；棘手 的；严厉的"
+productivity	(n.) 效率；生产力
+belief	(n.) 信念；信仰；相信
+stuck	(adj.) 不能动的
+justify	"v. 证明 … …正确或有理；使 (文本) 对齐"
+commitment	(n.) 承诺 ，许诺；承担的义务
+renowned	(adj.) 著名的
+ton	(n.) 吨
+tutor	"n. 家庭教师 ，指导教师； (v.) 当 … … 的家庭教师"
+incident	(n.) 事件
+regulate	"vt. 管理 ，控制；监管；调 节"
+policy	(n.) 政策 ，方针
+practical	"adj. 实际的 ，实践的；实用 的 ，可行的"
+scare	(v.) 使害怕 ，惊吓
+fabric	(n.) 布料 ，织物
+transportation	(n.) 交通；运输
+lower	(v.) 降低 ，减少
+obtain	(v.) 获得 ，赢得 ，取得
+angle	(n.) 角度；立场
+capable	(adj.) 有本领的 ，有能力的
+weed	(n.) 杂草 ，野草；   v. 除杂草
+limitation	(n.) 限制 ，局限性
+expansion	(n.) 扩大 ，扩充 ，扩张 ，扩展
+variable	"n. 变量 ，可变物；   adj. 易 变的 ，可变的"
+comprise	(vt.) 构成，  由 … …组成
+struggle	(v.) 挣扎；   n. 斗争
+accomplish	"vt. 实现； （通过努力）  完 成"
+impact	(n.) 影响；   v. 影响
+scan	(v.) 扫描；   n. 扫描
+modify	(v.) 更改，  改造
+monopoly	"n. 垄断；垄断商品；专卖商 品"
+cite	(vt.) 引用，  引证
+occur	(vi.) 发生
+tone	(n.) 语气
+faith	(n.) 宗教信仰；信心
+noble	(adj.) 贵族的 ，高贵的
+mammal	(n.) 哺乳动物
+middle	"adj. 中部的，  中间的；   n. 中部，  中间"
+apparently	(adv.) 显然
+compromise	"n. 妥协 ，折中；   v. 使遭受 危险"
+boredom	(n.) 厌倦 ，无聊
+massive	"adj. 大规模的；  巨大的；大 量的；非常严重的"
+reputation	(n.) 名誉 ，名声
+index	(n.) 指数
+machinery	(n.) 机器 ，机关
+vacation	(n.) 假期；   vi. 度假
+laundry	"n. 洗衣物 ，洗衣物的活；洗 衣房；洗衣店；要洗的衣服"
+detailed	(adj.) 详细的
+launch	(v.) 发射；创办 ，开始从事
+manufacture	(v.) （批量）  生产 ，制造
+motivate	(vt.) 激励
+feather	(n.) 羽毛
+bias	(n.) 偏见；   v. 使有偏见
+feedback	(n.) 反馈
+vegetation	(n.) 植被
+substantial	(adj.) 大量的
+industrial	(adj.) 工业的
+commerce	(n.) 商业，  贸易
+journalism	(n.) 新闻业
+reinforce	(v.) 加强
+brick	(n.) 砖
+gradual	(adj.) 逐渐的
+desire	"n. 渴望；愿望；   vt. 希望， 渴望"
+shipbuilder	(n.) 造船工人
+stretch	(v.) 伸展 ，延伸，  张开
+resolve	"v. 解决（问题或困难）   ；消 除"
+battle	(n.) 战役，  战斗；   v. 奋斗
+monumental	(adj.) 意义深远的 ，不朽的
+fraction	(n.) 部分 ，片段
+triple	(adj.) 三倍的
+workforce	(n.) 劳动力
+eventually	(adv.) 终于 ，最后
+tuition	(n.) 学费
+addition	(n.) 附加物
+responsible	(adj.) 负有责任的
+structure	(n.) 结构；建筑物
+optional	(adj.) 可选择的
+characteristic	(n.) 特征
+knowledgeable	(adj.) 学识渊博的 ，有见识的
+intensity	(n.) 强烈 ，剧烈
+digest	(n.) 文摘
+humanity	(n.) 人类； （复数）  人文学科
+exception	(n.) 例外
+presumably	(adv.) 大概 ，据推测 ，可能
+survey	(n.) 调查；   v. 调查
+mental	(adj.) 心理的；精神的
+standard	"n. 标准 ，规格；   adj. 标准 的"
+construct	(v.) 建造
+automatic	(adj.) 自动的
+violence	(n.) 暴力 ，暴行
+unprecedented	"adj. 前所未有的 ，空前的， 无前例的"
+disturb	(v.) 妨碍；使不安
+misunderstanding	(n.) 误解 ，误会 ，不和
+tank	(v.) 彻底失败 ，快速减少
+appoint	(v.) 委派 ，任命
+editor	(n.) （报刊 、杂志的）编辑
+cope	(vi.) 处理 ，应对
+radiation	(n.) 辐射
+virgin	(adj.) 原始的 ，未开发的
+immigrant	(n.) 移民 ，外侨
+immune	(adj.) 免疫的；不受影响的
+greatly	(adv.) 大大地；很
+sunlight	(n.) 阳光
+balance	"n. 平衡 ，平衡能力；   v. 平 衡"
+volcano	(n.) 火山
+gather	(v.) 收集
+worth	(adj.) 值得的；   n. 价值
+chief	(adj.) 首席的 ，最高级别的
+confine	(v.) 限制
+lid	(n.) 盖 ，盖子
+minority	"n. 少数民族；少数派 ，少数 人"
+intervention	(n.) 调停
+visible	(adj.) 看得见的
+facility	(n.) 设施 ，设备
+maintain	(v.) 保持 ，维持；维护 ，维修
+glue	(n.) 胶水
+excess	"adj. 额外的 ，过量的 ，过度 的，  附加的（读作/ …"
+surface	"n. 表面 ，表层；   v. 浮出水 面"
+destruction	(n.) 破坏 ，毁灭
+devastate	(v.) 摧毁
+data	(n.) 数据
+harm	(n.) 伤害 ，损害；   v. 伤害
+treasure	(n.) 金银财宝
+solidify	"v.   （使）凝固，（使）  团 结 ，巩固"
+intent	(adj.) 全神贯注的 ﬂuent	adj.   （ 语言）讲得流利的
+generate	"v. 产生（热 、电等能量）； 引起 ，造成 ，创造"
+import	(v.) 进口
+establish	(v.) 建立；使确认；使安全
+slightly	(adv.) 稍微 ，轻微地
+ideal	(adj.) 理想的；   n. 理想
+submit	(v.) 提交；呈递
+endless	(adj.) 没完没了的；无止境的
+valid	(adj.) 有效的 ，正式认可的
+fence	(n.) 篱笆，  围栏 ，栅栏
+advocate	"n. 提倡者；支持者；   v. 提 倡 ，主张"
+oppose	(v.) 反对
+analysis	(n.) 分析
+interaction	(n.) 互动；交流
+settle	(v.) 确定
+steam	(n.) 蒸汽 ，水蒸气
+childcare	(n.) 儿童照料
+highly	"adv. 极；高度地 ，非常， 赞许地"
+prospect	(n.) 前景 ，展望；可能性
+disrupt	(v.) 扰乱
+exclude	"vt. 不包括 ，未包括；排 挤 ，排除"
+chart	(n.) 图表 ，表格
+rotate	"v. 以 … …轴转动 ，使旋转； 轮流 ，轮换；   adj. 车轮 …"
+pottery	(n.) 陶艺
+convey	(vt.) 表达；传达
+truly	(adv.) 真正地，  的确地
+portion	(n.) 一部分
+package	(n.) 包裹
+revolution	(n.) 革命
+extension	(n.) 扩展
+bacteria	(n.) （复数）细菌
+major	"n. 主修（科目）；   adj. 重 要的；主要的"
+backwards	(adv.) 向后 ，倒着 ，往回
+tail	(n.) 尾巴
+aspect	(n.) （问题等的）方面
+threaten	(v.) 威胁
+outward	(adj.) 外面的
+companion	(n.) 同伴
+multiple	(adj.) 许多的；多种多样的
+insufficient	(adj.) 不足的
+assignment	(n.) （课外）作业
+mining	(n.) 采矿
+relate	"v. 相关 ，有联系；涉及 ，关 于"
+novelty	"n. 新奇；新颖小巧而廉价的 物品"
+incorporate	(v.) 包含；使并入
+solar	(adj.) 太阳能的
+damp	(adj.) 潮湿的 ，有湿气的
+infinite	(adj.) 无数的
+efficiency	(n.) 效率
+humor	(n.) 幽默 ，诙谐
+tribal	(adj.) 部落的
+personnel	(n.) 员工 ，人员
+anticipate	(v.) 预测 ，预料
+civilisation	(n.) 文明（ =civilization）
+phase	(n.) 阶段，  时期
+illegal	(adj.) 非法的
+base	"v. 以 … …作基础；   n. 基 础 ；底座"
+manual	(adj.) 手工的；体力的
+task	(n.) 任务 ，工作
+groundbreaking	(adj.) 创新的
+uncertainty	(n.) 不确定
+identical	(adj.) 相同的，  同一的
+remain	(link-v.) 依然 ，继续；保持
+expenditure	(n.) 花费 ，支出 ，消耗
+cooperative	(adj.) 合作的
+influence	(n.) 影响；   v. 影响
+ignore	(v.) 忽略；不理睬 ，佯装未见
+committee	(n.) 委员会
+purely	(adv.) 仅仅 ，纯粹地
+aware	(adj.) 意识到的；知道的
+obey	(v.) 服从，  听从 ，遵守
+favourable	"adj. 有利的 ，顺利的，  良好 的"
+pregnant	(adj.) 怀孕的 ，妊娠的
+log	(n.) 原木
+network	(n.) 网络
+actual	(adj.) 实际的 ，真实的
+starvation	(n.) 饥饿
+coordination	(n.) 协调
+bind	(v.) 捆绑；装订；约束；结合
+obstacle	(n.) 障碍
+manner	(n.) 方式 ，方法
+ban	"vt. 明令禁止；   n. 禁止 ，禁 令"
+installation	(n.) 安装 ，装置
+tendency	(n.) 趋向 ，趋势 ，倾向
+army	(n.) 陆军 ，军队 ，部队
+distort	(v.) 扭曲 ，使变形
+visual	"adj. 视力的 ，视觉的；   n. 视觉资料（指说明性的图 …"
+campus	(n.) 校园
+institute	"n. 学院 ，专科学院 ，研究院 （或所）   ；机构"
+penetrate	(v.) 刺穿 ，穿透；进入
+carbon	(n.) 碳
+vital	"adj. 必不可少的 ，至关重要 的；生命的"
+quote	(n.) 引语，  引文
+consult	(v.) 咨询
+privacy	(n.) 隐私；私生活
+humility	(n.) 谦逊 ，谦恭
+lung	(n.) 肺
+wise	"adj. 有智慧的 ，博学的；  明 智的"
+shatter	(v.) （使）粉碎 ，破碎
+landlady	(n.) 女地主 ，女房东
+domain	(n.) （知识等的）领域 ，范围
+intense	(adj.) 强烈的 ，激烈的
+minor	(adj.) 较小的；   n. 未成年人
+coral	(n.) 珊瑚
+assign	(v.) 布置；分配；指定；给予
+meditation	(n.) 沉思 ，冥想
+downhill	(n.) 下坡 ，滑降
+comply	(vi.) 遵守 ，依从 ，服从
+oxygen	(n.) 氧气 ，氧
+strengthen	"v. 增强； （使）更强烈， （使）更紧密；加强"
+sophisticated	(adj.) 精密的；老练的
+remarkable	"adj. 显著的 ，非凡的 ，卓越 的"
+bubble	(n.) 气泡 ，泡沫
+comprehend	(v.) 了解
+tropical	(adj.) 热带的
+risk	(n.) 风险；   vt. 冒 … … 的危险
+living	"n. 生活 ，生计；   adj. 居住 的；活的"
+harsh	(adj.) 严厉的；强烈刺眼的
+mature	(adj.) 成熟的；   v. 变得成熟
+congratulate	(v.) 祝贺
+timing	(n.) 时机
+outline	(v.) 概述；   n. 外形 ，轮廓
+lifetime	"n. 一生 ，终生 ，寿命；   adj. 一生的 ，终生的"
+acquire	"v.   （通过努力 、能力）获 得；得到；患上（疾病）"
+underground	(adv.) 在地下；   adj. 地下的
+vary	(v.) （根据情况）变化
+proof	(n.) 证据 ，证明
+fulfil	"v. 实现 ，履行 ，实践（英式拼写为 “fulfil”） （ =fulfill）   ；满足 … 的要 …"
+sufficient	"adj. 足够的 ，充足的；充分 的"
+prior	(adj.) 先前的
+costly	(adj.) 昂贵的
+span	(v.) 横跨
+legal	"adj. 合法的 ，法定的 ，法律 的"
+underestimate	(v.) 低估
+process	"n. 步骤 ，过程；事物发展 （自然或偶然的）变化过 …"
+portray	(v.) 描绘；描述；扮演
+caution	"n. 谨慎 ，小心；   v. 警告， 告诫"
+cater	(v.) 迎合 ，满足需要
+organic	(adj.) 有机的
+depression	"n. 抑郁 ，沮丧；抑郁症；不 景气 ，萧条（期）"
+compose	(v.) 作曲；形成 ，构成
+graph	(n.) （曲线）  图，  图表
+opposition	(n.) 反对
+loosely	(adv.) 宽松地 ，松散地
+proportion	(n.) 比例
+pursuit	(n.) 追求 ，寻找
+specific	"adj. 特定的；具体的；特有 的"
+involvement	(n.) 参与
+overlook	(v.) 忽视 ，未注意到
+scope	(n.) 范围
+outcome	(n.) 结果 ，后果；效果
+captain	(n.) 上校 ，上尉 ，长官
+filter	(v.) 过滤 ，渗透
+able	(adj.) 能够 … … 的
+unwanted	(adj.) 没人要的
+elusive	(adj.) 难捉摸的
+reaffirm	(vt.) 重申
+conceal	(v.) 隐藏，  隐瞒 ，掩盖
+unnatural	(adj.) 不自然的
+subway	(n.) 地铁
+beg	(v.) 乞求 ，恳求
+productive	(adj.) 多产的；  富有成效的
+speculate	(v.) 推测 ，猜测
+tool	(n.) 工具
+alter	(v.) 改变
+conduct	(v.) 进行；   n. 行为
+medication	(n.) 药物
+spectacle	(n.) 景象 ，奇观
+device	(n.) 装置 ，设备
+gardening	(n.) 园艺
+additional	(adj.) 额外的
+represent	(v.) 代表
+rely	(vi.) 依赖 ，依靠
+construction	(n.) 建筑；建造
+unearth	(vt.) 发掘 ，掘出
+circumstance	(n.) 情况
+specimen	(n.) 标本
+capacity	(n.) 能力
+kingdom	(n.) 王国
+barely	(adv.) 几乎不；勉强才能
+successive	(adj.) 连续的
+digestion	(n.) 消化系统
+shell	(n.) 壳 ，外壳
+aid	(n.) 援助；帮助
+campaign	"n.   （社会性 、政治性）活 动 ，运动；   v. 参加运动 …"
+crash	"n. 撞车；坠毁；   v. 碰撞； 猛撞；坠落；暴跌"
+profound	(adj.) 巨大的
+federal	(adj.) 联邦政府的
+originate	(v.) 起源
+arts	(n.) 艺术
+trait	(n.) 特征
+steady	(adj.) 稳定的 ，平稳的
+crocodile	(n.) 鳄鱼
+overall	"adj. 全面的 ，全部的； (adv.) 总体上"
+evolve	(v.) （使）逐渐发展
+telescope	(n.) 望远镜
+response	(n.) 反应
+depend	(v.) 取决于；   vi. 依赖
+era	(n.) 时代
+mood	(n.) 情绪 ，心情
