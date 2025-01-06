@@ -436,6 +436,8 @@ export function checkSpelling() {
     play_audio();
 }
 
+let hasSelectedWrong = false;
+
 export function compareOptionIndex(event) {
     // const passColor = "#AFEEEE";
     const passColor = "#87CEFA";
@@ -443,7 +445,6 @@ export function compareOptionIndex(event) {
     const baseDelay = 2000; // 基础等待时间为 2 秒
     let additionalDelay = 0;
     if (isRandom) {
-        play_audio();
         additionalDelay = 1000; // 额外的延迟
     }
     const totalDelay = baseDelay + additionalDelay;
@@ -460,44 +461,45 @@ export function compareOptionIndex(event) {
     if (correctOption === "没有正确答案") {
         correctOption = correctOptionValue;
     }
-    document.querySelectorAll('.banner')[correctIndex].style.backgroundColor = passColor;
     const incorrectWordsSpan = document.getElementById('incorrectWords');
     const thumb = document.getElementById('thumb');
     const banners = document.querySelectorAll('.banner');
-    banners.forEach(banner => {
-        banner.disabled = true;
-    });
     // Compare the selected option index with the correct index
     if (selectedOptionIndex === correctIndex) {
-        englishWordTextBox.value = english + " " + event.target.innerText;
+        if (isRandom) {
+            play_audio();
+        }
+        let selectedText = (correctOption === "没有正确答案" ? correctOptionValue : event.target.innerText);
+        let displayText = selectedText === "没有正确答案" ? correctOptionValue : selectedText;
+        englishWordTextBox.value = english + " " + displayText;
+
         englishWordTextBox.style.backgroundColor = passColor;
+        document.querySelectorAll('.banner')[correctIndex].style.backgroundColor = passColor;
         if (correctOptionValue !== "") {
             displayToast(correctOptionValue);
         } else {
             displayToast(event.target.innerText);
         }
-        scoreElement.innerText = score + 1;
+        if (!hasSelectedWrong) {
+            scoreElement.innerText = score + 1;
+        }
         triggerAnimation(thumb);
+        setTimeout(() => {
+            renderQuestion();
+            // Reset the background color of the English word text box after 3 seconds
+            document.getElementById('englishWordTextBox').style.backgroundColor = '';
+            document.querySelectorAll('.banner')[correctIndex].style.backgroundColor = '#f0f0f0';
+            hasSelectedWrong = false; // Reset for the next question
+        }, totalDelay);
     } else {
         event.target.style.backgroundColor = 'red';
         incorrectWordsSpan.innerText += `${english} ${correctOption}\n`;
         document.getElementById('errorCount').innerText = errorCount + 1;
         englishWordTextBox.style.backgroundColor = 'red';
+        hasSelectedWrong = true; // Mark that a wrong option was selected
     }
-
-    // Automatically perform action of renderQuestion after 3 seconds
-    englishWordTextBox.value = english + " " + correctOption;
     englishWordTextBox.style.visibility = 'visible';
 
-    setTimeout(() => {
-        renderQuestion();
-        // Reset the background color of the English word text box after 3 seconds
-        document.getElementById('englishWordTextBox').style.backgroundColor = '';
-        document.querySelectorAll('.banner')[correctIndex].style.backgroundColor = '#f0f0f0';
-        banners.forEach(banner => {
-            banner.disabled = false;
-        });
-    }, totalDelay);
 }
 
 function triggerAnimation() {
