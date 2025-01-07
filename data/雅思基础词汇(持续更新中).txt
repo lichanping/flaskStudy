@@ -504,7 +504,6 @@ medicine	(n.) 药;  医学
 smart	(adj.) 智能的;聪明的
 lamp	(n.) 灯,  台灯
 push	(v.) 推动 ,促使;推;逼迫
-golden	"adj. 特别的 ,美好的;金黄 色的"
 negative	(adj.) 消极的 ,负面的
 broad	"adj. 宽阔的;广泛的;  明显 的"
 calculator	(n.) 计算器 ,计算者
@@ -1970,3 +1969,203 @@ adverse	(adj.) 不利的
 genetic	(adj.) 遗传的;基因的
 marriage	(n.) 婚姻
 frame	(n.) 画框; (n.) 框架;   v. 构想出
+overuse	"n. 过度地使用(读作/ ˈouvər ˈjuːs/)"
+ripe	(adj.) 熟的 ,成熟的
+subjective	(adj.) 主观的 ,个人的
+swallow	(v.) 吞下;   n. 一次吞咽的量
+fertilise	(v.) 使授粉 ,使受精
+nutrition	(n.) 营养
+overcome	(vt.) 克服
+deplete	(v.) 耗尽 ,用尽
+determine	"v. 决定 ,支配;确定 ,测 定;  下决心"
+democratic	"adj. 民主的 ,  民主政体的, 民主党的"
+recognition	(n.) 承认 ,认可;识别;认识
+disgust	(v.) 使作呕 ,使厌恶
+poorly	(adv.) 糟糕地 ,差劲地
+dominance	(n.) 支配
+assess	(vt.) 评估;评价
+reckon	(vt.) 估算;认为
+attachment	"n.   (机器的 、通过邮件发送 的)  附件"
+evolution	(n.) 进化 ,演变
+mindset	(n.) 思维模式
+reproduction	(n.) 繁殖
+hard-working	(adj.) 勤勉的
+fighting	(n.) 对抗
+publicise	(vt.) 宣传
+bore	(v.) 使厌烦
+convenience	(n.) 方便
+anxiety	(n.) 焦虑
+native	(n.) 本地人;   adj. 出生地的
+foundation	(n.) 基础
+pace	(n.) 步伐
+sale	(n.) 销售额;销售
+accessible	(adj.) 可进入的
+exotic	"adj. 奇异的 ,珍奇的 ,来自 异国的"
+disappearance	(n.) 消失 ,失踪
+roughly	(adv.) 大约 ,粗略地
+origin	(n.) 起源;  出身
+reality	(n.) 现实 ,实际
+sustainable	(adj.) 可持续的
+profit	"n. 利润 ,盈利;   v. 得益, 有益于"
+fertile	(adj.) 肥沃的
+treat	(v.) 对待;治疗;视为
+seemingly	(adv.) 看似
+crisis	(n.) 危机
+income	(n.) 收入 ,收益
+willing	(adj.) 愿意的 ,心甘情愿的
+schedule	"n. 时间表 ,计划表;   v. 预 订 ,安排"
+intelligence	(n.) 智能;智力
+extreme	(adj.) 极端的;极限的
+comparison	(n.) 比较;对比
+guarantee	(v.) 保证 ,确保;   n. 保证
+famine	(n.) 饥荒
+formation	(n.) 构造
+friction	(n.) 摩擦 ,摩擦力
+renewable	(adj.) 可再生的
+perception	(n.) 感知;观念 ,看法
+halt	(v.) 使停止
+clothing	(n.) 衣服
+numerous	(adj.) 为数众多的 ,许多的
+royal	(adj.) 王室的 ,皇家的
+ability	(n.) 能力
+fault	(n.) 过失 ,过错
+locate	"v. 使 ... ...坐落于 ,位于 ,处 于"
+jaw	(n.) 颌 ,颚 ,下巴
+junk	(n.) 垃圾 ,废旧物品
+brand	(n.) 品牌
+treatment	(n.) 治疗 ,疗法;对待 ,待遇
+triumph	"n. 胜利 ,凯旋;喜悦 ,狂 喜;   vi. 成功 ,获胜"
+worthwhile	(adj.) 值得的 ,有意义的
+dimension	(n.) 维 ,维度
+drain	(n.) 消耗 ,耗竭
+miner	(n.) 矿工
+showcase	(n.) 陈列橱
+following	(adj.) 接着的
+asset	(n.) 财产 ,资产
+threat	(n.) 威胁 ,恐吓
+release	"v. 释放;发布 ,发行;   n. 上映"
+consume	"vt. 消耗 ,消费;  吃 ,喝, 饮;毁灭"
+enable	(v.) 使能够 ,使可能
+moderate	(adj.) 中等的 ,适中的
+consistent	(adj.) 始终如一的 ,一致的
+palm	(n.) 手掌 ,手心
+ironically	(adv.) 讽刺地
+coincide	(v.) 巧合 ,一致 ,相符
+underlying	(adj.) 潜在的 ,深层的
+observe	(v.) 观察
+breed	"v. 导致;饲养 ,培育; 以 ... ...方式教育;   n. 品 ..."
+legend	(n.) 传说
+approximate	"adj. 近似的(读作/ə ˈprɑːksəmət/)"
+pinpoint	(v.) 准确地解释或说明
+relevant	(adj.) 相关的 ,有关的
+edit	(v.) 剪辑
+advance	"n. 进步 ,进展;   v. 发展; 提出"
+cause	"v. 引起 ,导致 ,造成 ,使发 生;   n. 原因 ,理由;事业"
+controversy	(n.) 争论 ,辩论
+increasingly	(adv.) 日益 ,越来越多地
+surge	(vi.) 激增;   n. 激增
+recreational	"adj. 娱乐的 ,消遣的 ,休养 的"
+resemble	(vt.) 像;类似 ,相似
+discipline	(n.) 学科;纪律;  自制力
+code	(n.) 编码 ,代码
+initiative	(n.) 主动权 ,主动性;倡议
+salvage	(vt.) 打捞
+preliminary	(adj.) 初步的 ,预备的
+grain	(n.) 谷物 ,谷粒
+susceptible	(adj.) 易受影响的
+preserve	(v.) 保存;保护
+deliberately	(adv.) 故意地
+approval	(n.) 赞同;批准
+domestic	(adj.) 国内的;家用的
+specialist	(n.) 专家
+analyse	(v.) 分析 ,分解
+workshop	(n.) 研讨会
+satellite	(n.) 卫星
+invisible	"adj. 看不见的 ,不为人注意 的"
+undergraduate	(n.) (本科)学生;   adj. 大 学本科生的
+negotiate	(v.) 谈判 ,磋商 ,商议
+pond	(n.) 池塘
+layer	(n.) 层次
+trigger	(vt.) 触发 ,  引起 ,激发
+dialogue	(n.) 对话 ,对白( =dialog)
+unreliable	(adj.) 不可靠的
+deal	"v. 处理 ,应对;   quant. 大 量;   n. 交易"
+germ	(n.) 细菌
+regulation	(n.) 管理;规章 ,法规 ,条例
+muscle	(n.) 肌肉
+extensive	(adj.) 广泛的
+stable	(adj.) 稳定的
+tide	(n.) 潮汐
+discourage	(vt.) 劝阻
+ultimate	(adj.) 最终的
+skilled	(adj.) 熟练的 ,有技能的
+documentation	(n.) 文献资料 ,文件材料
+equip	"vt. 装备;使有知识和技 能 ,使能够胜任"
+participant	(n.) 参与者 ,参加者
+soil	(n.) 泥土 ,土壤
+competitive	(adj.) 竞争的;有竞争力的
+partnership	(n.) 合作伙伴
+seed	(n.) 种子 ,籽
+grasp	"vt. 抓住 ,抓紧;领会 ,理 解;   n. 紧握"
+breakthrough	"n. 突破 ,突破性进展 ,重大 进展"
+string	(vt.) 串起;悬挂
+monitor	(v.) 监测
+rival	"n. 竞争对手;   v. 与 ... ...竞 争 ,与 ... ...相匹敌"
+viewpoint	(n.) 观点 ,视点 ,见解 ,角度
+equivalent	(adj.) 相等的
+oral	(adj.) 口腔的
+passionate	(adj.) 充满热情的
+oak	(n.) 栎木 ,橡木
+bakery	(n.) 面包房 ,面包店
+contemporary	"n. 同龄人 ,同辈;  同时代的 人;   adj. 当代的 ,现代的"
+distinct	(adj.) 截然不同的;独特的
+reconstruct	(v.) 重建 ,改造 ,推想
+contrast	"v. 对照 ,对比(读作/kən ˈtræst/);   n. 对照 ,对比"
+outstanding	(adj.) 杰出的 ,  出众的
+revolutionary	(adj.) 革命性的
+classification	(n.) 分类 ,归类
+purchase	"vt. 购买;   n. 购买;购买的 东西"
+itinerary	(n.) 旅行计划
+boom	(n.) 繁荣;   vi. 迅速发展
+replacement	(n.) 代替物;更换
+drug	(n.) 药物;毒品
+statistical	(adj.) 统计的 ,统计学的
+personality	(n.) 性格
+flexible	(adj.) 灵活的
+drought	(n.) 干旱 ,旱灾
+clue	(n.) 线索
+foster	(v.) 培养;促进
+assist	(v.) 帮助
+timber	(n.) 木料
+grand	(adj.) 重大的;主要的
+quantify	(vt.) 量化
+gene	(n.) 基因
+mass	(n.) 群众;   adj. 大量的
+shift	(n.) 改变;   v. 转变
+sudden	(adj.) 突然的 ,意外的
+symptom	(n.) 症状
+accountable	(adj.) 应负责的 ,应做解释的
+trace	(vt.) 追溯;   n. 痕迹
+booklet	(n.) 小册子
+tire	(v.) 使疲倦;   n. 轮胎 ,车胎
+teamwork	(n.) 团队合作 ,协力
+assemble	(v.) 集合
+scarce	(adj.) 缺乏的 ,不足的
+avenue	(n.) 林荫道 ,道路
+solid	"adj. 结实的;  固体的;  实心 的"
+celebrate	(v.) 庆祝;颂扬
+self	(n.) 自己 ,  自我 ,  自身
+erosion	(n.) 侵蚀
+bargain	(v.) 讨价还价
+diamond	(n.) 钻石
+downward	(adv.) 向下
+council	"n. 委员会;议会;  市政服务 机构"
+salty	(adj.) 含盐的 ,咸的 ,咸味的
+depiction	(n.) 描画 ,描绘
+woodland	(n.) 林地 ,林区
+version	(n.) 版本
+operator	(n.) 操作人员
+bush	(n.) 灌木丛
+detect	(vt.) 探测;察觉;发现
+trail	"n. 小径 ,路径;记号 ,痕 迹 ,线索;   v.   (烟等)  ..."
+golden	"adj. 特别的 ,美好的;金黄 色的"; (adj.) 金黄色的
