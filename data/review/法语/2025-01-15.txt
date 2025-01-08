@@ -1,3 +1,4 @@
+Prenez-vous le bus	你们坐公共汽车吗？
 fraise	草莓
 boit	喝，喝得
 confiture	果酱

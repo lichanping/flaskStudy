@@ -298,3 +298,24 @@ cette année	今年(阴性名词前用cette)
 ce livre-ci	这本书(阳性名词前用ce, ci表示“这个”)
 cette table-là	那张桌子(阴性名词前用cette, là表示“那个”)
 ces romans-ci	这些小说(复数名词前用ces, ci表示“这些”)
+C'est un immeuble récent avec un parking	这是一栋带停车场的新楼。; 这是一栋新楼，有停车场。
+prendre	拿(原形)
+Je prends	我拿
+Tu prends	你拿
+Il prend	他拿
+Elle prend	她拿
+Nous prenons	我们拿
+Vous prenez	你们拿
+Ils prennent	他们拿
+Elles prennent	她们拿
+Je prends le taxi	我打车
+aller	去(原形)
+Je vais	我去
+Tu vas	你去
+Il va	他去
+Elle va	她去
+Nous allons	我们去
+Vous allez	你们去
+Ils vont	他们去
+Elles vont	她们去
+Prenez-vous le bus	你们坐公共汽车吗？
