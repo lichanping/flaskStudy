@@ -1,3 +1,4 @@
+Prenez-vous le bus	你们坐公共汽车吗？
 une avenue	大街，大道n.f.
 la face	（物体的）面n.f.
 portrait-robot	模拟画像（警方综合搜捕对象的特征所制的）n.m.
