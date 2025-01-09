@@ -320,66 +320,77 @@ export async function renderQuestion() {
     const optionsLine = document.getElementById("options-line");
     const isRandom = document.getElementById("random-toggle").checked;
     try {
-        // Reset spelling input and its background color
         const spellingInput = document.getElementById('spellingInput');
         spellingInput.value = '';
         spellingInput.style.backgroundColor = '';
         const globalWordsData = await LearnWords.readText(fileName);
-        // Update file count label
         const fileCountLabel = document.getElementById('fileCountLabel');
         fileCountLabel.textContent = `（${globalWordsData.length}个）`;
 
-        let currentEnglishWord, options, correctIndex;
+        // Store the length of globalWordsData in sessionStorage
+        sessionStorage.setItem(`${key}_totalWords`, globalWordsData.length.toString());
+
+        let currentWord, options, correctIndex;
         let currentIndex = parseInt(sessionStorage.getItem(`${key}_currentIndex`)) || 0;
         let generatedOptions;
-        if (isRandom) {
-            generatedOptions = LearnWords.generateWords(globalWordsData, currentIndex);
+
+        // Check if it's time to review a word from the review list
+        if (wordsSinceLastReview >= 5 && reviewList.length > 0) {
+            const reviewIndex = reviewList.shift();
+            if (isRandom) {
+                generatedOptions = LearnWords.generateWords(globalWordsData, reviewIndex);
+            } else {
+                generatedOptions = LearnWords.generateOptions(globalWordsData, reviewIndex);
+            }
+            currentWord = generatedOptions.currentEnglishWord;
+            options = generatedOptions.options;
+            correctIndex = generatedOptions.correctIndex;
+            document.getElementById("correctOptionValue").value = generatedOptions.correctOption;
+            wordsSinceLastReview = 0;
         } else {
-            generatedOptions = LearnWords.generateOptions(globalWordsData, currentIndex);
-
+            if (isRandom) {
+                generatedOptions = LearnWords.generateWords(globalWordsData, currentIndex);
+            } else {
+                generatedOptions = LearnWords.generateOptions(globalWordsData, currentIndex);
+            }
+            currentWord = generatedOptions.currentEnglishWord;
+            options = generatedOptions.options;
+            correctIndex = generatedOptions.correctIndex;
+            document.getElementById("correctOptionValue").value = generatedOptions.correctOption;
+            currentIndex = (currentIndex + 1) % globalWordsData.length;
+            if (currentIndex === 0) {
+                fileCountLabel.textContent = `（${globalWordsData.length}/${globalWordsData.length}个）`;
+            } else {
+                fileCountLabel.textContent = `（${currentIndex}/${globalWordsData.length}个）`;
+            }
+            sessionStorage.setItem(`${key}_currentIndex`, currentIndex);
+            wordsSinceLastReview++;
         }
-        currentEnglishWord = generatedOptions.currentEnglishWord;
-        options = generatedOptions.options;
-        correctIndex = generatedOptions.correctIndex;
-        document.getElementById("correctOptionValue").value = generatedOptions.correctOption;
 
-        // Increment index for next question
-        currentIndex = (currentIndex + 1) % globalWordsData.length;
-        if (currentIndex === 0) {
-            fileCountLabel.textContent = `（${globalWordsData.length}/${globalWordsData.length}个）`;
-        } else {
-            fileCountLabel.textContent = `（${currentIndex}/${globalWordsData.length}个）`;
+        let wordInput = document.getElementById("englishWordTextBox");
+        wordInput.value = currentWord;
+        if (currentWord.length > 15) {
+            displayToast(currentWord);
         }
-        sessionStorage.setItem(`${key}_currentIndex`, currentIndex);
-
-        let englishWordInput = document.getElementById("englishWordTextBox");
-        englishWordInput.value = currentEnglishWord;
-        if (currentEnglishWord.length > 15) {
-            displayToast(currentEnglishWord);
-        }
-        englishWordInput.style.visibility = 'visible';
-        // Clear previous options
+        wordInput.style.visibility = 'visible';
         optionsLine.innerHTML = '';
 
         for (let i = 0; i < options.length; i++) {
             const banner = document.createElement("button");
             banner.classList.add("banner");
             banner.id = `banner${i + 1}`;
-            // Truncate the option text if it exceeds 30 characters
-            // const truncatedOption = options[i].length > 30 ? options[i].substring(0, 28) + '..' : options[i];
             const truncatedOption = options[i];
-            if (truncatedOption.length > 80) { // You can adjust this threshold as per your requirement
+            if (truncatedOption.length > 80) {
                 banner.style.height = "auto";
             }
             banner.innerText = truncatedOption;
             optionsLine.appendChild(banner);
         }
-        // Store correctIndex value in the hidden input
         document.getElementById("correctIndexValue").value = correctIndex;
         if (!isRandom) {
             play_audio();
         }
-        return {currentEnglishWord, options, correctIndex};
+        return {currentWord, options, correctIndex};
     } catch (error) {
         console.error("Error:", error);
         return null;
@@ -437,15 +448,16 @@ export function checkSpelling() {
 }
 
 let hasSelectedWrong = false;
+let reviewList = [];
+let wordsSinceLastReview = 0;
 
 export function compareOptionIndex(event) {
-    // const passColor = "#AFEEEE";
     const passColor = "#87CEFA";
     const isRandom = document.getElementById("random-toggle").checked;
-    const baseDelay = 2000; // 基础等待时间为 2 秒
+    const baseDelay = 2000;
     let additionalDelay = 0;
     if (isRandom) {
-        additionalDelay = 1000; // 额外的延迟
+        additionalDelay = 1000;
     }
     const totalDelay = baseDelay + additionalDelay;
     const selectedOptionIndex = Array.from(event.target.parentNode.children).indexOf(event.target);
@@ -454,7 +466,7 @@ export function compareOptionIndex(event) {
 
     const englishWordTextBox = document.getElementById('englishWordTextBox');
     const english = englishWordTextBox.value;
-    const scoreElement = document.getElementById('scoreNumber')
+    const scoreElement = document.getElementById('scoreNumber');
     const score = parseInt(scoreElement.innerText);
     const errorCount = parseInt(document.getElementById('errorCount').innerText);
     let correctOption = document.querySelectorAll('.banner')[correctIndex].innerText;
@@ -463,8 +475,7 @@ export function compareOptionIndex(event) {
     }
     const incorrectWordsSpan = document.getElementById('incorrectWords');
     const thumb = document.getElementById('thumb');
-    const banners = document.querySelectorAll('.banner');
-    // Compare the selected option index with the correct index
+
     if (selectedOptionIndex === correctIndex) {
         if (isRandom) {
             play_audio();
@@ -486,20 +497,29 @@ export function compareOptionIndex(event) {
         triggerAnimation(thumb);
         setTimeout(() => {
             renderQuestion();
-            // Reset the background color of the English word text box after 3 seconds
             document.getElementById('englishWordTextBox').style.backgroundColor = '';
             document.querySelectorAll('.banner')[correctIndex].style.backgroundColor = '#f0f0f0';
-            hasSelectedWrong = false; // Reset for the next question
+            hasSelectedWrong = false;
         }, totalDelay);
     } else {
         event.target.style.backgroundColor = 'red';
         incorrectWordsSpan.innerText += `${english} ${correctOption}\n`;
         document.getElementById('errorCount').innerText = errorCount + 1;
         englishWordTextBox.style.backgroundColor = 'red';
-        hasSelectedWrong = true; // Mark that a wrong option was selected
+        hasSelectedWrong = true;
+
+        // Add incorrect word to review list based on isRandom flag
+        const fileName = document.getElementById("file").value + ".txt";
+        const key = fileName.replace('.txt', '');
+        const currentIndex = parseInt(sessionStorage.getItem(`${key}_currentIndex`)) || 0;
+        const totalWords = parseInt(sessionStorage.getItem(`${key}_totalWords`));
+        let reviewIndex = currentIndex - 1;
+        if (reviewIndex < 0) {
+            reviewIndex += totalWords;
+        }
+        reviewList.push(reviewIndex);
     }
     englishWordTextBox.style.visibility = 'visible';
-
 }
 
 function triggerAnimation() {
