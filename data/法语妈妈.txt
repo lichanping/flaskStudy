@@ -437,3 +437,4 @@ du pain	面包
 céréales 谷物食品
 mois	月
 année 年
+apprendre    学习，学

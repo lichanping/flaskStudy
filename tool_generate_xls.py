@@ -72,7 +72,7 @@ class FrenchTTSProcessor:
                 selected_voice = random.choice(available_voices)["Name"]
                 print(f"Processing text: '{text}' with voice: '{selected_voice}'")
                 # Use Edge TTS API to convert text to speech and save as MP3 file
-                communicate = edge_tts.Communicate(text, selected_voice, rate="-32%")
+                communicate = edge_tts.Communicate(text, selected_voice, rate="-1%")
                 await communicate.save(output_file)
 
     # Main function to process the entire TEXT_LIST in batches
@@ -300,7 +300,7 @@ class TextToSpeechConverter:
                 # Repeat English audio twice
                 for _ in range(repeat):
                     if language == "fr":
-                        english_stream = edge_tts.Communicate(english_word, voice=voice_name, rate="-32%").stream()
+                        english_stream = edge_tts.Communicate(english_word, voice=voice_name, rate="-1%").stream()
                     elif language == "en":
                         english_stream = edge_tts.Communicate(english_word, voice=voice_name).stream()
 
