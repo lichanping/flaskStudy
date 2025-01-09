@@ -3,8 +3,8 @@ je	我
 un	一
 joli	漂亮的
 un chat	一只猫
-mon père	我的父亲（加阳性名词）
-ma mère	我的母亲（加阴性名词）
+mon père	我的父亲(加阳性名词)
+ma mère	我的母亲(加阴性名词)
 ton frère	你的兄弟
 ta sœur	你的姐妹
 son fils	他、她的儿子
@@ -17,10 +17,10 @@ aime	喜欢
 deux	二
 ton chien	你的狗
 chien	狗
-et	和，而，且conj
+et	和,而,且conj
 café	咖啡;咖啡馆n.m.
-ou	还是;或，或者，还是(表示选择)conj.
-thé	(泡好的)茶；茶叶n.m.
+ou	还是;或,或者,还是(表示选择)conj.
+thé	(泡好的)茶;茶叶n.m.
 nouveau	新的
 livre	书
 bon	好的
@@ -29,93 +29,93 @@ garçon	男孩
 girafe	长颈鹿
 chocolat	巧克力
 je suis une femme	我是一个女人
-tu es marc	你是Marc吗？
+tu es marc	你是Marc吗?
 c'est un chat	这是一只猫
 tu manges une pizza	你吃一个披萨
 paul mange un croissant	"Paul吃一个牛角面包"
-une orange	一个橙子（阴性）
-un homme	一个男人(阳性）
-une femme	一个女人(阴性）
-un chien	一条狗(阳性）
-un croissant	一个牛角面包（阳性）
-une pizza	一个披萨（阴性）
+une orange	一个橙子(阴性)
+un homme	一个男人(阳性)
+une femme	一个女人(阴性)
+un chien	一条狗(阳性)
+un croissant	一个牛角面包(阳性)
+une pizza	一个披萨(阴性)
 je suis une fille	我是女孩
 une femme et un homme	一个女人和一个男人
 tu es une fille	你是一个女孩
-salut paul	你好，Paul
-comment çava	怎么样？
-ca va bien merci	很好，谢谢
-bienvenue marie	欢迎你，Marie
-bonjour marie enchanté	你好Marie，很高兴认识你
+salut paul	你好,Paul
+comment çava	怎么样?
+ca va bien merci	很好,谢谢
+bienvenue marie	欢迎你,Marie
+bonjour marie enchanté	你好Marie,很高兴认识你
 au revoir	再见
 a bientot	回头见àbientôt
 bonne soirée	祝你晚上愉快
 très	非常
 bonne nuit	晚安
-tu es francais	你是法国人吗？
+tu es francais	你是法国人吗?
 je suis chinois	我是中国人
-elle est coréenne	她是韩国人;她是韩国人（阴性）
+elle est coréenne	她是韩国人;她是韩国人(阴性)
 je suis en chine	我在中国
-il est en france	他在法国吗？
+il est en france	他在法国吗?
 elle parle espagnol	她说西班牙语
-il est chinois	他是中国人（国籍用形容词，阳性）
-elle est chinoise	她是中国人（阴性形容词以e结尾）
-il est coréen	他是韩国人（阳性）
+il est chinois	他是中国人(国籍用形容词,阳性)
+elle est chinoise	她是中国人(阴性形容词以e结尾)
+il est coréen	他是韩国人(阳性)
 marie est francaise	"Marie是法国人"
 un livre francais	一本法国书
 un thé anglais	一杯英国茶
 c'est une boutique francaise	这是一家法国商店
 c'est une fille anglaise	这是一个英国女孩
 un bébé francais	一个法国宝宝
-une fête francaise	一个法国节日（形容词放在名词后面）
+une fête francaise	一个法国节日(形容词放在名词后面)
 un chocolat chinois	一块中国巧克力
 une boutique espagnole	一家西班牙商店
 je parle francais et anglais	我说法语和英语
 marc est anglais	"Marc是英国人"
 elle s'appelle alice	她叫Alice
-comment tu t'appelles	你叫什么？
+comment tu t'appelles	你叫什么?
 je m'appelle marie	我叫Marie
 excuse-moi	对不起
-tu parles francais	你说法语吗？
+tu parles francais	你说法语吗?
 il est francais	他是法国人
 je parle	我说
-tu parles	你说（s不发音）
+tu parles	你说(s不发音)
 il parle	他说
 elle parle	她说
-tu habites a paris	你住在巴黎吗？
-j'étudie a bordeaux	我在波尔多（法国西南部的一座城市）学习
-tu habites a berlin	你住在柏林（德国的首都）吗？
+tu habites a paris	你住在巴黎吗?
+j'étudie a bordeaux	我在波尔多(法国西南部的一座城市)学习
+tu habites a berlin	你住在柏林(德国的首都)吗?
 je travaille ici	我在这里工作
 julia est étudiante	"Julia是大学生"
 je suis en europe	我在欧洲
 je suis professeur	我是老师
-il est étudiant	他是大学生（阳性）
-elle est étudiante	她是大学生（阴性）
-il est journaliste	他是记者（有些职业不随着性别而变化）
-elle est journaliste	她是记者（有些职业不随着性别而变化）
+il est étudiant	他是大学生(阳性)
+elle est étudiante	她是大学生(阴性)
+il est journaliste	他是记者(有些职业不随着性别而变化)
+elle est journaliste	她是记者(有些职业不随着性别而变化)
 londres	伦敦
-je travaille à londres	我在伦敦工作（后面是城市，用à）
+je travaille à londres	我在伦敦工作(后面是城市,用à)
 angleterre	英国
-je travaille en angleterre	我在英国工作（后面是国家，用en）
-j'habite à paris	我住在巴黎（不发音的h前面的短词，经常和后面的单词合并缩写）
-j'habite en france	我住在法国（不发音的h前面的短词，经常和后面的单词合并缩写）
+je travaille en angleterre	我在英国工作(后面是国家,用en)
+j'habite à paris	我住在巴黎(不发音的h前面的短词,经常和后面的单词合并缩写)
+j'habite en france	我住在法国(不发音的h前面的短词,经常和后面的单词合并缩写)
 je travaille en espagne	我在西班牙工作
-espagne	西班牙;西班牙（欧洲国家）
+espagne	西班牙;西班牙(欧洲国家)
 gabriel est espagnol	"Gabriel是Spanish."
 sarah est espagnole	"Sarah是Spanish."
 il est americain	"He是American."
 elle est americaine	"She是American."
-le garçon	这个男孩（le用于阳性名词）
-la femme	这个女人（la用于阴性名词）
-l'homme	这个男人（以原音或者不发音的h开头，则用l');男人
+le garçon	这个男孩(le用于阳性名词)
+la femme	这个女人(la用于阴性名词)
+l'homme	这个男人(以原音或者不发音的h开头,则用l');男人
 j'ai un passeport	我有一个护照
 gants	手套
-gustave	古斯塔夫（人名）
-tango	探戈舞；探戈舞曲
-compagne	同伴；伴侣；伙伴
+gustave	古斯塔夫(人名)
+tango	探戈舞;探戈舞曲
+compagne	同伴;伴侣;伙伴
 l'aéroport	这个/那个机场
 aéroport	机场
-aéro	“大气”和“航空”（名词）
+aéro	“大气”和“航空”(名词)
 hotel	旅馆,饭店
 Tu vas à Paris	你要去巴黎
 avion	飞机
@@ -127,15 +127,15 @@ j'ai une valise	我有一个手提箱
 valise	手提箱
 il a une valise	他有一个手提箱
 marc a un passeport	"Marc有一本护照"
-tu as un avion	你有飞机吗？
+tu as un avion	你有飞机吗?
 voiture	汽车
 tu as une voiture francaise	你有一辆法国汽车
-billet	票,入场券,门票，（车、船）票
-s'il vous plait	请给我；请问。
+billet	票,入场券,门票,(车、船)票
+s'il vous plait	请给我;请问。
 billet d'avion	机票
-tu prends la voiture	你乘坐汽车吗？
+tu prends la voiture	你乘坐汽车吗?
 un restaurant	一家饭馆
-montréal	蒙特利尔（加拿大主要港市)
+montréal	蒙特利尔(加拿大主要港市)
 le restaurant espagnol	那家西班牙饭馆
 berlin	柏林
 c'est une gare francaise	这是一座法国火车站
@@ -148,14 +148,14 @@ Je prends la voiture	我乘坐汽车
 je vais à paris en voiture	我乘汽车去巴黎
 je prends l'avion	我乘坐飞机
 c'est une valise	这是一个手提箱
-tu prends le taxi	你乘坐出租车吗？
-où est le restaurant	这家饭馆在哪里？
+tu prends le taxi	你乘坐出租车吗?
+où est le restaurant	这家饭馆在哪里?
 où est paul	"Paul在哪里"
-tu as un billet d'avion	你有机票吗？
+tu as un billet d'avion	你有机票吗?
 Duo a un passeport	朵儿有一本护照。
 un croissant s'il vous plaît	请给我一个牛角面包
 elle a un billet d'avion	她有一张机票
-une gare	一座火车站（相当于英语中的“railwaystation”“trainstation”或“busstation”。）
+une gare	一座火车站(相当于英语中的“railwaystation”“trainstation”或“busstation”。)
 C'est l'aéroport	这是机场
 je vais à paris	我去巴黎
 j'ai une voiture	我有一辆汽车
@@ -169,150 +169,150 @@ père	父亲
 mère	母亲
 mari	丈夫
 femme	妻子
-son père	他的，她的父亲（加阳性名词）
-sa sœur	他的，她的姐妹（加阴性名词,根据所修饰的名词的阴阳性来变化，因为“sœur”是阴性，所以用“sa”来修饰）
+son père	他的,她的父亲(加阳性名词)
+sa sœur	他的,她的姐妹(加阴性名词,根据所修饰的名词的阴阳性来变化,因为“sœur”是阴性,所以用“sa”来修饰)
 ma famille habite en france	我一家人住在法国
 parle	说话
 C'est ma famille	这是我一家人
-famille	“家庭；家属；家族”的意思，阴性名词;一家人
+famille	“家庭;家属;家族”的意思,阴性名词;一家人
 ma mère et sa sœur	我母亲和她的姐妹
 université	大学
-professeur	老师;中学教师；大学教授；教员，教练n.m.
+professeur	老师;中学教师;大学教授;教员,教练n.m.
 la famille	一家人
 ma femme est journaliste	我妻子是记者
 la fille de paul	"Paul的女儿"
 le fils de paul	"Paul的儿子"
-je veux	（我想要）
-tu veux	（你想要）
-il veut	（他想要）
-elle veut	（她想要）
-on veut	（它想要）
-nous voulons	（我们想要）
-vous voulez	（您/你们想要）
-ils veulent	（他们想要）
-elles veulent	（她们想要）
+je veux	(我想要)
+tu veux	(你想要)
+il veut	(他想要)
+elle veut	(她想要)
+on veut	(它想要)
+nous voulons	(我们想要)
+vous voulez	(您/你们想要)
+ils veulent	(他们想要)
+elles veulent	(她们想要)
 boutique	商店
 j'étudie à bordeaux	我在波尔多学习
 étudiant	男大学生
 étudiante	女大学生
-l'avion	这个/那个飞机（阳性）
-l'orange	那个橙子（阴性）
+l'avion	这个/那个飞机(阳性)
+l'orange	那个橙子(阴性)
 le chat de marie	"Marie的猫"
-le chien d'anna	"Anna的狗"（注意，de在元音前要变成d')
+le chien d'anna	"Anna的狗"(注意,de在元音前要变成d')
 la musique	音乐
 lire un livre	阅读一本书
-je prends	（我乘坐/拿）Theverbprendrehasansendingforboththejeandtuforms.
-tu prends	（你乘坐/拿）Theverbprendrehasansendingforboththejeandtuforms.
-il prend	（他乘坐/拿）
-elle prend	（她乘坐/拿）
-nous prenons	（我们乘坐/拿）
-vous prenez	（您/你们乘坐/拿）
-ils prennent	（他们乘坐/拿）
-elles prennent	（她们乘坐/拿）。
+je prends	(我乘坐/拿)Theverbprendrehasansendingforboththejeandtuforms.
+tu prends	(你乘坐/拿)Theverbprendrehasansendingforboththejeandtuforms.
+il prend	(他乘坐/拿)
+elle prend	(她乘坐/拿)
+nous prenons	(我们乘坐/拿)
+vous prenez	(您/你们乘坐/拿)
+ils prennent	(他们乘坐/拿)
+elles prennent	(她们乘坐/拿)。
 tu vas au restaurant	你去饭馆
 elle va au zoo	她去动物园
-je mange	我吃;（我吃）
-tu manges	你吃（s不发音）;（你吃）
-il mange	他吃;（他吃）
-elle mange	她吃;（她吃）
-nous mangeons	（我们吃）
-vous mangez	（您/你们吃）
-ils mangent	（他们吃）
-elles mangent	（她们吃）。
+je mange	我吃;(我吃)
+tu manges	你吃(s不发音);(你吃)
+il mange	他吃;(他吃)
+elle mange	她吃;(她吃)
+nous mangeons	(我们吃)
+vous mangez	(您/你们吃)
+ils mangent	(他们吃)
+elles mangent	(她们吃)。
 des chiens	这些狗
 les étudiants étudient	那些大学生学习
 ils travaillent en france	他们在法国工作
 je suis	我是
 tu es	你是
 elle est	她是
-nous sommes	（我们是）
-vous êtes	（您/你们是）
-ils sont	（他们是）
-elles sont	（她们是）。
+nous sommes	(我们是)
+vous êtes	(您/你们是)
+ils sont	(他们是)
+elles sont	(她们是)。
 j'aime la musique	我喜欢音乐
 nous voulons lire un livre	我们想要阅读一本书
 je vais à l'école en voiture	我乘汽车去学校
 nous allons à la boulangerie	我们去面包店
 je prends le bus	我乘坐公共汽车
-je vais au parc	我去公园（当à和le一起出现，要合并成au）
+je vais au parc	我去公园(当à和le一起出现,要合并成au)
 elle est amusante	她很有趣
 nous sommes chinois	我们是中国人
-il a trois chats	他有三只猫（复数）
+il a trois chats	他有三只猫(复数)
 les garcons sont étudiants	那些男孩是大学生
 ils mangent deux pizzas	他们吃两个披萨
 les filles sont en espagne	这些女孩在西班牙
 les	这些(le,la,l'的复数)
-Camille	人名（很獨立，工作能力很強，有企圖心）
+Camille	人名(很獨立,工作能力很強,有企圖心)
 mes frères aiment le chocolat	我的兄弟们喜欢巧克力
 tes parents sont ici	你的父母在这里
-ce sont tes filles	这是你的女儿们吗？
+ce sont tes filles	这是你的女儿们吗?
 c'est son bébé	这是他的宝宝
 ses parents sont amusants	她的父母很有趣
 la femme est contente	这个女人很高兴
-les femmes sont contentes	那些女人很高兴（如果谈论的是复数名词，形容词词尾也要加上-s）
+les femmes sont contentes	那些女人很高兴(如果谈论的是复数名词,形容词词尾也要加上-s)
 jus	果汁
-voudrais	(jeveux我想要:是直陈式，相当于“Iwant”）“jevoudrais”类似于“Iwouldlike”（更加委婉）
+voudrais	(jeveux我想要:是直陈式,相当于“Iwant”)“jevoudrais”类似于“Iwouldlike”(更加委婉)
 toilettes	卫生间
 restaurants	饭馆
-personne	人；任何人；没有人
+personne	人;任何人;没有人
 amusantes	有趣的
 amusants	有趣的
-intelligentes	聪明的；有智慧
+intelligentes	聪明的;有智慧
 intelligente	聪明的
 contents	高兴的
-francaises	法国人；法国的
-anglaises	英国人；英国的
-mexicaines	墨西哥的；墨西哥人
-mexicains	墨西哥的；墨西哥人
-américaines	美国人；美国的
+francaises	法国人;法国的
+anglaises	英国人;英国的
+mexicaines	墨西哥的;墨西哥人
+mexicains	墨西哥的;墨西哥人
+américaines	美国人;美国的
 amusant	有趣的
-amusante	有趣的；有意思；有意思的
-contente	高兴的；满意；很高兴
-ses	“他的/她的/它的（复数）”
+amusante	有趣的;有意思;有意思的
+contente	高兴的;满意;很高兴
+ses	“他的/她的/它的(复数)”
 ses livres sont intéressants	他/她/它的书很有趣。
-ce sont	他们是；她们是
-aiment	喜欢（第三人称复数形式）
-elles aiment la musique	（她们喜欢音乐。）
-tes	你的（复数）
+ce sont	他们是;她们是
+aiment	喜欢(第三人称复数形式)
+elles aiment la musique	(她们喜欢音乐。)
+tes	你的(复数)
 tes livres	你的书
-mes	我的（复数）
-mes livres sont intéressants	（我的书很有趣。）
+mes	我的(复数)
+mes livres sont intéressants	(我的书很有趣。)
 frères	兄弟们
 voitures	汽车
 chiens	“狗”的复数形式
 journalistes	记者
-ont	（有）的第三人称复数形式
-ils ont des livres	（他们有一些书。“des”在法语中是不定冠词，用于复数名词前，表示“一些”。）
+ont	(有)的第三人称复数形式
+ils ont des livres	(他们有一些书。“des”在法语中是不定冠词,用于复数名词前,表示“一些”。)
 étudiants	大学生们
 étudiantes	大学生们
 étudie	学习(直陈式现在时第三人称单数)
-habitent	（居住）的第三人称复数形式
-ils habitent à Paris	（他们住在巴黎。）
+habitent	(居住)的第三人称复数形式
+ils habitent à Paris	(他们住在巴黎。)
 professeurs	老师们
 hommes	“男人”“男子”的复数形式
-travaillent	（工作）的第三人称复数形式
-mangent	（吃）的第三人称复数形式
-ils mangent des fruits	（他们吃水果。）
-trois	三；三只
-aimes	喜欢；爱的第二人称单数形式
+travaillent	(工作)的第三人称复数形式
+mangent	(吃)的第三人称复数形式
+ils mangent des fruits	(他们吃水果。)
+trois	三;三只
+aimes	喜欢;爱的第二人称单数形式
 métro	地铁
 banque	银行
 école	学校
-habitons	（居住）的第一人称复数形式
-voulons	想要（第一人称复数形式）
+habitons	(居住)的第一人称复数形式
+voulons	想要(第一人称复数形式)
 jardin	花园
 appartement	公寓
 maison	房子
 chouette	猫头鹰
 animal de compagnie	宠物
-pour moi	给我的；为了我；对于我
-ce livre est pour moi	（这本书是给我的。）
+pour moi	给我的;为了我;对于我
+ce livre est pour moi	(这本书是给我的。)
 une table	一张桌子
 une personne	一个人
-les toilettes pour femmes	女卫生间，“les”是定冠词，修饰复数名词“toilettes”（卫生间）;“pourfemmes”意思是“为女性”
-une table pour deux personnes	一张双人桌（“pour”是介词，有“为了”“对于”“适合”等多种意思）
+les toilettes pour femmes	女卫生间,“les”是定冠词,修饰复数名词“toilettes”(卫生间);“pourfemmes”意思是“为女性”
+une table pour deux personnes	一张双人桌(“pour”是介词,有“为了”“对于”“适合”等多种意思)
 où sont les toilettes	卫生间在哪里
-c'est pour moi	这是给我的吗？
+c'est pour moi	这是给我的吗?
 les toilettes pour hommes	男卫生间
 j'aime les restaurants francais	我喜欢法国饭馆
 la serveuse est américaine	服务员是美国人
@@ -320,57 +320,57 @@ je voudrais un thé	我想要一杯茶
 deux cafés	两杯咖啡
 un jus d'orange	一杯橙汁
 le serveur parle anglais	服务员说英语
-tu veux un thé	你想要茶吗？
+tu veux un thé	你想要茶吗?
 la serveuse est francaise	服务员是法国人
 une chanson chinoise	一首中国歌曲
-oui elle est coréenne	是的，她是韩国人
+oui elle est coréenne	是的,她是韩国人
 merci beaucoup	非常感谢
-la valise	那个手提箱（是阴性名词）
-où est la gare	火车站在哪里？
-le billet d'avion	机票（“le”是定冠词，用于修饰阳性名词，“d'”是“de”的缩写形式,表示所属关系）
-où est le taxi	那辆出租车在哪里？
-et toi	你呢？
+la valise	那个手提箱(是阴性名词)
+où est la gare	火车站在哪里?
+le billet d'avion	机票(“le”是定冠词,用于修饰阳性名词,“d'”是“de”的缩写形式,表示所属关系)
+où est le taxi	那辆出租车在哪里?
+et toi	你呢?
 bonsoir	晚上好
 tu vas à l'hotel	你去这家旅馆hôtel
 le train	那列火车
 bonne journée	祝你一天愉快
-salut à demain	再见，明天见！
+salut à demain	再见,明天见!
 trois personnes	三个人
 pour toi	给你的
 le serveur parle francais	服务员说法语
-le jus d'orange	橙汁（“jus”是阳性名词，意为“果汁”。）
-tu aimes les restaurants francais	你喜欢法国饭馆吗？（“aimes”（喜欢）的第二人称单数变位，“français”形容词，“法国的”）
+le jus d'orange	橙汁(“jus”是阳性名词,意为“果汁”。)
+tu aimes les restaurants francais	你喜欢法国饭馆吗?(“aimes”(喜欢)的第二人称单数变位,“français”形容词,“法国的”)
 l'addition s'il vous plait	请给我账单
-tu prends un thé	你想要茶吗？（吃、喝、乘坐）
-petits	小，小的
-petit	小；小的；矮
-grands	大；高；大型的
-magasin	商店;商店；店
+tu prends un thé	你想要茶吗?(吃、喝、乘坐)
+petits	小,小的
+petit	小;小的;矮
+grands	大;高;大型的
+magasin	商店;商店;店
 salade	沙拉
-bouteille	瓶子;瓶子；瓶
+bouteille	瓶子;瓶子;瓶
 eau	水
-verre	杯子；玻璃杯
+verre	杯子;玻璃杯
 vin	葡萄酒
 bière	啤酒
 tasse	杯子
 ville	城市
 vélo	自行车
 plante	植物
-vert	绿色；绿色的
-ouvert	营业；开着；开
+vert	绿色;绿色的
+ouvert	营业;开着;开
 pharmacie	药店
 supermarché	超市
-petites	小；小的
-petite	小；小的；矮
-grandes	大；高；大的
+petites	小;小的
+petite	小;小的;矮
+grandes	大;高;大的
 aujourd'hui	今天
 fermé	关着
 cinq	五
-quatre	四；四个
+quatre	四;四个
 un homme mange un chocolat	一个男人吃一块巧克力
 le mari de julia	"Julia的丈夫"
 le frère de louis	"Louis的兄弟"
-tu es un cheval	你是一匹马吗？
+tu es un cheval	你是一匹马吗?
 un bon café	一杯好咖啡
 je suis dans le jardin	我在花园里
 mon père et ma mère	我的父亲和我的母亲
@@ -378,22 +378,22 @@ le chat est dans la voiture	猫在汽车里
 dans la voiture	在汽车里
 ma famille habite dans une maison	我一家人住在一幢房子里
 mon mari veut une voiture	我的丈夫想要一辆汽车
-où habite ta grandmère	你祖母住在哪里？
+où habite ta grandmère	你祖母住在哪里?
 ma maison	我的房子
 elle est japonaise	她是日本人
 en angleterre	在英国
 les magasins sont grands	商店很大
 le magasin	商店
 la voiture est grande	汽车很大
-les tables sont petites	桌子很小（复数）
-les écoles sont petites	学校很小（复数）
+les tables sont petites	桌子很小(复数)
+les écoles sont petites	学校很小(复数)
 la banque est petite	银行很小
 la banque est grande	银行很大
 la maison est grande	房子很大
-les universités américaines	美国大学（复数）
-les vélos	自行车（复数）
+les universités américaines	美国大学(复数)
+les vélos	自行车(复数)
 la station de métro	地铁站
-où est l'hôpital	医院在哪里？
+où est l'hôpital	医院在哪里?
 le restaurant est ouvert	饭馆营业中
 duo est vert	朵儿是绿色的
 une école verte	一个绿色的学校
@@ -403,22 +403,22 @@ une plante	一株植物
 une ville française	一个法国城市
 le supermarché est ouvert	超市营业中
 j'aime les plantes	我喜欢植物
-visitons	去玩；参观（第一人称复数命令式形式)意思是“让我们参观”。
-voyages	“旅行”(复数形式)例如：J'aimelesvoyages.（我喜欢旅行。）
+visitons	去玩;参观(第一人称复数命令式形式)意思是“让我们参观”。
+voyages	“旅行”(复数形式)例如:J'aimelesvoyages.(我喜欢旅行。)
 vacances	假期;度假
-vont	（去）的第三人称复数形式。例如：Ilsvontàl'école.（他们去学校。）
+vont	(去)的第三人称复数形式。例如:Ilsvontàl'école.(他们去学校。)
 voyage	旅行
-visite	去玩；“参观；访问；（动词/名词）
-pays	“国家；乡村”
-voyageons	旅行、航行(第一人称复数的现在时变位形式)例如“nousvoyageons”（我们旅行）
-voyagent	旅行（第三人称复数的现在时变位形式）
+visite	去玩;“参观;访问;(动词/名词)
+pays	“国家;乡村”
+voyageons	旅行、航行(第一人称复数的现在时变位形式)例如“nousvoyageons”(我们旅行)
+voyagent	旅行(第三人称复数的现在时变位形式)
 plage	沙滩
 visites	去玩(第二人称单数的现在时变位形式)
 musée	博物馆
-veulent	“想要”“愿意”“希望”(第三人称复数形式)“theywant”（他们想要）
+veulent	“想要”“愿意”“希望”(第三人称复数形式)“theywant”(他们想要)
 château	城堡(阳性名词)
 église	教堂(阴性名词)
-aux-	是“à”+“les”的缩合形式。例如：Jevaisauxéglises.（我去那些教堂。）
+aux-	是“à”+“les”的缩合形式。例如:Jevaisauxéglises.(我去那些教堂。)
 le mexique est un pays	墨西哥是一个国家
 je visite le japon	我去日本玩
 j'aime le mexique	我喜欢墨西哥
@@ -431,142 +431,141 @@ je voyage beaucoup	我常常旅行
 j'aime les vacances	我喜欢假期
 je voyage avec mon frère	我和我的兄弟一起旅行
 nous visitons le mexique	我们去墨西哥玩
-tu voyages avec ton père	你和你的父亲一起旅行吗？
+tu voyages avec ton père	你和你的父亲一起旅行吗?
 ils aiment les vacances	他们喜欢假期
 nous visitons le brésil	我们去巴西玩
 nous visitons berlin	我们去柏林玩
 appeler	名叫
 bienvenue	欢迎n.f.
-bonjour	您好，早上好n.m
-ce	这pron.dém;这，这个
-un club	俱乐部，会，社n.m
+bonjour	您好,早上好n.m
+ce	这pron.dém;这,这个
+un club	俱乐部,会,社n.m
 être	是v.i
-italienne	意大利的；n.意大利人；n.m.意大利语(阴性）;(adj.)意大利的，意大利语的(阴性）
-la baule	拉波尔（法国西部海滨城市）
+italienne	意大利的;n.意大利人;n.m.意大利语(阴性);(adj.)意大利的,意大利语的(阴性)
+la baule	拉波尔(法国西部海滨城市)
 madames	夫人们n.f
-maman	妈妈（儿语，对母亲的爱称）n.f
+maman	妈妈(儿语,对母亲的爱称)n.f
 non	不adv
-voici	这是，这儿是，这就是prep
-bonjour monsieur	先生，您好。
-vous vous appelez	您的姓名。。？
+voici	这是,这儿是,这就是prep
+bonjour monsieur	先生,您好。
+vous vous appelez	您的姓名。。?
 et voici ma femme alice	还有这是我的妻子Alice
-bonjour madame	您好，女士
-vous êtes madame falco	您是法尔科夫人吗？
+bonjour madame	您好,女士
+vous êtes madame falco	您是法尔科夫人吗?
 il s'appelle aldo	他的名字叫奥尔多
-qui est-ce	你是谁？
+qui est-ce	你是谁?
 il est italien	他是意大利人
-oui et elle c'est nicole	是的，她是妮可
+oui et elle c'est nicole	是的,她是妮可
 tu t'appelles giacomo	你的名字是贾科莫
 tu es italien	你是意大利人
 ju suis italien	我是意大利人
 une chaise	一把椅子
-à	在；向，到；给……prép.
+à	在;向,到;给......prép.
 ah	啊!唉!interj.
 médecin assistant	助理医生
-assistante	助理，助手，副手n.
-chinois	中国的adj.；中国人n.（首字母大写）
-chinoise	中国的adj.中国人n.（首字母大写）
-cours	课，课程n.m.[kur]
-directrice	经理n.阴性形式;导演，校长（阴性）
-en	在……(指地点)prép.
-espagnole	西班牙的adj.；西班牙人(首字母大写）n.
+assistante	助理,助手,副手n.
+chinois	中国的adj.;中国人n.(首字母大写)
+chinoise	中国的adj.中国人n.(首字母大写)
+directrice	经理n.阴性形式;导演,校长(阴性)
+en	在......(指地点)prép.
+espagnole	西班牙的adj.;西班牙人(首字母大写)n.
 français	法语n.m.
 en France	在法国n.f
-genève	日内瓦(瑞士)(首字母大写）
+genève	日内瓦(瑞士)(首字母大写)
 japon	日本n.m.Japon
-japonais	日本的adj.日本人Japonais（n.）;(adj.)日本的；日语的
-japonaise	日本的adj.日本人Japonaise（n.）;(adj.)日本的；日语的（阴性)
-rendez-vous	约会，预约n.m.
+japonais	日本的adj.日本人Japonais(n.);(adj.)日本的;日语的
+japonaise	日本的adj.日本人Japonaise(n.);(adj.)日本的;日语的(阴性)
+rendez-vous	约会,预约n.m.
 sur rendez-vous	(医生接待)预约就诊(的病人)
 secrétaire	秘书n.[s(ə)kretεr]
-s'il vous plaît	请，请您，请问loc.
-Suisse	瑞士Suisse（n.f）=英语：Switzerland
-sympa	（俗）给人好感的，讨人喜欢的adj.inv.
-téléphone	电话；电话机n.m;电话
+s'il vous plaît	请,请您,请问loc.
+Suisse	瑞士Suisse(n.f)=英语:Switzerland
+sympa	(俗)给人好感的,讨人喜欢的adj.inv.
+téléphone	电话;电话机n.m;电话
 le cours	课程
 l'étudiante	女学生
-l'héroïne	女英雄；女主人公
+l'héroïne	女英雄;女主人公
 C'est une belle voiture	这是一辆漂亮的车
-La voiture est à M.Dupont	这是杜邦先生的。（表示前面已经提到过的人或事物，用定冠词la)
+La voiture est à M.Dupont	这是杜邦先生的。(表示前面已经提到过的人或事物,用定冠词la)
 Vous n'avez pas de cours ce matin	你们今天上午没课吗?
 Non Le professeur est malade	没有。老师病了。(表示谈话双方皆知的人或事物,用定冠词le)
-Anne est la petite sœur de Paul	安娜是保罗的小妹妹。（用在受其他成分限定的名词前）
-J'aime beaucoup le café	我很喜欢咖啡。（表示人或事物的总体概念）
-La Terre est ronde	地球是圆的。（表示独一无二的事物。）
-danseur	舞蹈家（阳性）
-danseuse	舞蹈家（阴性）[dɑ̃søz]
-juif	犹太的,犹太人的（阳性）
-juive	犹太的,犹太人的（阴性）
-informaticien	计算机编程员，信息论专家（阳性）[ɛ̃fɔrmatisjɛ̃,-εn]
-informaticienne	计算机编程员，信息论专家（阴性）[ɛ̃fɔrmatisjɛ̃,-εn]
+Anne est la petite sœur de Paul	安娜是保罗的小妹妹。(用在受其他成分限定的名词前)
+J'aime beaucoup le café	我很喜欢咖啡。(表示人或事物的总体概念)
+La Terre est ronde	地球是圆的。(表示独一无二的事物。)
+danseur	舞蹈家(阳性)
+danseuse	舞蹈家(阴性)[dɑ̃søz]
+juif	犹太的,犹太人的(阳性)
+juive	犹太的,犹太人的(阴性)
+informaticien	计算机编程员,信息论专家(阳性)[ɛ̃fɔrmatisjɛ̃,-εn]
+informaticienne	计算机编程员,信息论专家(阴性)[ɛ̃fɔrmatisjɛ̃,-εn]
 six enfants	六个孩子[sis]
 seize personnes	十六个人[sɛz]
 dix-sept	十七[dissɛt]
 dix-huit	十八[dizɥit]
 dix-neuf	十九[diznœf]
 vingt	二十[vɛ̃t]
-américain	美国的；美国人的
-américaine	美国的；美国人的（阴性）
+américain	美国的;美国人的
+américaine	美国的;美国人的(阴性)
 familier	(adj.)家庭的;亲近的,亲密的,亲热的;熟悉的;习以为常的,习惯的;通晓的
-familière	(adj.)家庭的;(阴性）
-neuve	(adj.)新的（阴性）
-heureux	(adj.)幸福的，美满的；快乐的;高兴的
-heureuse	(adj.)幸福的，美满的；快乐的;高兴的(阴性）
-le Japon	日本（介词+国别名词）阳性
+familière	(adj.)家庭的;(阴性)
+neuve	(adj.)新的(阴性)
+heureux	(adj.)幸福的,美满的;快乐的;高兴的
+heureuse	(adj.)幸福的,美满的;快乐的;高兴的(阴性)
+le Japon	日本(介词+国别名词)阳性
 le Canada	加拿大
 l'Iran	伊朗
-la France	法国（介词+国别名词）阴性
+la France	法国(介词+国别名词)阴性
 la Chine	中国
 l'Italie	意大利(英语中是“Italy”)
 les États-Unis	美国
-J'habite en France.	我住在法国。n+阴性单数国名(省略冠词）
-J'habite en Italie.	我住在意大利。n+阴性单数国名(省略冠词）
-Elle habite en Iran	她住在伊朗。en+以元音开头的阳性单数国名(省略冠词）
-J'habite au Japon	我住在日本。au+以辅音开头的阳性单数国名(au=à+le）
+J'habite en France.	我住在法国。n+阴性单数国名(省略冠词)
+J'habite en Italie.	我住在意大利。n+阴性单数国名(省略冠词)
+Elle habite en Iran	她住在伊朗。en+以元音开头的阳性单数国名(省略冠词)
+J'habite au Japon	我住在日本。au+以辅音开头的阳性单数国名(au=à+le)
 J'habite au Canada	我住在加拿大。
 J'habite aux États-Unis	我住在美国。
 J'habite aux Philippines	我住在菲律宾。
 le Caire	(开罗)个别城市名有阴阳性之分
-Il habite au Caire	(他住在开罗。au=à+le)遇到介词à时，介词要与定冠词缩合
-Vous êtes photographe	您是摄影师吗？
-Vous êtes française	你是法国人吗？
+Il habite au Caire	(他住在开罗。au=à+le)遇到介词à时,介词要与定冠词缩合
+Vous êtes photographe	您是摄影师吗?
+Vous êtes française	你是法国人吗?
 Vous habitez en France	您居住在法国?
 Vous êtes dans le cours d'italien	您正在学习意大利语课程
-mon école	我的学校（以元音字母或哑音h开头的阴性名词前，使用阳性定冠词“mon”“ton”“son”）
-ton amie	你的朋友（以元音字母或哑音h开头的阴性名词前，使用阳性定冠词“mon”“ton”“son”）
-son histoire	它的历史（以元音字母或哑音h开头的阴性名词前，使用阳性定冠词“mon”“ton”“son”）
-adresse	地址，住址n.f.
-Quelle est ton adresse	你的地址是什么？
-Quelle est votre adresse	您的地址是什么？
-âge	年龄，年纪n.m.
+mon école	我的学校(以元音字母或哑音h开头的阴性名词前,使用阳性定冠词“mon”“ton”“son”)
+ton amie	你的朋友(以元音字母或哑音h开头的阴性名词前,使用阳性定冠词“mon”“ton”“son”)
+son histoire	它的历史(以元音字母或哑音h开头的阴性名词前,使用阳性定冠词“mon”“ton”“son”)
+adresse	地址,住址n.f.
+Quelle est ton adresse	你的地址是什么?
+Quelle est votre adresse	您的地址是什么?
+âge	年龄,年纪n.m.
 je vais	我去
 tu vas	你去
 il va	他去
 elle va	她去
-nous allons	（我们去）
-vous allez	（您/你们去）
-ils vont	（他们去）
-elles vont	（她们去）
-alors	那么，在这种情况下adv.=Then
+nous allons	(我们去)
+vous allez	(您/你们去)
+ils vont	(他们去)
+elles vont	(她们去)
+alors	那么,在这种情况下adv.=Then
 C'est mon ami	他是我的朋友
 Ju suis avec mon ami	我和我的朋友在一起
 avoir	有v.t.
-j'ai	我有（当动词以原音开头，je要改成j')
+j'ai	我有(当动词以原音开头,je要改成j')
 tu as	你有
 il a	他有
 elle a	她有
-nous avons	（我们有）
-vous avez	（你们有；您有，用于第二人称复数或敬称单数）
-ils ont	（他们有）
-elles ont	（她们有）
-tu as son adresse	你有他的地址？
+nous avons	(我们有)
+vous avez	(你们有;您有,用于第二人称复数或敬称单数)
+ils ont	(他们有)
+elles ont	(她们有)
+tu as son adresse	你有他的地址?
 Je suis au Canada	我在加拿大n.m.
-fille	女孩，姑娘；女儿n.f.
+fille	女孩,姑娘;女儿n.f.
 C'est ma fille	这是我的女儿
 C'est mon fils	这是我的儿子
 C'est une fille	这是一个女孩
 Hôtel	宾馆n.m.
-journée	一天；白天，白昼n.f.
+journée	一天;白天,白昼n.f.
 Merci à vous	谢谢您
 Montréal	蒙特利尔(加拿大一座充满魅力的城市)
 Notre-Dame	圣母院n.f.inv(没有性数变化)
@@ -587,12 +586,12 @@ Il parle espagnol	他会说西班牙语
 Je parle français	我会说法语
 Elle parle chinois	她会说中文
 Vous parlez quelle langue	您讲哪种语言
-Quel est votre nom	您姓什么？
-Quelle est votre profession	您的职业是什么？
-Quelle est son adresse	他的地址是什幺？
+Quel est votre nom	您姓什么?
+Quelle est votre profession	您的职业是什么?
+Quelle est son adresse	他的地址是什幺?
 soixante	六十
 soixante et un	六十一
-soixante et une	六十一（阴性）
+soixante et une	六十一(阴性)
 soixante-quatre	六十四
 soixante-huit	六十八
 soixante-dix	七十
@@ -601,7 +600,7 @@ soixante-dix-sept	七十七
 soixante-dix-huit	七十八
 soixante-dix-neuf	七十九
 j'ai un secrétaire	我有一个秘书
-Vous avez un rendez-vous	您有预约吗？
+Vous avez un rendez-vous	您有预约吗?
 il a une carte de visite	他有一张名片
 quatre-vingts	八十
 quatre-vingts-un	八十一
@@ -610,64 +609,64 @@ quatre-vingts-onze	九十一
 quatre-vingts-dix-neuf	九十九
 cent-un	一百零一
 toi	你pron.pers
-Comment tu vas	你好吗？
-Comment allez-vous	您还好吗？
+Comment tu vas	你好吗?
+Comment allez-vous	您还好吗?
 Salut Céline	你好Céline
-tu vas bien	你好吗？
-Et toi	你呢？Andyou?
+tu vas bien	你好吗?
+Et toi	你呢?Andyou?
 J'habite à Montréal maintenant avec ma femme	我现在和我的妻子住在Montréal
-Au Canada	在加拿大吗？
-Et quelle est ton adresse	那么你的地址是什么？
-Mon adresse	我的地址吗？
+Au Canada	在加拿大吗?
+Et quelle est ton adresse	那么你的地址是什么?
+Mon adresse	我的地址吗?
 rue Notre-Dame	巴黎圣母院街
-Et tu as une adresse e-mail	你有一个email地址吗？
+Et tu as une adresse e-mail	你有一个email地址吗?
 arobase	电子邮件地址符号“@”
-hotmail point com	点；圆点；句点，标点；分数；学分[pwɛ̃]n.m.
-Comment va ton ami espagnol	你的西班牙朋友怎么样了？
+hotmail point com	点;圆点;句点,标点;分数;学分[pwɛ̃]n.m.
+Comment va ton ami espagnol	你的西班牙朋友怎么样了?
 Il est à Paris avec son fils	他在巴黎和他的儿子一起。
 Il parle français maintenant	他现在会说法语
-Quel professeur tu préfères	你更喜欢哪个老师？
-Quelle voiture tu cherches	你想买什么车？
+Quel professeur tu préfères	你更喜欢哪个老师?
+Quelle voiture tu cherches	你想买什么车?
 Une Renault	雷诺车
-aimer	爱，热爱v.t.
+aimer	爱,热爱v.t.
 aussi	也adv.
 moi aussi	我也是。=metoo.
 Belgique	比利时n.f.
-bientôt	不久，马上adv.
-à bientôt	一会儿见，回头见loc.adv.
+bientôt	不久,马上adv.
+à bientôt	一会儿见,回头见loc.adv.
 boulangerie	面包房;面包店
 boulangerère	面包师傅n.f.
-boulanger	面包师傅（阳性）;面包师傅n.m.
-Bruxelles	布鲁塞尔（比利时的首都）
-Cayenne	卡宴（圭亚那的首府卡宴）
-chercher	找，寻找，寻觅
+boulanger	面包师傅(阳性);面包师傅n.m.
+Bruxelles	布鲁塞尔(比利时的首都)
+Cayenne	卡宴(圭亚那的首府卡宴)
+chercher	找,寻找,寻觅
 Je cherche du travail	我正在找工作
 classique	古典的adj.
 la musique classique	古典乐
-cinéma	电影院;电影，电影艺术；电影院
-correspondante	通信者，有信件往来者（去e变成阳性）
-Dakar	达喀尔（塞内加尔的首都）
-espagnol	西班牙的；西班牙语；西班牙人n.m.
+cinéma	电影院;电影,电影艺术;电影院
+correspondante	通信者,有信件往来者(去e变成阳性)
+Dakar	达喀尔(塞内加尔的首都)
+espagnol	西班牙的;西班牙语;西班牙人n.m.
 guyanais	圭亚那的;圭亚那人
 Lausanne	洛桑[瑞士]
 littérature	文学n.f.
-moi	给我；我=me
+moi	给我;我=me
 monde	世界n.m.
 musique	音乐
 la nature	自然n.f.
-québécoise	加拿大魁北克的adj.(去e变阳性）
-Sénégal	塞内加尔n.m.(位于西非，以其丰富的文化、音乐和多样的自然景观而闻名。)
+québécoise	加拿大魁北克的adj.(去e变阳性)
+Sénégal	塞内加尔n.m.(位于西非,以其丰富的文化、音乐和多样的自然景观而闻名。)
 Sénégalaise	塞内加尔人
-Sénégalais	塞内加尔人（阳性）
+Sénégalais	塞内加尔人(阳性)
 serveuse	服务员n.f.
 serveur	服务员n.m.
-souvent	经常，常常adv.;经常
-un sport	一项体育运动，体育项目n.m.
-un peu	一点儿，一下，少许，稍微loc.adv.（副词短语）
-volley-ball	排球，排球运动n.m.
+souvent	经常,常常adv.;经常
+un sport	一项体育运动,体育项目n.m.
+un peu	一点儿,一下,少许,稍微loc.adv.(副词短语)
+volley-ball	排球,排球运动n.m.
 J'ai vingt-neuf ans	我29岁了
 J'habite à Dakar au Sénégal	我住在塞内加尔的达喀尔
-Je vais souvent au cinéma	我经常去电影院（aller的变位）
+Je vais souvent au cinéma	我经常去电影院(aller的变位)
 Je cherche un correnspondant en France ou au Canada	我正在寻找法国或加拿大的笔友
 Mon e-mail	我的email
 Je suis québécoise	我是魁北克人
@@ -713,107 +712,107 @@ ta sœur parle francais	你的姐妹说法语
 Les légumes sont bons	蔬菜很好吃
 un légume	一种蔬菜n.m.
 un fruit	一个水果n.m.
-Ces plats sont bons	这些菜很好吃，菜n.m.
+Ces plats sont bons	这些菜很好吃,菜n.m.
 Je cuisine un plat	我做一道菜
 Ces pizzas sont bonnes	这些披萨很好
-Tu cuisines un plat français	你做一道法国菜吗？
+Tu cuisines un plat français	你做一道法国菜吗?
 Paul prépare le dîner	保罗做晚餐
-repas	饮食；餐；进餐n.m.;饭，菜，餐
-Tu prépares le repas	你做饭吗？
-Ils prennent un thé	他们喝一杯茶（“prennent”是法语动词“prendre”的第三人称复数变位形式。）
+repas	饮食;餐;进餐n.m.;饭,菜,餐
+Tu prépares le repas	你做饭吗?
+Ils prennent un thé	他们喝一杯茶(“prennent”是法语动词“prendre”的第三人称复数变位形式。)
 Il veut une pomme	他想要一个苹果n.f.
 Cette banane est bonne	这根香蕉n.f.很好吃(ce的阴性单数)这。
 J'aime les fruits	我喜欢水果n.m.
-Je cuisine des légumes	我做一些蔬菜（“des”可以表示一些，用于修饰可数名词复数，不分阴阳性。）
+Je cuisine des légumes	我做一些蔬菜(“des”可以表示一些,用于修饰可数名词复数,不分阴阳性。)
 Il mange un œuf	他吃了一个鸡蛋
 parfois	有时候
 samedi	周六
 radio	收音机
 dimanche	周日
 écoute	听
-écoutons	“我们听”。例如：Nousécoutonslamusique.（我们听音乐。）
+écoutons	“我们听”。例如:Nousécoutonslamusique.(我们听音乐。)
 ai	有
 jeudi	周四
-dors	睡，睡觉，睡得
+dors	睡,睡觉,睡得
 vendredi	周五
-lit	读，阅读，床
-nuit	夜晚，晚
+lit	读,阅读,床
+nuit	夜晚,晚
 après-midi	下午
 mercredi	周三
-lis	阅读，读
+lis	阅读,读
 journal	报纸
 mardi	周二
-joue	演出，演得，踢得
-après	之后，后
-jouent	演出，拉得，演奏。例如：Ilsjouentdupiano.（他们弹钢琴。）
+joue	演出,演得,踢得
+après	之后,后
+jouent	演出,拉得,演奏。例如:Ilsjouentdupiano.(他们弹钢琴。)
 soir	晚上
-enfant	小孩子，小孩，孩子
+enfant	小孩子,小孩,孩子
 lundi	周一
-chaque	每个，每，每场
+chaque	每个,每,每场
 regarde	看
 regardent	看
-jour	天，日子
+jour	天,日子
 télé	电视
-bonnes	好的，好吃的，好
-cuisine	厨房，菜，正在做饭
-cuisines	菜，在做，做
-bons	好吃的，美好的，好
+bonnes	好的,好吃的,好
+cuisine	厨房,菜,正在做饭
+cuisines	菜,在做,做
+bons	好吃的,美好的,好
 plat	菜
 légume	蔬菜
-préparent	准备，做
-bonne	好，好的，美好的
+préparent	准备,做
+bonne	好,好的,美好的
 fruit	水果
 pomme	苹果
 banane	香蕉
 ces	这些
 prêt	准备好了
-prépares	准备，做
-prête	准备好了，借
-prépare	准备，做
-cette	这，这所，这个，用于阴性单数名词前。
-préparons	准备，做
-déjeuner	午餐，吃午餐
-dîner	晚餐，吃晚餐
-prennent	拿，吃，喝，动词prendre的第三人称复数形式。
-prenons	拿，吃，喝
+prépares	准备,做
+prête	准备好了,借
+prépare	准备,做
+cette	这,这所,这个,用于阴性单数名词前。
+préparons	准备,做
+déjeuner	午餐,吃午餐
+dîner	晚餐,吃晚餐
+prennent	拿,吃,喝,动词prendre的第三人称复数形式。
+prenons	拿,吃,喝
 petit déjeuner	早餐
-œuf	鸡蛋，蛋
-matin	上午，早上
-venir	来，去（朝着说话者的方向或某个特定的地方移动）vs“aller”离开说话者所在的地方前往别的地方
-utilise	使用，用
-utilises	使用，用
+œuf	鸡蛋,蛋
+matin	上午,早上
+venir	来,去(朝着说话者的方向或某个特定的地方移动)vs“aller”离开说话者所在的地方前往别的地方
+utilise	使用,用
+utilises	使用,用
 travailler	工作
 numéro	号码
-écrivent	写，书写;“écrire”（写）的第三人称复数形式。
+écrivent	写,书写;“écrire”(写)的第三人称复数形式。
 e-mail	电子邮件
-écrit	写，写字;“écrire”的第三人称单数形式
+écrit	写,写字;“écrire”的第三人称单数形式
 message	信息
 un portable	手机
-écris	写，在写，正在写;“écrire”的第二人称单数形式
+écris	写,在写,正在写;“écrire”的第二人称单数形式
 lettre	信
 stylo	笔
-bureau	办公室，办公桌
+bureau	办公室,办公桌
 travaillons	工作;第一人称复数形式
 collègue	同事
 usine	工厂
 médecin	医生
 chauffeur	司机
 métier	职业
-des	一些，的
-ouvrent	打开;“ouvrir”（打开）的第三人称复数形式。
+des	一些,的
+ouvrent	打开;“ouvrir”(打开)的第三人称复数形式。
 blancs	白色的
 ouvrons	打开;“ouvrir”的第一人称复数形式
-blanches	白色的，白色;“blanc”（白色的）的阴性复数形式
+blanches	白色的,白色;“blanc”(白色的)的阴性复数形式
 salon	客厅
 ouvres	打开
-blanche	白色的，白色，白
+blanche	白色的,白色,白
 blanc	白色的
 ouvre	打开
 gentille	和善;形容阴性单数名词
-Cette fille est gentille.	（这个女孩很和善。）
+Cette fille est gentille.	(这个女孩很和善。)
 gentilles	和善
 livres	书
-vache	奶牛，牛
+vache	奶牛,牛
 gentil	和善
 gentils	和善
 Cédric veut lire trois livres aujourd'hui	"Cédric今天想读三本书"
@@ -821,26 +820,26 @@ la salle	"这个房间"
 Il y a trois pièces	有三个房间
 J'aime l'appartement de mes voisins	我喜欢我邻居的公寓
 six	六
-robe	连身裙，连衣裙，洋装
+robe	连身裙,连衣裙,洋装
 cher	(adj.)(m)亲爱的;贵的
-chère	(adj.)(m)亲爱的（阴性）;亲爱的；贵的（阴性形式）
+chère	(adj.)(m)亲爱的(阴性);亲爱的;贵的(阴性形式)
 t-shirt	"T恤衫"
-rouges	红色的（复数形式）
+rouges	红色的(复数形式)
 achètes	买
-veste	夹克，上衣
-coûtent	要（第三人称复数形式）
-du	从，的，对
+veste	夹克,上衣
+coûtent	要(第三人称复数形式)
+du	从,的,对
 achète	买
 jupe	裙子
-prix	价格，奖
-combien	多少；多少钱
-ça	这，那个，那
-coûte	要（第三人称单数形式）
-chers	贵（阳性复数形式）
-chères	贵（阴性复数形式）
+prix	价格,奖
+combien	多少;多少钱
+ça	这,那个,那
+coûte	要(第三人称单数形式)
+chers	贵(阳性复数形式)
+chères	贵(阴性复数形式)
 euro	欧元
 dix	十[dis];十
-neuf	九[nœf];(adj.)新的，新建的，新做的，尚未用过的；;九
+neuf	九[nœf];(adj.)新的,新建的,新做的,尚未用过的;;九
 huit	八[ɥit];八
 sept	七[sɛt];七
 les chaussures rouges	红色的鞋
@@ -848,122 +847,122 @@ Les robes sont rouges	连衣裙是红色的
 six robes	六条连衣裙
 Les sacs sont rouges	包是红色的。
 Les vêtements coûtent neuf euros	衣服要九欧元。
-C'est combien	这多少？
+C'est combien	这多少?
 Ce pantalon est cher	这条裤子很贵
 C'est huit euros	这是八欧元
 Je veux une jupe blanche	我想要一条白色的裙子
 Les sacs sont chers	包很贵。
 les vêtements	衣服
-le prix des jupes	裙子（复数）的价格（“des”在这里是“de”（表示所属关系“的”）和复数定冠词“les”的缩合形式。）
+le prix des jupes	裙子(复数)的价格(“des”在这里是“de”(表示所属关系“的”)和复数定冠词“les”的缩合形式。)
 les chaussures vertes	绿色的鞋
 Il y a sept magasins	有七家商店
 Les pizzas sont chères	披萨很贵。
 Mon sac est ici	我的包在这里。
-Où est ma chaussure	我的鞋在哪里？
+Où est ma chaussure	我的鞋在哪里?
 le prix de la pomme	苹果的价格
 le prix de la pizza	披萨的价格
 Le livre coûte huit euros	书要八欧元。
-Combien ça coûte	这要多少钱？
-le prix du sac	包的价格（“du”是“de”（表示“的”，用于引出所属关系等）和定冠词“le”的缩合形式。）
-peux	能，可以
+Combien ça coûte	这要多少钱?
+le prix du sac	包的价格(“du”是“de”(表示“的”,用于引出所属关系等)和定冠词“le”的缩合形式。)
+peux	能,可以
 quel âge	几岁
-as-tu	你有没有，你有吗
+as-tu	你有没有,你有吗
 an	岁
-parlons	说话，说
+parlons	说话,说
 venons	来
 jeune	年轻的
-ne	不，没
+ne	不,没
 viennent	来
-pas	不，没，没有
+pas	不,没,没有
 vient	来
 viens	来
 canadien	加拿大人
-parler	说话，讲话；交谈v.t.dir.(直接及物动词)讲（某种语言）;说，说话，谈论
+parler	说话,讲话;交谈v.t.dir.(直接及物动词)讲(某种语言);说,说话,谈论
 quatorze	十四[katɔrz];十四
 quinze	十五[kɛ̃z];十五
 treize	十三[trɛ:z];十三
 douze	十二[du:z];十二
 onze	十一[ɔ̃z];十一
-italien	(adj.)意大利的，意大利语的;n.意大利人；n.m.意大利语;
-marcher	走路，走
+italien	(adj.)意大利的,意大利语的;n.意大利人;n.m.意大利语;
+marcher	走路,走
 dois	应该
 important	重要的
-aller	去；走；处于（某种状态）;运转，进行，进展v.i.;去
-rue	街道，马路n.f.;街
-tourner	转弯；转动；翻转
+aller	去;走;处于(某种状态);运转,进行,进展v.i.;去
+rue	街道,马路n.f.;街
+tourner	转弯;转动;翻转
 à gauche	在左边
 Écoutez et répétez les phrases	听并重复这些句子。
 Je voudrais poser une question	我想要提一个问题。
-Qu'est-ce que ça veut dire	这是什么意思？（用于询问某个单词、短语、句子或者某个情况所表达的含义。）
-Ça se prononce comment	这个怎么发音？
-Je ne comprends pas	我不明白，我不懂。
-Je n'ai pas bien compris	我没有理解好，我没太明白。（compris是动词“comprendre”（理解，明白）的过去分词形式）
-Vous pouvez expliquer encore une fois	您（你们）可以再解释一次吗，拜托了？,s'ilvousplait
+Qu'est-ce que ça veut dire	这是什么意思?(用于询问某个单词、短语、句子或者某个情况所表达的含义。)
+Ça se prononce comment	这个怎么发音?
+Je ne comprends pas	我不明白,我不懂。
+Je n'ai pas bien compris	我没有理解好,我没太明白。(compris是动词“comprendre”(理解,明白)的过去分词形式)
+Vous pouvez expliquer encore une fois	您(你们)可以再解释一次吗,拜托了?,s'ilvousplait
 Je ne comprends pas ce qu'il faut faire	我不明白需要做什么。
-Est-ce qu'il y a des devoirs	有作业吗？
-Je suis désolé	我很抱歉，（我把作业忘在家里了。）
+Est-ce qu'il y a des devoirs	有作业吗?
+Je suis désolé	我很抱歉,(我把作业忘在家里了。)
 j'ai oublié mes devoirs à la maison	我把作业忘在家里了。
-Est-ce que c'est possible d'apporter mon devoir demain	明天带来我的作业，这是可能的吗？
-Est-ce que je peux aller aux toilettes	我可以去厕所吗？
-Excusez-moi	“对不起，打扰一下；请原谅我”，是非常常用的礼貌用语。
+Est-ce que c'est possible d'apporter mon devoir demain	明天带来我的作业,这是可能的吗?
+Est-ce que je peux aller aux toilettes	我可以去厕所吗?
+Excusez-moi	“对不起,打扰一下;请原谅我”,是非常常用的礼貌用语。
 je ne me sens pas bien	“我感觉不舒服”。
-infirmerie	(军队、学校等的)诊疗所,医务室（n.f.)
-est-ce que je peux aller à l'infirmerie	我可以去医务室吗？
-Ca va comme ça	“这样就行了吗？这样就可以了吗？这样还好吗？”表示对某个事物或情况是否达到预期状态的一种询问。
-J'ai oublié	“我已经忘记了”。(“oublier”（忘记）的过去分词,表示动作已经发生)
-Je serai absent demain	“我明天将缺席”。(serai：是动词“être”（是）的第一人称单数简单将来时)
-prochaine	“下一个的，即将到来的”
-la semaine	“星期，周”(阴性)
+infirmerie	(军队、学校等的)诊疗所,医务室(n.f.)
+est-ce que je peux aller à l'infirmerie	我可以去医务室吗?
+Ca va comme ça	“这样就行了吗?这样就可以了吗?这样还好吗?”表示对某个事物或情况是否达到预期状态的一种询问。
+J'ai oublié	“我已经忘记了”。(“oublier”(忘记)的过去分词,表示动作已经发生)
+Je serai absent demain	“我明天将缺席”。(serai:是动词“être”(是)的第一人称单数简单将来时)
+prochaine	“下一个的,即将到来的”
+la semaine	“星期,周”(阴性)
 Je serai absent la semaine prochaine.	“我下周将缺席”。
-dernière	“最后的，上一个的”
-J'étais absent la semaine dernière	“我上周缺席了”。(“étais”是动词“être”（是）的第一人称单数未完成过去时变位形式)
-Épelez	动词“épeler”（拼写）的第二人称复数命令式形式
-Épelez votre nom	（拼写你们的名字。）
-Écrivez	动词“écrire”（写）的第二人称复数命令式形式
+dernière	“最后的,上一个的”
+J'étais absent la semaine dernière	“我上周缺席了”。(“étais”是动词“être”(是)的第一人称单数未完成过去时变位形式)
+Épelez	动词“épeler”(拼写)的第二人称复数命令式形式
+Épelez votre nom	(拼写你们的名字。)
+Écrivez	动词“écrire”(写)的第二人称复数命令式形式
 Écrivez votre nom	写下你们的名字
-Écoutez	动词“écouter”（听）的第二人称复数命令式形式
+Écoutez	动词“écouter”(听)的第二人称复数命令式形式
 Écoutez bien	好好听
-Répétez	动词“répéter”（重复）的第二人称复数命令式形式
-Répétez après moi	（跟我重复。）
-Ne regardez pas le livre	“不要看这本书”。（regardez：是动词“regarder”（看，注视）的第二人称复数现在时变位形式）
-Ouvrez votre livre	“打开你们的书”。动词“ouvrir”（打开）的第二人称复数命令式
-Fermez le livre	“合上（关闭）这本书”。是动词“fermer”（关闭）的第二人称复数现在时
-Attendez	动词“attendre”（等待）的第二人称复数命令式
-Attendez-moi	（等等我！）
-Encore une fois	“再一次，又一次”。
-Peut-on utiliser le dictionnaire	“可以使用词典吗？”（“peut”是动词“pouvoir”（能够，可以）的第三人称单数现在时变位形式，表示可能性；“-on”是泛指人称代词，相当于“人们，大家”）
-C'est pour quand	“这是（安排）在什么时候的呢？”
-aider	动词，意为“帮助”
-Vous pouvez m'aider	“您（们）能帮助我吗？”（“m'”是直接宾语人称代词“me”（我），
-Venez ici	“到这里来”，是一种命令或邀请的表达。（动词“venir”（来）的第二人称复数命令式）
+Répétez	动词“répéter”(重复)的第二人称复数命令式形式
+Répétez après moi	(跟我重复。)
+Ne regardez pas le livre	“不要看这本书”。(regardez:是动词“regarder”(看,注视)的第二人称复数现在时变位形式)
+Ouvrez votre livre	“打开你们的书”。动词“ouvrir”(打开)的第二人称复数命令式
+Fermez le livre	“合上(关闭)这本书”。是动词“fermer”(关闭)的第二人称复数现在时
+Attendez	动词“attendre”(等待)的第二人称复数命令式
+Attendez-moi	(等等我!)
+Encore une fois	“再一次,又一次”。
+Peut-on utiliser le dictionnaire	“可以使用词典吗?”(“peut”是动词“pouvoir”(能够,可以)的第三人称单数现在时变位形式,表示可能性;“-on”是泛指人称代词,相当于“人们,大家”)
+C'est pour quand	“这是(安排)在什么时候的呢?”
+aider	动词,意为“帮助”
+Vous pouvez m'aider	“您(们)能帮助我吗?”(“m'”是直接宾语人称代词“me”(我),
+Venez ici	“到这里来”,是一种命令或邀请的表达。(动词“venir”(来)的第二人称复数命令式)
 Venez au tableau	“到黑板这儿来”。
-Qui est absent	“谁缺席了？”
-volontaire	名词，意为“志愿者”，也可作形容词表示“自愿的”
-Est-ce qu'il y a un volontaire	“有志愿者吗？”
-Vous avez dix minutes pour faire le test	“你们（您）有10分钟来做测试”。（动词“avoir”（有）的第二人称复数现在时）
-fini	形容词，意为“结束的，完成的”
+Qui est absent	“谁缺席了?”
+volontaire	名词,意为“志愿者”,也可作形容词表示“自愿的”
+Est-ce qu'il y a un volontaire	“有志愿者吗?”
+Vous avez dix minutes pour faire le test	“你们(您)有10分钟来做测试”。(动词“avoir”(有)的第二人称复数现在时)
+fini	形容词,意为“结束的,完成的”
 C'est fini	“结束了”。可以用于表示某个活动、事情已经完成。
-Travaillez	是动词“travailler”（工作，学习，劳动等）的第二人称复数命令式形式
-Travaillez par groupe de deux personnes	“两人一组进行（工作、学习等）”。
-Faites	动词“faire”（做，制造，使……成为）的第二人称复数命令式形式
-Faites des groupes de trois personnes	“组成三人一组（的小组）”。
-Demandez	动词“demander”（问，要求）的第二人称复数命令式形式
-Demandez à votre voisin	“问问你们的邻座（邻居）”。
+Travaillez	是动词“travailler”(工作,学习,劳动等)的第二人称复数命令式形式
+Travaillez par groupe de deux personnes	“两人一组进行(工作、学习等)”。
+Faites	动词“faire”(做,制造,使......成为)的第二人称复数命令式形式
+Faites des groupes de trois personnes	“组成三人一组(的小组)”。
+Demandez	动词“demander”(问,要求)的第二人称复数命令式形式
+Demandez à votre voisin	“问问你们的邻座(邻居)”。
 Au revoir	“再见”。
-À demain	“明天见”，是一种约定下次见面时间的告别用语。
+À demain	“明天见”,是一种约定下次见面时间的告别用语。
 À la semaine prochaine	“下周见”
 Bonnes vacances	“假期愉快”
-Bonne journée	祝你一天愉快;“祝你度过美好的一天”，是一种常用的祝福语。
-Bonne soirée	晚安;“晚上愉快”，可用于在晚上向他人表达祝福。
-anniversaire	名词，意为“生日；周年纪念日”
-Bon anniversaire	“生日快乐；周年纪念日快乐”，是一种常用的祝福语。
-Joyeux	形容词，意为“快乐的，欢乐的”
-Noël	名词，意为“圣诞节”
-Bonne année	“新年好”，是新年期间人们互相祝福的常用语。
+Bonne journée	祝你一天愉快;“祝你度过美好的一天”,是一种常用的祝福语。
+Bonne soirée	晚安;“晚上愉快”,可用于在晚上向他人表达祝福。
+anniversaire	名词,意为“生日;周年纪念日”
+Bon anniversaire	“生日快乐;周年纪念日快乐”,是一种常用的祝福语。
+Joyeux	形容词,意为“快乐的,欢乐的”
+Noël	名词,意为“圣诞节”
+Bonne année	“新年好”,是新年期间人们互相祝福的常用语。
 troisième	第三的
 visiter	参观
 lieu	地方
-dangereuse	危险的，是“dangereux”的阴性形式
+dangereuse	危险的,是“dangereux”的阴性形式
 dangereux	危险的
 deuxième	第二的
 loin	远
@@ -971,17 +970,17 @@ près	附近的
 pont	桥
 route	路
 près du	靠近
-près de	靠近，接近
-derrière	在……后面;后面
+près de	靠近,接近
+derrière	在......后面;后面
 habiter	居住(在)v.;居住
-immeuble	大楼，建筑物;大楼
+immeuble	大楼,建筑物;大楼
 intéressant	有趣的
 à droite	在右边;右
-première	第一的；首要的（阴性形式）；第一层（楼）;第一的
+première	第一的;首要的(阴性形式);第一层(楼);第一的
 les pommes de terre	土豆
-Je ne sais pas	“我不知道”。(sais：是动词“savoir”（知道，会）的第一人称单数现在时);我不知道
-savoir	知道，会
-Tu peux marcher	你能走路吗？
+Je ne sais pas	“我不知道”。(sais:是动词“savoir”(知道,会)的第一人称单数现在时);我不知道
+savoir	知道,会
+Tu peux marcher	你能走路吗?
 Tu dois aller à droite	你应该去右边
 la première rue	第一条街
 devant la voiture	汽车前面
@@ -993,132 +992,132 @@ un immeuble	一栋大楼
 près de la boulangerie	面包店附近
 C'est un pont important	这是一座重要的桥。
 près de l'école	学校附近
-parisiennes	意为“巴黎的”，是阴性复数形式
+parisiennes	意为“巴黎的”,是阴性复数形式
 les rues parisiennes	巴黎的街
 C'est loin d'ici	离这里很远。
 la première rue à gauche	左边第一条街
-C'est à droite	在右边吗？
+C'est à droite	在右边吗?
 C'est loin de Paris	离巴黎很远。
 Je dois marcher	我应该走路。
 Tu dois tourner à gauche	你应该左转弯。
 derrière la voiture	汽车后面
 un pont	一座桥
-le voisin	阳性，男邻居
+le voisin	阳性,男邻居
 la voisine	女邻居
-les voisins	男邻居（复数）
-les voisines	女邻居（复数）
+les voisins	男邻居(复数)
+les voisines	女邻居(复数)
 l'étudiant	男学生;男学生
-les étudiants	（这些学生）“les”在法语中是定冠词“the”，用于修饰复数名词。;男学生（复数）
-les étudiantes	女学生（复数）
+les étudiants	(这些学生)“les”在法语中是定冠词“the”,用于修饰复数名词。;男学生(复数)
+les étudiantes	女学生(复数)
 Ce sont les étudiants de la première année	这些是一年级的学生
-des voisins	一些邻居（男性邻居或男女混合的邻居）
+des voisins	一些邻居(男性邻居或男女混合的邻居)
 des voisines	一些女邻居
 C'est une voisine	这是一位女邻居
 Je vais au Japon	我去日本
-bibliothèque	图书馆（阴性）
+bibliothèque	图书馆(阴性)
 Elle va à la bibliothèque	她去图书馆
 Il habite aux États-Unis	他住在美国
-Les États-Unis	美国；美利坚合众国
+Les États-Unis	美国;美利坚合众国
 les Philippines	菲律宾;“菲律宾”
 les Pays-Bas	荷兰(英语中常用“Netherlands”或“Holland”来表示荷兰);“荷兰”
 C'est une adresse	这是一个地址
 pourquoi	为什么
 québécois	魁北克人
-voulez	要，想要
+voulez	要,想要
 tous les jours	每天
-prenez	带，乘坐，上
+prenez	带,乘坐,上
 achetez	买
 baguette	法棍面包
-allez	去，会，走
-lisez	阅读，阅
+allez	去,会,走
+lisez	阅读,阅
 nos	我们的
 avez	有
-vos	你们的，妳们的，您的
+vos	你们的,妳们的,您的
 n'est pas marié	未婚
 notre	我们的
-marié	婚，已婚的
-habitez	住，住在
-ensemble	一起，俱
+marié	婚,已婚的
+habitez	住,住在
+ensemble	一起,俱
 aimez	喜欢
 mariés	结婚了
 étudiez	学习
-parlez	说，谈论
+parlez	说,谈论
 cuisinez	做
-travaillez	工作，工
-dansez	跳舞，舞
-êtes	是，很，在
-quand	疑问副词，意为“什么时候”
-belge	比利时的adj.英文表达是“Belgian”;比利时人n.Belge（首字母大写）英文表达是“Belgian”（单数形式）/“Belgians”（复数形式）;比利时人
-maintenant	现在，目前adv.=Now
+travaillez	工作,工
+dansez	跳舞,舞
+êtes	是,很,在
+quand	疑问副词,意为“什么时候”
+belge	比利时的adj.英文表达是“Belgian”;比利时人n.Belge(首字母大写)英文表达是“Belgian”(单数形式)/“Belgians”(复数形式);比利时人
+maintenant	现在,目前adv.=Now
 amie	女朋友n.f.
 ami	朋友n.m.
-votre	你们的，您的
-vous	您；你们pron.pers.（人称代词）;您，您们，和你们
+votre	你们的,您的
+vous	您;你们pron.pers.(人称代词);您,您们,和你们
 Ce sont les livres de Paul	这些是保罗的书
 Ce sont des étudiants	这些是学生;这是一些学生
 Il va au café	他去咖啡馆
 Il travaille à l'hôtel	他在酒店工作;他在旅馆工作
-C'est l'adresse du café	这就是那家咖啡馆的地址（du=de+le)
+C'est l'adresse du café	这就是那家咖啡馆的地址(du=de+le)
 manteau	“外套”或“大衣”
-C'est le manteau du directeur	这是主任的大衣（du=de+le的缩合)
-directeur	经理n.阳性形式;导演，校长（阳性）;“主任”或“负责人”
+C'est le manteau du directeur	这是主任的大衣(du=de+le的缩合)
+directeur	经理n.阳性形式;导演,校长(阳性);“主任”或“负责人”
 Elle vient du bureau des professeurs	她来自老师们的办公室(des=de+les)
-au coin de la rue	在街角(au=à+le，coin角落)
+au coin de la rue	在街角(au=à+le,coin角落)
 la place	广场
 sur la place de l'Opéra	在歌剧院那边的广场上。
 Vous faite de la natation	你是否进行游泳这一活动
-Vous prenez des légumes	你吃蔬菜吗？
-Oui j'en prends	是的，我吃（en做直接宾语，代替des+légumes,部分冠词+名词）
-Tu as beaucoup de cours	你有很多课程吗？（de+名词，引入名词短语，可以被en替代）
-Oui j'en ai beaucoup	(en替代de+名词）是的，我有很多课程。
-Tu vas acheter combien de robes	你将要购买多少裙子？
+Vous prenez des légumes	你吃蔬菜吗?
+Oui j'en prends	是的,我吃(en做直接宾语,代替des+légumes,部分冠词+名词)
+Tu as beaucoup de cours	你有很多课程吗?(de+名词,引入名词短语,可以被en替代)
+Oui j'en ai beaucoup	(en替代de+名词)是的,我有很多课程。
+Tu vas acheter combien de robes	你将要购买多少裙子?
 Je vais en acheter deux	我要买两条裙子(en替代de+robes)
 la farine	特定的面粉
 Je prends un kilo de farine	我买一公斤的面粉
-Oui tu en prends un kilo	好，你就买一公斤的面粉吧(en指代前面提到过的defarine)
-Est-ce que tu as des frères	(Est-ceque引导一般疑问句，表示“你是否……”。)你有兄弟吗？
-Oui j'en ai trois	是的，我有3个兄弟（en替代desfrères)
-des Chinois	一些中国人(Chinois单复数相同）
-un nez	一个鼻子（z不发音）
-des nez	一些鼻子（名词“nez”的复数形式）
+Oui tu en prends un kilo	好,你就买一公斤的面粉吧(en指代前面提到过的defarine)
+Est-ce que tu as des frères	(Est-ceque引导一般疑问句,表示“你是否......”。)你有兄弟吗?
+Oui j'en ai trois	是的,我有3个兄弟(en替代desfrères)
+des Chinois	一些中国人(Chinois单复数相同)
+un nez	一个鼻子(z不发音)
+des nez	一些鼻子(名词“nez”的复数形式)
 un noyau	一个种子核
-des noyaux	多个核(以au，eau，eu结尾的，复数形式是加x，不能加s)
+des noyaux	多个核(以au,eau,eu结尾的,复数形式是加x,不能加s)
 un chapeau	一顶帽子
-des chapeaux	多个“帽子”(以au，eau，eu结尾的，复数形式是加x，不能加s)
+des chapeaux	多个“帽子”(以au,eau,eu结尾的,复数形式是加x,不能加s)
 un feu	一个火
-des feux	多个“火”(以au，eau，eu结尾的，复数形式是加x，不能加s)
+des feux	多个“火”(以au,eau,eu结尾的,复数形式是加x,不能加s)
 un cheval	一匹马
-des chevaux	多个“马”（以al结尾的变aux）
+des chevaux	多个“马”(以al结尾的变aux)
 un journal	一份报纸或一本日记
-des journaux	多个“报纸”（以al结尾的变aux）
-Qu'est-ce que vous avez	您有什么=Whatdoyouhave?（Qu'est-ceque=que+est-ceque，意思是“这是什么”）
-Qu'est-ce que vous faites dans la vie	您从事什么工作？Whatdoyoudoinyourlife?
-Qu'est-ce que vous prenez	您吃点什么？
-Qu'est-ce que vous regardez	您在看什么？
-Qu'est-ce que vous dites	您说什么？
-Qu'est-ce que c'est	这是什么？
-Que faites-vous dans la vie	您在生活中做什么？（Que提前，必须主谓倒装构成问句）
-Vous faites quoi dans la vie	（Que位于居中变为quoi)您在生活中做什么？
-Que dites-vous	您说什么？
-Vous dites quoi	您说什么？（口语）
-C'est quoi	这是什么（口语）
+des journaux	多个“报纸”(以al结尾的变aux)
+Qu'est-ce que vous avez	您有什么=Whatdoyouhave?(Qu'est-ceque=que+est-ceque,意思是“这是什么”)
+Qu'est-ce que vous faites dans la vie	您从事什么工作?Whatdoyoudoinyourlife?
+Qu'est-ce que vous prenez	您吃点什么?
+Qu'est-ce que vous regardez	您在看什么?
+Qu'est-ce que vous dites	您说什么?
+Qu'est-ce que c'est	这是什么?
+Que faites-vous dans la vie	您在生活中做什么?(Que提前,必须主谓倒装构成问句)
+Vous faites quoi dans la vie	(Que位于居中变为quoi)您在生活中做什么?
+Que dites-vous	您说什么?
+Vous dites quoi	您说什么?(口语)
+C'est quoi	这是什么(口语)
 avec qui	和谁
 avez-vous	你有没有
 problème	问题
-comment	怎么样，什么，怎么
+comment	怎么样,什么,怎么
 qui	谁pron.interr.;谁
-semaine	名词，意为“星期、周”;周
-Qu'est-ce qu'il y a dans le café	咖啡中有什么？
-Il y a quoi dans la chambre	在房间里有什么？(口语）
-Qu'est-ce qu'il y a dans la chambre	房间里有什么？（书）
-Il y a un lit une table et deux chaises	有一张床，一个桌子和两把椅子
-affiche	海报，广告n.f.
+semaine	名词,意为“星期、周”;周
+Qu'est-ce qu'il y a dans le café	咖啡中有什么?
+Il y a quoi dans la chambre	在房间里有什么?(口语)
+Qu'est-ce qu'il y a dans la chambre	房间里有什么?(书)
+Il y a un lit une table et deux chaises	有一张床,一个桌子和两把椅子
+affiche	海报,广告n.f.
 C'est une affiche	这是一张海报
 assiette	盘子n.f.
 C'est une assiette	这是一个盘子
-au-dessous	在下面，通常表示某物在另一物的正下方。
-au-dessus	“在上面”；...以上
-avec	和...一起prep.=with;具有，带有prep
+au-dessous	在下面,通常表示某物在另一物的正下方。
+au-dessus	“在上面”;...以上
+avec	和...一起prep.=with;具有,带有prep
 Il parle français avec un accent anglais	他说法语带有英语口音
 blouson	夹克衫n.m.
 C'est le blouson de Paul	这是保罗的夹克
@@ -1130,40 +1129,40 @@ C'est un chapeau	这是一顶帽子。
 chatte	母猫
 le mur	墙
 Il y a une chaise contre le mur	墙边有一把椅子。
-côté	旁，侧n.m.通常用来表示物体的侧面或与某事物的关系。
+côté	旁,侧n.m.通常用来表示物体的侧面或与某事物的关系。
 Il habite à côté	他住在旁边。
 À côté de la table	在桌子旁边。
-cuillère	勺，匙n.f.
+cuillère	勺,匙n.f.
 Il est devant moi	他在我面前。
-droite	右面，右边，右方
+droite	右面,右边,右方
 tourner à droite	向右转。
 Le café est à droite du cinéma	咖啡馆在电影院的右边。
-étagère	格，隔板，架子；多层架子n.f.
+étagère	格,隔板,架子;多层架子n.f.
 fauteuil	扶手椅n.m.
-fenêtre	窗户;窗子，窗户，玻璃窗n.f.
+fenêtre	窗户;窗子,窗户,玻璃窗n.f.
 fleur	“花”。它是一个阴性名词
-gauche	左边，左面n.f.
-roulent	行驶（动词“rouler”的第三人称复数形式）
-En Angleterre le voitures roulent à gauche	在英国，汽车靠左行驶。
+gauche	左边,左面n.f.
+roulent	行驶(动词“rouler”的第三人称复数形式)
+En Angleterre le voitures roulent à gauche	在英国,汽车靠左行驶。
 Anna est à gauche de Sophie	安娜在索菲的左边
 Il y a une table à côté de la chaise	椅子旁边有一张桌子
 meuble	家具n.m.
 mur	墙壁n.m
-objet	物体；物品，东西n.m.
+objet	物体;物品,东西n.m.
 ordinateur	电脑n.m.
 pièce	房间n.f.
-porte	戴，带，穿;门n.f.
+porte	戴,带,穿;门n.f.
 que	什么pron.interr.
 sac	包n.m.
 Le chat est sous la table	猫在桌子下面。
 Le livre est sur l'étagère	书在书架上。
-voilà	这就是prep;看，在这里
+voilà	这就是prep;看,在这里
 le vase	花瓶n.m.
 Il y a des fleurs dans le vase	花瓶里有花
 sur	在..上面prep=On
 sous	在...下面=under
-dans	在……里prép
-devant	在……前面prep
+dans	在......里prép
+devant	在......前面prep
 contre	紧挨着
 à gauche de	在左边
 à droite de	在右边
@@ -1179,29 +1178,29 @@ L'étagère avec des livres	带有书的架子
 L'étagère contre le mur	靠墙的架子
 Il y a un blouson et un chapeau	有一件夹克和一顶帽子。
 du soir	晚上
-devez	应该，须
-du matin	上午，凌晨
+devez	应该,须
+du matin	上午,凌晨
 rentre	回
-tôt	早，早些
+tôt	早,早些
 rentrer	回
-heure	点，时间，小时
+heure	点,时间,小时
 sors	出去
 midi	中午
-avant	之前，以前，在之前
+avant	之前,以前,在之前
 minuit	午夜
-chez	家，在家
-il est	他是;他，在，现在是
+chez	家,在家
+il est	他是;他,在,现在是
 chambre	卧室n.f.;房间
 sucre	糖
-s'il te plaît	请，请你，麻烦你（用于比较熟悉的人之间，比如朋友、家人、同学、同事等平辈或者对晚辈）
+s'il te plaît	请,请你,麻烦你(用于比较熟悉的人之间,比如朋友、家人、同学、同事等平辈或者对晚辈)
 beaucoup de	很多
 un peu de	一点
-lait	牛奶，奶
+lait	牛奶,奶
 frigo	冰箱
 une cuisine	一个厨房
-Où est la cuisine	厨房在哪里？
-bain	洗澡，沐浴
-salle	房间，室
+Où est la cuisine	厨房在哪里?
+bain	洗澡,沐浴
+salle	房间,室
 Une salle de bain	一个浴室
 un sel	一份盐
 Trop de sel	太多盐
@@ -1213,27 +1212,27 @@ Je rentre chez moi chaque après-midi	我每个下午回我家。
 Vous devez rentrer très tôt	你们应该非常早回。
 Je rentre chez moi ce soir	我今天晚上回我家。
 horloge	时钟;“时钟”“钟表”
-Tu as une horloge chez toi	你家有时钟吗？
+Tu as une horloge chez toi	你家有时钟吗?
 Il est onze heures du soir	现在晚上十一点。
 Il y a beaucoup de sucre dans ce gâteau	这个蛋糕里有很多糖。
-Tu sors	你出去吗？
+Tu sors	你出去吗?
 avant minuit	表示“在午夜之前”
 Tu dois sortir avant minuit	你应该在午夜之前出去。
 sortir	出去;出去
 Il y a beaucoup de placards dans la cuisine	厨房里有很多壁橱。
 Je rentre souvent tard	我经常晚回。
-tard	晚，晚点;晚，迟
+tard	晚,晚点;晚,迟
 L'horloge blanche	白色的时钟
 Je voudrais un verre de lait	我想要一杯牛奶。
 Il y a quatre chambres dans cette maison	这幢房子里有四个卧室。
-Où est la salle de bain	浴室在哪里？
+Où est la salle de bain	浴室在哪里?
 chez Julia et Gabriel	"Julia和Gabriel家"
 Il y a deux chambres chez Paul	保罗家有两个卧室
 Avant-midi	中午之前
 Je ne rentre pas tard	我不晚回
 Je sors très tôt	我非常早出去
 Je peux rentrer tard	我能晚回
-Tu sors de la cuisine	你从厨房里出去吗？
+Tu sors de la cuisine	你从厨房里出去吗?
 Il est neuf heures du matin	现在上午九点
 Il y a une horloge chez moi	我家有一个时钟。
 Vous devez rentrer tôt	你必须早点回来
@@ -1241,7 +1240,7 @@ Trop de café	太多咖啡
 Les placards sont ici	壁橱在这里。
 la table de la cuisine	厨房的桌子
 Je sors de la maison	我从房子里出去
-Tu sors de chez Paul	你从保罗家出来吗？;你从Paul家出去吗？
+Tu sors de chez Paul	你从保罗家出来吗?;你从Paul家出去吗?
 Tu dois sortir	你应该出去
 Je veux un peu de lait	我想要一点牛奶。
 à minuit	在午夜
@@ -1251,89 +1250,89 @@ avant midi	中午之前
 Une horloge	一个时钟
 Il est quatre heures de l'après-midi	现在是下午四点
 Elle est à côté de lui	她在他的旁边
-autre	另一个的，别的，另外的adj
-des baskets	篮球鞋，运动鞋（一般用复数）n.f.
-bleu	蓝色的adj，阳性单数
-bleue	蓝色的adj，阴性单数
-blond	金色的，金色头发
-blonde	金色的，金色头发（阴性单数）
-brune	棕色的（阴性）
+autre	另一个的,别的,另外的adj
+des baskets	篮球鞋,运动鞋(一般用复数)n.f.
+bleu	蓝色的adj,阳性单数
+bleue	蓝色的adj,阴性单数
+blond	金色的,金色头发
+blonde	金色的,金色头发(阴性单数)
+brune	棕色的(阴性)
 brun	棕色的
-chaussure	鞋;鞋子，靴n.f.
+chaussure	鞋;鞋子,靴n.f.
 chemise	男式衬衫n.f.
 chemisier	女衬衫n.m.
-chose	事情，事物n.f.
+chose	事情,事物n.f.
 couleur	颜色n.f.
-d'accord	同意，赞同loc.adv.
-Tu es d'accord	你同意吗？
-Oui je suis d'accord	是的，我同意
+d'accord	同意,赞同loc.adv.
+Tu es d'accord	你同意吗?
+Oui je suis d'accord	是的,我同意
 grand	高大的adj阳性
-grande	大；大的；大型的；伟大的；优秀的;高大的adj阴性
+grande	大;大的;大型的;伟大的;优秀的;高大的adj阴性
 Un homme grand	身材高大的男人
 Un grand homme	伟大的人
 un jean	牛仔裤n.m.
-leur	他们的，她们的，它们的
-leurs	他们的，她们的，它们的
-Je parle à lui	（我在和他说话。）
-lunettes	眼镜，阴性复数名词
+leur	他们的,她们的,它们的
+leurs	他们的,她们的,它们的
+Je parle à lui	(我在和他说话。)
+lunettes	眼镜,阴性复数名词
 des lunettes	眼镜
 noir	黑色的
 noire	黑色的n.f.
 pantalon	裤子;长裤n.m.
-porter un pantalon	穿戴，佩戴v.t.
-portrait-robot	模拟画像（警方综合搜捕对象的特征所制的）n.m.
-rouge	红色的；红色（阴阳同形）
+porter un pantalon	穿戴,佩戴v.t.
+portrait-robot	模拟画像(警方综合搜捕对象的特征所制的)n.m.
+rouge	红色的;红色(阴阳同形)
 tee-shirt	短袖圆领棉汗衫n.m.
-vêtement	衣服，服装，衣裳
+vêtement	衣服,服装,衣裳
 vêtements	衣服
 Quelle couleur	什么颜色?
-nageons	游泳，泳
+nageons	游泳,泳
 dessinez	画画
 nager	游泳
 dessines	画画
-nagent	游泳，泳
-nage	游泳，泳
-dessiner	画画，画
+nagent	游泳,泳
+nage	游泳,泳
+dessiner	画画,画
 étudier	学习
 étudions	学习
 écouter	听
 chanter	唱歌
 chantes	唱歌
-chante	唱歌，唱
+chante	唱歌,唱
 écoutes	听
 visitez	去玩
 visitent	去玩
-danse	跳得，舞蹈，跳舞
+danse	跳得,舞蹈,跳舞
 danser	跳舞
-danses	舞蹈，跳舞，跳
-marches	走路，走
-marche	走，能使用，走路
+danses	舞蹈,跳舞,跳
+marches	走路,走
+marche	走,能使用,走路
 attendre	等待
 en retard	迟到
-vol	航班，班机
+vol	航班,班机
 bagage	行李
-question	问题，题
-quelle	哪，哪一家，哪一把
+question	问题,题
+quelle	哪,哪一家,哪一把
 destination	目的地
-profession	职业，职
-venez	来，去
-quel	哪一名，多么，哪一家
+profession	职业,职
+venez	来,去
+quel	哪一名,多么,哪一家
 manger	吃
 je ne sais pas	我不知道
 boire	喝
 quelque chose	某物
-voyagez	去旅行，旅行，旅
-pouvez	可以，能，可
-de rien	没关系，这没什么，没事
+voyagez	去旅行,旅行,旅
+pouvez	可以,能,可
+de rien	没关系,这没什么,没事
 excusez-moi	对不起
 mademoiselle	小姐
 trop de	太多的
 sel	盐
-de l'après-midi	下午的，下午
+de l'après-midi	下午的,下午
 salle de bain	浴室
 nationalité	国籍n.f.;国籍
 prénom	名字n.m.[prenɔ̃];名字
-nom	姓氏n.m.;姓，名
+nom	姓氏n.m.;姓,名
 madame	夫人n.f;女士
 monsieur	先生n.m;先生
 du pain	面包
@@ -1341,114 +1340,120 @@ beurre	黄油
 miel	蜂蜜
 du miel	蜂蜜
 préfère	更喜欢
-bois	饮，在喝，正在喝
-détestes	讨厌，厌
+bois	饮,在喝,正在喝
+détestes	讨厌,厌
 du café	咖啡
 du thé	茶
 au petit déjeuner	早餐时
-adore	喜爱，热爱，钟爱
-du lait	牛奶，奶
+adore	喜爱,热爱,钟爱
+du lait	牛奶,奶
 céréales	谷物食品
 adorent	喜爱
 yaourt	酸奶
 fraise	草莓
 café au lait	牛奶咖啡
-boit	喝，喝得
+boit	喝,喝得
 jus d'orange	橙汁
 confiture	果酱
 du sucre	糖
-déteste	讨，讨厌，厌
+déteste	讨,讨厌,厌
 préfères	更喜欢
 brioche	奶油圆蛋糕
-prendre	拿，取，抓,吃，喝，vt.;带，乘坐，上
+prendre	拿,取,抓,吃,喝,vt.;带,乘坐,上
 J'aime bien cette couleur	我很喜欢这种颜色
 Cent euros pour un tee-shirt	一件T恤一百欧元
 C'est cher	这很贵
 Elle n'est pas très chère	它不太贵
-Elle ne coûte pas très cher	“它花费不多”(cher做副词没有阴阳性变化）
-fait	“faire的变位”，il/elle/on（他/她/人们）
-faire	动词，意为“做，制造”;“做；干；进行”
-Ça fait combien	“这个多少钱？”
-coûter	“值（多少钱）；花费（多少钱）”
-Combien coûte cette robe	“这条裙子多少钱？”
+Elle ne coûte pas très cher	“它花费不多”(cher做副词没有阴阳性变化)
+fait	“faire的变位”,il/elle/on(他/她/人们)
+faire	动词,意为“做,制造”;“做;干;进行”
+Ça fait combien	“这个多少钱?”
+coûter	“值(多少钱);花费(多少钱)”
+Combien coûte cette robe	“这条裙子多少钱?”
 gris	灰色的、灰白的、花白的
 grise	法语单词“gris”的阴性形式
 C'est pour toi	“这是给你的”
 un pull	一件羊毛套头衫
-quantité	“数量；量；大量；许多”
-taille	(成衣的）尺寸，尺码n.f.
-Quelle est votre taille	“您的尺码是多少？”或者“您的身高是多少？”
-Comment est-ce que tu trouves ce pantalon	“你觉得这条裤子怎么样？”
-trouver	找到;找到，发现v.t.;“找到；发现”“感到，觉得”
-Comment est-ce qu'il trouve Marie	“他觉得玛丽怎么样？”
+quantité	“数量;量;大量;许多”
+taille	(成衣的)尺寸,尺码n.f.
+Quelle est votre taille	“您的尺码是多少?”或者“您的身高是多少?”
+Comment est-ce que tu trouves ce pantalon	“你觉得这条裤子怎么样?”
+trouver	找到;找到,发现v.t.;“找到;发现”“感到,觉得”
+Comment est-ce qu'il trouve Marie	“他觉得玛丽怎么样?”
 J'aime bien ce type de pantalon	“我很喜欢这种类型的裤子”
 J'adore ce type de sport	“我酷爱这种类型的运动”
-vendeur	“售货员，营业员；销售员，推销员”
-vendeuse	售货员（阴性）
+vendeur	“售货员,营业员;销售员,推销员”
+vendeuse	售货员(阴性)
 artiste	艺术家n
-le coin	角落，街角n.m
-écrivain	“作家；作者n.m.
+le coin	角落,街角n.m
+écrivain	“作家;作者n.m.
 entre	在。。。之间prep.
 entre A et B	在A和B之间
-un film	电影，影片n.m.
-môme	小孩，小家伙<俗>n.一个通俗用语、略带贬义的名词
-musicien	“音乐家；乐师；演奏家”n.m.
-musicienne	“musicien”的阴性形式;“女音乐家；女乐师；女演奏家”
-peintre	“画家；画师；油漆工”n.m.
-poème	“诗；诗篇”
+un film	电影,影片n.m.
+môme	小孩,小家伙<俗>n.一个通俗用语、略带贬义的名词
+musicien	“音乐家;乐师;演奏家”n.m.
+musicienne	“musicien”的阴性形式;“女音乐家;女乐师;女演奏家”
+peintre	“画家;画师;油漆工”n.m.
+poème	“诗;诗篇”
 poète	“诗人”
-sculpteur	“雕塑家；雕刻家”n
+sculpteur	“雕塑家;雕刻家”n
 sculptrice	女雕塑家
-tableau	名词，意为“黑板；图画；表格”
-partir	出发，离开，出去
+tableau	名词,意为“黑板;图画;表格”
+partir	出发,离开,出去
 demain	明天
 week-end	周末
-prochain	下一个，接下来的
+prochain	下一个,接下来的
 mois	月
-passer	度过，参加
-rester	待在，待，留
-photo	照片，张
-Tu prends des yaourts	你吃酸奶吗？
+passer	度过,参加
+rester	待在,待,留
+photo	照片,张
+Tu prends des yaourts	你吃酸奶吗?
 Je n'aime pas les yaourts	我不喜欢酸奶。
-Tu aimes les fraises	你喜欢草莓吗？
+Tu aimes les fraises	你喜欢草莓吗?
 Ils adorent le chocolat	他们喜欢巧克力。
-Tu bois du café	你喝咖啡吗？
+Tu bois du café	你喝咖啡吗?
 Je veux prendre un café	我想要喝一杯咖啡。
 Je prends des céréales	我吃谷物食品。
 Elles adorent les fruits	她们喜欢水果。
 Je bois de l'eau	我喝水
-Joyeux Noël	“圣诞快乐”，是在圣诞节期间人们互相祝福的常用语。;“圣诞快乐”
-Tu manges du beurre	你吃黄油吗？
-Tu veux du miel	你想要蜂蜜吗？
+Joyeux Noël	“圣诞快乐”,是在圣诞节期间人们互相祝福的常用语。;“圣诞快乐”
+Tu manges du beurre	你吃黄油吗?
+Tu veux du miel	你想要蜂蜜吗?
 J'adore le thé	我喜欢茶。
 Je vais voir Paris	我会看见巴黎
 Paul va voyager avec elle	保罗将和她一起旅行。
 Je vais rester chez moi demain	我明天会呆在家里。
 Nous allons rester chez moi.	我们会呆在我家里。
-Où vas-tu passer tes vacances	你将在哪里度假？
+Où vas-tu passer tes vacances	你将在哪里度假?
 une photo de toi	一张你的照片
 des photos de vacances	一些度假照片
 Vous allez passer le mois prochain à Paris	你们下个月将在巴黎度过。
-lui	他，第三人称单数的间接宾语代词;他，跟他，给他
-cet	这，这个，这件
-été	夏天，夏
+lui	他,第三人称单数的间接宾语代词;他,跟他,给他
+cet	这,这个,这件
+été	夏天,夏
 faire de la plongée	去潜水
 janvier	一月
 faire du ski	去滑雪
 faire un voyage	去旅行
 février	二月
-montagne	山里，山
-hiver	冬天，冬
+montagne	山里,山
+hiver	冬天,冬
 temps	时间
 eux	他们
-en vacances	度假，去度假
-année	名词，意为“年；年份”; 年
+en vacances	度假,去度假
+année	名词,意为“年;年份”; 年
 Je vais voir mes amis	我会去看朋友。
 Je vais passer mes vacances à Paris	我会在巴黎度假。
 la semaine prochaine	下周
 J'ai beaucoup de photos	我有很多照片。
 le mois de janvier	一月
-Tu ne vas pas voyager avec nous	你不会和我们一起旅行吗？
+Tu ne vas pas voyager avec nous	你不会和我们一起旅行吗?
 Je veux partir en vacances	我想要出发去度假。
 Je veux faire de la plongée	我想要去潜水。
-voir	看见，见，看=to see
+voir	看见,见,看=to see
+apprendre	学,得知,教
+comprendre	懂
+leçon	课,课文
+facile	容易的,易
+difficile	困难的,难,难的
+cours	课,课程n.m.[kur]; 课程
