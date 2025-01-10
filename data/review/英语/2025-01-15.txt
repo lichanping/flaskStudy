@@ -1,3 +1,20 @@
+departure	(n.) 离开
+alarm	"n. 警报器 ，警报；  闹钟；惊 恐 ，忧虑"
+tuna	(n.) 金枪鱼
+ingredient	"n. 成分 ，构成要素； （烹调 的）原料"
+accompany	(v.) 陪伴；  陪同
+technology	"n. 科技；技术 ，工艺 ，工程 技术"
+attract	(v.) 吸引
+lend	(v.) 借给（某人钱或东西）
+port	(n.) 港 ，港口，   口岸
+engineering	(n.) 工程
+booking	(n.) 预约 ，预订
+wonder	"v. 想知道 ，想弄明白；   n. 惊奇 ，惊异；奇迹 ，奇观"
+dozen	(num.) 许多；一打 ，十二个
+salmon	(n.) 鲑鱼
+track	"v. 跟踪 ，追赶；   n. 铁路轨 道；跑道；轨迹"
+emergency	"n. 紧急情况 ，突发事件； (adj.) 紧急情况下的；应急的"
+inform	(v.) 告知 ，通知
 form	"n. 形式；方式；表格；形 状；   v. 形成 ，产生，  …"
 dig	(v.) 挖掘 ，翻土
 campsite	(n.) 露营地
