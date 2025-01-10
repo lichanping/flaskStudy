@@ -319,3 +319,53 @@ Vous allez	你们去
 Ils vont	他们去
 Elles vont	她们去
 Prenez-vous le bus	你们坐公共汽车吗？
+Je vais au cinéma	我去看电影
+Excuse-moi	对不起(命令式)
+parler	说(原形)
+Je parle	我说
+Tu parles	你说
+Il parle	他说
+Elle parle	她说
+Nous parlons	我们说
+Vous parlez	你们说
+Ils parlent	他们说
+Elles parlent	她们说
+Parle	请你说！(命令式，如果动词是er结尾，去掉er加e)
+Parlez	请你们说，请您说！(命令式，如果动词是er结尾，去掉er加ez)
+Parlons	让我们一起说吧！(命令式，如果动词是er结尾，去掉er加ons)
+entrer	进入(原形)
+Tu entres	你进入
+nous entrons	我们进入
+vous entrez	你们进入
+Entrez	请您进！(命令式，如果动词是er结尾，去掉er加ez)
+Entrons	让我们一起进入吧！(命令式，如果动词是er结尾，去掉er加ons)
+Tu tournes	你转弯
+nous tournons	我们转弯
+vous tournez	你们转弯
+Tourne	请转弯！(命令式，如果动词是er结尾，去掉er加e)
+Tournez	请您转弯！(命令式，如果动词是er结尾，去掉er加ez)
+Tournons	让我们一起转弯吧！(命令式，如果动词是er结尾，去掉er加ons)
+Ne parle pas	不要说(命令式否定式)
+N'entrez pas	不要进入(命令式否定式)
+Va tout droit	你直走（命令式）
+Ne va pas au cinéma	不要去看电影（命令式否定式）
+Allons tout droit	我们直走（命令式）
+N'allons pas au cinéma	不要去看电影（命令式否定式）
+Allez tout droit	你们，您直走（命令式）
+N'allez pas au cinéma	您不要去看电影（命令式否定式）
+Prends le bus	你坐公共汽车（命令式）
+Ne prends pas le train	不要坐火车（命令式否定式）
+Prenons le bus	我们坐公共汽车（命令式）
+Ne prenons pas le train	我们不要坐火车（命令式否定式）
+Prenez le bus	你们坐公共汽车（命令式）
+Ne prenez pas le train	你们不要坐火车（命令式否定式）
+Parle français s'il te plaît	请你说法语（命令式）
+Va à la poste	你去邮局（命令式）
+l'impératif	命令式
+Fais comme moi	跟我一样做(命令式)
+Suivez-moi	跟我来(命令式)
+tourner	转弯(原形)
+Ne tournez pas	不要转弯(命令式否定式)
+Vas-y	你去吧（命令式）（加s接元音）
+Donnes-en	给我（命令式）(en代表着一些东西)（加s接元音）
+Parles-en	说给我（命令式）(en代表着一些东西)（加s接元音）
