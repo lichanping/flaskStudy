@@ -1,3 +1,11 @@
+l'impératif	命令式
+Fais comme moi	跟我一样做(命令式)
+Suivez-moi	跟我来(命令式)
+tourner	转弯(原形)
+Ne tournez pas	不要转弯(命令式否定式)
+Vas-y	你去吧（命令式）（加s接元音）
+Donnes-en	给我（命令式）(en代表着一些东西)（加s接元音）
+Parles-en	说给我（命令式）(en代表着一些东西)（加s接元音）
 Prenez-vous le bus	你们坐公共汽车吗？
 une salle vide	空旷的房间n.f.
 troisième	第三的adj.num.ord.
