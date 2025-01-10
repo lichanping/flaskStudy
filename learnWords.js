@@ -179,14 +179,22 @@ export function validateLogin() {
     // Calculate the difference in days
     const dayDifference = Math.floor((currentDate - storedLoginDate) / (1000 * 60 * 60 * 24));
 
-    if (loggedInWord && dayDifference < 30) {
-        // If already logged in for the last 30 days, skip login process
-        window.location.href = 'index.html';
-        return;
-    }
-
     // Validate credentials using the students array
     const student = students.find(student => student.name === username && student.password === password);
+
+    if (loggedInWord && dayDifference < 30) {
+        // If already logged in for the last 30 days, check if the new username is different
+        const storedStudentName = sessionStorage.getItem('studentName');
+        if (student && student.name !== storedStudentName) {
+            // Update sessionStorage with the new student's name
+            sessionStorage.setItem('studentName', student.name);
+            window.location.href = 'index.html';
+        } else {
+            // If the same username is entered, skip login process
+            window.location.href = 'index.html';
+        }
+        return;
+    }
 
     if (student) {
         // Store login state, date, and student's name if credentials are correct
