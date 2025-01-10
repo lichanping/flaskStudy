@@ -620,7 +620,6 @@ fascinating	"adj.迷人的,有极大吸引力的"
 France	(n.)法国
 thing	(n.)事件,事态;东西,事物
 lemon	(n.)柠檬
-overcome	(vt.)克服
 educator	(n.)教育家,教育者,教师
 pour	(v.)注,倒,灌
 too	(adv.)太,很;也,而且
@@ -3781,7 +3780,6 @@ abdominal	腹部的;腹肌
 distribute to	把.分给
 lump	块;(单独的)大量
 revenge	复仇;报复
-Overcome	克服
 gymnasiums	(复)健身房
 initiate	开始(实施);创始
 jade	玉;翡翠
@@ -4389,3 +4387,4 @@ dominant	(adj.)主要的,占优势的;支配的;显性的;占优势的
 loose	(adj.)宽松的;松的;松散的
 competent	(adj.)有能力的;有能力的
 economic	(adj.)经济上的,经济学的;经济的
+overcome	(vt.)克服
