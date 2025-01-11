@@ -1,3 +1,18 @@
+wildlife	"n. 野生动植物；   adj. 野生 动植物的"
+site	(n.) 地点；  网站
+drop	"v. 减少；  降低；投 ，丢；  中 途卸客，  中途卸货；放弃 …"
+request	"n.   （ 正式或礼貌的）请求； 要求；   v. 要求 ，请求；  …"
+attempt	"vt. 试图，  尝试；   n. 努力， 尝试"
+rugby	(n.) 英式橄榄球
+climate	(n.) 气候
+cattle	(n.) （总称）牛 ，牲口
+financial	"adj. 金融的；经济的；财务 的"
+studio	(n.) 工作室
+fee	(n.) 费用
+candidate	(n.) 候选人，  申请人
+souvenir	(n.) 纪念品
+result	"n. 结果 ，成效；   v. 导致； (from)起因于，  因 … …而 …"
+security	(n.) 安全；保护措施
 showcase	(v.) 展示
 tornado	(n.) 龙卷风
 heal	(v.) 治愈
