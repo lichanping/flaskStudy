@@ -1,3 +1,7 @@
+Ayez du courage	请您有勇气（命令式）
+J'y vais à pied	我走路去。(y=au Louvre,上文提到的地方，作副代词)
+Vous habitez en banlieu	你住在郊区吗？
+on se parlera après	以后再说（on=我们,se parlera=交谈）
 l'impératif	命令式
 Fais comme moi	跟我一样做(命令式)
 Suivez-moi	跟我来(命令式)

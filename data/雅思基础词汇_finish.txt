@@ -277,3 +277,53 @@ salmon	(n.) 鲑鱼
 track	"v. 跟踪 ，追赶；   n. 铁路轨 道；跑道；轨迹"
 emergency	"n. 紧急情况 ，突发事件； (adj.) 紧急情况下的；应急的"
 inform	(v.) 告知 ，通知
+writer	(n.) 作家
+benefit	(n.) 好处；   v. 使......受益
+spare	"adj. 多余的，  闲置的；空闲 的；   vt. 抽出 ，腾出"
+way	(n.) 方法；道路；方式；方面
+divide	"v. 分开 ，划分；  除以；  除； (n.) 差异"
+lemon	(n.) 柠檬
+meeting	(n.) 会议；会合 ，聚集
+achievement	(n.) 成就
+jump	(v.) 跳
+location	(n.) 位置 ，地点
+artist	(n.) 艺术家 ，画家
+centimetre	(n.) 厘米
+include	(v.) 包括
+member	(n.) 成员 ，分子；会员
+furniture	(n.) 家具
+disabled	(adj.) 有残疾的
+cartoon	(n.) 卡通（片）   ，动画片
+upper	(adj.) 较高的 ，上面的
+fifth	(num.) 第五
+rest	"n. 剩余部分；休息 ，休息时 间；   v. 休息 ，放松"
+drag	(v.) 拖 ，拉 ，拽 ，扯
+cool	"v.   （使）  冷却；变凉；   adj. 酷的；极好的 ，绝妙的"
+lonely	(adj.) 孤独的
+scientist	(n.) 科学家
+unusual	(adj.) 不寻常的 ，不常见的
+complain	(v.) 抱怨 ，发牢骚
+disappear	(vi.) 消失
+character	(n.) 角色；性格；字
+honey	(n.) 蜜 ，蜂蜜
+smell	"n. 气味；   v. 嗅，  闻（ ......的 气味），  闻到"
+team	(n.) 队 ，组
+national	(adj.) 国家的，  民族的
+install	(v.) 安装 ，安置
+healthy	(adj.) 健康的；合理的
+telephone	(n.) 电话（机）
+wildlife	"n. 野生动植物；   adj. 野生 动植物的"
+site	(n.) 地点；  网站
+drop	"v. 减少；  降低；投 ，丢；  中 途卸客，  中途卸货；放弃 …"
+request	"n.   （ 正式或礼貌的）请求； 要求；   v. 要求 ，请求；  …"
+attempt	"vt. 试图，  尝试；   n. 努力， 尝试"
+rugby	(n.) 英式橄榄球
+climate	(n.) 气候
+cattle	(n.) （总称）牛 ，牲口
+financial	"adj. 金融的；经济的；财务 的"
+studio	(n.) 工作室
+fee	(n.) 费用
+candidate	(n.) 候选人，  申请人
+souvenir	(n.) 纪念品
+result	"n. 结果 ，成效；   v. 导致； (from)起因于，  因 … …而 …"
+security	(n.) 安全；保护措施
