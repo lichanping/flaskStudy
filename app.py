@@ -17,7 +17,6 @@ file_to_student_mapping = {
     '法语单词.txt': '法语',
     '你好法语.txt': '法语',
     '法语妈妈.txt': '妈妈',
-    '雅思全部.txt': '雅思全部学生',
     '中考考纲词组.txt': '中考考纲学生',
     '中考词汇.txt': '中考学生'
 }
@@ -36,7 +35,7 @@ class TxtReader:
     def read_words_from_txt(self, file_name, limit=50):
         file_path = os.path.join(self.data_folder, file_name)
         words = []
-        pattern = re.compile(r'([a-zA-ZéèêëîïùûüàâäôöçœÉÇÀ\'\s\-\.\/\?\？，,]+)\s*(.*)')
+        pattern = re.compile(r'([a-zA-ZéèêëîïùûüàâäôöçœÉÇÀ\'\s\-\.\/\?\？，,0-9]+)\s*(.*)')
         with open(file_path, 'r', encoding='utf-8') as file:
             for index, line in enumerate(file, start=1):  # Start index from 1
                 if index > limit:  # Break if the limit is reached
@@ -64,7 +63,7 @@ class TxtReader:
                 open(new_file_path, 'a', encoding='utf-8') as new_file:
             for line in file:
                 # Match each line with the expected pattern
-                word_match = re.match(r'([a-zA-ZéèêëîïùûüàâäôöçœÉÇÀ\'\s\-\.\/\?\？，,]+)\s*(.*)', line.strip())
+                word_match = re.match(r'([a-zA-ZéèêëîïùûüàâäôöçœÉÇÀ\'\s\-\.\/\?\？，,0-9]+)\s*(.*)', line.strip())
                 if word_match:
                     english_word, translation = word_match.groups()
                     stripped_word = english_word.strip()
@@ -96,7 +95,7 @@ class TxtReader:
         translations = {}
         with open(os.path.join(self.data_folder, selected_file), 'r', encoding='utf-8') as file:
             for line in file:
-                word_match = re.match(r'([a-zA-ZéèêëîïùûüàâäôöçœÉÇÀ\'\s\-\.\/\?\？，,]+)\s*(.*)', line.strip())
+                word_match = re.match(r'([a-zA-ZéèêëîïùûüàâäôöçœÉÇÀ\'\s\-\.\/\?\？，,0-9]+)\s*(.*)', line.strip())
                 if word_match:
                     english_word, translation = word_match.groups()
                     translations[english_word.strip()] = translation.strip()
