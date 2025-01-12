@@ -327,3 +327,53 @@ candidate	(n.) 候选人，  申请人
 souvenir	(n.) 纪念品
 result	"n. 结果 ，成效；   v. 导致； (from)起因于，  因 … …而 …"
 security	(n.) 安全；保护措施
+report	(n.) 报告 ，汇报；   v. 报道
+battery	"n. 电池（ 组）   ；一组 ，许 多 ，众多"
+basic	(adj.) 基础的 ，最简单的
+appearance	"n. 外貌 ，外表；  出现 ，公开 露面"
+oven	(n.) 烤箱 ，炉 ，灶
+tube	(n.) 管子 ，管道
+presentation	(n.) 报告；演讲 ，演示；  陈述
+bicycle	(n.) 自行车
+stick	"v. 坚持；卡住；   n. 棍， 棒 ，手杖"
+dislike	(v.) 不喜欢
+power	"n. 力量；  电力；权力；   v. 驱动"
+valuable	(adj.) 贵重的 ，有价值的
+roll	"v. 滚动 ，转动；   n. 卷 ，卷 状物"
+temple	(n.) 庙宇 ，神殿
+confident	(adj.) 自信的
+silent	(adj.) 沉默的 ，安静的
+autumn	(n.) 秋天
+break	"v. 打破 ，摔碎；破坏 ，违反 （规则 、承诺或协议）；  …"
+quality	(n.) 质量；  品质
+arrange	(v.) 安排
+compete	(vi.) 竞争
+quiz	"n. 小测验 ，测试；知识竞 赛；   v. 对 … …进行测验"
+sharp	"adj. 敏锐的；  明显的； （增 长 、下跌等）急剧的；锋 …"
+useless	"adj. 无用的 ，无价值的 ，无 效的"
+average	"n. 平均水平；平均数；   adj. 平均的；平庸的 ，普通的 …"
+level	(n.) 水平 ，标准 ，等级
+probably	(adv.) 或许 ，大概
+lie	"v. 存在；位于；躺 ，平卧； 撒谎；   n. 谎话 ，谎言"
+dry	"adj. 干的 ，干旱的；   v. 弄 干"
+fortunately	(adv.) 幸运地 ，幸亏
+disco	"n. 迪斯科舞，  以唱片伴奏的 小舞厅"
+suitable	(adj.) 合适的 ，适宜的
+whale	(n.) 鲸
+perfect	(adj.) 完美的；   v. 完善
+empty	"adj. 空的；空洞的；   v. 倒 空；腾空"
+brain	(n.) 脑
+apartment	(n.) <美>公寓
+reservation	"n.   （住处 、席位的）预订； （美国印第安部落的）居 …"
+operate	(v.) 运转；运营；操作
+pedestrian	(n.) 步行者 ，行人
+coach	(n.) 教练；   vt. 训练 ，指导
+permit	(n.) 执照（读作/ˈp3r ˌmɪt/）
+disk	(n.) 圆盘，  唱片
+defend	"v. 保卫，  防守；为 … …辩 护 ，为 … …辩解；捍卫，  …"
+district	(n.) 地区；  区域
+architect	(n.) 建筑师
+raw	(adj.) 未加工的；原始的
+permission	(n.) 允许，  同意
+diving	(n.) 潜水
+fuel	(n.) 燃料；   v. 加强；激起
