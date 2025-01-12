@@ -1,3 +1,18 @@
+Un vélib	公共自行车
+un vélo libre	公共自行车
+le boulevard	大道
+Traversez le boulevard Haussmann et prenez la rue Scribe en face de vous	横穿奥斯曼大道，然后走对面的斯克里布街
+Ensuite,prenez la grande avenue en face et continuez tout droit,jusqu'au bout	然后，走对面的大街，一直走到尽头
+la cour	院子n.f.
+d'abord	首先adv.
+enfin	最后adv.
+jusque	直到prep.（与介词连用，表示时间或空间的限度）
+ligne	线路nf.
+le métropolitain	地铁nm.
+pied	脚nm.
+la place	广场n.f.
+rollers	滑轮鞋n.m.pl.
+vélo	自行车nm.
 une avenue	大街，大道n.f.
 la face	（物体的）面n.f.
 belge	比利时的adj.;比利时人n.Belge（首字母大写）
