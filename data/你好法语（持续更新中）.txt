@@ -424,8 +424,8 @@ jusqu'à	直到prep.(与介词连用,表示时间或空间的限度)
 jusqu'aujourd'hui	直到今天
 là	那里adv.
 ligne	线路nf.
-une lingne de métro	一条地铁线路
-la ligne	4 de métro  地铁4号线
+une ligne de métro	一条地铁线路
+la ligne quatre de métro	地铁4号线
 loin	远adv.
 C'est très loin	那很远
 Le bureau est loin de chez moi	办公室离我家很远
