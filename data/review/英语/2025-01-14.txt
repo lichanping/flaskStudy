@@ -1,3 +1,10 @@
+fist	"n.拳头；v.握拳"
+cashier	"n.收银员，出纳员；出纳员"
+checking out	"结账；查看；检验"
+weathered	"adj.风化的；侵蚀的；经风雨侵蚀的
+wrinkled	"adj.皱纹的；起皱的
+Take pride in	"以……为荣
+pray	"v.祈祷，祈求；恳求
 reservation	"n.   （住处 、席位的）预订； （美国印第安部落的）居 …"
 operate	(v.) 运转；运营；操作
 pedestrian	(n.) 步行者 ，行人
