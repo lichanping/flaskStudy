@@ -72,7 +72,7 @@ class FrenchTTSProcessor:
                 selected_voice = random.choice(available_voices)["Name"]
                 print(f"Processing text: '{text}' with voice: '{selected_voice}'")
                 # Use Edge TTS API to convert text to speech and save as MP3 file
-                communicate = edge_tts.Communicate(text, selected_voice, rate="-1%")
+                communicate = edge_tts.Communicate(text, selected_voice, rate="-10%")
                 await communicate.save(output_file)
 
     # Main function to process the entire TEXT_LIST in batches
@@ -149,7 +149,7 @@ class TxtToXLSX:
                 # Replace specific ligatures
                 line = line.replace('ﬂ', 'fl').replace('ﬁ', 'fi')
 
-                match = re.match(r'([a-zA-ZéèêëîïùûüàâäôöçœÉÇÀ\'\s\-\.\/\?\？，,]+)\s*(.*)', line)
+                match = re.match(r'([a-zA-ZéèêëîïùûüàâäôöçœÉÇÀ\'\s\-\.\/\?\？，,0-9]+)\s*(.*)', line)
                 if match:
                     english_word, translation = match.groups()
                     english_word = english_word.strip()
@@ -212,7 +212,7 @@ class TxtToXLSX:
         missing_sound_file = os.path.join(self.data_folder, "MissingSound.txt")  # Path to store missing sound words
         file_path = os.path.join(self.data_folder, file_name)
         data = []
-        pattern = re.compile(r'([a-zA-ZéèêëîïùûüàâäôöçœÉÇÀ\'\s\-\.\/\?\？，,]+)\s*(.*)')
+        pattern = re.compile(r'([a-zA-ZéèêëîïùûüàâäôöçœÉÇÀ\'\s\-\.\/\?\？，,0-9]+)\s*(.*)')
         with open(file_path, 'r', encoding='utf-8') as file:
             for line in file:
                 match = pattern.match(line.strip())
@@ -300,7 +300,7 @@ class TextToSpeechConverter:
                 # Repeat English audio twice
                 for _ in range(repeat):
                     if language == "fr":
-                        english_stream = edge_tts.Communicate(english_word, voice=voice_name, rate="-1%").stream()
+                        english_stream = edge_tts.Communicate(english_word, voice=voice_name, rate="-10%").stream()
                     elif language == "en":
                         english_stream = edge_tts.Communicate(english_word, voice=voice_name).stream()
 
@@ -324,22 +324,23 @@ class GenerateTool:
         # remove duplicate words
         tool = TxtToXLSX()
         tool.remove_old_files()
-        tool.remove_duplicates_or_merge_translations('高考词汇（持续更新中）.txt')
-        tool.remove_duplicates_or_merge_translations('雅思基础词汇(持续更新中).txt')
+        tool.remove_duplicates_or_merge_translations('词库源/高考词汇（持续更新中）.txt')
+        tool.remove_duplicates_or_merge_translations('词库源/雅思基础词汇(持续更新中).txt')
+        tool.remove_duplicates_or_merge_translations('词库源/雅思词汇（百词斩）.txt')
 
     @Test()
     def calculate_missing_words(self):
         tool = TxtToXLSX()
         # generate missing sounds
-        tool.convert('高考词汇（持续更新中）.txt')
-        tool.convert('雅思基础词汇(持续更新中).txt')
-        tool.convert('雅思全部.txt')
+        tool.convert('词库源/高考词汇（持续更新中）.txt')
+        tool.convert('词库源/雅思基础词汇(持续更新中).txt')
+        tool.convert('词库源/雅思词汇（百词斩）.txt')
 
     @Test()
     def french_words(self):
         files = [
-            '法语单词（持续更新中）.txt',
-            '你好法语（持续更新中）.txt'
+            '词库源/法语单词（持续更新中）.txt',
+            '词库源/你好法语（持续更新中）.txt'
         ]
         tool = TxtToXLSX()
         for file in files:

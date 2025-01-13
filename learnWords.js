@@ -15,7 +15,7 @@ class LearnWords {
             const response = await fetch(filePath);
             const text = await response.text();
             const data = [];
-            const pattern = /^([a-zA-ZéèêëîïùûüàâäôöçœÉÇÀ'’\s-\/\.\?\？]+)\s*(.*)$/;
+            const pattern = /^([a-zA-ZéèêëîïùûüàâäôöçœÉÇÀ\'\s\-\.\/\?\？，,0-9]+)\s*(.*)$/;
             const encounteredWords = new Set();
             text.split('\n').forEach(line => {
                 const match = line.trim().match(pattern);
