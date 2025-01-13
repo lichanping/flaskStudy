@@ -395,7 +395,7 @@ J'y vais en bus	我坐公共汽车去。(y=à la poste,上文提到的地方,作
 Il n'y a pas de métro près de chez moi	我家附近没有地铁。(否定句中,ne...pas位于"y+动词"的两边)
 Tu vas au cinéma	你去电影院吗?
 Non,je n'y vais pas	不,我不去。(y=au cinéma,上文提到的地方,作副代词)
-Bonne année 2025	"2025年新年快乐"
+Bonne année	2025  2025年新年快乐
 après	以后adv.然后=after
 Après vous	您先请
 après trois jours	三天以后
@@ -426,7 +426,6 @@ là	那里adv.
 ligne	线路nf.
 une ligne de métro	一条地铁线路
 la ligne quatre de métro	地铁4号线
-la ligne 4 de métro	地铁4号线
 loin	远adv.
 C'est très loin	那很远
 Le bureau est loin de chez moi	办公室离我家很远

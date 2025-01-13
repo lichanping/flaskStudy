@@ -1,4 +1,3 @@
-la ligne 4 de métro  地铁4号线
 Un vélib	公共自行车
 un vélo libre	公共自行车
 le boulevard	大道

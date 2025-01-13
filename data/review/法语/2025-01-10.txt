@@ -1,0 +1,39 @@
+l'impératif	命令式
+Fais comme moi	跟我一样做(命令式)
+Suivez-moi	跟我来(命令式)
+tourner	转弯(原形)
+Ne tournez pas	不要转弯(命令式否定式)
+Vas-y	你去吧（命令式）（加s接元音）
+Donnes-en	给我（命令式）(en代表着一些东西)（加s接元音）
+Parles-en	说给我（命令式）(en代表着一些东西)（加s接元音）
+Prenez-vous le bus	你们坐公共汽车吗？
+une salle vide	空旷的房间n.f.
+troisième	第三的adj.num.ord.
+cette année	今年(阴性名词前用cette)
+ce livre-ci	这本书(阳性名词前用ce, ci表示“这个”)
+cette table-là	那张桌子(阴性名词前用cette, là表示“那个”)
+ces romans-ci	这些小说(复数名词前用ces, ci表示“这些”)
+fraise	草莓
+boit	喝，喝得
+confiture	果酱
+du sucre	糖
+brioche	奶油圆蛋糕
+Tu aimes les fraises	你喜欢草莓吗？
+Je prends des céréales	我吃谷物食品。
+Je bois de l'eau	我喝水
+Vous travaillez chez vous	你们在家工作。
+Tu viens avec moi	你和我一起来。
+Tu vas où maintenant	你现在去哪里？(口语）
+A la bibliothèque	去图书馆。
+agence	代理处，代办处n.f.
+roulent	行驶（动词“rouler”的第三人称复数形式）
+En Angleterre le voitures roulent à gauche	在英国，汽车靠左行驶。
+vol	航班，班机
+de rien	没关系，这没什么，没事
+beurre	黄油
+miel	蜂蜜
+céréales	谷物食品
+Tu sors de chez Paul	你从保罗家出来吗？;你从Paul家出去吗？
+Tu dois sortir	你应该出去
+Une horloge	一个时钟
+roulent	行驶（动词“rouler”的第三人称复数形式）
