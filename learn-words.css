@@ -182,6 +182,8 @@ input:checked + .slider:before {
     margin-right: 5px; /* Add margin to the right of the textbox */
     border-radius: 10px; /* Add border radius */
     color: #ffffff; /* White font color */
+    overflow-x: auto;
+    white-space: nowrap;
 }
 
 /* Speaker icon */

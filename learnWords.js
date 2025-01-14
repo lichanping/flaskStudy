@@ -378,8 +378,10 @@ export async function renderQuestion() {
 
         let wordInput = document.getElementById("englishWordTextBox");
         wordInput.value = currentWord;
-        if (currentWord.length > 15) {
-            displayToast(currentWord);
+        if (currentWord.length > 25) {
+            // Append the currentWord value to the incorrectWordsSpan for visibility
+            const incorrectWordsSpan = document.getElementById('incorrectWords');
+            incorrectWordsSpan.innerText += `${currentWord}\n`;
         }
         wordInput.style.visibility = 'visible';
         optionsLine.innerHTML = '';
