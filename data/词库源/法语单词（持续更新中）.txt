@@ -1457,3 +1457,25 @@ leçon	课,课文
 facile	容易的,易
 difficile	困难的,难,难的
 cours	课,课程n.m.[kur]; 课程
+lentement	慢,慢慢地
+comprenons	懂,理解,明白
+apprenons	学,学得
+salle de classe	教室
+sac à dos	背包
+plus	更,更多,最
+comprend	理解,懂,知道
+est-ce qu'	吗
+apprennent	学,学得
+comprennent	理解,明白,懂得
+apprend	学,教
+élève	学生
+tout	所有的,共,所有东西
+comprenez	理解,了解,懂
+est-ce que	吗,是否,是不是
+apprenez	学
+septembre	九月
+apprends	学
+comprends	懂,懂得,理解
+matière	课
+dictionnaire	字典
+examen	考试,考
