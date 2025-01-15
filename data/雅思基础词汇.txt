@@ -1,33 +1,3 @@
-identification	(n.) 识别；身份证明
-seriously	(adv.) 认真地
-sign	"v. 签名；签字；   n. 标志； 迹象；标牌 ，指示牌"
-machine	(n.) 机器 ，机械装置
-last	"adj. 最近的 ，上一个的；最 后的 ，仅剩下的；   v. 持 …"
-frame	(n.) 画框
-extra	"adj. 额外的，  附加的； (adv.) 额外地"
-storm	"n. 暴风雨 ，暴风雪；   v. 大 发雷霆"
-entrance	"n. 入口 ，通道； （俱乐部、 社团 、大学等的）  准许加 …"
-stranger	(n.) 陌生人
-article	(n.) 文章
-improve	(v.) 改进，  改善；提高
-purpose	(n.) 目的 ，意图
-steal	(v.) 偷盗 ，窃取
-altogether	(adv.) 总共 ，一共；完全
-continent	(n.) 大陆 ，洲
-opera	(n.) 歌剧
-visa	(n.) 签证
-harbour	(n.) 港湾 ，港口 ，安全处
-towel	(n.) 毛巾 ，手巾
-keep	"v. 保持；继续；记下 ，记 录 ，记载"
-position	"n. 职位；位置；地位；姿 势；   v. 安置"
-judge	(v.) 判断
-advertise	(v.) 为 … …做广告
-gallery	(n.) 美术馆 ，画廊
-chess	(n.) 国际象棋
-classmate	(n.) 同班同学
-valley	(n.) 山谷 ，溪谷 ，低谷
-solve	(v.) 解决
-shark	(n.) 鲨鱼
 low	"adj. 低的 ，矮的 ，少的；沮 丧的"
 plan	(n.) 计划；   v. 计划 ，打算
 intermediate	(adj.) 中间的
