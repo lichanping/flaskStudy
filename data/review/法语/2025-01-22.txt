@@ -1,3 +1,4 @@
+Bienvenue à tous	欢迎大家phr.
 l'impératif	命令式
 Fais comme moi	跟我一样做(命令式)
 Suivez-moi	跟我来(命令式)
