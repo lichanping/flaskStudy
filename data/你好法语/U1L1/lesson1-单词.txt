@@ -1,0 +1,56 @@
+appeler	叫，称v.
+bienvenue    欢迎n.f.
+bonjour	你好；早上好int.
+nous nous appelons	我们叫v.
+Tu t'appelles comment 	你叫什么名字？phr.
+Vous vous appelez comment	你叫什么名字？phr.
+Bienvenue à tous    欢迎大家phr.
+Bonjour, monsieur	早上好，先生phr.
+Bonjour, madame	早上好，夫人phr.
+Bonjour, mademoiselle	早上好，小姐phr.
+Bonsoir    晚上好int.
+Salut    你好int.
+ce  这个pron.
+C'est Julie  这是朱莉phr.
+Ce sont Aldo et Julie  这是阿尔多和朱莉phr.
+étudiant	学生n.m.
+étudiante	学生n.f.
+Il est étudiant  他是学生
+Elle est étudiante  她是学生
+femme 妻子n.f.女人
+Voici ma femme  这是我的妻子=C'est ma femme
+Voici mon mari  这是我的丈夫=C'est mon mari
+homme 男人n.m.
+C'est un homme  这是一个男人
+Il est français  他是法国人
+Elle est française  她是法国人
+C'est un Français  这是一个法国人
+C'est une Française  这是一个法国女人
+italien  意大利人n.m.
+italienne  意大利人n.f.
+Il est italien  他是意大利人
+Elle est italienne  她是意大利人
+C'est un Italien  这是一个意大利人
+C'est une Italienne  这是一个意大利女人
+le Baule  巴乌勒n.m.
+ma femme  我的妻子
+ma mère  我的母亲
+mon mari  我的丈夫
+mon père  我的父亲
+madame  夫人n.f.
+mesdames  夫人们n.f.
+monsieur  先生n.m.
+messieurs  先生们n.m.
+mademoiselle  小姐n.f.
+mesdemoiselles  小姐们n.f.
+nationalité  国籍n.f.
+nom姓
+prénom名
+qui  谁pron.
+qui est-ce  这是谁？phr.
+C'est qui  这是谁？phr.
+Qui c'est  这是谁？phr.
+voici 这是phr.
+voilà 那是phr.
+Voici Julie  这是朱莉
+Voilà Aldo  那是阿尔多
