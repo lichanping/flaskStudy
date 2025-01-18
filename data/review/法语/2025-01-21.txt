@@ -1,3 +1,7 @@
+l'assistant	助理,助手,副手
+directeur	经理n.阳性形式
+au-dessous	在下面,通常表示某物在另一物的正下方。
+au-dessus	“在上面”;...以上
 Un vélib	公共自行车
 un vélo libre	公共自行车
 le boulevard	大道

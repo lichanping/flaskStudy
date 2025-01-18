@@ -1,3 +1,7 @@
+l'assistant	助理,助手,副手
+directeur	经理n.阳性形式
+au-dessous	在下面,通常表示某物在另一物的正下方。
+au-dessus	“在上面”;...以上
 Bienvenue à tous	欢迎大家phr.
 Ayez du courage	请您有勇气（命令式）
 J'y vais à pied	我走路去。(y=au Louvre,上文提到的地方，作副代词)
