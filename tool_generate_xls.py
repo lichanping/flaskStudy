@@ -340,7 +340,8 @@ class GenerateTool:
     def french_words(self):
         files = [
             '词库源/法语单词（持续更新中）.txt',
-            '词库源/你好法语（持续更新中）.txt'
+            '词库源/你好法语（持续更新中）.txt',
+            '词库源/法语口语课（持续更新中）.txt'
         ]
         tool = TxtToXLSX()
         for file in files:
