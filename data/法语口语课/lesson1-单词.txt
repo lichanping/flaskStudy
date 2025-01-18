@@ -1,0 +1,226 @@
+Samedi   周六
+dix-huit  十八
+heure  小时
+cour  课程
+1 heure de cours  一小时的课程
+rester  剩下
+Il en reste 15  还剩15个。
+Je m'appelle Camille  我叫卡米尔。
+quinze  十五
+J'ai 15 ans  我15岁。
+anniversaire  生日
+avril  四月
+Mon anniversaire c'est le 2 avril  我的生日是4月2号。
+janvier  一月
+février  二月
+mars  三月
+mai  五月
+juin  六月
+juillet  七月
+août  八月
+septembre  九月
+octobre  十月
+novembre  十一月
+décembre  十二月
+lycéenne  高中生
+Je suis lycéenne  我是高中生。
+lycée  高中
+au   在
+Je suis lycéenne au lycée Ganquan  我在甘泉中学上高中。
+je suis en seconde  我在读高一。
+Le lycée en France 法国的高中
+naître  出生
+née  动词 “naître”（出生）的过去分词形式,通常用于女性
+J'habite à Shanghaï et j'y suis née  我住在上海，我在那里出生。
+shanghaïen   上海话
+A la maison, on parle le shanghaïen 在家里，我们说上海话。
+Je n'aime pas le sport  我不喜欢运动。
+peindre   “画；描绘；粉刷”
+dessiner   “画，绘制”，尤指用铅笔、钢笔等线条勾勒，与 “peindre”（侧重用颜料画）有所不同
+j'aime peindre et dessiner  我喜欢画画。
+personnes  人们(复数)
+fleurs  花(复数)
+J'aime peindre et dessiner des personnes et des fleurs  我喜欢画人和花。
+ciné  电影院
+cinéma  电影院
+J'aime aller au musée et au ciné  我喜欢去博物馆和电影院。
+détester  讨厌
+maths  数学
+Je déteste les maths  我讨厌数学。
+physique  物理
+Mais j'aime la physique 但我喜欢物理。
+aussi  也
+J'aime aussi les cours de français  我也喜欢法语课。
+chez moi  在我家
+On est  人称代词“on”（我们）的现在时第一人称单数形式
+On est six chez moi  我家有六口人。
+Ma grand-mère maternelle 我的外祖母。
+et mon grand-père paternel  和我的爷爷。
+ma grand-mère paternelle  我的奶奶。
+ma mère  我的母亲
+mon père et moi 我的父亲和我
+maternelle  “母亲的”“母性的”
+paternelle  “父亲的”“父性的”
+grand-mère maternelle  外祖母
+grand-père maternel  外祖父
+grand-mère paternelle  奶奶
+grand-père paternel  爷爷
+Ma mère a quarante et un ans  我母亲41岁。
+ingénieur  工程师(男性)
+Mon père est ingénieur  我父亲是工程师。
+informaticienne  计算机专家(女性)
+Ma mère est informaticienne 我母亲是计算机专家。
+tous  所有
+Tous les deux  他们两个
+Tous les deux travaillent beaucoup  他们两个都工作很忙。
+sévère  严格
+plus  更
+Mon père est le plus sévère  我父亲最严格。
+Je parle bien anglais  我英语说得很好。
+et un peu français  和一点法语。
+apprendre  学习
+J'apprends le français  我在学法语。
+Tu apprends le français  你在学法语。
+Il apprend le français  他在学法语。
+Elle apprend le français  她在学法语。
+Nous apprenons le français  我们在学法语。
+Vous apprenez le français  你们在学法语。
+Ils apprennent le français  他们在学法语。
+parce que  因为（引导原因状语从句）
+voudrais  想要（vouloir的条件式第一人称单数形式）
+faire  做
+études  学习（复数）
+J'apprends le français parce que je voudrais faire mes études en France  我在学法语，因为我想在法国学习。
+Emmanuel  埃马纽埃尔
+Le 8 février   2月8号
+C'est mon anniversaire 这是我的生日。
+soixante-deux  六十二
+Je vais avoir 62 ans 我62岁了。
+étais  是（être的过去式第一人称单数形式）
+professeur  教师
+J'étais professeur   我是老师。
+maintenant  现在
+retraite  退休(名词)
+et maintenant je suis à la retraite  现在我退休了。
+tes  你的(复数)
+grands-parents  祖父母
+tes grands-parents aussi  你的祖父母也是。
+soixante   六十
+soixante-dix  七十
+quatre-vingts  八十
+J'habite à Paris  我住在巴黎。
+J'ai habité   我曾经住过(过去完成时)
+pendant  在...期间
+mois  月(复数)
+un mois  一个月
+J'ai habité à Shanghaï pendant 11 mois en 2018  "2018年我在上海住了11个月。"
+voyagé  旅行（法语动词 “voyager” 的过去分词）
+J'ai beaucoup voyagé   我旅行了很多。
+voulais  想要（vouloir的过去式第一人称单数形式）
+vivre  生活
+vivre un peu en Chine  在中国生活一段时间
+pour  为了（引导目的状语从句）
+mieux  更好（bien的比较级）
+connaître  认识(动词)
+et je voulais vivre un peu en Chine pour mieux connaître la Chine 我想在中国生活一段时间，以便更好地了解中国。
+J'ai des amis en Chine  我在中国有朋友。
+allé  去（aller的过去分词）
+je suis allé à Shanghaï 我去了上海。
+vais  去（aller的现在式第一人称单数形式）
+Je vais  “我将要” “aller + 动词原形” 构成最近将来时，表示即将或打算做某事。
+te   你(间接宾语人称代词)表示动作 “présenter（介绍）” 的对象。
+présenter  介绍(动词)
+Je vais te présenter le cours   我给你介绍一下这门课。
+Pourquoi tu prends des cours avec moi  你为什么跟我上课？
+Je ne parle pas très bien français  我的法语说得不太好。
+partie  部分（名词）
+En deux parties  分两部分
+première  第一（形容词）
+1ère partie  第一部分
+nouvelles  新闻(复数)
+les nouvelles  新闻
+dis  告诉（dire的现在式第二人称单数形式）
+Tu me dis 2 nouvelles  你告诉我两个新闻。
+te   你(间接宾语人称代词)
+Je te dis 2 nouvelles 我告诉你两个新闻。
+allé  去（aller的过去分词）
+allée  去（aller的过去分词，女性）
+Je suis allée   我去了（aller的过去分词，女性）
+au   到（à + le = au）
+fois  次(复数)(名词)(f)
+une fois  一次（f）
+Cette semaine je suis allé au cinéma 4 fois  这周我去了4次电影院。
+roi  国王
+Je suis le roi en janvier  我是一月的国王。
+sais  知道（savoir的现在式第二人称单数形式）
+Tu sais pourquoi  你知道为什么吗？
+on mange  人们吃（第三人称单数）
+un gâteau spécial  一种特别的蛋糕
+qui s'appelle la galette des rois  关系从句，用来修饰先行词 “gâteau”。“qui” 是关系代词，在从句中作主语，指代前面的 “gâteau”
+galette  蛋糕(通常指一种扁平的饼状食物)
+des  一些(复数)(de + les = des)
+la galette des rois  国王蛋糕
+En France, en janvier, on mange un gâteau spécial qui s'appelle la galette des rois  在法国，一月份，我们吃一种特别的蛋糕，叫做国王蛋糕。
+déjà  已经
+mangé  吃（manger的过去分词）（与 “as” 一起构成复合过去时，表示 “吃过” 。）
+Tu as déjà mangé   你已经吃过(“avoir déjà + 过去分词” 构成复合过去时的一种形式，“déjà” 表示 “已经” )
+Tu as déjà mangé de la galette des rois  你吃过国王蛋糕了吗？
+peux  能（pouvoir的现在式第一人称单数形式）
+Tu peux en acheter à Shanghai  你可以在上海买到。（en：代替前面提到的 “galette des rois” 中的部分内容，作宾语。）
+maman  妈妈（名词）
+Maman va acheter une galette   妈妈要买一个蛋糕。(“aller + 动词原形” 构成最近将来时，表示即将或打算做某事。)
+On travaille un peu 我们有点工作。
+si 是否，连接 “我不知道” 的内容
+que  连接词，引导宾语从句(引出 “你知道” 的具体内容)
+un examen de français  一次法语考试
+en mai 2025  在2025年5月
+je ne sais pas si tu sais que tu vas passer un examen de français en mai 2025  我不知道你是否知道你将在2025年5月参加法语考试。
+Comment s'appelle l'examen  这次考试叫什么名字？
+DELF A2  法语语言能力考试A2级
+Les nouvelles de cette semaine 本周新闻
+vu  看见（voir的过去分词）
+un film américain  一部美国电影
+J'ai vu un film américain chez moi  我在家看了一部美国电影。
+acteurs  演员(复数)
+C'est un film français mais avec des acteurs américains  这是一部法国电影，但是演员是美国人。
+réalisatrice  导演(女性)
+l'argent  钱，资金（名词）
+La réalisatrice est française et l'argent aussi  导演是法国人，资金也是。
+fait peur  吓人(动词 “faire”（做）和名词 “peur”（恐惧）构成动词短语，表示 “吓人” )
+ça fait peur ce film 这部电影很吓人。
+hiver  冬天
+d'hiver  冬季的（“de” 在这里表示所属关系）
+Je suis maintenant en vacances d'hiver  我现在放寒假。
+être en vacances  放假
+Tu es contente  你高兴吗？
+Je suis très contente  我很高兴。
+tu vas faire  你将要做（“aller + 动词原形” 构成最近将来时，表示即将或打算做某事；“faire” 是动词原形，意为 “做” ）
+pendant  在...期间
+Qu'est-ce que tu vas faire pendant les vacances  你放假时要做什么？
+Je vais avoir des cours de maths, de français et de physique  我将要上数学、法语和物理课。
+Je vais voyager avec mes grands-parents  我将和我的祖父母一起旅行。
+Vous allez aller où  你们要去哪里？
+encore  还(副词)
+On ne sait pas encore  我们还不知道。
+restent  停留，留下；保持（rester的第三人称复数形式）
+Tes parents restent à Shanghaï  你的父母在上海。
+terminée  结束了（过去分词）（与 “la leçon” 一起构成动词短语，表示 “课程结束了” ）
+Camille, la leçon est terminée   卡米尔，课程结束了。
+Ton nom de famille en chinois c'est Ji 你的中文姓氏是吉。
+Ton prénom chinois c'est Lichen  你的中文名字是李晨。
+Tu as un prénom français c'est Camille  你有一个法国名字，叫卡米尔。
+Se présenter  介绍自己
+se présenter en français  用法语介绍自己
+Présenter le cours  介绍课程(Présenter + le + 名词，表示 “介绍某个东西” )
+appris  学习（apprendre的过去分词）
+Où est-ce que tu as appris le français  你在哪里学的法语？
+J'ai appris le français au lycée Ganquan  我在甘泉中学学的法语。
+Cette année tu apprends le français   今年你在学法语。
+Je suis en seconde au lycée Ganquan  我在甘泉中学读高一。
+Est-ce que tu aimes ça le français au lycée  你喜欢在学校学法语吗？
+premier  第一（形容词）(1er)
+Ce cours c'est le 1er cours  这是第一节课。
+l'on  人称代词“on”（我们）
+va faire  将要做（“aller + 动词原形” 构成最近将来时，表示即将要做的动作；“faire” 是动词原形，意为 “做” ）
+Qu'est-ce que l'on va faire  我们要做什么？
+Ta mère est en cours avec nous 你母亲和我们一起在上课（“être en cours” 表示 “在上课” ）
