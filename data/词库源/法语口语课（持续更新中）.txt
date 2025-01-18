@@ -8,7 +8,7 @@ Il en reste 15	还剩15个。
 Je m'appelle Camille	我叫卡米尔。
 quinze	十五
 J'ai 15 ans	我15岁。
-anniversaire	生日
+anniversaire	生日,周年纪念日(名词);周年纪念的；生日的(形容词)
 avril	四月
 Mon anniversaire c'est le 2 avril	我的生日是4月2号。
 janvier	一月
@@ -28,7 +28,7 @@ lycée	高中
 Je suis lycéenne au lycée Ganquan	我在甘泉中学上高中。
 je suis en seconde	我在读高一。
 Le lycée en France	法国的高中
-naître	出生
+naître	出生(动词)
 née	动词 “naître”(出生)的过去分词形式,通常用于女性
 J'habite à Shanghaï et j'y suis née	我住在上海,我在那里出生。
 shanghaïen	上海话/shang ga yien/
