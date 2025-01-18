@@ -79,6 +79,15 @@
 <script type="module">
     import * as script from './learnWords.js';
 
+    // Add event listener for the 'ENTER' key when focused on the spellingInput
+    document.getElementById("spellingInput").addEventListener("keydown", function(event) {
+        // Check if the key pressed is 'Enter' (keyCode 13 or event.key === 'Enter')
+        if (event.key === 'Enter') {
+            event.preventDefault(); // Prevent default action (optional)
+            document.getElementById("checkSpellingButton").click(); // Trigger the click event
+        }
+    });
+
     document.getElementById("file").addEventListener("change", script.renderQuestion);
     let autoRenderInterval; // Variable to hold the interval ID
     const renderButton = document.getElementById("renderQuestion");
