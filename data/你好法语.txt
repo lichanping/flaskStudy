@@ -1,18 +1,3 @@
-maintenant	现在
-retraite	退休(名词)
-et maintenant je suis à la retraite	现在我退休了。
-tes	你的(复数)
-grands-parents	祖父母
-tes grands-parents aussi	你的祖父母也是。
-soixante	六十
-soixante-dix	七十
-quatre-vingts	八十
-J'habite à Paris	我住在巴黎。
-J'ai habité	我曾经住过(过去完成时)
-mois	月(复数)
-un mois	一个月
-J'ai habité à Shanghaï pendant 11 mois en 2018	"2018年我在上海住了11个月。"
-voyagé	旅行(法语动词 “voyager” 的过去分词)
 J'ai beaucoup voyagé	我旅行了很多。
 voulais	想要(vouloir的过去式第一人称单数形式)
 vivre	生活
