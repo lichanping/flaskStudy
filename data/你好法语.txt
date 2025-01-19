@@ -561,3 +561,5 @@ le jardin des Tuileries	杜伊勒里花园
 L'entrée du musée est sous la Pyramide	博物馆的入口在金字塔下
 Les Vélib',c'est où	自行车租赁点在哪里?
 sous	在...下面=under
+mille	一千
+l'année deux mille vingt-cinq	"2025年"
