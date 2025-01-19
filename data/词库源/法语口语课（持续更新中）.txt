@@ -8,7 +8,7 @@ Il en reste 15	还剩15个。
 Je m'appelle Camille	我叫卡米尔。
 quinze	十五
 J'ai 15 ans	我15岁。
-anniversaire	生日,周年纪念日(名词);周年纪念的；生日的(形容词)
+anniversaire	生日,周年纪念日(名词);周年纪念的;生日的(形容词)
 avril	四月
 Mon anniversaire c'est le 2 avril	我的生日是4月2号。
 janvier	一月

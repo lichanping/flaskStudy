@@ -104,3 +104,4 @@ quatre-vingt-dix-huit  九十八adj.
 quatre-vingt-dix-neuf  九十九adj.
 cent  一百adj.
 cent un  一百一adj.
+mille   一千
