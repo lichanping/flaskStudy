@@ -1,3 +1,19 @@
+Il en reste 15	还剩15个。
+anniversaire	生日
+janvier	一月
+février	二月
+mars	三月
+mai	五月
+juin	六月
+juillet	七月
+août	八月
+septembre	九月
+octobre	十月
+novembre	十一月
+décembre	十二月
+lycée	高中
+je suis en seconde	我在读高一。
+naître	出生
 Bienvenue à tous	欢迎大家phr.
 l'impératif	命令式
 Fais comme moi	跟我一样做(命令式)
