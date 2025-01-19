@@ -656,3 +656,53 @@ décembre	十二月
 lycée	高中
 je suis en seconde	我在读高一。
 naître	出生
+aussi	也
+J'aime aussi les cours de français	我也喜欢法语课。
+chez moi	在我家
+On est	人称代词“on”(我们)的现在时第一人称单数形式
+On est six chez moi	我家有六口人。
+Ma grand-mère maternelle	我的外祖母。
+et mon grand-père paternel	和我的爷爷。
+ma grand-mère paternelle	我的奶奶。
+ma mère	我的母亲
+mon père et moi	我的父亲和我
+grand-mère maternelle	外祖母
+grand-père maternel	外祖父
+grand-mère paternelle	奶奶
+grand-père paternel	爷爷
+Ma mère a quarante et un ans	我母亲41岁。
+Mon père est ingénieur	我父亲是工程师。
+Ma mère est informaticienne	我母亲是计算机专家。
+Tous les deux travaillent beaucoup	他们两个都工作很忙。
+plus	更
+Mon père est le plus sévère	我父亲最严格。
+Je parle bien anglais	我英语说得很好。
+et un peu français	和一点法语。
+apprendre	学习
+J'apprends le français	我在学法语。
+Tu apprends le français	你在学法语。
+Il apprend le français	他在学法语。
+Elle apprend le français	她在学法语。
+Nous apprenons le français	我们在学法语。
+Vous apprenez le français	你们在学法语。
+Ils apprennent le français	他们在学法语。
+parce que	因为(引导原因状语从句)
+voudrais	想要(vouloir的条件式第一人称单数形式)
+faire	做
+études	学习(复数)
+J'apprends le français parce que je voudrais faire mes études en France	我在学法语,因为我想在法国学习。
+Emmanuel	埃马纽埃尔
+Le 8 février	"2月8号"
+C'est mon anniversaire	这是我的生日。
+soixante-deux	六十二
+professeur	教师
+J'étais professeur	我是老师。
+maternelle	“母亲的”“母性的”
+paternelle	“父亲的”“父性的”
+ingénieur	工程师(男性)
+informaticienne	计算机专家(女性)
+tous	所有
+Tous les deux	他们两个
+sévère	严格
+Je vais avoir 62 ans	我62岁了。
+étais	是(être的过去式第一人称单数形式)
