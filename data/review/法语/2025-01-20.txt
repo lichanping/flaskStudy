@@ -1,3 +1,12 @@
+maternelle	“母亲的”“母性的”
+paternelle	“父亲的”“父性的”
+ingénieur	工程师(男性)
+informaticienne	计算机专家(女性)
+tous	所有
+Tous les deux	他们两个
+sévère	严格
+Je vais avoir 62 ans	我62岁了。
+étais	是(être的过去式第一人称单数形式)
 Il en reste 15	还剩15个。
 anniversaire	生日
 janvier	一月
