@@ -224,3 +224,8 @@ l'on  人称代词“on”（我们）
 va faire  将要做（“aller + 动词原形” 构成最近将来时，表示即将要做的动作；“faire” 是动词原形，意为 “做” ）
 Qu'est-ce que l'on va faire  我们要做什么？
 Ta mère est en cours avec nous 你母亲和我们一起在上课（“être en cours” 表示 “在上课” ）
+La seconde   高一
+La première  高二
+La terminale  高三
+Je suis en la seconde  我在读高一。
+Elle est en la terminale  她在读高三。
