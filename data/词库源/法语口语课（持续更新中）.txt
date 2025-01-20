@@ -220,3 +220,8 @@ te	你(间接宾语人称代词)表示动作 “présenter(介绍)” 的对象�
 allé	去(aller的过去分词)
 au	在; 到(à + le = au)
 pendant	在...期间
+La seconde	高一
+La première	高二
+La terminale	高三
+Je suis en la seconde	我在读高一。
+Elle est en la terminale	她在读高三。
