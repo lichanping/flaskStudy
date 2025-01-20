@@ -88,7 +88,38 @@ sentimental	(adj.) 多愁善感的 ,伤感的
 hesitant	(adj.) 踌躇的 ,犹豫不决的
 vex	(v.) 使烦恼 ,使苦恼 ,使恼怒
 innocuous	(adj.) 无害的
-literacy	(n.) 识字
 liking	(n.) 嗜好 ,爱好
-veteran	(n.) 经验丰富的人 ,老手
 malaise	(n.) 不舒服
+brightness	(n.) 【光】  亮度
+nucleus	(n.) 原子核 ,核心 ,细胞核
+crumble	"v. 弄碎;使破碎;崩溃;破 灭;   n. 碎屑;面包屑"
+orderly	"adj. 有秩序的 ,整齐的 ,有 条不紊的"
+exhilarate	(v.) 使人高兴 ,令人兴奋
+paralysis	(n.) 瘫痪(症)   ,麻痹(症)
+entirety	"n. 全部;全面;作为一个整 体"
+revival	(n.) 复苏 ,复兴
+pasture	(n.) 牧场 ,草地
+application	"n. 应用 ,运用;  申请 (书)   ;应用程序"
+partition	(n.) 隔开物,  隔墙,  隔板
+gratify	(v.) 使高兴 ,使满足
+poll	(n.) 投票站
+soda	(n.) 苏打 ,纯碱
+robbery	(n.) 抢掠 ,抢夺
+pinch	"v. 捏 ,掐 ,夹痛;   n. 少 量 ,一撮"
+equivalence	(n.) 相等
+expressly	(adv.) 特别地 ,专门地
+uncertainty	(n.) 不确定;不确定因素
+cartridge	(n.) 墨盒
+plume	(n.) 羽毛 ,浓烟
+rake	(v.) 耙
+elapse	(v.) 过去,(光阴)流逝
+lawful	(adj.) 合法的 ,法律许可的
+appraise	(v.) 评价 ,鉴定
+reluctance	(n.) 不愿意 ,勉强
+oral	(adj.) 口头的,   口语的
+partake	(v.) 分享 ,参与 ,分担
+comprise	(vt.) 包含 ,包括
+soar	(v.) 猛增;升空 ,飞出
+royalty	(n.) 皇家 ,王族
+literacy	(n.) 识字
+veteran	(n.) 经验丰富的人 ,老手
