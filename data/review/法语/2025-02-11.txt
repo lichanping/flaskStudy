@@ -10,7 +10,3 @@ galette	蛋糕(通常指一种扁平的饼状食物)
 déjà	已经
 mangé	吃(manger的过去分词)(与 “as” 一起构成复合过去时,表示 “吃过” 。)
 Tu as déjà mangé	你已经吃过(“avoir déjà + 过去分词” 构成复合过去时的一种形式,“déjà” 表示 “已经” )
-l'assistant	助理,助手,副手
-directeur	经理n.阳性形式
-au-dessous	在下面,通常表示某物在另一物的正下方。
-au-dessus	“在上面”;...以上

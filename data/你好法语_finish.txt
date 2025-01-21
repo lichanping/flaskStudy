@@ -736,3 +736,38 @@ mieux	更好(bien的比较级)
 connaître	认识(动词)
 et je voulais vivre un peu en Chine pour mieux connaître la Chine	我想在中国生活一段时间,以便更好地了解中国。
 je suis allé à Shanghaï	我去了上海。
+vais	去(aller的现在式第一人称单数形式)
+Je vais	“我将要” “aller + 动词原形” 构成最近将来时,表示即将或打算做某事。
+présenter	介绍(动词)
+Je vais te présenter le cours	我给你介绍一下这门课。
+Pourquoi tu prends des cours avec moi	你为什么跟我上课?
+Je ne parle pas très bien français	我的法语说得不太好。
+partie	部分(名词)
+En deux parties	分两部分
+première	第一(形容词)
+1ère partie	第一部分
+nouvelles	新闻(复数)
+les nouvelles	新闻
+Tu me dis 2 nouvelles	你告诉我两个新闻。
+Je te dis 2 nouvelles	我告诉你两个新闻。
+une fois	一次(f)
+Cette semaine je suis allé au cinéma 4 fois	这周我去了4次电影院。
+roi	国王
+Je suis le roi en janvier	我是一月的国王。
+un gâteau spécial	一种特别的蛋糕
+des	一些(复数)(de + les = des)
+la galette des rois	国王蛋糕
+En France, en janvier, on mange un gâteau spécial qui s'appelle la galette des rois	在法国,一月份,我们吃一种特别的蛋糕,叫做国王蛋糕。
+Tu as déjà mangé de la galette des rois	你吃过国王蛋糕了吗?
+dis	告诉(dire的现在式第二人称单数形式)
+allée	去(aller的过去分词,女性)
+Je suis allée	我去了(aller的过去分词,女性)
+fois	次(复数)(名词)(f)
+sais	知道(savoir的现在式第二人称单数形式)
+Tu sais pourquoi	你知道为什么吗?
+on mange	人们吃(第三人称单数)
+qui s'appelle la galette des rois	关系从句,用来修饰先行词 “gâteau”。“qui” 是关系代词,在从句中作主语,指代前面的 “gâteau”
+galette	蛋糕(通常指一种扁平的饼状食物)
+déjà	已经
+mangé	吃(manger的过去分词)(与 “as” 一起构成复合过去时,表示 “吃过” 。)
+Tu as déjà mangé	你已经吃过(“avoir déjà + 过去分词” 构成复合过去时的一种形式,“déjà” 表示 “已经” )
