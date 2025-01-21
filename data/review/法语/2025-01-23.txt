@@ -1,3 +1,15 @@
+dis	告诉(dire的现在式第二人称单数形式)
+allée	去(aller的过去分词,女性)
+Je suis allée	我去了(aller的过去分词,女性)
+fois	次(复数)(名词)(f)
+sais	知道(savoir的现在式第二人称单数形式)
+Tu sais pourquoi	你知道为什么吗?
+on mange	人们吃(第三人称单数)
+qui s'appelle la galette des rois	关系从句,用来修饰先行词 “gâteau”。“qui” 是关系代词,在从句中作主语,指代前面的 “gâteau”
+galette	蛋糕(通常指一种扁平的饼状食物)
+déjà	已经
+mangé	吃(manger的过去分词)(与 “as” 一起构成复合过去时,表示 “吃过” 。)
+Tu as déjà mangé	你已经吃过(“avoir déjà + 过去分词” 构成复合过去时的一种形式,“déjà” 表示 “已经” )
 La terminale	高三
 vivre	生活
 vivre un peu en Chine	在中国生活一段时间
