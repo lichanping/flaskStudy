@@ -771,3 +771,61 @@ galette	蛋糕(通常指一种扁平的饼状食物)
 déjà	已经
 mangé	吃(manger的过去分词)(与 “as” 一起构成复合过去时,表示 “吃过” 。)
 Tu as déjà mangé	你已经吃过(“avoir déjà + 过去分词” 构成复合过去时的一种形式,“déjà” 表示 “已经” )
+maman	妈妈(名词)
+On travaille un peu	我们有点工作。
+si	是否,连接 “我不知道” 的内容
+que	连接词,引导宾语从句(引出 “你知道” 的具体内容)
+un examen de français	一次法语考试
+en mai 2025	在2025年5月
+je ne sais pas si tu sais que tu vas passer un examen de français en mai 2025	我不知道你是否知道你将在2025年5月参加法语考试。
+Comment s'appelle l'examen	这次考试叫什么名字?
+DELF A2	法语语言能力考试A2级
+Les nouvelles de cette semaine	本周新闻
+un film américain	一部美国电影
+J'ai vu un film américain chez moi	我在家看了一部美国电影。
+acteurs	演员(复数)
+C'est un film français mais avec des acteurs américains	这是一部法国电影,但是演员是美国人。
+La réalisatrice est française et l'argent aussi	导演是法国人,资金也是。
+ça fait peur ce film	这部电影很吓人。
+Je suis maintenant en vacances d'hiver	我现在放寒假。
+être en vacances	放假
+Je suis très contente	我很高兴。
+tu vas faire	你将要做(“aller + 动词原形” 构成最近将来时,表示即将或打算做某事;“faire” 是动词原形,意为 “做” )
+Je vais avoir des cours de maths, de français et de physique	我将要上数学、法语和物理课。
+Je vais voyager avec mes grands-parents	我将和我的祖父母一起旅行。
+On ne sait pas encore	我们还不知道。
+Tes parents restent à Shanghaï	你的父母在上海。
+Camille, la leçon est terminée	卡米尔,课程结束了。
+Ton nom de famille en chinois c'est Ji	你的中文姓氏是吉。
+Ton prénom chinois c'est Lichen	你的中文名字是李晨。
+Tu as un prénom français c'est Camille	你有一个法国名字,叫卡米尔。
+Se présenter	介绍自己
+se présenter en français	用法语介绍自己
+Présenter le cours	介绍课程(Présenter + le + 名词,表示 “介绍某个东西” )
+Où est-ce que tu as appris le français	你在哪里学的法语?
+J'ai appris le français au lycée Ganquan	我在甘泉中学学的法语。
+peux	能(pouvoir的现在式第一人称单数形式)
+Tu peux en acheter à Shanghai	你可以在上海买到。(en:代替前面提到的 “galette des rois” 中的部分内容,作宾语。)
+Maman va acheter une galette	妈妈要买一个蛋糕。(“aller + 动词原形” 构成最近将来时,表示即将或打算做某事。)
+vu	看见(voir的过去分词)
+réalisatrice	导演(女性)
+l'argent	钱,资金(名词)
+fait peur	吓人(动词 “faire”(做)和名词 “peur”(恐惧)构成动词短语,表示 “吓人” )
+hiver	冬天
+d'hiver	冬季的(“de” 在这里表示所属关系)
+Tu es contente	你高兴吗?
+Qu'est-ce que tu vas faire pendant les vacances	你放假时要做什么?
+Vous allez aller où	你们要去哪里?
+encore	还(副词)
+restent	停留,留下;保持(rester的第三人称复数形式)
+terminée	结束了(过去分词)(与 “la leçon” 一起构成动词短语,表示 “课程结束了” )
+appris	学习(apprendre的过去分词)
+Cette année tu apprends le français	今年你在学法语。
+Je suis en seconde au lycée Ganquan	我在甘泉中学读高一。
+Est-ce que tu aimes ça le français au lycée	你喜欢在学校学法语吗?
+premier	第一(形容词)(1er)
+Ce cours c'est le 1er cours	这是第一节课。
+l'on	人称代词“on”(我们)
+va faire	将要做(“aller + 动词原形” 构成最近将来时,表示即将要做的动作;“faire” 是动词原形,意为 “做” )
+Qu'est-ce que l'on va faire	我们要做什么?
+Ta mère est en cours avec nous	你母亲和我们一起在上课(“être en cours” 表示 “在上课” )
