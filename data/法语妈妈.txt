@@ -439,3 +439,4 @@ mois	月
 année 年
 apprendre    学习，学
 lentement	慢,慢慢地
+choisissent选择
