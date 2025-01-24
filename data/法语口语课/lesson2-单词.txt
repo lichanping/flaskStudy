@@ -21,13 +21,13 @@ exprimer表达（原形）
 exprimez-vous表达你们自己
 sur关于;在……上
 Vous vous exprimez sur le sujet    你们表达关于这个主题的看法
-L’examinateur   考官（阳性名词）
+L'examinateur   考官（阳性名词）
 pouvoir能够（原形）
 ensuite然后,接着
 poser提出（原形）
 poser des questions  提出问题
 complémentaires补充的
-L’examinateur peut ensuite vous poser des questions complémentaires.
+L'examinateur peut ensuite vous poser des questions complémentaires 考官随后可能会向你提出一些补充性问题
 SUJET 1 主题 1
 Les saisons  季节（阴性名词）
 En France, il y a 4 saisons 在法国，有 4 个季节
@@ -69,359 +69,138 @@ Je ramasse              我捡起(第一人称单数)
 feuilles树叶（阴性名词）
 Je ramasse les feuilles en automne et j'aime ça我在秋天捡树叶，而且我喜欢这样做（ça：指示代词，指代前面提到的 “ramasse les feuilles en automne（在秋天捡树叶）” 这件事，作 “aime” 的宾语 ）
 SUJET 2  主题 2
-L’habitat 阳性名词,居住环境
+L'habitat 阳性名词,居住环境
 Comment est votre chambre“你的房间怎么样？”
- ? Où est-elle dans la maison ? Qu’est-ce qu’il
-y a dedans ? Comment est-elle décorée ?
-
-J'habite dans un appartement à Shanghai, j'ai ma chambre.
-Ma chambre est petite, il y a un lit, un bureau, une lampe, deux étagères, une chaises, deux fenêtres， un ordinateur, il y a aussi un canapé.
-
-J'aime bien ma chambre.
-
-https://delf.hachettefle.fr/
-https://delf.hachettefle.fr/delf-junior-scolaire-a2__fr.html
-https://delf.hachettefle.fr/dl.php?f=ressources/DELFSJ_A2NF_PDF/DELF%20A2%20SJ%20NF_Epreuve%20blanche%201.pdf
-
-
-
-
-
-Je m'appelle Camille.
-J'ai 15 ans, mon anniversaire c'est le 2 avril.
-Je suis lycéenne au lycée Ganquan, je suis en seconde.
-J'habite à Shanghaï et j'y suis née. A la maison, on parle le shanghaïen /shang ga yien/
-Je n'aime pas le sport, j'aime peindre et dessiner des personnes et des fleurs.
-J'aime aller au musée et au ciné (cinéma).
-Je déteste les maths mais j'aime la physique. J'aime aussi les cours de français.
-On est cinq chez moi, ma grand-mère et mon grand-père, ma mère, mon père et moi.
-Ma mère a 38 ans et mon père a quarante-trois ans.
-Mon père est ingénieur, ma mère est informaticienne. Tous les deux travaillent beaucoup.
-Mon père est le plus sévère.
-Je parle bien anglais, et un peu français.
-J'aime bien voyager. 
-En Chine, j'ai voyagé à Pékin, 
-A l'étranger, j'ai voyagé en Thaïlande, en Corée, au Japon.
-J'aimerais voyager en France.
-J'apprends le français parce que je voudrais faire mes études en France.
-
-Je vais bien
-
-aller bien
-aller mal
-
-je vais bien
-
-Est-ce que tes parents vont bien?
-
-Mes parents vont bien.
-
-Est-ce qu'il fait beau à Shanghai? (Oui / Non) 
-Oui, il fait beau à Shanghai?
-Non, il ne fait pas beau à Shanghai?
-
-/o/ o, au, eau
-
-
-
-Est-ce qu'il fait froid à Shanghai?
-ça va, il ne fait pas trop froid à Shanghai.
-
-Est-ce qu'il pleut à Shanghai?
-Non, il ne pleut pas à Shanghai.
-
-Non, il y a une tempête à Paris (台风）
-un peu 
-oui, il pleut à Paris.
-
-Qu'est-ce que tu as fait aujourd'hui?
-
-un cours de maths et un cours de physique
-
-c'est tout
-
-j'ai aussi fait mes devoirs
-
-faire ses devoirs.
-
-Est-ce que tu es sortie aujourd'hui?
-
-sortir : 出去 出门
-
-rester : 
-
-je suis restée à la maison.
-
-A Paris, il est 13h10
-
-Je suis sorti aujourd'hui
-
-Je suis allé faire du sport
-
-Je suis allé au cinéma à 10h15
-
-Mes parents ont travaillé aujourd'hui?
-
-Ils étaient à la maison toute la journée?
-
-Mon père est sorti
-Ma mère est allée à l'hôpital.
-
-to go : aller
-
-Ma grand-mère est malade?
-
-Ma grand-mère a mal à la tête
-
-avoir mal à la tête
-avoir mal aux dents
-avoir mal au ventre
-
-CAMILLE 1
-je suis allée deux fois à l'hôpital?
-j'avais des problèmes de peau
-
-ça va maintenant?
-oui ça va.
-
-过敏
-avoir des allergies
-
-CAMILLE 2
-mardi, je suis sortie avec mes trois amies
-où est-ce que vous êtes allée?
-
-逛逛街
-faire du shopping
-
-Tu as acheté quelque chose?
-
-j'ai acheté une glace.
-
-Tu es sortie à quelle heure mardi?
-
-Je suis sortie à 13h30
-tu es rentrée à 17h00
-
-EMMANUEL 1
-Pour fêter le nouvel an chinois, les chinois qui vivent à Paris on mis des lanternes.
-
+Où est-elle dans la maison  “它在房子里的哪里？”
+dedans在里面（副词）
+Qu'est-ce qu'il y a dedans  “里面有什么？”
+décorer装饰（动词原形）
+décorée装饰的（过去分词）
+Comment est-elle décorée   “它（阴性）是如何装饰的？”（“être + 过去分词” 的被动语态结构中，表示 “被装饰”   ）
+J'habite dans un appartement à Shanghai, j'ai ma chambre.       我住在上海的一个公寓里，我有自己的房间。
+Ma chambre est petite       我的房间很小
+Il y a un lit, un bureau, une lampe, deux étagères, une chaise, deux fenêtres, un ordinateur.   我的房间里有一张床，一张书桌，一盏灯，两个架子，一把椅子，两个窗户，一台电脑。
+canapé沙发（阳性名词）
+Il y a aussi un canapé   还有一张沙发。
+J'aime bien ma chambre  我很喜欢我的房间。
+J'aime bien voyager       我很喜欢旅行。
+En Chine, j'ai voyagé à Pékin   在中国，我去过北京。
+Thaïlande 泰国（阴性名词）
+Corée 韩国（阴性名词）
+Japon 日本（阳性名词）
+A l'étranger, j'ai voyagé en Thaïlande, en Corée, au Japon  在国外，我去过泰国，韩国，日本。
+aimerais 是动词 aimer（喜欢）的条件式现在时，表示一种愿望或礼貌语气，翻译为“想”或“希望”。（原形：aimer）
+J'aimerais voyager en France  我想去法国旅行。
+J'apprends le français parce que je voudrais faire mes études en France 我学习法语是因为我想在法国读书。
+Je vais bien    我很好
+aller bien  意为“身体健康，情况良好”
+mal 是副词，意思是“不好”或“糟糕”。
+aller mal       意为“身体不舒服，情况不好”
+Est-ce que tes parents vont bien  你父母身体好吗？
+Mes parents vont bien  我父母身体好。
+beau     形容词，意为“美丽的，漂亮的”；在这里指“天气好”
+Est-ce qu'il fait beau à Shanghai   上海天气好吗？
+Oui, il fait beau à Shanghai   是的，上海天气好。
+Non, il ne fait pas beau à Shanghai  不，上海天气不好。
+Est-ce qu'il fait froid à Shanghai  上海天气冷吗？
+ça va, il ne fait pas trop froid à Shanghai 还好，上海天气不是太冷。
+pleuvoir 下雨（动词原形）
+il pleut：意思是“下雨”，动词 pleuvoir 的第三人称单数形式，专用于描述天气。
+Est-ce qu'il pleut à Shanghai   上海下雨吗？
+Non, il ne pleut pas à Shanghai 不，上海不下雨。
+tempête 意为“暴风雨”；风暴（阴性名词）
+Non, il y a une tempête à Paris     不，巴黎有暴风雨。
+un peu  副词，意为“一点儿”
+oui, il pleut à Paris   是的，巴黎下雨。
+fait是动词 faire（做）的 过去分词，用于复合时态，表示“做了”。（原形：faire）
+Je fais         我做（第一人称单数）
+Tu fais         你做
+Il fait         他做
+Nous faisons    我们做
+Vous faites     你们做
+Ils font        他们做
+Qu'est-ce que tu as fait aujourd'hui    你今天做了什么？
+un cours de maths et un cours de physique   一节数学课和一节物理课
+c'est tout  就这些
+fait 是动词 faire（做）的 过去分词，用在复合时态中，表示“做了”。（原形：faire）
+devoirs     作业（阳性名词）
+j'ai aussi fait mes devoirs 我还做了作业
+ses是 il/elle（他/她）的所有格形容词，表示“他的/她的/它的”。
+faire ses devoirs   做作业
+Est-ce que tu es sortie aujourd'hui 你今天出去了吗？
+sortir 出去 出门
+Je sors  我出去（第一人称单数）
+Tu sors  你出去
+Il sort  他出去
+Nous sortons    我们出去
+Vous sortez    你们出去
+Ils sortent     他们出去
+rester  原形，意为“留下，待在”
+restée是动词 rester（呆，停留）的过去分词。由于主语是女性单数形式，所以过去分词 resté 变为 restée，表示女性主语。
+je suis restée à la maison  我呆在家里（第一人称单数）
+A Paris, il est 13h10    巴黎现在是13点10分"treize heures dix"
+Je suis sorti aujourd'hui   我今天出去了
+Je suis allé faire du sport 我去做运动了
+Je suis allé au cinéma à 10h15  我10点15分去看电影"dix heures quinze"
+Mes parents ont travaillé aujourd'hui   我父母今天工作了
+Ils étaient是动词 être（是）的 第三人称复数 未完成过去时（imparfait）变位，表示“他们在…”。
+toute   副词，意为“整个”（toute la journée：整天）
+Ils étaient à la maison toute la journée  他们一整天都在家
+est sorti是动词 sortir（出去）的过去分词形式，使用 être 作为助动词。
+Mon père est sorti  我父亲出去了
+Ma mère est allée à l'hôpital   我母亲去医院了
+Ma grand-mère est malade    我奶奶生病了
+la tête 是“头”（阴性名词）
+Ma grand-mère a mal à la tête   我奶奶头疼
+avoir mal à la tête     头疼
+dents是“牙齿”（阴性名词）
+avoir mal aux dents  牙疼
+ventre是“肚子”（阳性名词）
+avoir mal au ventre 肚子疼
+je suis allée deux fois à l'hôpital 我去了两次医院
+peau    皮肤（阴性）
+j'avais des problèmes de peau   我有皮肤问题
+J'ai la peau douce  我的皮肤很嫩
+ça va maintenant    现在好了吗？
+avoir des allergies 过敏（des 是不定冠词的复数形式，表示一些）
+mardi, je suis sortie avec mes trois amies星期二，我和我的三个朋友一起出去。
+où est-ce que vous êtes allée 你们去哪里了？
+faire du shopping   逛街购物
+Tu as acheté quelque chose  你买了什么？
+j'ai acheté une glace   我买了一个冰淇淋
+sortie是动词 sortir（出去）的复合过去时形式
+Tu es sortie à quelle heure mardi   星期二你几点出去的？
+Je suis sortie à 13h30  我13点30分出去的 "treize heures trente"
+tu es rentrée à 17h00   你17点回来的"dix-sept heures"
+Pour fêter：表示“为了庆祝”，pour 是介词，表示“为了”，fêter 是动词 （庆祝）的原形。
+le nouvel an chinois：表示“中国新年”，nouvel an 是“新年”，chinois 表示“中文的，或中国的”。
+les chinois：表示“那些中国人”，les 是定冠词复数形式，chinois 是形容词，也可以作为名词，指代“中国人”。
+qui vivent à Paris：表示“住在巴黎的”，qui 是关系代词，vivent 是动词 vivre（生活，居住）的第三人称复数形式，表示“他们生活”。
+mettre：是动词（放置，挂）的原形。
+ont mis：是动词 mettre（放置，挂）的复合过去时形式，使用 avoir 作为助动词，表示“他们放了”。
+des lanternes：表示“灯笼”，des 是不定冠词的复数形式，表示一些，lanternes 是名词的复数形式。
+Pour fêter le nouvel an chinois, les chinois qui vivent à Paris on mis des lanternes    为了庆祝中国新年，住在巴黎的中国人挂了灯笼。
 Le nouvel an chinois 春节
-
-C'est bientôt, le nouvel an chinois.
-
-C'est quand ?
-Le nouvel chinois c'est le mardi 28 janvier.
-
-L'année du serpent
-un serpent
-
-Moi je suis lapin et toi?
-
-Camille est bœuf.
-
-EMMANUEL 2
-J'habite près du 2e quartier chinois de Paris
-Qu'est-ce que l'on fait dans le quartier chinois de Belleville
-- on va faire les courses
-- on va au restaurant
-
-Samedi, il y a la danse des lions à Belleville
-
-Tu aimes ça la danse des lions
-
-Est-ce qu'il y a des filles qui dansent la danse des lions?
-
-Est-ce qu'il y a des questions sur mes nouvelles.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Samedi 18 janvier 2025
-1 heure de cours
-Il en reste 15
-
-Je m'appelle Camille.
-J'ai 15 ans, mon anniversaire c'est le 2 avril.
-Je suis lycéenne au lycée Ganquan, je suis en seconde.
-J'habite à Shanghaï et j'y suis née. A la maison, on parle le shanghaïen /shang ga yien/
-Je n'aime pas le sport, j'aime peindre et dessiner des personnes et des fleurs.
-J'aime aller au musée et au ciné (cinéma).
-Je déteste les maths mais j'aime la physique. J'aime aussi les cours de français.
-On est cinq chez moi, ma grand-mère et mon grand-père, ma mère, mon père et moi.
-Ma mère a 38 ans et mon père a quarante-trois ans.
-Mon père est ingénieur, ma mère est informaticienne. Tous les deux travaillent beaucoup.
-Mon père est le plus sévère.
-Je parle bien anglais, et un peu français. J'apprends le français parce que je voudrais faire mes études en France.
-
-Emmanuel
-Le 8 février c'est mon anniversaire, je vais avoir 62 ans.
-J'étais professeur, et maintenant je suis à la retraite
-
-(tes grands-parents aussi?)
-
-60 soixante
-70 soixante-dix
-80 quatre-vingts
-
-J'habite à Paris.
-
-J'ai habité à Shanghaï 11 mois en 2018.
-
-J'ai beaucoup voyagé et je voulais vivre un peu en Chine pour mieux connaître la Chine. J'ai des amis en Chine, je suis allé à Shanghaï.
-
-Je vais te présenter le cours
-
-Pourquoi tu prends des cours avec moi?
-
-Je ne parle pas très bien français.
-
-En deux parties
-
-1ère partie : les nouvelles 消息
-
-toi tu me dis 2 nouvelles
-moi je te dis 2 nouvelles
-
-EMMANUEL 1
-Cette semaine je suis allé au cinéma 4 fois.
-
-EMMANUEL 2
-Je suis le roi en janvier.
-Tu sais pourquoi?
-En France, en janvier, on mange un gâteau spécial qui s'appelle la galette des rois.
-
-tu as déjà mangé de la galette des rois?
-
-tu peux en acheter à Shanghai.
-
-maman va acheter une galette.
-
-2e partie
-on travaille un peu
-
-je ne sais pas si tu sais que tu vas passer un examen de français en mai 2025.
-
-Comment s'appelle l'examen?
-
-DELF A2
-
-Les nouvelles de cette semaine 
-
-CAMILLE 1
-J'ai vu un film américain chez moi.
-
-The substance
-
-C'est un film français mais avec des acteurs américains
-La réalisatrice est française et l'argent aussi.
-
-ça fait peur ce film 
-
-faire peur
-avoir peur 
-
-CAMILLE 2
-Je suis maintenant en vacances d'hiver.
-
-être en vacances 房价
-
-1 semaine
-2 semaines
-4 semaines
-
-Tu es contente?
-Je suis très contente.
-
-Qu'est-ce que tu vas faire pendant les vacances.
-Je vais avoir des cours de maths, de français et de physique.
-Je vais voyager avec mes grands-parents.
-Vous allez aller où?
-On ne sait pas encore.
-Vous allez voyager à 3 ou à 5?
-
-Tes parents restent à Shanghaï.
-
-Camille, la leçon est terminée.
-
-
-
-grand-mère maternelle 妈
-grand-mère paternelle 爸
-
-janvier
-février
-mars
-avril
-mai
-juin
-juillet
-août
-septembre
-octobre
-novembre
-décembre
-
-
-
-Un petit peu.
-
-Tu t'appelles Camille
-
-Ton nom de famille en chinois c'est Ji et ton prénom chinois c'est Lichen. Tu as un prénom français c'est Camille.
-
-se présenter en français
-介绍一下
-
-Je m'appelle Camille, j'ai 15 ans.
-J'aime peindre et dessiner
-Je suis petite, j'aime le vert.
-Mes cheveux sont noirs.
-
-Où est-ce que tu as appris le français?
-
-J'ai appris le français au lycée Ganquan.
-Cette année tu apprends le français.
-
-Au lycée Guanquan tu es en quelle année?
-
-Le lycée en France
-La 1ère année : la seconde
-La 2e année : la première
-La 3e année : la terminale
-
-Je suis en seconde au lycée Ganquan.
-
-Est-ce que tu aimes ça le français au lycée.
-
-Ce cours c'est le 1er cours
-Qu'est-ce que l'on va faire?
-
-Se présenter
-Présenter le cours
-
-
-
-
-
-
-
-
-Ta mère en cours avec nous.
-
+C'est bientôt：表示“快到了”，bientôt 是副词，表示“很快，马上”。
+C'est bientôt, le nouvel an chinois  很快就是中国新年了。
+C'est quand     是什么时候？
+Le nouvel an chinois, c'est le mardi 28 janvier 2025  中国新年是2025年1月28日星期二。
+L'année du serpent  蛇年
+un serpent  一条蛇（阳性名词）
+lapin  兔子（阳性名词）
+Moi je suis lapin et toi    我是兔子，你呢？
+bœuf  牛（阳性名词）
+Camille est bœuf    卡米尔是牛
+quartier  街区（阳性名词）
+quartier chinois：表示“华人区”，quartier 是名词，表示“区，街区”，chinois 是形容词，表示“中国的”。
+J'habite près du 2e quartier chinois de Paris  我住在巴黎第二个中国区附近。deuxième 是形容词，表示“第二”。
+Qu'est-ce que l'on fait dans le quartier chinois de Belleville  在贝尔维尔的中国区我们做什么？
+on va faire les courses 我们去买东西
+on va au restaurant 我们去餐馆
+la danse des lions：表示“舞狮表演”，danse 是“舞蹈”的名词，des lions 是“狮子们”的复数形式。
+Samedi, il y a la danse des lions à Belleville  星期六，在贝尔维尔有舞狮表演。
+Tu aimes ça la danse des lions  你喜欢舞狮表演吗？
+qui dansent：表示“跳舞”，qui 是关系代词，指代“女孩”，dansent 是动词 danser（跳舞）的第三人称复数形式。
+Est-ce qu'il y a des filles qui dansent la danse des lions  有没有女孩子在跳舞？
+mes nouvelles：表示“我的消息”，mes 是物主代词，表示“我的”，nouvelles 是阴性名词，表示“消息”。
+Est-ce qu'il y a des questions sur mes nouvelles    有关于我的消息的问题吗？
