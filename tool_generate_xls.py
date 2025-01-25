@@ -324,17 +324,17 @@ class GenerateTool:
         # remove duplicate words
         tool = TxtToXLSX()
         tool.remove_old_files()
-        tool.remove_duplicates_or_merge_translations('词库源/高考词汇（持续更新中）.txt')
-        tool.remove_duplicates_or_merge_translations('词库源/雅思基础词汇(持续更新中).txt')
-        tool.remove_duplicates_or_merge_translations('词库源/雅思词汇（百词斩）.txt')
+        # tool.remove_duplicates_or_merge_translations('词库源/高考词汇（更新完毕）.txt')
+        # tool.remove_duplicates_or_merge_translations('词库源/雅思基础词汇(更新完毕).txt')
+        tool.remove_duplicates_or_merge_translations('词库源/百词斩-雅思词汇（持续更新中）.txt')
 
     @Test()
     def calculate_missing_words(self):
         tool = TxtToXLSX()
         # generate missing sounds
-        tool.convert('词库源/高考词汇（持续更新中）.txt')
-        tool.convert('词库源/雅思基础词汇(持续更新中).txt')
-        tool.convert('词库源/雅思词汇（百词斩）.txt')
+        # tool.convert('词库源/高考词汇（更新完毕）.txt')
+        # tool.convert('词库源/雅思基础词汇(更新完毕).txt')
+        tool.convert('词库源/百词斩-雅思词汇（持续更新中）.txt')
 
     @Test()
     def french_words(self):
