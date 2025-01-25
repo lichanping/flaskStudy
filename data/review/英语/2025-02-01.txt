@@ -1,3 +1,11 @@
+invent	(vt.) 发明
+atmosphere	(n.) 氛围 ，气氛；大气；空气
+phrase	(n.) 短语 ，词组
+elementary	(adj.) 小学的；基本的
+peak	"adj. 峰值的；   v. 达到最高 点；   n. 尖端；  山峰，  峰 …"
+role	(n.) 作用；角色
+scientific	(adj.) 科学的
+trade	"n. 贸易 ，商业；职业；手 艺；行当；   v. 经商 ，交易"
 intermediate	(adj.) 中间的
 block	"v. 阻挡 ，妨碍，  阻塞；   n. 街区；  阻碍；块状物"
 concentrate	(v.) 全神贯注于

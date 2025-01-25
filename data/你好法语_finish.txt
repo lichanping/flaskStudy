@@ -929,3 +929,143 @@ L'examinateur peut ensuite vous poser des questions complémentaires	考官随�
 Le printemps	春天(阳性名词)
 en général	通常(副词),作状语
 agréable	“宜人的、舒适的”(形容词)
+chaud	热的(形容词)
+Il ne fait pas trop chaud	“天气不是太热”
+froid	冷的(形容词)
+il ne fait pas trop froid	“天气不是太冷”
+il ne pleut pas beaucoup en automne	“秋天不常下雨”
+Je ramasse	我捡起(第一人称单数)
+feuilles	树叶(阴性名词)
+Je ramasse les feuilles en automne et j'aime ça	我在秋天捡树叶,而且我喜欢这样做(ça:指示代词,指代前面提到的 “ramasse les feuilles en automne(在秋天捡树叶)” 这件事,作 “aime” 的宾语 )
+SUJET 2	主题 2
+L'habitat	阳性名词,居住环境
+Comment est votre chambre	“你的房间怎么样?”
+Où est-elle dans la maison	“它在房子里的哪里?”
+Qu'est-ce qu'il y a dedans	“里面有什么?”
+décorée	装饰的(过去分词)
+Comment est-elle décorée	“它(阴性)是如何装饰的?”(“être + 过去分词” 的被动语态结构中,表示 “被装饰”   )
+J'habite dans un appartement à Shanghai, j'ai ma chambre.	我住在上海的一个公寓里,我有自己的房间。
+Ma chambre est petite	我的房间很小
+Il y a un lit, un bureau, une lampe, deux étagères, une chaise, deux fenêtres, un ordinateur.	我的房间里有一张床,一张书桌,一盏灯,两个架子,一把椅子,两个窗户,一台电脑。
+canapé	沙发(阳性名词)
+Il y a aussi un canapé	还有一张沙发。
+J'aime bien ma chambre	我很喜欢我的房间。
+J'aime bien voyager	我很喜欢旅行。
+En Chine, j'ai voyagé à Pékin	在中国,我去过北京。
+Thaïlande	泰国(阴性名词)
+Japon	日本(阳性名词)
+A l'étranger, j'ai voyagé en Thaïlande, en Corée, au Japon	在国外,我去过泰国,韩国,日本。
+J'aimerais voyager en France	我想去法国旅行。
+Je vais bien	我很好
+aller bien	意为“身体健康,情况良好”
+mal	是副词,意思是“不好”或“糟糕”。
+aller mal	意为“身体不舒服,情况不好”
+Est-ce que tes parents vont bien	你父母身体好吗?
+Mes parents vont bien	我父母身体好。
+beau	形容词,意为“美丽的,漂亮的”;在这里指“天气好”
+Est-ce qu'il fait beau à Shanghai	上海天气好吗?
+Oui, il fait beau à Shanghai	是的,上海天气好。
+Non, il ne fait pas beau à Shanghai	不,上海天气不好。
+Est-ce qu'il fait froid à Shanghai	上海天气冷吗?
+ça va, il ne fait pas trop froid à Shanghai	还好,上海天气不是太冷。
+Non, il ne pleut pas à Shanghai	不,上海不下雨。
+Non, il y a une tempête à Paris	不,巴黎有暴风雨。
+un peu	副词,意为“一点儿”
+oui, il pleut à Paris	是的,巴黎下雨。
+ramasser	捡起(动词)
+dedans	在里面(副词)
+décorer	装饰(动词原形)
+Corée	韩国(阴性名词)
+aimerais	是动词 aimer(喜欢)的条件式现在时,表示一种愿望或礼貌语气,翻译为“想”或“希望”。(原形:aimer)
+Est-ce qu'il pleut à Shanghai	上海下雨吗?
+tempête	意为“暴风雨”;风暴(阴性名词)
+Je fais	我做(第一人称单数)
+Qu'est-ce que tu as fait aujourd'hui	你今天做了什么?
+un cours de maths et un cours de physique	一节数学课和一节物理课
+c'est tout	就这些
+j'ai aussi fait mes devoirs	我还做了作业
+faire ses devoirs	做作业
+Est-ce que tu es sortie aujourd'hui	你今天出去了吗?
+sortir	出去 出门
+Je sors	我出去(第一人称单数)
+Tu sors	你出去
+Il sort	他出去
+Nous sortons	我们出去
+Vous sortez	你们出去
+Ils sortent	他们出去
+restée	是动词 rester(呆,停留)的过去分词。由于主语是女性单数形式,所以过去分词 resté 变为 restée,表示女性主语。
+je suis restée à la maison	我呆在家里(第一人称单数)
+A Paris, il est 13h10	巴黎现在是13点10分"treize heures dix"
+Je suis sorti aujourd'hui	我今天出去了
+Je suis allé faire du sport	我去做运动了
+Je suis allé au cinéma à 10h15	我10点15分去看电影"dix heures quinze"
+Mes parents ont travaillé aujourd'hui	我父母今天工作了
+toute	副词,意为“整个”(toute la journée:整天)
+Ils étaient à la maison toute la journée	他们一整天都在家
+est sorti	是动词 sortir(出去)的过去分词形式,使用 être 作为助动词。
+Mon père est sorti	我父亲出去了
+Ma mère est allée à l'hôpital	我母亲去医院了
+Ma grand-mère est malade	我奶奶生病了
+Ma grand-mère a mal à la tête	我奶奶头疼
+avoir mal à la tête	头疼
+dents	是“牙齿”(阴性名词)
+avoir mal aux dents	牙疼
+ventre	是“肚子”(阳性名词)
+avoir mal au ventre	肚子疼
+je suis allée deux fois à l'hôpital	我去了两次医院
+j'avais des problèmes de peau	我有皮肤问题
+ça va maintenant	现在好了吗?
+avoir des allergies	过敏(des 是不定冠词的复数形式,表示一些)
+mardi, je suis sortie avec mes trois amies	星期二,我和我的三个朋友一起出去。
+où est-ce que vous êtes allée	你们去哪里了?
+faire du shopping	逛街购物
+Tu as acheté quelque chose	你买了什么?
+sortie	是动词 sortir(出去)的复合过去时形式
+Tu es sortie à quelle heure mardi	星期二你几点出去的?
+devoirs	作业(阳性名词)
+ses	是 il/elle(他/她)的所有格形容词,表示“他的/她的/它的”。
+Ils étaient	是动词 être(是)的 第三人称复数 未完成过去时(imparfait)变位,表示“他们在...”。
+la tête	是“头”(阴性名词)
+peau	皮肤(阴性)
+J'ai la peau douce	我的皮肤很嫩
+j'ai acheté une glace	我买了一个冰淇淋
+Je suis sortie à 13h30	我13点30分出去的 "treize heures trente"
+tu es rentrée à 17h00	你17点回来的"dix-sept heures"
+le nouvel an chinois	:表示“中国新年”,nouvel an 是“新年”,chinois 表示“中文的,或中国的”。
+les chinois	:表示“那些中国人”,les 是定冠词复数形式,chinois 是形容词,也可以作为名词,指代“中国人”。
+Pour fêter le nouvel an chinois, les chinois qui vivent à Paris on mis des lanternes	为了庆祝中国新年,住在巴黎的中国人挂了灯笼。
+Le nouvel an chinois	春节
+C'est bientôt	:表示“快到了”,bientôt 是副词,表示“很快,马上”。
+C'est bientôt, le nouvel an chinois	很快就是中国新年了。
+C'est quand	是什么时候?
+Le nouvel an chinois, c'est le mardi 28 janvier 2025	中国新年是2025年1月28日星期二。
+un serpent	一条蛇(阳性名词)
+Moi je suis lapin et toi	我是兔子,你呢?
+Camille est bœuf	卡米尔是牛
+quartier chinois	:表示“华人区”,quartier 是名词,表示“区,街区”,chinois 是形容词,表示“中国的”。
+Qu'est-ce que l'on fait dans le quartier chinois de Belleville	在贝尔维尔的中国区我们做什么?
+on va faire les courses	我们去买东西
+on va au restaurant	我们去餐馆
+la danse des lions	:表示“舞狮表演”,danse 是“舞蹈”的名词,des lions 是“狮子们”的复数形式。
+Samedi, il y a la danse des lions à Belleville	星期六,在贝尔维尔有舞狮表演。
+Tu aimes ça la danse des lions	你喜欢舞狮表演吗?
+qui dansent	:表示“跳舞”,qui 是关系代词,指代“女孩”,dansent 是动词 danser(跳舞)的第三人称复数形式。
+Est-ce qu'il y a des filles qui dansent la danse des lions	有没有女孩子在跳舞?
+mes nouvelles	:表示“我的消息”,mes 是物主代词,表示“我的”,nouvelles 是阴性名词,表示“消息”。
+Est-ce qu'il y a des questions sur mes nouvelles	有关于我的消息的问题吗?
+présenter	介绍(动词); 介绍(原形)
+parce que	因为(引导原因状语从句); 因为(连词)
+J'apprends le français parce que je voudrais faire mes études en France	我在学法语,因为我想在法国学习。; 我学习法语是因为我想在法国读书。
+Pour fêter	:表示“为了庆祝”,pour 是介词,表示“为了”,fêter 是动词 (庆祝)的原形。
+qui vivent à Paris	:表示“住在巴黎的”,qui 是关系代词,vivent 是动词 vivre(生活,居住)的第三人称复数形式,表示“他们生活”。
+mettre	:是动词(放置,挂)的原形。
+ont mis	:是动词 mettre(放置,挂)的复合过去时形式,使用 avoir 作为助动词,表示“他们放了”。
+des lanternes	:表示“灯笼”,des 是不定冠词的复数形式,表示一些,lanternes 是名词的复数形式。
+L'année du serpent	蛇年
+lapin	兔子(阳性名词)
+bœuf	牛(阳性名词)
+quartier	街区(阳性名词)
+J'habite près du 2e quartier chinois de Paris	我住在巴黎第二个中国区附近。deuxième 是形容词,表示“第二”。
+pendant	在...期间; 在......期间
+faire	做; 做(原形)
+pleuvoir	下雨(动词); 下雨(动词原形)
