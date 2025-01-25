@@ -224,7 +224,7 @@ Vendredi 24 janvier 2025	“2025 年 1 月 24 日,星期五”
 Il en reste 14	还剩下 14 个
 Je vais te présenter le DELF A2	我将向你介绍 DELF A2(法语等级考试)
 C'est un examen de français	这是一项法语考试。
-4 parties   4部分
+4 parties	"4部分"
 écouter	听
 lire	读
 écrire	写(ECRIRE)
@@ -417,4 +417,4 @@ Vous faites	你们做
 Ils font	他们做
 fait	是动词 faire(做)的 过去分词,用于复合时态,表示“做了”。(原形:faire)
 rester	剩下; 原形,意为“留下,待在”
-Mille   千
+Mille	千
