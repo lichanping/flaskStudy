@@ -417,3 +417,4 @@ Vous faites	你们做
 Ils font	他们做
 fait	是动词 faire(做)的 过去分词,用于复合时态,表示“做了”。(原形:faire)
 rester	剩下; 原形,意为“留下,待在”
+Mille   千
