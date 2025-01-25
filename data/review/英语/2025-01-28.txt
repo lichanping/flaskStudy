@@ -1,3 +1,11 @@
+invent	(vt.) 发明
+atmosphere	(n.) 氛围 ，气氛；大气；空气
+phrase	(n.) 短语 ，词组
+elementary	(adj.) 小学的；基本的
+peak	"adj. 峰值的；   v. 达到最高 点；   n. 尖端；  山峰，  峰 …"
+role	(n.) 作用；角色
+scientific	(adj.) 科学的
+trade	"n. 贸易 ，商业；职业；手 艺；行当；   v. 经商 ，交易"
 wildlife	"n. 野生动植物；   adj. 野生 动植物的"
 site	(n.) 地点；  网站
 drop	"v. 减少；  降低；投 ，丢；  中 途卸客，  中途卸货；放弃 …"
