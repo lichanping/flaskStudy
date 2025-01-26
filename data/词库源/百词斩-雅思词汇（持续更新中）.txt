@@ -3,7 +3,6 @@ adorn	(v.) 装饰
 scale	"n. 规模;  范围 ,程度;  比 例 ,  比例尺;刻度 ,尺度 ..."
 concerned	(adj.) 关心的 ,关切的
 exquisite	(adj.) 精致的 ,精选的
-diffuse	"v. 扩散 ,弥漫;传播;   adj. 四散的 ,散开的"
 pattern	(n.) 模型 ,模式;  图案;方式
 glimmer	(v.) 闪烁;发微光;   n. 闪光
 outbreak	(n.) 突然发生
@@ -24,7 +23,6 @@ prejudice	(n.) 偏见 ,成见
 upbringing	(n.) 抚育 ,抚养 ,教养
 prosperity	(n.) 繁荣 ,兴旺 ,发达
 rotation	(n.) 旋转;循环 ,轮流
-maximum	(adj.) 最大的
 flaunt	"vi. 炫耀;飘扬;   n. 飘扬; (vt.) 炫耀"
 limestone	(n.) 石灰石
 resist	(v.) 抵抗 ,抵制
@@ -123,3 +121,43 @@ soar	(v.) 猛增;升空 ,飞出
 royalty	(n.) 皇家 ,王族
 literacy	(n.) 识字
 veteran	(n.) 经验丰富的人 ,老手
+frequency	次数,频繁
+batch	一批,一组
+abnormal	反常的,异常的
+coupon	礼券,票证
+slippery	狡猾的,滑的
+decent	体面的
+axis	轴,坐标轴
+reflect	反映,反射
+literature	文学,著作
+instinct	本能,天性
+emotion	激情,情感
+evidence	证据,迹象
+furthermore	而且,此外
+recall	回忆,召回
+barricade	路障,挡住
+dub	起绰号,配音
+correspondence	通信,信件
+continuity	连续,持续
+span	跨度,持续
+medium	中等的,媒介
+arouse	唤醒,引起
+denial	否认,拒绝
+transform	使改观,变化
+physiological	生理学的
+brag	自夸
+friction	摩擦
+extraordinary	非凡的
+reproach	责备,批评
+eject	驱逐,喷射
+predominant	占主导地位的
+capable	有能力的
+tub	桶,浴缸
+electronic	电子的
+scrape	刮,擦
+capsule	胶囊,航天舱
+sieve	筛,过滤
+needless	不必要的
+alternate	交替的,间隔的
+diffuse	"v. 扩散 ,弥漫;传播;   adj. 四散的 ,散开的"; 扩散,冗长的
+maximum	(adj.) 最大的; 最大量,最高的
