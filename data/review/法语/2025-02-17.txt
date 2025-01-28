@@ -17,32 +17,3 @@ oiseau	鸟(阳性名词)
 et puis	:连词短语,意为 “并且,然后”,用于连接两个并列的动作或情况。
 cueillir	:动词原形,意为 “采摘”
 Bien sûr	:固定短语,意为 “当然”,在句首作状语,表明一种肯定的态度或理所当然的语气。
-pendant	在...期间
-roulent	行驶(动词“rouler”的第三人称复数形式)
-J'ai habité	我曾经住过(过去完成时)
-J'ai habité à Shanghaï pendant 11 mois en 2018	"2018年我在上海住了11个月。"
-maternelle	“母亲的”“母性的”
-paternelle	“父亲的”“父性的”
-ingénieur	工程师(男性)
-informaticienne	计算机专家(女性)
-tous	所有
-Tous les deux	他们两个
-sévère	严格
-Je vais avoir 62 ans	我62岁了。
-étais	是(être的过去式第一人称单数形式)
-Il en reste 15	还剩15个。
-anniversaire	生日
-janvier	一月
-février	二月
-mars	三月
-mai	五月
-juin	六月
-juillet	七月
-août	八月
-septembre	九月
-octobre	十月
-novembre	十一月
-décembre	十二月
-lycée	高中
-je suis en seconde	我在读高一。
-naître	出生
