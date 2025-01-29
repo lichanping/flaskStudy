@@ -1,3 +1,23 @@
+roundabout	"n.环岛；旋转木马；adj.绕远道的；迂回的；转弯…"
+liter	(n.)升，公升
+repair	(v.)修理；n.维修
+dusty	(adj.)落满灰尘的
+parcel	(n.)包裹
+cast	(v.)投，掷
+superior	(adj.)出众的；占优势的
+sum	(n.)全部，总和
+consensus	(n.)一致同意
+biography	(n.)传记文学，传记
+cent	(n.)分
+immoral	(adj.)不道德的
+messy	(adj.)杂乱的
+agreement	(n.)协议，协定
+mammal	(n.)哺乳动物
+warehouse	(n.)仓库
+seldom	(adv.)很少，不常
+ad	(n.)广告
+strike	"v.击打；使产生……想法；达成，达到"
+architecture	(n.)（总称）建筑物
 identification	(n.) 识别；身份证明
 frame	(n.) 画框; (n.) 框架;   v. 构想出
 extra	"adj. 额外的，  附加的； (adv.) 额外地"
