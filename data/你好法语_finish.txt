@@ -1312,3 +1312,84 @@ dehors	:副词,意为 “在外面”,在这里作地点状语,表明吃饭的�
 un élève	:“一个学生”,“un” 为不定冠词,“élève” 表示 “学生”。
 à la crème	是固定表达,意为 “带有奶油的” ,说明这个羊角面包内有奶油馅料。
 la dernière fois	:“la” 是定冠词,“dernière” 是形容词 “最后的”,“fois” 是名词 “次数”,整体意思是 “最后一次” 。
+air conditionné	空调(air  空气n.m.+conditionné  可调节的)
+le bar	(这个酒吧)  酒吧n.m.
+Bon week-end	周末愉快(bon  好adj.阳性+week-end  周末n.m.)
+Bonne journée	祝你一天愉快(bonne  好adj.阴性+journée  白天n.f.)
+Bonne semaine	祝你一周愉快(bonne  好adj.阴性+semaine  周n.f.)
+Bonne année	新年快乐(bonne  好adj.阴性+année  年n.f.)
+mer	大海n.f.
+la carte de la France	法国地图
+la différence	差别n.f.;不同n.f.
+hélicoptère	直升飞机n.m.
+île	岛n.f.
+jour	日子,天n.m.
+juste	正好adv.;恰巧
+parfait	完美的adj.(阳性)
+parfaite	完美的adj.阴性
+partir	离开v.出发
+Je pars	我出发了。
+Tu pars	你出发了。
+Il part	他出发了。
+Elle part	她出发了。
+Nous partons	我们出发了。
+Vous partez	你们出发了。
+Ils partent	他们出发了。
+piscine	游泳池n.f.
+On va à la piscine	我们去游泳池。
+plage	海滩n.f.
+On va à la plage	我们去海滩。
+puis	然后adv.=ensuite
+le restaurant	这个餐馆n.m.(俗语中简称resto)
+resto	餐馆n.m.=restaurant
+télévision	电视n.f.=une télé
+ville	城市n.f.(特殊发音/il/;复数villes)
+la ville de Paris	巴黎市
+visiter	参观v.t.;访问v.游览
+visiter la ville de Paris	参观巴黎市
+visiter le musée du Louvre	参观卢浮宫
+voyage	旅行n.m.旅程;旅途
+agence de voyage	旅行社
+week-end	周末n.m.
+bien sûr	当然; 当然adv.loc.(bien  好adv.+sûr  确定的adj.)=of Course
+Bon voyage	旅途愉快(bon  好adj.阳性+voyage  旅行n.m.)
+Bonne route	一路平安(bonne  好adj.阴性+route  路n.f.)(route=road)
+bord	边n.m.边缘;岸边
+au bord de la mer	在海边(mer  大海n.f.)
+au bord de la plage	在海滩边(plage  海滩n.f.)
+carte	卡片n.f.;地图n.f.
+un circuit	一条旅游线路(circuit  环形n.m.)
+conceil	建议n.m.;劝告n.m.
+réception	接待处n.f.
+terrasse	阳台n.f.露台;晒台
+ensuite	然后adv.接下来; 然后adv.=puis
+Le premier jour,vous partez de Paris et vous arrivez à l'aéroport de Fort-de-France	第一天,你从巴黎出发,到达法兰西堡机场。
+est	东
+l'est de la ville	(城市的东部)
+le sud de la France	(法国的南部)
+ouest	西
+l'ouest de l'Europe	(欧洲的西部)
+nord	北
+le nord de l'Amérique	(美洲的北部)
+Là,vous prenez un bus jusqu'à votre hôtel, La Marina, à l'ouest de l'île	在那儿,您乘坐一辆公交车前往您位于岛屿西侧的酒店 —— 拉马里纳酒店。
+la mer	大海
+On est au bord de la mer	我们在海边吗?
+Oui,c'est un hôtel à côté de la plage	是的,这是一家靠近海滩的酒店。
+Votre chambre a une terrasse en face de la mer	你的房间有一个面朝大海的露台。
+Et il y a une salle de bains dans la chambre	房间里有一个浴室?
+Oui,bien sûr,monsieur	是的,当然,先生。
+Une salle de bains,le téléphone,la télévision et l'air conditionné	一个浴室,电话,电视和空调。
+une piscine	游泳池
+Et, dan l'hôtel,vous avez deux bars, deux restaurants, des boutiques et une piscine	在酒店里,您有两个酒吧,两个餐厅,商店和一个游泳池。
+Et on visite l'île aussi	我们也参观一下这个岛吧?
+Oui,en hélicoptère	是的,乘直升机。
+Visitez le musée Gauguin, à côté de votre hôtel	参观您酒店旁边的高更博物馆。
+C'est très sympa	这太棒了!
+au bord de	在......边上; 在......边缘
+à côté de	在...的旁边=nextto; 在......旁边
+C'est parfait	这太完美了。; 太完美了!
+beau	形容词,意为“美丽的,漂亮的”;在这里指“天气好”; :形容词,意为 “美丽的,美好的”,修饰阳性单数名词时用此形式 ,修饰 “matin”,表示 “美好的清晨”。
+galette	蛋糕(通常指一种扁平的饼状食物); :阴性名词,常见意思为 “煎饼,薄饼” 。
+sud	南
+une terrasse	露台
+Vous allez aussi en bus à Fort-de-France et à Sainte-Luce au sud, à la montagne Pelée et à Saint-Pierre au nord	您也将乘坐公交车前往位于南部的法兰西堡和圣吕斯,以及位于北部的佩雷山和圣皮埃尔。
