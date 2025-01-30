@@ -1393,3 +1393,53 @@ galette	蛋糕(通常指一种扁平的饼状食物); :阴性名词,常见意思
 sud	南
 une terrasse	露台
 Vous allez aussi en bus à Fort-de-France et à Sainte-Luce au sud, à la montagne Pelée et à Saint-Pierre au nord	您也将乘坐公交车前往位于南部的法兰西堡和圣吕斯,以及位于北部的佩雷山和圣皮埃尔。
+était	:动词 être 的第三人称单数未完成过去时变位,原形 être 意为 “是;存在”,était 在此处表示过去存在的状态,可理解为 “有” 。; :系动词 être 的第三人称单数未完成过去时变位,在句中表示过去的状态,可译为 “是” 。; :“être”(是)的直陈式未完成过去时第三人称单数形式,在宾语从句中作谓语,用于描述过去的状态。
+parce que	因为(引导原因状语从句); 因为(连词); :连词短语,意为 “因为”,引导原因状语从句,说明小女孩走得不快的原因。
+avait	:动词 “avoir” 的第三人称单数未完成过去时形式,“avoir” 常见意思为 “有”,此处表示狼过去拥有的特征。; :动词 “avoir” 的直陈式未完成过去时第三人称单数变位,意为 “有” 。这里 “avait une grosse voix” 表示狼 “有一副粗嗓音”
+L'hiver	冬天(阳性名词)
+Le printemps	春天(阳性名词)
+L'été	夏天(阳性名词)
+L'automne	秋天(阳性名词)
+la forêt	:“la” 是定冠词,用于修饰阴性名词;“forêt” 是阴性名词,意为 “森林”,“la forêt” 即 “森林” 。
+dessiner	“画,绘制”,尤指用铅笔、钢笔等线条勾勒,与 “peindre”(侧重用颜料画)有所不同
+Tu fais	你做
+Il fait	他做
+Nous faisons	我们做
+Vous faites	你们做
+Ils font	他们做
+fait	是动词 faire(做)的 过去分词,用于复合时态,表示“做了”。(原形:faire)
+chose	事情,事物n.f.
+couleur	颜色n.f.
+d'accord	同意,赞同loc.adv.
+Tu es d'accord	你同意吗?
+Oui je suis d'accord	是的,我同意
+grand	高大的adj阳性
+grande	大;大的;大型的;伟大的;优秀的;高大的adj阴性
+Un homme grand	身材高大的男人
+Un grand homme	伟大的人
+un jean	牛仔裤n.m.
+leur	他们的,她们的,它们的
+leurs	他们的,她们的,它们的
+Je parle à lui	(我在和他说话。)
+lunettes	眼镜,阴性复数名词
+des lunettes	眼镜
+noir	黑色的
+noire	黑色的n.f.
+pantalon	裤子;长裤n.m.
+porter un pantalon	穿戴,佩戴v.t.
+portrait-robot	模拟画像(警方综合搜捕对象的特征所制的)n.m.
+rouge	红色的;红色(阴阳同形)
+tee-shirt	短袖圆领棉汗衫n.m.
+vêtement	衣服,服装,衣裳
+vêtements	衣服
+Quelle couleur	什么颜色?
+J'aime bien cette couleur	我很喜欢这种颜色
+Cent euros pour un tee-shirt	一件T恤一百欧元
+C'est cher	这很贵
+Elle n'est pas très chère	它不太贵
+a frappé	:“frapper”(敲;击打)的直陈式现在完成时第三人称单数形式。“a” 是助动词 “avoir” 的第三人称单数变位,“frappé” 是 “frappé” 的过去分词,表明狼 “敲门” 这一动作在过去已经完成。; :“frapper”(敲)的直陈式现在完成时第三人称单数形式。“a” 是助动词 “avoir” 的第三人称单数变位,“frappé” 是 “frapper” 的过去分词,表明小红帽 “敲门” 这一动作在过去已经完成。
+a répondu	:“répondre”(回答)的直陈式现在完成时第三人称单数变位。“a” 是助动词 “avoir” 的第三人称单数形式,“répondú” 是 “répondre” 的过去分词,共同构成 “已经回答” 这一过去完成的动作。; 是动词 “répondre”(回答)的直陈式现在完成时第三人称单数变位形式,“a” 是助动词 “avoir” 的第三人称单数变位,“répondue” 是 “répondre” 的过去分词,表明 “回答” 这个动作在过去已经完成 。
+courir	跑(动词); :动词,意为 “跑” 。在这里作谓语,表示祖母的腿长是为了 “跑得快” 。
+il pleut	下雨(动词)(其中 “il” 是无人称主语,表示天气,“pleut” 是动词 “pleuvoir(下雨)” 的第三人称单数变位形式); :意思是“下雨”,动词 pleuvoir 的第三人称单数形式,专用于描述天气。
+rester	剩下; 原形,意为“留下,待在”
+chemisier	女衬衫n.m.

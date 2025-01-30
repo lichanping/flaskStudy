@@ -1,3 +1,16 @@
+broad	"adj. 宽阔的；广泛的；  明显 的"
+hostel	"n. 旅社 ，招待所（尤指青年 旅社）；  临时收容所"
+delay	"n. 延误 ，延迟；   v. 延误， 延迟"
+refund	(n.) 退款（读作/ˈriːfΛnd/）
+blame	(vt.) 责怪；把 … … 归咎于
+positive	(adj.) 积极的 ，乐观的
+career	(n.) 职业 ，事业；生涯 ，经历
+membership	(n.) 会员资格 ，会员人数
+sort	"n. 种类 ，类别；   v. 把 … … 分类 ，整理 ，挑选"
+channel	(n.) 渠道 ，方法
+pattern	(n.) 模型 ，模式；  图案
+iron	(n.) 铁
+wool	(n.) （羊等动物的）毛
 roundabout	"n.环岛；旋转木马；adj.绕远道的；迂回的；转弯…"
 liter	(n.)升，公升
 repair	(v.)修理；n.维修
