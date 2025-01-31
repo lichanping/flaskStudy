@@ -95,3 +95,29 @@ dix-neuf	十九[diznœf]; 十九
 dix-huit	十八[dizɥit]; 十八
 dix-sept	十七[dissɛt]; 十七
 salle	房间,室; 厅,大厅,室(阴性)
+animaux	动物
+géniaux	很棒的,棒
+juillet	七月
+journaux	报纸
+réception	前台
+animal	动物
+génial	棒,很棒的,十分好
+non-fumeur	无烟的
+wi-fi	无线上网
+mot de passe	密码
+compris	包含在内的,懂
+mai	五月
+prendre une douche	洗淋浴
+juin	六月
+douche	淋浴间,澡
+propre	干净的,净
+simple	单人的,单,简单
+combien de	几,几条,几本
+nuits	夜晚,晚
+télévision	电视
+réserver	预订
+serviette	毛巾,餐巾,巾
+clé	钥匙
+voici	这是,这儿是,这就是prep
+adresse	地址,住址n.f.
+billet	票,入场券,门票,(车、船)票; 张
