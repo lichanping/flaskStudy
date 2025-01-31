@@ -130,7 +130,6 @@ marc a un passeport	"Marc有一本护照"
 tu as un avion	你有飞机吗?
 voiture	汽车
 tu as une voiture francaise	你有一辆法国汽车
-billet	票,入场券,门票,(车、船)票
 s'il vous plait	请给我;请问。
 billet d'avion	机票
 tu prends la voiture	你乘坐汽车吗?
@@ -446,7 +445,6 @@ la baule	拉波尔(法国西部海滨城市)
 madames	夫人们n.f
 maman	妈妈(儿语,对母亲的爱称)n.f
 non	不adv
-voici	这是,这儿是,这就是prep
 bonjour monsieur	先生,您好。
 vous vous appelez	您的姓名。。?
 et voici ma femme alice	还有这是我的妻子Alice
@@ -531,7 +529,6 @@ Vous êtes dans le cours d'italien	您正在学习意大利语课程
 mon école	我的学校(以元音字母或哑音h开头的阴性名词前,使用阳性定冠词“mon”“ton”“son”)
 ton amie	你的朋友(以元音字母或哑音h开头的阴性名词前,使用阳性定冠词“mon”“ton”“son”)
 son histoire	它的历史(以元音字母或哑音h开头的阴性名词前,使用阳性定冠词“mon”“ton”“son”)
-adresse	地址,住址n.f.
 Quelle est ton adresse	你的地址是什么?
 Quelle est votre adresse	您的地址是什么?
 âge	年龄,年纪n.m.
@@ -1504,3 +1501,29 @@ dix-neuf	十九[diznœf]; 十九
 dix-huit	十八[dizɥit]; 十八
 dix-sept	十七[dissɛt]; 十七
 salle	房间,室; 厅,大厅,室(阴性)
+animaux	动物
+géniaux	很棒的,棒
+juillet	七月
+journaux	报纸
+réception	前台
+animal	动物
+génial	棒,很棒的,十分好
+non-fumeur	无烟的
+wi-fi	无线上网
+mot de passe	密码
+compris	包含在内的,懂
+mai	五月
+prendre une douche	洗淋浴
+juin	六月
+douche	淋浴间,澡
+propre	干净的,净
+simple	单人的,单,简单
+combien de	几,几条,几本
+nuits	夜晚,晚
+télévision	电视
+réserver	预订
+serviette	毛巾,餐巾,巾
+clé	钥匙
+voici	这是,这儿是,这就是prep
+adresse	地址,住址n.f.
+billet	票,入场券,门票,(车、船)票; 张
