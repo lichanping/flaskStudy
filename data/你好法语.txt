@@ -468,7 +468,7 @@ carte	卡片n.f.;地图n.f.
 Pour aller à Marseille	去马赛
 En avion	乘飞机
 Aéroport Marseille Provence	马赛普罗旺斯机场
-trente-trois, zéro quatre, quarante-deux, quatorze, quatorze, quatorze	"+33 04 42 14 14 14"
+trente-trois, quatre, quarante-deux, quatorze, quatorze, quatorze	"+33 04 42 14 14 14"
 En voiture	乘汽车
 à Nice	到尼斯
 En train	乘火车
