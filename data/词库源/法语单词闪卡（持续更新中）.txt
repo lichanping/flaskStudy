@@ -1,0 +1,38 @@
+Mon corps	我的身体 (1-身体部位)
+voyage	旅行n.m.旅程;旅途
+la langue	舌n.f.舌头;语言
+le doigt de pied	脚趾n.m.
+le pied	脚n.m.
+les lèvres	嘴唇n.f.pl.
+l'os	骨头n.m.
+la peau	皮肤n.f.
+Sa peau est très blanche	他的皮肤很白
+le cœur	心脏n.m.
+les poumons	肺n.m.pl.
+les jambes	腿n.f.pl.
+les taches de rousseur	雀斑n.f.pl.
+les yeux	眼睛n.m.pl.
+le visage	脸n.m.
+les hanches	臀部n.f.pl.
+corps	身体n.m.(2-身体)
+le bras	手臂n.m.
+le cou	脖子n.m.
+les visages	脸n.m.pl.
+le dos	背n.m.背部
+les cheveux	头发n.m.pl.
+le ventre	肚子n.m.
+la poitrine	胸部n.f.
+le coude	肘n.m.
+le doigt	手指n.m.
+le main	手n.f.手;帮助
+le pouce	拇指n.m.
+la cheville	脚踝n.f.
+l'orteil	脚趾n.m.
+être sur ses orteils	站在脚尖上
+le genou	膝盖n.m.
+la jambe	腿n.f.
+l'épaule	肩膀n.f.
+l'oreille	耳n.f.耳朵
+le nez	鼻子n.m.
+le menton	下巴n.m.
+la bouche	嘴n.f.
