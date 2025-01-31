@@ -671,7 +671,6 @@ bord	边n.m.边缘;岸边
 mer	大海n.f.
 au bord de la mer	在海边(mer  大海n.f.)
 au bord de la plage	在海滩边(plage  海滩n.f.)
-carte	卡片n.f.;地图n.f.
 la carte de la France	法国地图
 un circuit	一条旅游线路(circuit  环形n.m.)
 conceil	建议n.m.;劝告n.m.
@@ -738,3 +737,47 @@ C'est très sympa	这太棒了!
 au bord de	在......边上; 在......边缘
 à côté de	在...的旁边=nextto; 在......旁边
 C'est parfait	这太完美了。; 太完美了!
+aéroport	飞机场(n.m.)
+aquarium	水族馆(n.m.)
+archéologie	考古学(n.f.)
+l'art	艺术(n.m.)
+avion	飞机(n.m.)
+autour de	在...周围(介词短语)
+bateau	船(n.m.)
+billet	票(n.m.)
+bise	吻(n.f.)
+le centre	中心(n.m.)
+château	城堡(n.m.)
+contemporain	当代的(adj.)
+contemporaine	当代的(adj.)(f.)
+la destination	目的地(n.f.)
+gratuit	免费的(adj.)
+gratuite	免费的(adj.)(f.)
+hôtel de ville	市政厅;市政府大楼(n.m.)
+institut	学院(n.m.)机构
+intéressant	有趣的(adj.);有意义的(adj.)
+intéressante	有趣的(adj.);有意义的(adj.)(f.)
+kilomètre	公里(n.m.)千米
+Marseille	马赛(n.f.)
+méditerranéen	地中海的(adj.)
+méditerranéenne	地中海的(adj.)(f.)
+un office	事务所,营业所(n.m.)
+palais	宫殿(n.m.),皇宫;高大华丽的建筑物
+un port	港口(n.m.)
+postal	邮政的(adj.)
+postale	邮政的(adj.)(f.)
+carte postale	明信片(n.f.)
+la prison	监狱(n.f.)
+quai	站台;堤岸(n.m.)
+sur le quai	在堤岸上(介词短语)
+quartier	街区(n.m.)
+SNCF	法国国家铁路公司(全称:Société Nationale des Chemins de Fer Français)
+TGV	法国高速列车(全称:Train à Grande Vitesse)
+tourisme	旅游业(n.m.)
+office du tourisme	旅游局(n.m.);旅游事务所
+dans le train	在火车上(介词短语)
+vieux	年老的,古老的(adj.);旧的(adj.)
+vieille	年老的,古老的(adj.);旧的(adj.)(f.)
+vitesse	速度(n.f.)
+grande vitesse	高速(n.f.)
+carte	卡片n.f.;地图n.f.
