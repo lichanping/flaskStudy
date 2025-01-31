@@ -116,7 +116,6 @@ appraise	(v.) 评价 ,鉴定
 reluctance	(n.) 不愿意 ,勉强
 oral	(adj.) 口头的,   口语的
 partake	(v.) 分享 ,参与 ,分担
-comprise	(vt.) 包含 ,包括
 soar	(v.) 猛增;升空 ,飞出
 royalty	(n.) 皇家 ,王族
 literacy	(n.) 识字
@@ -161,3 +160,13 @@ needless	不必要的
 alternate	交替的,间隔的
 diffuse	"v. 扩散 ,弥漫;传播;   adj. 四散的 ,散开的"; 扩散,冗长的
 maximum	(adj.) 最大的; 最大量,最高的
+household	(n.) 家庭;   adj. 家庭的
+advertisement	(n.) 广告
+hydrogen	(n.) 氢 ,氢气
+beginner	(n.) 初学者
+screech	"vi. 发出尖锐的声音 ,发出 恐惧或痛苦的叫喊声"
+ultimatum	(n.) 最后通牒
+barometer	(n.) 晴雨表;气压表
+sword	(n.) 剑 ,刀
+metropolitan	(adj.) 大城市的 ,大都会的
+comprise	(vt.) 包含 ,包括
