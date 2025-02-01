@@ -160,11 +160,3 @@ fiche	是动词 “ficher” 的第一人称单数变位,意为 “在意,关心
 Je m'en fiche	我不在乎(“en” 是副代词,代替前文提到的事物或情况,“me” 是自反代词)
 préférée	最喜欢的(阴性形容词)
 sévère	严格; 严厉的(形容词)
-Lausanne	洛桑[瑞士]
-littérature	文学n.f.
-la nature	自然n.f.
-Sénégal	塞内加尔n.m.(位于西非，以其丰富的文化、音乐和多样的自然景观而闻名。)
-Je suis secrétaire	我是一名秘书
-quarante	四十
-Je cherche une correspondante de trente à quarante ans	我想找一个30岁到40岁的笔友
-Portraits	肖像
