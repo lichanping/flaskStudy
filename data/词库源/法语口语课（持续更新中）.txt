@@ -27,7 +27,6 @@ lycée	高中
 Je suis lycéenne au lycée Ganquan	我在甘泉中学上高中。
 je suis en seconde	我在读高一。
 Le lycée en France	法国的高中
-naître	出生(动词)
 née	动词 “naître”(出生)的过去分词形式,通常用于女性
 J'habite à Shanghaï et j'y suis née	我住在上海,我在那里出生。
 shanghaïen	上海话/shang ga yien/
@@ -70,7 +69,6 @@ Ma mère est informaticienne	我母亲是计算机专家。
 tous	所有
 Tous les deux	他们两个
 Tous les deux travaillent beaucoup	他们两个都工作很忙。
-sévère	严格
 plus	更
 Mon père est le plus sévère	我父亲最严格。
 Je parle bien anglais	我英语说得很好。
@@ -114,7 +112,6 @@ vivre	生活
 vivre un peu en Chine	在中国生活一段时间
 pour	为了(引导目的状语从句)
 mieux	更好(bien的比较级)
-connaître	认识(动词)
 et je voulais vivre un peu en Chine pour mieux connaître la Chine	我想在中国生活一段时间,以便更好地了解中国。
 J'ai des amis en Chine	我在中国有朋友。
 je suis allé à Shanghaï	我去了上海。
@@ -247,7 +244,6 @@ L'examinateur peut ensuite vous poser des questions complémentaires	考官随�
 SUJET 1	主题 1
 Les saisons	季节(阴性名词)
 En France, il y a 4 saisons	在法国,有 4 个季节
-préférée	最喜欢的(阴性形容词)
 préféré	最喜欢的(阳性形容词)
 Quelle est votre saison préférée	“您最喜欢的季节是哪个?”
 en général	通常(副词),作状语
@@ -361,7 +357,6 @@ Tu es sortie à quelle heure mardi	星期二你几点出去的?
 Je suis sortie à 13h30	我13点30分出去的 "treize heures trente"
 tu es rentrée à 17h00	你17点回来的"dix-sept heures"
 Pour fêter	:表示“为了庆祝”,pour 是介词,表示“为了”,fêter 是动词 (庆祝)的原形。
-le nouvel an chinois	:表示“中国新年”,nouvel an 是“新年”,chinois 表示“中文的,或中国的”。
 les chinois	:表示“那些中国人”,les 是定冠词复数形式,chinois 是形容词,也可以作为名词,指代“中国人”。
 qui vivent à Paris	:表示“住在巴黎的”,qui 是关系代词,vivent 是动词 vivre(生活,居住)的第三人称复数形式,表示“他们生活”。
 mettre	:是动词(放置,挂)的原形。
@@ -484,7 +479,6 @@ dangereux	:形容词,意为 “危险的”,在从句中作表语,描述 “和�
 de parler	:“de” 在这里引导不定式短语,“parler”(说话)是动词原形,“de parler” 表示 “说话” 这一动作,整个 “de parler à un loup” 是真正的主语,即 “和狼说话” 这件事。
 La petite fille ne savait pas que c'est dangereux de parler à un loup	小女孩不知道和狼说话是危险的。(que:引导宾语从句,无实际意义)
 Elle lui a répondu	她回答了他:
-voir	:动词原形,意思是 “看望;看见”,在句中作 “vais” 的补足语,表明 “去” 的目的。
 Je vais voir ma grand-mère	我要去看望我的祖母 / 外祖母
 apporte	:动词 “apporter” 的第一人称单数直陈式现在时变位,意为 “带来;带去”,在句中作谓语,表示 “我” 正在进行的动作。
 Je lui apporte une galette et un petit pot de beurre	我给她带一张煎饼和一小罐黄油。
@@ -579,7 +573,6 @@ C'est pour courir vite, ma petite fille	这是为了能跑得快呀,我的小宝
 oreilles	:名词,“耳朵” 的复数形式。
 de grandes oreilles	:“de” 在这里的用法同前面提到的情况,当形容词置于名词前且名词为复数时,不定冠词 “des” 变为 “de”;“grandes” 是形容词 “grand” 的复数阴性形式,修饰复数阴性名词 “oreilles”(耳朵),表示 “大的”,所以 “de grandes oreilles” 就是 “大大的耳朵”。
 Grand-mère, vous avez de grandes oreilles	奶奶,您的耳朵好大呀。
-entendre	:动词,意为 “听见,听到” 。
 C'est pour bien t'entendre, ma petite fille	这是为了能清楚地听到你说话呀,我的小宝贝。
 Grand-mère, vous avez de grandes dents	奶奶,您的牙齿好大呀。
 C'est pour te manger	这是为了吃掉你。
@@ -588,7 +581,6 @@ Il était une fois, il y a très longtemps, une petite fille qui vivait dans un 
 un village	一个村庄(阳性名词)
 J'habite dans une ville	我住在一个城市里。
 appeler	是动词,常见含义有 “叫;称呼;打电话;呼唤” 等 。
-quelqu'un	某人(不定代词)
 appeler quelqu'un	叫某人(动词)
 Moi, mon prénom c'est Emmanuel, les gens m'appellent Manu	我呢,我的名字是伊曼纽尔,大家都叫我马努。
 un vêtement va bien à quelqu'un	某件衣服很适合某人
@@ -634,7 +626,6 @@ Il y a une nouvelle boulangerie à côté de moi	我家旁边新开了一家面�
 Elle s'appelle Gonflé	它叫 “膨膨”(这里 Gonflé 根据字面意思 “膨胀的”,音译为 “膨膨”,具体需结合实际背景确定准确译名 )
 Après le cours	:“après” 是介词,意为 “在...... 之后”,“le cours” 表示 “课程”,整体作时间状语,表明动作发生在课后。
 Après le cours, je vais au cinéma pour voir un film français	课后,我去电影院看一部法国电影。
-l'histoire	:“histoire” 表示 “故事” ,定冠词 “l'” 是 “le” 或 “la” 在以元音或哑音 h 开头的名词前的缩合形式,在这里特指这个特定的故事。
 grands fils	: “孙子;外孙”
 C'est l'histoire d'un père et de ses deux grands fils	这是一个关于一位父亲和他两个孙子的故事。
 Sa femme est morte	他的妻子去世了。
@@ -668,8 +659,6 @@ un bonbon	糖果(阳性名词)=a sweet
 J'ai acheté des bonbons	我买了糖果
 Les bonbons ce n'est pas bon pour les dents	糖果对牙齿不好
 ça va tes dents	你的牙齿还好吗?
-fiche	是动词 “ficher” 的第一人称单数变位,意为 “在意,关心
-Je m'en fiche	我不在乎(“en” 是副代词,代替前文提到的事物或情况,“me” 是自反代词)
 Tu as acheté beaucoup de bonbons	你买了很多糖果吗?
 une sorte de	一种
 Une sorte de bonbon	一种糖果
@@ -767,3 +756,165 @@ déshabiller	脱衣服(动词); 动词,意为 “给...... 脱衣服”
 l'autre	“l'” 是定冠词 “le” 与元音开头的 “autre” 的缩合形式,“autre” 作形容词时,意为 “别的,其他的”
 l'autre chemin	表示 “另一条路” 。
 Le Petit Chaperon rouge s'est déshabillée et s'est couchée	小红帽脱了衣服,然后躺了下来。
+Il en reste 11	剩下11个
+Est-ce que tu m'entends	你听到我说话吗?(entends:动词 entendre 的直陈式现在时第二人称单数变位形式)
+Oui je t'entends	是的,我听到你说话了。(t': te 的变位形式, 代词 te(你)的宾格形式)
+Il entend	他听到
+Nous entendons	我们听到
+Vous entendez	你们听到
+Ils entendent	他们听到
+Est-ce que tu me vois	你看到我吗?(vois:动词 voir(看见)的直陈式现在时第二人称单数变位形式)
+Oui, je te vois	是的,我看到你了
+Il voit	他看到
+Nous voyons	我们看到
+Vous voyez	你们看到
+Ils voient	他们看到
+l'écran	屏幕(阳性名词)(定冠词 le 在以元音音素开头的名词前,要缩合为 l' )
+mon ordinateur	我的电脑(阳性名词)
+Est-ce que tu vois l'écran de mon ordinateur	你看到我的电脑屏幕吗?
+Oui, je le vois	是的,我看到了。(le:代词 le(它)的宾格形式)
+Il est 21h à Shanghai	上海现在是21点(“21” 读作 “vingt - et - un”)
+fatiguée	疲劳的(女性形式)
+fatigué	疲劳的(男性形式)
+Camille, est-ce que tu es fatiguée	"Camille 你累了吗?"
+non, ça va	不,还好
+non, je ne suis pas fatiguée	不,我不累
+les repas en français	法语中的三餐
+un petit-déjeuner	早餐
+Le matin, on mange un petit-déjeuner	早上,我们吃早餐
+Le midi, on mange un déjeuner	中午,我们吃午餐
+Le soir, on mange un diner	晚上,我们吃晚餐
+C'était bon	好吃吗?(être(是)的未完成过去时第三人称单数变位形式)
+C'était bien	很不错
+Tu as mangé dans un restaurant espagnol	你在一家西班牙餐厅吃过饭(“avoir + 过去分词” 构成复合过去时,强调动作在过去已经完成,这里就是 “你吃过” 的意思)
+nés	“naître” 的过去分词的复数形式
+Mes 4 grands-parents sont tous nés en Espagne	我的4个祖父母都出生在西班牙
+être né	出生的(男性形式)
+être née	出生的(女性形式)
+Il est né en France	他出生在法国
+Elle est née à Paris	她出生在巴黎
+mes parents sont nés en France	我的父母都出生在法国
+Moi, je suis né en France	我出生在法国
+la nourriture	食物(阴性名词)
+Je connais bien la nourriture espagnole	我很了解西班牙美食(connais:动词 connaître(认识)的直陈式现在时第一人称单数变位形式)
+Tu connais	你了解
+Il connaît	他了解
+Nous connaissons	我们了解
+Vous connaissez	你们了解
+Ils connaissent	他们了解
+du poisson	一些鱼(部分冠词 “du” 是由定冠词 “le” 和介词 “de” 缩合而成,表示不可数名词的部分,不是在强调具体有几条鱼,而是泛指吃了一些鱼肉或者一些鱼的部分)
+j'ai mangé du poisson	我吃了鱼(“mangé” 是 “manger” 的过去分词,构成复合过去时,表示动作在过去已经完成)
+le plat	菜,餐(阳性名词)
+le plus connu	最有名的(plus:副词 “更” 的最高级形式)
+Quel est le plat le plus connu en Espagne	西班牙最有名的菜是什么?(长形容词或复杂形容词后置:当形容词是多音节、较长或者是由多个词组成的形容词短语等比较复杂的形式时,一般放在名词后面。)
+La paëlla	西班牙海鲜饭(“paëlla” 这个词源自西班牙语 “paella”,原意是 “平底锅”,用这种平底锅烹制的食物,后来就专门用来指代海鲜饭这道菜肴)
+Voulez-vous commander la paëlla	您想点海鲜饭吗?(voulez-vous:动词 vouloir(想要)的直陈式现在时第二人称复数变位形式)
+Un hamburger	一个汉堡包
+la pizza	披萨(阴性名词)
+J'aime la pizza	我喜欢披萨
+Quand j'étais petite	当我还小的时候(étais:être(是)的未完成过去时第一人称单数变位形式)
+Tous les jours, je fais un peu mes devoirs	每天,我都会做一点儿作业
+Je déteste les devoirs	我讨厌做作业
+Tout le monde déteste ça	每个人都讨厌做作业(“ça” 是 “cela” 的缩写,指代前面提到的事物)
+pour le nouvel an chinois	为了庆祝中国新年
+Tu as eu combien d'argent pour le nouvel an chinois	你过年收到了多少压岁钱?(“Tu as eu” 是 “avoir” 的复合过去时,表示 “你有了” )
+C'est...qui...	是一个强调句型,用来强调主语是谁,意思是 “是...谁...”
+C'est ma mère qui sait	这我妈妈知道(“savoir”:je sais, tu sais, il/elle/on sait, nous savons, vous savez, ils/elles savent。)
+J'ai mangé dans un restaurant espagnol	我在一家西班牙餐厅吃过饭
+J'ai fait mes devoirs	我做了作业
+quel jour	疑问短语,用来询问具体的日期或星期,在句中作时间状语
+Tu vas à l'école quel jour	你星期几去上学?
+Lundi 17 février	“2月17日星期一”
+Je vais à l'école le lundi	我星期一去上学
+Tu ne sais pas combien il te reste de vacances	你不知道你还有多少假期吗?("te" 指代动作的接受者,即假期剩给你的部分。)
+La semaine prochaine, qu'est-ce que tu fais	下周你干什么?
+pareil	一样(形容词)
+pareil que cette semaine	和这周一样
+tu aimes bien être en vacances	你喜欢放假吗?
+qu'est-ce que tu préfères	你更喜欢什么?
+les vacances	假期(阴性名词)
+J'adore les vacances	我喜欢假期
+l'école	学校(阴性名词)
+J'aime beaucoup l'école	我很喜欢学校
+Hier	昨天(副词)
+après le cours	下课后,上完课后
+Hier, après le cours, je suis allé voir un biopic	昨天,下课后,我去看了一部传记片("allé" 是动词 "aller" 的过去分词,表示“去”。)
+un biopic	传记片(biography picture的缩写)
+un film	电影(阳性名词)
+raconter	讲述
+raconte	讲述(动词 raconter(讲述)的直陈式现在时第三人称单数变位形式)
+célèbre	著名的
+un biopic,c'est un film qui raconte l'histoire de quelqu'un de célèbre	传记片是讲述某个著名人物的故事的电影("qui" 是关系代词,指代前面的 "film",意思是“它”。)
+dit	是动词 "dire"(说)的过去分词,表示“说”
+J'ai dit à un ami chinois, je vais voir un biopic sur Bob Dylan	我告诉一个中国朋友我要去看一部关于鲍勃・迪伦的传记片(sur:介词,表示“关于”)
+C'est qui	是谁?(qui:疑问代词,表示“谁”)
+chanteur	歌手(阳性名词)
+vieux	老的(形容词)
+toujours	仍然(副词)
+vivant	活着的(形容词)
+C'est un chanteur américain qui est vieux, il est toujours vivant	他是一个美国歌手,年纪大了,但仍然活着。
+L'acteur	演员(阳性名词)
+joue	扮演”(动词 jouer(演)的直陈式现在时第三人称单数变位形式)
+L'acteur qui joue Bob Dylan c'est Timothée Chamalet	扮演鲍勃・迪伦的演员是蒂莫西・夏勒梅("qui" 是关系代词,指代前面的 "acteur",意思是“他”。)
+siècle	世纪(阳性名词)
+vingtième siècle	二十世纪
+20e siècle,1901 - 2000	"20世纪:1901年 - 2000年"
+Ce WE	这个周末(WE 是 “week-end” 的缩写)
+très beau	非常美丽;非常好
+Ce WE à Paris, il fait très beau mais un peu froid	这个周末在巴黎,天气很好,但有点冷。("fait" 是动词 "faire"(做、使)的第三人称单数形式,这里表示“天气是”或“天气状况是”。)
+il pleut à Shanghaï et il fait un peu froid	上海下雨了,而且有点冷("pleut" 是动词 "pleuvoir"(下雨)的第三人称单数形式,这里表示“下雨”)
+Lundi, tes parents vont au travail	周一,你的父母去工作吗?
+ils sont en vacances	他们在放假
+Quand est-ce qu'ils vont au travail	他们什么时候去工作?
+Mon meilleur ami	我最好的朋友(meilleur:形容词,意为“最好的”,男性)
+ma meilleure amie	我最好的朋友(meilleure:形容词,意为“最好的”,女性)
+Qui est votre meilleure amie	你最好的朋友是谁?("votre" 是“你的”或“您的”)
+comme moi	和我一样
+même classe	同班
+Elle s'appelle Lydia, elle a 15 ans comme moi, on est dans la même classe	她叫莉迪亚,和我一样15岁,我们在同一个班级。
+connaît	认识(动词 connaître(认识)的直陈式现在时第一人称单数变位形式)
+depuis 6 mois	“6个月以来"
+Je la connais depuis 6 mois	我认识她已经6个月了
+Elle est petite comme moi	她和我一样矮。
+belle	漂亮的(形容词,用于女性名词)
+C'est ma meilleure amie parce qu'elle est très intelligente, très belle	她是我最好的朋友,因为她非常聪明,非常漂亮。
+J'aime beaucoup ses yeux	我非常喜欢她的眼睛。
+Que faites-vous ensemble	你们一起做什么?
+vie	生活(阴性名词)
+On parle beaucoup ensemble de notre vie, on est à l'école ensemble.	我们一起聊很多关于我们生活的事情,我们在一起上学。
+La vie est belle	生活是美好的
+Vous parlez de quoi	你们聊什么?
+un beau gosse	一个帅哥(“beau” 是形容词,意为“帅的、美的”,“gosse” 是名词,意为“男孩”或“年轻男性”)
+peur	害怕(名词)
+Elle n'aime pas beaucoup les garçons, elle a peur des garçons	她不太喜欢男孩,她害怕男孩。
+Mon professeur préféré	我最喜欢的老师(préféré:形容词,意为“最喜欢的”,阳性形式)
+a été	“être” 的直陈式复合过去时第三人称单数形式,表示“是”或“在”
+expliquer	解释(动词原形)
+expliquez	解释(动词 expliquer(解释)的第二人称复数命令式形式)
+Parlez d'un professeur qui est, ou a été, important pour vous et expliquez pourquoi	谈谈一个对你来说很重要的老师,或者是一个你最喜欢的老师,并解释为什么。
+il est mon professeur préféré	他是我最喜欢的老师
+il a été mon professeur préféré	他曾经是我最喜欢的老师
+mince	苗条的(形容词)
+Elle s'appelle Madame Lu, elle est professeur de français, elle a 29 ans, elle est petite et mince	她叫陆老师,是一名法语老师,29岁,身材娇小苗条。
+Elle est très gentille	她非常和蔼。
+s'occuper de	照顾(动词短语)(“se” 是自反代词,表示“自己”)
+Elle s'occupe bien de nous	她很好地照顾我们。
+Et elle est très intelligente	而且她非常聪明。
+des fois	有时候,在句中作时间状语,表明动作发生的频率
+serre	“抱紧,搂住”(动词 serrer(抱)的第三人称单数形式)
+ses bras	她的胳膊
+dans ses bras	在她的怀里
+Elle parle très bien français et des fois elle nous serre dans ses bras	她法语说得很好,有时候还会抱我们。
+serrer quelqu'un dans ses bras	抱某人(quelqu'un:是不定代词,意为 “某人”)
+gentille	和蔼的(形容词)
+entendre	动词,意为 “听见,听到” 。
+voir	:动词原形,意思是 “看望;看见”,在句中作 “vais” 的补足语,表明 “去” 的目的。
+naître	出生(动词)
+connaître	认识(动词); 认识, 知道, 了解
+le nouvel an chinois	表示“中国新年”,nouvel an 是“新年”,chinois 表示“中文的,或中国的”。; 春节
+l'histoire	表示 “故事” ,定冠词 “l'” 是 “le” 或 “la” 在以元音或哑音 h 开头的名词前的缩合形式,在这里特指这个特定的故事。; 故事(阴性名词)
+quelqu'un	某人(不定代词)=英语的 "someone"
+fiche	是动词 “ficher” 的第一人称单数变位,意为 “在意,关心
+Je m'en fiche	我不在乎(“en” 是副代词,代替前文提到的事物或情况,“me” 是自反代词)
+préférée	最喜欢的(阴性形容词)
+sévère	严格; 严厉的(形容词)
