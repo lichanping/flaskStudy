@@ -31,4 +31,3 @@ les repas en français	法语中的三餐
 la nourriture	食物(阴性名词)
 du poisson	一些鱼(部分冠词 “du” 是由定冠词 “le” 和介词 “de” 缩合而成,表示不可数名词的部分,不是在强调具体有几条鱼,而是泛指吃了一些鱼肉或者一些鱼的部分)
 le plus connu	最有名的(plus:副词 “更” 的最高级形式)
-poème	“诗;诗篇”
