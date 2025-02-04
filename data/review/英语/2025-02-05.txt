@@ -1,3 +1,19 @@
+bold	"adj. 大胆自信的，  勇于冒险 的"
+credit	(n.) 信用；学分
+owe	"v. 欠（债 、情）   ；把 … … 归 于"
+celebrity	(n.) 名人 ，名流
+quit	"v. 辞职；停止；离开（ 工作 职位 、学校等）"
+direction	"n. 方向 ，方位；趋势； （复 数）指令 ，说明"
+heater	(n.) 加热器
+favour	(n.) 帮助 ，恩惠 ，好事
+event	"n. 活动（指演出 、体育比 赛 、聚会等）   ；事件 ，大事"
+arrangement	(n.) 安排；布置
+political	(adj.) 政治的 ﬂavour	n. 味道
+canal	(n.) 运河 ，河流
+volume	(n.) 册 ，卷
+injure	(v.) 伤害 ，使受伤
+hockey	(n.) 曲棍球
+union	(n.) 工会
 roundabout	"n.环岛；旋转木马；adj.绕远道的；迂回的；转弯…"
 liter	(n.)升，公升
 repair	(v.)修理；n.维修
