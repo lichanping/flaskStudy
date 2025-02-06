@@ -3,7 +3,7 @@ Samedi prochain, le quinze	下周六,15号
 Il est huit heures du matin	现在早上八点钟
 Il est minuit	现在是午夜
 Il est deux heures moins le quart	现在两点差一刻钟(moins表示减去)
-une heure et demie1	小时30分
+une heure et demie"1小时30分"
 une demi-heure	半小时
 la place	广场n.f.
 un aller simple	单程票
