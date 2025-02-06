@@ -1,4 +1,97 @@
+un aller simple  单程票
+un aller-retour  往返票
+après-midi  下午(n.inv.)
+ce matin  今天早上
+cet après-midi  今天下午
+ce soir  今天晚上
+classe 等级，级别(n.f.)
+première classe ou seconde classe  一等舱或二等舱(ou表示或)
+complet  完全的，满员的(adj.阳性)
+complète  完全的，满员的(adj.阴性)
+C'est complet  满员了
+départ  出发(n.m.)
+désolé  感到遗憾的，抱歉的(adj.)
+désolée  感到遗憾的，抱歉的(adj.阴性)
+Je suis désolé  我很抱歉
+Je suis désolée  我很抱歉(女性)
+Désolé对不起
+Désolée对不起(女性)
+deuxième  第二的(adj.num.ord.)
+employé  员工(n.m.)
+employée  雇员（女性）(n.f.)
+gare  火车站(n.f.)
+On va à la gare  我们去火车站
+Quelle heure est-il  现在几点钟？
+horaire  时间表(n.m.)
+lundi  星期一(n.m.)
+mardi  星期二(n.m.)
+mercredi  星期三(n.m.)
+jeudi  星期四(n.m.)
+vendredi  星期五(n.m.)
+samedi  星期六(n.m.)
+dimanche  星期日(n.m.)
+pendule  挂钟，座钟；钟摆(n.f.)
+la place 地方，位置(n.f.)
+prochain  下一个的(adj.)
+prochaine  下一个的(adj.阴性)
+À samdi prochain  下周六见（À表示什么时候再见）
+fois  次(n.f.)
+À la prochaine  下次见(省略了fois)
+À la prochaine fois  下次见
+quand  什么时候(adv.interr.)
+renseignement  有关资料，情况，咨询(n.m.)
+tarif  价格，定价(n.m.)
+voie  道路；车道，轨道(n.f.)
 rythme  节奏(n.m.)
 temps  时间(n.m.)
 Au rythme du temps  跟随时间的节奏（du是le和de的缩合，表示所属关系）
 Un aller simple  单程票(n.m.)
+Quelle heure est-il  现在几点钟？（il是形式主语，指时间）
+Il est quelle heure  现在几点钟？
+Vous avez l'heure, s'il vous plaît  请问几点钟？
+Tu as l'heure, s'il te plaît  请问几点钟？
+à quelle heure  在几点钟？
+Le train part à quelle heure  火车几点钟出发？（语气上升，表示疑问）
+de...à...  从...到...
+de quelle heure à quelle heure  从几点钟到几点钟？
+Tu as des cours de quelle heure à quelle heure  你从几点钟到几点钟上课？
+Vous partez quand  您什么时候出发？
+Samedi prochain, le quinze   下周六，15号
+Il est une heure  现在一点钟（数字和heure之间注意连读）
+Il est deux heures  现在两点钟(heures复数）
+Il est trois heures  现在三点钟
+Il est huit heures dix  现在八点十分(数字+heure+分钟)
+Il est une heure vingt  现在一点二十分
+Il est 6h 现在六点钟（h是heure的缩写）
+Il est 11h30  现在十一点半
+Il est 14h45  现在两点四十五分
+Il est 16h58    现在下午四点五十八分
+Il est vingt heures  现在晚上八点钟(24小时制)
+Il est vingt et une heures  现在晚上九点钟
+Il est huit heures du matin  现在早上八点钟
+Il est cinq de l'après-midi  现在下午五点钟(省略了heure)（12小时制）
+Il est sept heures du soir  现在晚上七点钟
+Il est midi 现在是中午
+Il est minuit  现在是午夜
+Il est sept heures trente   现在七点半（官方）
+Il est sept heures et demie  现在七点半(口语)（et demie表示半小时）
+et quart  一刻钟
+Il est sept heures quinze  现在七点十五分（官方）
+Il est sept heures et quart du soir  现在晚上七点一刻(口语)（et quart表示四分之一）
+Il est dix-neuf heures quinze  现在晚上七点十五分
+Il est une heure quarante-cinq  现在一点四十五分(官方)
+Il est treize heures quarante-cinq  现在下午一点四十五分(二十四小时制)
+Il est deux heures moins le quart  现在两点差一刻钟(moins表示减去)
+Il est deux heures moins le quart de l'après-midi  现在下午两点差一刻钟
+Il est deux heures trois quarts  现在两点三刻钟(三刻钟表示四分之三)（少用）
+Il est huit heures cinquante  现在八点五十分(官方)
+Il est vingt heures cinquante  现在晚上八点五十分(官方)
+Il est neuf heures moins dix  现在九点差十分
+Il est neuf heures moins dix du soir  现在晚上九点差十分
+Il est dix heures dix  现在十点十分
+Il est vingt-deux heures dix  现在晚上十点十分
+Il est dix heures dix du soir  现在晚上十点十分
+Il est midi moins le quart现在11点45（口语）
+Il est onze heures quarante-cinq现在11点45（官方）
+une heure et demie1小时30分
+une demi-heure半小时
