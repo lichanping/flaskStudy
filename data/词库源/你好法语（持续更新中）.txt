@@ -923,7 +923,7 @@ Il est vingt-deux heures dix	现在晚上十点十分
 Il est dix heures dix du soir	现在晚上十点十分
 Il est midi moins le quart	现在11点45(口语)
 Il est onze heures quarante-cinq	现在11点45(官方)
-une heure et demie1	小时30分
+une heure et demie	"1小时30分"
 une demi-heure	半小时
 ce matin	今天早上(阳性名词前用ce); 今天早上
 la place	广场n.f.; 地方,位置(n.f.)
