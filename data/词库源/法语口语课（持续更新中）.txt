@@ -924,7 +924,7 @@ caractère	性格(阳性)=character(英语)
 Quel est son caractère	她的性格怎么样?
 Expliquez	解释, 动词 "expliquer"(解释)的第二人称复数形式
 Expliquer	解释(动词)
-Je explique	我解释
+J'explique	我解释
 Tu expliques	你解释
 Il explique	他解释
 Nous expliquons	我们解释
