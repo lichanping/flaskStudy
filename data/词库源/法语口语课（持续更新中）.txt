@@ -40,7 +40,6 @@ J'aime peindre et dessiner des personnes et des fleurs	我喜欢画人和花。
 ciné	电影院
 cinéma	电影院
 J'aime aller au musée et au ciné	我喜欢去博物馆和电影院。
-détester	讨厌
 maths	数学
 Je déteste les maths	我讨厌数学。
 physique	物理
@@ -182,7 +181,6 @@ Qu'est-ce que tu vas faire pendant les vacances	你放假时要做什么?
 Je vais avoir des cours de maths, de français et de physique	我将要上数学、法语和物理课。
 Je vais voyager avec mes grands-parents	我将和我的祖父母一起旅行。
 Vous allez aller où	你们要去哪里?
-encore	还(副词)
 On ne sait pas encore	我们还不知道。
 restent	停留,留下;保持(rester的第三人称复数形式)
 Tes parents restent à Shanghaï	你的父母在上海。
@@ -287,7 +285,6 @@ Japon	日本(阳性名词)
 A l'étranger, j'ai voyagé en Thaïlande, en Corée, au Japon	在国外,我去过泰国,韩国,日本。
 aimerais	是动词 aimer(喜欢)的条件式现在时,表示一种愿望或礼貌语气,翻译为“想”或“希望”。(原形:aimer)
 J'aimerais voyager en France	我想去法国旅行。
-Je vais bien	我很好
 aller bien	意为“身体健康,情况良好”
 aller mal	意为“身体不舒服,情况不好”
 Est-ce que tes parents vont bien	你父母身体好吗?
@@ -723,7 +720,6 @@ Nous sommes très proches	我们关系很亲密
 un chemin	“一条路;一条小径”(阳性名词)
 je prends l'autre chemin	我走另一条路
 Camille, tu cours vite	“Camille,你跑得快吗?”
-vraiment	真的(副词);确实
 Elle est vraiment belle	她真的很漂亮
 non pas vraiment	不是真的(很快)
 tu aimes courir	你喜欢跑步吗?
@@ -828,7 +824,6 @@ Hier, après le cours, je suis allé voir un biopic	昨天,下课后,我去看�
 un biopic	传记片(biography picture的缩写)
 un film	电影(阳性名词)
 raconter	讲述
-raconte	讲述(动词 raconter(讲述)的直陈式现在时第三人称单数变位形式)
 célèbre	著名的
 un biopic,c'est un film qui raconte l'histoire de quelqu'un de célèbre	传记片是讲述某个著名人物的故事的电影("qui" 是关系代词,指代前面的 "film",意思是“它”。)
 dit	是动词 "dire"(说)的过去分词,表示“说”
@@ -897,7 +892,6 @@ voir	:动词原形,意思是 “看望;看见”,在句中作 “vais” 的补�
 naître	出生(动词)
 connaître	认识(动词); 认识, 知道, 了解
 le nouvel an chinois	表示“中国新年”,nouvel an 是“新年”,chinois 表示“中文的,或中国的”。; 春节
-l'histoire	表示 “故事” ,定冠词 “l'” 是 “le” 或 “la” 在以元音或哑音 h 开头的名词前的缩合形式,在这里特指这个特定的故事。; 故事(阴性名词)
 quelqu'un	某人(不定代词)=英语的 "someone"
 fiche	是动词 “ficher” 的第一人称单数变位,意为 “在意,关心
 Je m'en fiche	我不在乎(“en” 是副代词,代替前文提到的事物或情况,“me” 是自反代词)
@@ -1067,3 +1061,117 @@ avoir mal à la tête	头疼
 avoir mal au ventre	肚子疼
 dehors	副词,意为 “在外面”,在这里作地点状语,表明吃饭的地点。; 外面(副词)
 J'ai mangé dehors à midi	我中午在外面吃饭。
+Samedi 8 février 2025	"2025年2月8日,星期六"
+Il en reste 9	还剩下9个(小时的课程)
+Demain qu'est-ce que tu fais	明天你打算做什么?
+Je ne sais pas encore	我还不知道
+Tes parents sont là ce WE	这个周末你的父母在吗?
+Dimanche vous allez faire quoi	周日你们打算做什么?
+Faire les devoirs	做作业
+dessin	画,图画
+animé	原形是动词 animer(使活动,使有生气)的过去分词形式,此处作形容词修饰 dessin,表 “活动的”
+un dessin animé	“动画片” ,字面意思是 “活动的画” 。
+Aujourd'hui on regarde un dessin animé français de quelques minutes	今天我们要看一部几分钟的法语动画片
+Le dessin animé s'appelle Samuel	这部动画片叫《萨缪尔》
+C'est l'histoire d'un garçon qui s'appelle Samuel, il a dix ans	这是一个关于一个叫萨缪尔的男孩的故事,他10岁
+Il écrit son journal	他写日记
+intime	形容词,意为 “私密的”“亲密的” 。修饰名词时,一般置于名词之后,用来进一步描述名词的特征或性质。如 “amis intimes”(亲密的朋友)
+un journal intime	一本私密的日记
+est tombé	动词 tomber 的复合过去时,意为 “爱上某人”
+Il raconte comment il est tombé amoureux de Julie	他讲述了他是如何爱上朱莉的
+tomber amoureux	坠入爱河 ,强调爱情产生的过程
+une camarade	“同学;同伴;同志”
+Julie c'est une camarade à l'école	朱莉是他在学校的同学
+Quand est-il tombé amoureux	他是什么时候爱上她的?
+Julie dans le bus elle écoute de la musique	朱莉在公交车上听音乐。
+Elle écoute Dire Straits	她在听Dire Straits(一支乐队)。
+Samuel c'est son groupe de musique préféréSamuel	是她最喜欢的乐队。
+Je m'appelle Samuel j'ai 10 ans et j'ai un problème	我叫萨缪尔,我10岁,我有一个问题。
+avoir envie de	表示 “想做某事 / 想要某物”,常见搭配 “avoir envie de + 动词原形 / 名词”(envie:阴性名词,常见意思为 “愿望,欲望;想,想要” )
+Mais je n'ai pas trop envie d'en parler	但我不是很想谈它。
+Bon en fait	其实。
+Mon problème c'est que Basile a dit à la grande Julie que je l'aimais	我的问题是巴希尔对大朱莉说,我爱她。
+chiant	形容词,“令人厌烦的,讨厌的”
+chiante	令人厌烦的,chiant 的阴性形式
+Il est trop chiant Basile	巴希尔太烦人了。(人名一般放在句末,对主语进行补充说明)
+Il aime trop se mêler de tout	他总是爱管闲事。(se mêler de “干涉,管闲事” ,tout一切)
+Je le hais	我恨他。
+Julie c'est pas que je l'aime	朱莉,我不是真的喜欢她
+y a pas longtemps	时间状语从句,意思是“不久之前”
+a rigolé	笑了(“rigoler”是“笑”的过去分词形式,表示动作已完成)
+de mes	我的(“de”表示所属关系,“mes”是“我的”复数形式)
+blagues	笑话(名词,复数形式)
+c'est juste qu'elle a rigolé à une de mes blagues y a pas longtemps	才是她最近有一次笑了我的一个笑话
+donc j'ai dit à Basile que je trouvais ça sympa de sa part	所以我告诉巴希尔,我觉得她这么做很友好
+rigoler	法语动词,意思是“笑”或“大笑”,通常指比较轻松、愉快的笑。
+rire	法语动词,意思是“笑”,是一个更通用的词,可以指任何形式的笑。
+une blague	笑话
+donc	所以
+dormir	睡觉(动词原形,表示“睡觉”)
+Je suis très fatigué donc je vais dormir	我非常累,所以我打算去睡觉。
+même pas	甚至不、连......也不(表示强调)
+Bon en fact je l'aime mais personne ne doit savoir, même pas Corentin	其实我喜欢她,但谁也不能知道,甚至连我的好朋友科伦丁也不能知道
+meilleur	最好的(形容词,表示“最好”)
+un pote	一个哥们
+un ami	一个朋友
+précise	我强调一下(动词“préciser”的第一人称单数形式,表示“强调”或“说明”)
+Corentin c'est mon meilleur pote je précise	科伦丁是我最好的朋友,我强调一下
+décidé	决定(动词“décider”的过去分词形式,表示“决定”)
+l'aimais	喜欢她(“aimer”的过去时,第三人称单数形式;“l'”是宾语代词,指代女性)
+assise	坐下(动词“asseoir”的过去分词形式,表示“坐下”)
+J'ai décidé que je l'aimais quand elle s'est assise à côté de moi dans le bus	我决定喜欢她,是因为她在公交车上坐到了我旁边。
+écoutait	听(动词“écouter”的过去时,表示过去正在进行的动作)
+un truc	一个东西(“truc”是非正式用法,表示“东西”或“事物”)
+un peu fort	大声的、大的(形容词,表示声音大)
+Elle écoutait un truc un peu fort donc je lui ai dit	她听的东西声音有点大,所以我跟她说。
+Camille j'ai un truc à te dire	卡米尔,我有件事要告诉你。
+je dis quelque chose à quelqu'un	我对某人说某事
+prononçait	发音(动词“prononcer”的过去时,表示“发音”)
+J'ai dit à la mère de Camille que Camille prononçait bien le français	我告诉卡米尔的妈妈,卡米尔法语发音很好
+T'écoutes fort dis donc	你听得好大声啊,真夸张。
+toi tu écoutes fort la musique	你听音乐声音很大吗?
+te déranger	打扰你打扰=to bother
+les gens	人们(“gens”是名词,表示“人”,“les”是定冠词)
+des popcorn	爆米花(名词)
+quand je vais au cinéma, les gens qui mangent des popcorn ça me dérange	当我去电影院时,吃爆米花的人会打扰到我
+moi ça ne me dérange pas	我倒是不介意
+haïr	恨(动词原形,表示“恨”或“憎恨”)
+Il fait beau à Shangai	上海天气很好。
+Il fait froid	天气很冷。
+Tu vas bien	你很好。
+Elle va bien	她很好。
+Nous allons bien	我们很好。
+Vous allez bien	你们很好。
+Ils vont bien	他们很好。
+Tu as bien mangé aujourd'hui	你今天吃得好吗?
+J'ai mangé un hamburger à midi	我中午吃了一个汉堡。
+seule	独自的、单独的(形容词,表示“独自”或“单独”)
+Toute seule	独自一人。
+Aujourd'hui, j'ai eu deux cours, un de physique et un de maths	今天,我上了两节课,一节物理和一节数学。
+Le prof de maths c'est qui	数学老师是谁?
+Monsieur Lin est jeune, il est gentil	林老师很年轻,他很和蔼。
+Le prof de physique c'est qui	物理老师是谁?
+Monsieur Du est jeune, il est gentil	杜老师很年轻,他很和蔼。
+brioches	面包(复数形式,表示“面包”或“小圆面包”)
+une brioche chinoise	包子
+boeuf	牛肉(名词,表示“牛肉”)
+J'ai mangé deux brioches chinoises au boeuf pour le dîner	我晚餐吃了两个牛肉包子
+Aujourd'hui, c'est mon anniversaire	今天是我的生日。
+né	出生(动词“naître”的过去分词形式,表示“出生”)
+Je suis né le 8 février 1963	我出生于1963年2月8日。
+J'ai quel âge	我多大了?
+J'ai 62 ans	我62岁了。
+découvert	发现(动词“découvrir”的过去分词形式,表示“发现”)
+connaissais	认识(动词“connaître”的第一人称单数过去时形式,表示“认识”或“知道”)
+Aujourd'hui, j'ai découvert un chanteur français que je ne connaissais pas	今天,我发现了一位我不认识的法国歌手。
+Il s'appelle Lescot, j'aime vraiment ses chansons	他叫Lescot,我真的很喜欢他的歌。
+Le chanteur s'appelle Lescot	这位歌手叫Lescot。
+Son nouvel album s'appelle After Parti	他的新专辑叫《After Parti》。
+Une des chansons de l'album s'appelle Les garçons	专辑中的一首歌叫《Les garçons》。
+Un chanteur chinois qui s'appelle	华晨宇,一个叫华晨宇的中国歌手。
+encore	还(副词); 副词,此处表示 “还,仍然” =英语的yet
+l'histoire	表示 “故事” ,定冠词 “l'” 是 “le” 或 “la” 在以元音或哑音 h 开头的名词前的缩合形式,在这里特指这个特定的故事。; 故事(阴性名词)
+raconte	动词 raconter 的直陈式现在时第三人称单数“讲述,叙述”
+détester	讨厌; 恨(动词原形,表示“恨”或“憎恨”,语气通常比“haïr”稍轻)
+Je vais bien	我很好
+vraiment	真的(副词);确实; 真的(副词,表示“真正地”或“确实”)
