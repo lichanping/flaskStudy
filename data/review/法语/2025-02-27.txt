@@ -1,3 +1,14 @@
+immobilière	房地产的adj.
+louer	租用,出租v.t.
+mètre carré	平方米n.m.
+placard	壁橱n.m.
+le plan	平面图n.m.
+le responsable	负责人,主管n.m.
+les salutations	敬意n.f.pl.(信末用语)
+cette année	今年(阴性名词前用cette)
+cette table-là	那张桌子(阴性名词前用cette, là表示“那个”)
+ces romans-ci	这些小说(复数名词前用ces, ci表示“这些”)
+ces voitures-là	那些汽车(复数名词前用ces, là表示“那些”)
 de...à...	从...到...
 Samedi prochain, le quinze	下周六,15号
 Il est huit heures du matin	现在早上八点钟
