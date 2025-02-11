@@ -657,3 +657,8 @@ offer	"v. 提供；表示愿意 (做某 事)；   n. 录取（或录用）  …"
 handle	"v. 处理 ，解决；操纵（车 辆 、动物 、工具等）；   n. …"
 previous	(adj.) 先前的
 mark	"v. 标记出；标志 ，纪念； (n.) （ 重要的）水平 ，标准 …"
+demand	(n.) 需求；   v. 要求
+loan	(n.) 暂借；贷款
+conference	(n.) 会议
+thunder	(n.) 雷，  雷声
+partner	"n. 伙伴 ，搭档；配偶 ，伴 侣；   v. 成为 … … 的合伙人"

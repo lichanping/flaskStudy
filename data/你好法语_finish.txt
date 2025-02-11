@@ -2291,3 +2291,53 @@ cette année	今年(阴性名词前用cette)
 cette table-là	那张桌子(阴性名词前用cette, là表示“那个”)
 ces romans-ci	这些小说(复数名词前用ces, ci表示“这些”)
 ces voitures-là	那些汽车(复数名词前用ces, là表示“那些”)
+En face de la cuisine	在厨房的对面
+Vous avez les toilettes et une salle de bains avec une douche	你有一个卫生间和一个带淋浴的浴室。
+La chambre est au bout du couloir	卧室在走廊的尽头。
+Il y a un lit et un bureau avec une chaise	有一张床和一张带椅子的书桌。
+À gauche du couloir	在走廊的左边
+Il y a le salon	有客厅。
+Vous avez deux placards dans l'appartement	你在公寓里有两个壁橱。
+Alain Dauger	阿兰·多杰尔
+C'est un immeuble récent avec un parking	这是一栋带停车场的新楼。
+Je prends	我拿
+Tu prends	你拿
+Il prend	他拿
+Elle prend	她拿
+Nous prenons	我们拿
+Vous prenez	你们拿
+Ils prennent	他们拿
+Elles prennent	她们拿
+Je prends le taxi	我打车
+aller	去(原形)
+Je vais	我去
+Tu vas	你去
+Il va	他去
+Elle va	她去
+Nous allons	我们去
+Vous allez	你们去
+Ils vont	他们去
+Elles vont	她们去
+Je vais au cinéma	我去看电影
+Excuse-moi	对不起(命令式)
+parler	说(原形)
+Je parle	我说
+Tu parles	你说
+Il parle	他说
+Elle parle	她说
+Nous parlons	我们说
+Vous parlez	你们说
+Ils parlent	他们说
+Elles parlent	她们说
+Parlez	请你们说,请您说!(命令式,如果动词是er结尾,去掉er加ez)
+Parlons	让我们一起说吧!(命令式,如果动词是er结尾,去掉er加ons)
+Tu entres	你进入
+nous entrons	我们进入
+vous entrez	你们进入
+Meilleures salutations	致以最诚挚的问候
+Responsable de l'agence Loca-loisirs	“Loca-loisirs	中介负责人”
+Prenez-vous le bus	你们坐公共汽车吗?
+l'impératif	命令式
+Fais comme moi	跟我一样做(命令式)
+Suivez-moi	跟我来(命令式)
+Parle	请你说!(命令式,如果动词是er结尾,去掉er加e)
