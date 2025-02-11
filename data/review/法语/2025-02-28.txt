@@ -1,0 +1,7 @@
+Meilleures salutations	致以最诚挚的问候
+Responsable de l'agence Loca-loisirs	“Loca-loisirs	中介负责人”
+Prenez-vous le bus	你们坐公共汽车吗?
+l'impératif	命令式
+Fais comme moi	跟我一样做(命令式)
+Suivez-moi	跟我来(命令式)
+Parle	请你说!(命令式,如果动词是er结尾,去掉er加e)
