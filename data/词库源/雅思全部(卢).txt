@@ -3899,7 +3899,7 @@ transgress	(vt.) 违反, 犯罪, 侵犯。vi.越界, 违法。
 novice	(n.) 新手, 初学者。
 extinguish	(vt.) 熄灭,扑灭;根除,消灭
 enclosure	(n.) 围住,圈起,封入,附件
-dishonorable	(adj.) 不名誉的
+dis-honorable	(adj.) 不名誉的
 discrimination	(n.) 辨别;识别力;歧视
 reiterate	(v.) 重申  a.反复的
 plant	(n.) 植物,作物;工厂;装置v. 栽种,播种,栽培
