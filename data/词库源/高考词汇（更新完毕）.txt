@@ -3872,7 +3872,7 @@ accuse	"v.指责;控告;把......归咎于"
 stove	(n.)炉子,火炉,电炉
 camp	(n.)营地;野营
 cab	(n.)出租车
-dishonorable	(adj.)不光彩的
+dis-honorable	(adj.)不光彩的
 socket	(n.)插座,灯座;牙槽
 upon	"prep.在......上面;即将发生;一...就"
 fantasy	"adj.虚幻的;n.幻想,想象"

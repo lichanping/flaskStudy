@@ -6,7 +6,7 @@ jealousy	(n.)妒忌，猜忌
 accuse	"v.指责；控告；把……归咎于"
 stove	(n.)炉子，火炉，电炉
 cab	(n.)出租车
-dishonorable	(adj.)不光彩的
+dis-honorable	(adj.)不光彩的
 socket	(n.)插座，灯座；牙槽
 fantasy	"adj.虚幻的；n.幻想，想象"
 negotiate	(v.)谈判，磋商，商议
