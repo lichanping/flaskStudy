@@ -662,3 +662,53 @@ loan	(n.) 暂借；贷款
 conference	(n.) 会议
 thunder	(n.) 雷，  雷声
 partner	"n. 伙伴 ，搭档；配偶 ，伴 侣；   v. 成为 … … 的合伙人"
+control	"v. 控制 ，管理；   n. 控制， 管理"
+purple	(adj.) 紫色的
+club	(n.) 社团 ，俱乐部
+lamb	(n.) 羔羊
+maybe	(adv.) 可能 ，大概 ，也许
+plastic	"adj. 塑料的；   n. 塑料 ，塑 料制品"
+magic	"n. 魔术 ，戏法；   adj. 有魔 力的 ，魔术的"
+pink	(adj.) 粉红色的
+stand	(v.) 站立；忍受；   n. 货摊
+building	(n.) 大楼；建筑
+save	(v.) 节省；拯救
+feeling	"n.   （内心和感官的）感觉， 感触 ，情绪；   v. 感觉"
+sheet	"n. 纸张；床单；  (冰或水等 的)一大片"
+none	(pron.) 没有（一人或一物）
+vocabulary	(n.) 词汇（ 量）
+opinion	(n.) 意见 ，看法 ，观点
+wedding	(n.) 婚礼
+accept	"v. 接受（所提供或给予的物 品）"
+company	(n.) 公司；  陪伴
+weight	(n.) 体重；重量 ，分量
+comedy	(n.) 喜剧 ，喜剧片 ，滑稽节目
+warning	(adj.) 警告的
+employee	(n.) 雇员
+product	(n.) 产品 ，制品；产物
+provide	(v.) 提供 ，供给
+attend	"v. 参加；上（学）   ，去（教 堂）"
+foreign	(adj.) 外国的 ，外来的
+manager	(n.) 经理 ，管理人
+noisy	(adj.) 嘈杂的
+path	"n. 道路；小路； （尤指达到 某一目的或结果的）行动 …"
+argue	(v.) 争论；主张 ，认为
+side	"n. 一边 ，一侧；面；边；一 方 ，一派；   adj. 副的"
+bring	"v. 带来；使处于某种状态； 把 … 引入 (某地) ，把 …介 …"
+spider	(n.) 蜘蛛
+bone	(n.) 骨骼
+carpet	(n.) 地毯
+pure	(adj.) 纯粹的
+contain	(v.) 包含 ，含有 ，容纳
+luxury	(adj.) 奢侈的 ，豪华的
+possibility	(n.) 可能性
+monument	(n.) 纪念碑；历史遗迹 ，遗址
+account	"n. 账目 ，账户；描述；叙 述；   v. 占（一定数量或 …"
+thunderstorm	(n.) 雷暴雨，  雷雨
+marvellous	"adj. 不可思议的 ，惊奇的， 极好的 ，绝妙的"
+mild	(adj.) 温和的；轻微的
+recover	"v. 恢复；痊愈 ，恢复健康； 收回"
+occasion	(n.) 场合，  时候 ，活动
+president	"n.   （各机构的）会长，  院 长 ，主席；总裁"
+initial	(adj.) 最初的 ，开始的
+label	"n. 标签；   v. 把 … …称为， 贴标签于 … …"

@@ -1,3 +1,29 @@
+Joyeux Noël	“圣诞快乐”，是在圣诞节期间人们互相祝福的常用语。;“圣诞快乐”
+Tu veux du miel	你想要蜂蜜吗？
+prochain	下一个，接下来的
+passer	度过，参加
+été	夏天，夏
+faire de la plongée	去潜水
+février	二月
+temps	时间
+Je veux faire de la plongée	我想要去潜水。
+lentement	慢,慢慢地
+comprenons	懂,理解,明白
+sac à dos	背包
+tourner	转弯(原形)
+Tourne	请转弯!(命令式,如果动词是er结尾,去掉er加e)
+Va tout droit	你直走(命令式)
+Prends le bus	你坐公共汽车(命令式)
+Va à la poste	你去邮局(命令式)
+Vas-y	你去吧(命令式)(加s接元音)
+Donnes-en	给我(命令式)(en代表着一些东西)(加s接元音)
+Parles-en	说给我(命令式)(en代表着一些东西)(加s接元音)
+Aie	请你有!(命令式,不规则)
+Sois	请你是!(命令式,不规则)
+Aie de la patience	请你有耐心(命令式)
+Ayez du courage	请您有勇气(命令式)
+Sois patient	请你是有耐心(命令式)
+Soyez courageux	请您是有勇气(命令式)
 agréable	“宜人的、舒适的”(形容词); 愉快的(不分阴阳性)
 la face	(物体的)面n.f.
 est grave	严重的(形容词,阳性和阴性形式相同)
