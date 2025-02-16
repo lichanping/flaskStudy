@@ -1,53 +1,3 @@
-tourner à droite	向右转。; 右转
-Entre	请进!(命令式,如果动词是er结尾,去掉er加e); 请进(命令式)
-Je vais au Louvre demain	我明天去卢浮宫。
-J'y vais à pied	我走路去。(y=au Louvre,上文提到的地方,作副代词)
-Elle ouvre le placard et y met la robe	她打开橱柜,把裙子放进去。(y=dans le placard,上文提到的地方,作副代词)
-Elle ouvre le placard et met la robe dans le placard	她打开橱柜,把裙子放进橱柜。
-Vous habitez en banlieu	你住在郊区吗?
-Oui, j'y habite	是的,我住在那里。(y=en banlieu,上文提到的地方,作副代词)
-Comment est-ce que tu vas à la poste	你怎么去邮局?(est-ce que是疑问句的标志)
-J'y vais en bus	我坐公共汽车去。(y=à la poste,上文提到的地方,作副代词)
-Il n'y a pas de métro près de chez moi	我家附近没有地铁。(否定句中,ne...pas位于"y+动词"的两边)
-Tu vas au cinéma	你去电影院吗?
-Non,je n'y vais pas	不,我不去。(y=au cinéma,上文提到的地方,作副代词)
-Bonne année 2025	"2025年新年快乐"
-après	以后adv.然后=after
-Après vous	您先请
-après trois jours	三天以后
-on se parlera après	以后再说(on=我们,se parlera=交谈)
-arriver	到达vi.
-J'arrive au parc en bus	我乘公共汽车到公园
-banque	银行nf.
-bien sûr	当然
-Est-ce que tu aimes le français	你喜欢法语吗?
-Oui,bien sûr	是的,当然
-le bus	公共汽车nm.
-continuer	继续v
-continuer à faire qch	继续做某事
-continuer à parler	继续说话
-direct	直接的adj.
-directe	直接的adj.(f.)
-droit	笔直地adv.
-d'abord	首先adv.
-ensuite	然后adv.接下来
-enfin	最后adv.
-jardin	花园nm.
-entrer dans le jardin	进入花园
-jusque	直到prep.(与介词连用,表示时间或空间的限度)
-aller tout droit jusqu'au café	一直走到咖啡馆
-jusqu'à	直到prep.(与介词连用,表示时间或空间的限度)
-jusqu'aujourd'hui	直到今天
-là	那里adv.
-ligne	线路nf.
-une ligne de métro	一条地铁线路
-la ligne quatre de métro	地铁4号线
-la ligne 4 de métro	地铁4号线
-loin	远adv.
-C'est très loin	那很远
-Le bureau est loin de chez moi	办公室离我家很远
-le métro	地铁nm.
-le métropolitain	地铁nm.
 l'entrée du métro de Paris	巴黎地铁入口
 la moto	摩托车n.f.
 musée	博物馆nm.
@@ -270,3 +220,20 @@ Bises	亲吻
 Genève	日内瓦(瑞士)
 quartier	街区(n.m.); “街区”“城区”“区域”
 mètre carré	平方米n.m.
+voudrais	想要=would like to
+Bonjour, monsieur, je voudrais un aller Paris-Marseille, s'il vous plaît	您好,先生,我想要一张从巴黎到马赛的单程票。
+Mardi prochain	下周二
+Le 15	"15号?"
+Oui, c'est ça	是的,就是这天
+Le matin ou l'après-midi	上午还是下午?
+Alors, Il y a un train à 7 heures 18...un autre à 8 heures 46...à 9 heures 22	那么,有一班火车是7点18分,另一班是8点46分,还有一班是9点22分
+Le train de 7 heures 18, s'il vous plaît 7	点18分的火车,谢谢
+Ah,je suis désolé, monsieur, ce train est complet	哦,先生,很抱歉, 这班火车已经满员了
+Et le train de 8 heures 46, il est complet aussi	"8点46分的火车也满员了吗?"
+Non, il y a de la place	不,还有空位
+Un aller simple ou un aller-retour	您要单程票还是往返票?
+Un aller simple, en deuxième classe	单程票,二等座
+C'est combien	这是多少钱?=How much is it?
+80 euros 10	"80欧元10"
+Vous partez quand	您什么时候出发?
+C'est parfait	这太完美了; 那太好了

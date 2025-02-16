@@ -732,7 +732,6 @@ Visitez le musée Gauguin, à côté de votre hôtel	参观您酒店旁边的高
 C'est très sympa	这太棒了!
 au bord de	在......边上; 在......边缘
 à côté de	在...的旁边=nextto; 在......旁边
-C'est parfait	这太完美了。; 太完美了!
 aéroport	飞机场(n.m.)
 aquarium	水族馆(n.m.)
 archéologie	考古学(n.f.)
@@ -885,7 +884,6 @@ Le train part à quelle heure	火车几点钟出发?(语气上升,表示疑问)
 de...à...	从...到...
 de quelle heure à quelle heure	从几点钟到几点钟?
 Tu as des cours de quelle heure à quelle heure	你从几点钟到几点钟上课?
-Vous partez quand	您什么时候出发?
 Samedi prochain, le quinze	下周六,15号
 Il est une heure	现在一点钟(数字和heure之间注意连读)
 Il est deux heures	现在两点钟(heures复数)
@@ -928,3 +926,20 @@ une demi-heure	半小时
 ce matin	今天早上(阳性名词前用ce); 今天早上
 la place	广场n.f.; 地方,位置(n.f.)
 Quelle heure est-il	现在几点钟?(il是形式主语,指时间)
+voudrais	想要=would like to
+Bonjour, monsieur, je voudrais un aller Paris-Marseille, s'il vous plaît	您好,先生,我想要一张从巴黎到马赛的单程票。
+Mardi prochain	下周二
+Le 15	"15号?"
+Oui, c'est ça	是的,就是这天
+Le matin ou l'après-midi	上午还是下午?
+Alors, Il y a un train à 7 heures 18...un autre à 8 heures 46...à 9 heures 22	那么,有一班火车是7点18分,另一班是8点46分,还有一班是9点22分
+Le train de 7 heures 18, s'il vous plaît 7	点18分的火车,谢谢
+Ah,je suis désolé, monsieur, ce train est complet	哦,先生,很抱歉, 这班火车已经满员了
+Et le train de 8 heures 46, il est complet aussi	"8点46分的火车也满员了吗?"
+Non, il y a de la place	不,还有空位
+Un aller simple ou un aller-retour	您要单程票还是往返票?
+Un aller simple, en deuxième classe	单程票,二等座
+C'est combien	这是多少钱?=How much is it?
+80 euros 10	"80欧元10"
+Vous partez quand	您什么时候出发?
+C'est parfait	这太完美了; 那太好了
