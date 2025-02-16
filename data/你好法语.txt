@@ -220,3 +220,20 @@ Bises	亲吻
 Genève	日内瓦(瑞士)
 quartier	街区(n.m.); “街区”“城区”“区域”
 mètre carré	平方米n.m.
+voudrais	想要=would like to
+Bonjour, monsieur, je voudrais un aller Paris-Marseille, s'il vous plaît	您好,先生,我想要一张从巴黎到马赛的单程票。
+Mardi prochain	下周二
+Le 15	"15号?"
+Oui, c'est ça	是的,就是这天
+Le matin ou l'après-midi	上午还是下午?
+Alors, Il y a un train à 7 heures 18...un autre à 8 heures 46...à 9 heures 22	那么,有一班火车是7点18分,另一班是8点46分,还有一班是9点22分
+Le train de 7 heures 18, s'il vous plaît 7	点18分的火车,谢谢
+Ah,je suis désolé, monsieur, ce train est complet	哦,先生,很抱歉, 这班火车已经满员了
+Et le train de 8 heures 46, il est complet aussi	"8点46分的火车也满员了吗?"
+Non, il y a de la place	不,还有空位
+Un aller simple ou un aller-retour	您要单程票还是往返票?
+Un aller simple, en deuxième classe	单程票,二等座
+C'est combien	这是多少钱?=How much is it?
+80 euros 10	"80欧元10"
+Vous partez quand	您什么时候出发?
+C'est parfait	这太完美了; 那太好了
