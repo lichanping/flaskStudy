@@ -2441,3 +2441,83 @@ d'abord	首先adv.
 enfin	最后adv.
 jusque	直到prep.(与介词连用,表示时间或空间的限度)
 le métropolitain	地铁nm.
+Bonne année 2025  "2025年新年快乐"
+après   以后adv.然后=after
+Après vous  您先请
+après trois jours  三天以后
+on se parlera après  以后再说（on=我们,se parlera=交谈）
+arriver  到达vi.
+J'arrive au parc en bus  我乘公共汽车到公园
+banque  银行nf.
+bien sûr  当然
+Est-ce que tu aimes le français  你喜欢法语吗？
+Oui,bien sûr  是的,当然
+le bus  公共汽车nm.
+continuer  继续v
+continuer à faire qch  继续做某事
+continuer à parler  继续说话
+directe 直接的adj.(f.)
+droit 笔直地adv.
+aller tout droit  一直走
+ensuite  然后adv.接下来
+enfin  最后adv.
+entrer  进入vi.
+entrer dans le jardin  进入花园
+aller tout droit jusqu'au café  一直走到咖啡馆
+jusqu'à  直到prep.（与介词连用，表示时间或空间的限度）
+jusqu'aujourd'hui  直到今天
+là 那里adv.
+C'est par là  从那里走
+ligne  线路nf.
+une ligne de métro  一条地铁线路
+la ligne 4 de métro  地铁4号线
+C'est très loin  那很远
+Le bureau est loin de chez moi  办公室离我家很远
+le métro  地铁nm.
+l'entrée du métro de Paris  巴黎地铁入口
+la moto  摩托车n.f.
+musée  博物馆nm.
+Le Musée du Louvre  卢浮宫博物馆
+Le Musée d'Orsay  奥赛博物馆
+par 通过prep.
+Par ici  从这边走
+C'est par où  从哪儿走？
+direct  直接的adj.
+d'abord  首先adv.
+jardin  花园nm.
+jusque  直到prep.（与介词连用，表示时间或空间的限度）
+loin  远adv.
+le métropolitain  地铁nm.
+opéra  歌剧院nm.
+C'est par là  从那边走
+Je vous demande pardon  我向您道歉n.m.
+passer  经过v.
+passer par une banque  经过银行
+pied  脚nm.
+aller à pied  步行
+poste  邮局nf.
+la poste  邮局nf.
+le bureau de poste  邮局
+prendre  搭乘，选取（道路，路线）vt.
+prendre le métro  搭乘地铁
+prendre le bus  搭乘公共汽车
+prendre la rue  走这条路
+tout  adv.十分，非常，极其，完全=tres
+aller tout droit  一直走
+C'est tout rouge  完全红了
+travail  工作nm.
+J'aime mon travail  我喜欢我的工作
+traverser la rue  穿过这条路
+vélo  自行车nm.
+aller au musée à vélo  骑自行车去博物馆(à vélo=骑自行车)
+en bus  乘公共汽车
+en métro  乘地铁
+en moto  骑摩托车
+en voiture  开车
+voiture  汽车nf.
+un vélo libre  公共自行车
+la place  广场n.f.
+rollers  滑轮鞋n.m.pl.
+traverser  穿过v.穿越
+Un vélib  公共自行车
+l'entrée du métro de Paris	巴黎地铁入口
