@@ -236,3 +236,82 @@ C'est combien	这是多少钱?=How much is it?
 80 euros 10	"80欧元10"
 Vous partez quand	您什么时候出发?
 C'est parfait	这太完美了; 那太好了
+À Londres	在伦敦(复数)
+Je fais	我做 /ʒə fɛ/
+Tu fais	你做 /ty fɛ/
+Il fait	他做 /il fɛ/
+Nous faisons	我们做 /nu fə.zɔ̃/
+Vous faites	你们/您做 /vu fɛt/
+Ils font	他们/它们做 /il fɔ̃/
+Est-ce que tu fais du sport	你做运动吗?(du=de+le)
+Oui, je fais du sport	是的,我做运动。
+Est-ce que vous faites de la photographie	您摄影吗?
+Oui, nous faisons de la photographie	是的,我们摄影。
+Oui, je fais de la photographie	是的,我摄影。
+voir	看见
+Je vois	我看见 /ʒə vwa/
+Tu vois	你看见 /ty vwa/
+Il voit	他看见 /il vwa/
+Nous voyons	我们看见 /nu vwa.jɔ̃/
+Vous voyez	你们/您看见 /vu vwa.je/
+Ils voient	他们/它们看见 /il vwa/
+Est-ce que tu vois des films	你看电影吗?
+Oui, je vois souvent des films	是的,我经常看电影。
+Est-ce que vous voyez des films	您看电影吗?
+Non, je ne vois pas de film	不,我不看电影。(de film表示0数量)
+commencer	开始
+Je commence	我开始 /ʒə kɔ.mɑ̃s/
+Tu commences	你开始 /ty kɔ.mɑ̃s/
+Il commence	他开始 /il kɔ.mɑ̃s/
+Nous commençons	我们开始 /nu kɔ.mɑ̃.sɔ̃/(特殊变位,软音符号ç)
+Vous commencez	你们/您开始 /vu kɔ.mɑ̃.se/
+Ils commencent	他们/它们开始 /il kɔ.mɑ̃s/
+Est-ce que tu commences ton travail	你是不是开始了你的工作吗?
+Oui, je commence mon travail	是的,我开始工作。
+Ils commencent à parler	他们开始说话。(后面加动词的话,前面要加à)
+Tu travailles à Londres	你在伦敦工作吗?(口语)
+Est-ce que tu travailles à Londres	你在伦敦工作吗?(口语和书面)
+Travailles-tu à Londres	你在伦敦工作吗?(主谓倒装句)(书面)
+Est-ce que c'est la chambre de Paul	这是保罗的卧室吗?(口语和书面)
+Est-ce la chambre de Paul	这是保罗的卧室吗?(书面)
+Est-ce que Paul parle français	保罗说法语吗?(口语和书面)
+Paul parle-t-il français	保罗说法语吗?(书面)(当动词主谓倒装,动词以元音字母结尾,主语以元音开头,中间要加t来连读)
+quoi	什么(句中)
+quel	哪一个=which
+où	什么地方,哪里=where
+Comment vas tu	怎么样=how
+combien	多少=how much=how many
+pourquoi	为什么=why
+Il part à trois heures	他三点钟离开。
+Il part quand	他什么时候离开?
+Quand est-ce qu'il part	他什么时候离开?(Que+il变为qu'il)
+Quand part-il	他什么时候离开?(主谓倒装句)
+Il part à quelle heure	他几点钟离开?
+À quelle heure est-ce qu'il part	他几点钟离开?(à quelle heure+est-ce que+陈述句)
+À quelle heure part-il	他几点钟离开?(à quelle heure+主谓倒装句)
+Je fais mes devoirs	我做作业。
+Tu fais quoi	你在做什么?
+Qu'est-ce que tu fais	你在做什么?(Que+est-ce que变为qu'est-ce que)
+Que fais-tu	你在做什么?(主谓倒装句)
+Tu fais quoi à Londres	你在伦敦做什么?
+Tu pars quand	你什么时候出发?
+Qu'est-ce que tu fais à Londres	你在伦敦做什么?
+Quand est-ce que tu pars	你什么时候出发?
+Que fais-tu à Londres	你在伦敦做什么?
+Quand pars-tu	你什么时候出发?
+Est-ce qu'elles travaillent à Londres	他们在伦敦工作吗?
+Comment est-ce qu'il va au bureau	他怎么去办公室?
+Travaille-t-il à Londres	他在伦敦工作吗?(当动词主谓倒装,动词以元音字母结尾,主语以元音开头,中间要加t来连读)
+Comment va-t-elle au bureau	她怎么去办公室?(当动词主谓倒装,动词以元音字母结尾,主语以元音开头,中间要加t来连读)
+Isabelle travaille-t-elle à Londres	伊莎贝尔在伦敦工作吗?(主语为名词时,主谓倒装)
+Comment Farid va-t-il au bureau	法里德怎么去办公室?
+faire	“做;干;进行”
+C'est la chambre de Paul	这是保罗的卧室?(口语)
+Paul parle français	保罗说法语?(口语)
+qui	谁pron.
+que	什么pron.interr.
+quand	什么时候(adv.interr.)
+à quelle heure	在几点钟?
+Tu travailles où	你在哪里工作?(陈述句+疑问词)
+Où est-ce que tu travailles	你在哪里工作?(疑问词+est-ce que+陈述句)
+Où travailles-tu	你在哪里工作?(疑问词+主谓倒装句)
