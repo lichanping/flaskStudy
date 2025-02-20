@@ -1146,7 +1146,6 @@ objet	物体;物品,东西n.m.
 ordinateur	电脑n.m.
 pièce	房间n.f.
 porte	戴,带,穿;门n.f.
-que	什么pron.interr.
 sac	包n.m.
 Le chat est sous la table	猫在桌子下面。
 Le livre est sur l'étagère	书在书架上。
@@ -1193,7 +1192,6 @@ lait	牛奶,奶
 frigo	冰箱
 une cuisine	一个厨房
 Où est la cuisine	厨房在哪里?
-bain	洗澡,沐浴
 Une salle de bain	一个浴室
 un sel	一份盐
 Trop de sel	太多盐
@@ -1527,3 +1525,12 @@ clé	钥匙
 voici	这是,这儿是,这就是prep
 adresse	地址,住址n.f.
 billet	票,入场券,门票,(车、船)票; 张
+le soir	在晚上
+d'habitude	通常
+faire du sport	进行体育锻炼
+le matin	在早上
+fais	做,办
+toujours	还,一直,总是
+faites	做
+que	什么pron.interr.; 什么,的
+bain	洗澡,沐浴
