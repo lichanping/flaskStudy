@@ -1,5 +1,6 @@
 class LearnWords {
-    static async readText(fileName) {
+    // 注释掉原readText方法，改用IndexedDB方案
+    /* static async readText(fileName) {
         // 从 sessionStorage 中获取 studentName
         let studentName = sessionStorage.getItem('studentName');
         // 判断 studentName 是否为 null 或空值
@@ -40,7 +41,7 @@ class LearnWords {
             console.log(JSON.stringify(data));
             return data;
         }
-    }
+    } */
 
     static shuffleArray(array) {
         for (let i = array.length - 1; i > 0; i--) {
@@ -246,11 +247,11 @@ export function handleSwitchStudentClick() {
                 alert(`您输入的学生姓名是: ${student.name}`);
             } else {
                 // Handle the case where no matching student was found
-                alert('未找到匹配的学生姓名。请确保姓名正确并用“-”分隔不同的名字。');
+                alert('未找到匹配的学生姓名。请确保姓名正确并用"-"分隔不同的名字。');
             }
         } else {
             // Handle the case where no input was entered
-            alert('您没有输入学生姓名和密码，以-分割。');
+            alert('您没有输入学生姓名和密码，以"-"分割。');
         }
     }
 }
@@ -332,7 +333,7 @@ export async function renderQuestion() {
         const spellingInput = document.getElementById('spellingInput');
         spellingInput.value = '';
         spellingInput.style.backgroundColor = '';
-        const globalWordsData = await LearnWords.readText(fileName);
+        const globalWordsData = await getWordData();
         const fileCountLabel = document.getElementById('fileCountLabel');
         fileCountLabel.textContent = `（${globalWordsData.length}个）`;
 
@@ -551,12 +552,91 @@ function triggerAnimation() {
 }
 
 
-function clearCachedData() {
+// 初始化IndexedDB
+const DB_NAME = 'WordCacheDB';
+const STORE_NAME = 'wordData';
+const DB_VERSION = 1;
+
+async function initDB() {
+    return new Promise((resolve, reject) => {
+        const request = indexedDB.open(DB_NAME, DB_VERSION);
+        
+        request.onupgradeneeded = (event) => {
+            const db = event.target.result;
+            if (!db.objectStoreNames.contains(STORE_NAME)) {
+                db.createObjectStore(STORE_NAME, { keyPath: 'filePath' });
+            }
+        };
+
+        request.onsuccess = (event) => resolve(event.target.result);
+        request.onerror = (event) => reject(event.target.error);
+    });
+}
+
+// 修改后的数据获取逻辑
+async function getWordData() {
     const fileName = document.getElementById("file").value + ".txt";
-    // 从 sessionStorage 获取学生姓名，如果为空则使用默认值
     const studentName = sessionStorage.getItem('studentName') || '法语';
-    const filePath = `data/review/${studentName}/${fileName}`; // Adjust the file name accordingly
-    localStorage.removeItem(filePath); // Remove cached data
+    const filePath = `data/review/${studentName}/${fileName}`;
+    
+    console.log('当前请求文件路径:', filePath); // 新增日志
+
+    try {
+        const db = await initDB();
+        const tx = db.transaction(STORE_NAME, 'readonly');
+        const store = tx.objectStore(STORE_NAME);
+        
+        // 打印所有存储的key
+        const allKeys = await store.getAllKeys();
+        console.log('IndexedDB现有缓存key列表:', allKeys); // 新增日志
+
+        const request = store.get(filePath);
+        const cachedData = await new Promise((resolve, reject) => {
+            request.onsuccess = () => {
+                console.log('缓存查询结果:', request.result); // 新增日志
+                resolve(request.result?.data)
+            };
+            request.onerror = () => reject(request.error);
+        });
+
+        if (cachedData) {
+            console.log(`使用缓存数据，路径: ${filePath}，数据量: ${cachedData.length}条`);
+            return cachedData;
+        }
+
+        // 新增未命中缓存的日志
+        console.warn(`未找到缓存，开始获取新数据: ${filePath}`);
+        const response = await fetch(filePath);
+        const text = await response.text();
+        const data = processText(text);
+
+        // 存储时添加日志
+        const writeTx = db.transaction(STORE_NAME, 'readwrite');
+        writeTx.oncomplete = () => console.log(`数据存储完成: ${filePath}`);
+        const writeStore = writeTx.objectStore(STORE_NAME);
+        writeStore.put({ filePath, data });
+        
+        return data;
+    } catch (error) {
+        console.error('IndexedDB操作失败:', error);
+        throw error;
+    }
+}
+
+// 清理缓存方法修改
+async function clearCachedData() {
+    const fileName = document.getElementById("file").value + ".txt";
+    const studentName = sessionStorage.getItem('studentName') || '法语';
+    const filePath = `data/review/${studentName}/${fileName}`;
+
+    try {
+        const db = await initDB();
+        const tx = db.transaction(STORE_NAME, 'readwrite');
+        const store = tx.objectStore(STORE_NAME);
+        store.delete(filePath);
+    } catch (error) {
+        console.error('缓存清理失败:', error);
+    }
 }
 
 // Call the function to clear cached data when the page loads
@@ -599,4 +679,30 @@ function displayToast(message) {
     setTimeout(() => {
         toast.remove();
     }, 5000);
+}
+
+function processText(text) {
+    const data = [];
+    const pattern = /^([a-zA-ZéèêëîïùûüàâäôöçœÉÇÀ\'\s\-\.\/\?\？，,0-9]+)\s*(.*)$/;
+    const encounteredWords = new Set();
+    
+    text.split('\n').forEach(line => {
+        const match = line.trim().match(pattern);
+        if (match) {
+            let [_, englishWord, translation] = match;
+            englishWord = englishWord.trim();
+            if (englishWord && translation) {
+                if (!encounteredWords.has(englishWord)) {
+                    encounteredWords.add(englishWord);
+                    data.push({ "单词": englishWord, "释意": translation });
+                }
+            }
+        }
+    });
+    
+    return data;
+}
+
+if (!('indexedDB' in window)) {
+    alert("当前浏览器不支持IndexedDB，请使用Chrome 23+/Firefox 10+/Safari 8+");
 }
