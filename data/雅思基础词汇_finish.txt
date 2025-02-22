@@ -862,3 +862,53 @@ occupation	(n.) 职业 ，工作
 deposit	(v.) 沉淀；   n. 定金
 series	(n.) 系列 ，系列节目
 passive	"adj. 被动的；消极的；   n. 被动语态"
+deep	"adj. 深的；深刻的 ，深切 的；有 … …深的"
+call	"v. 打电话给 … ；把 … … 叫 作；召唤，  呼唤，  呼吁"
+golf	(n.) 高尔夫球运动 ﬂow	"n. 流动；   v. 流动； （人， 物）涌向 ，涌进"
+frog	(n.) 青蛙
+limited	(adj.) 有限的；被限制的
+lawyer	(n.) 律师
+touch	"v. 触 ，碰 ，摸；感动 ，触 动；   n. 联系；触觉"
+win	(v.) 赢得； （获）胜
+playground	"n. 操场 ，游乐区，（学校或 公园中的）游戏场"
+danger	"n. 危险 ，风险 ，危险的物 （或人）"
+topic	(n.) 话题 ，主题
+straight	(adj.) 直的
+protect	(v.) 保护
+spice	(n.) 香料 ，调味品
+card	(n.) 卡 ，卡片 ，贺卡 ，名片
+taste	"n. 品味；   v. 品尝，  尝（ ...... 的味道），  尝起来；体验 …"
+prevent	(v.) 预防
+painter	(n.) 画家
+forget	(v.) 忘记 ，遗忘
+fact	(n.) 事实 ，现实
+blood	(n.) 血（液）
+motorbike	(n.) 摩托车
+fix	"v. 修理；使固定；解决；确 定"
+comfortable	(adj.) 舒适的
+tear	"v. 撕裂 ，撕碎（读作/ter/ ）   ；   n. 眼泪（读作/tɪr/）"
+season	"n. 季（节）   ；季（电视或电 影节目）"
+roof	(n.) 屋顶
+trip	(n.) 旅行，  出行 ，远足
+couple	"n. 几个（人或事物）   ；夫 妇；   v. 配对 ，连接 ，结合"
+mirror	(n.) 镜子；   v. 反射 ，反映
+electricity	(n.) 电，   电力
+salad	"n.   （ 生吃的）蔬菜色拉 ，沙 拉"
+blanket	(n.) 毯子
+swimming	(n.) （ swim的ing形式）游泳
+bookshop	(n.) 书店
+challenge	(n.) 挑战；   vt. 挑战
+memory	"n. 记忆；  回忆；记忆力 ，记 性"
+calendar	(n.) 日历 ，挂历
+brake	(vi.) 刹车；   n. 刹车，  闸
+stuff	(n.) 东西
+temporary	(adj.) 临时的；暂时的
+expert	(n.) 专家
+landscape	(n.) 风景 ，景观
+leisure	(n.) 闲暇 ，休闲
+require	(v.) 需要；要求 ，规定
+spectacular	(adj.) 壮观的，  引人入胜的
+opposite	(adj.) 相反的
+accommodation	(n.) 住宿 ，膳宿
+economics	(n.) 经济学；经济情况
+earn	(v.) 挣得 ，挣钱；赚得；赢得

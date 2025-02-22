@@ -2571,3 +2571,53 @@ Non,non,j'y vais à pied	不,不,我走路去
 Alors,passez par là	那么,从那边走
 traverser	穿过v.穿越
 un vélo libre	公共自行车
+Traversez le boulevard Haussmann et prenez la rue Scribe en face de vous	横穿奥斯曼大道,然后走对面的斯克里布街
+Tournez à gauche dans la rue Auber	在奥贝尔街左转
+devant l'Opéra	在歌剧院前
+place de l'Opéra	歌剧院广场
+Passez devant la poste et la banque et vous arrivez place de l'Opéra	经过邮局和银行,您就到了歌剧院广场
+jusqu'au bout	一直走到尽头
+Ensuite,prenez la grande avenue en face et continuez tout droit,jusqu'au bout	然后,走对面的大街,一直走到尽头
+Et après	然后呢?
+Traversez la rue de Rivoli et entrez dans la cour du Louvre	横穿里沃利街,进入卢浮宫的院子
+le jardin des Tuileries	杜伊勒里花园
+À droite,vous avez le jardin des Tuileries et à gauche le Louvre	右边是杜伊勒里花园,左边是卢浮宫
+L'entrée du musée est sous la Pyramide	博物馆的入口在金字塔下
+Les Vélib',c'est où	自行车租赁点在哪里?
+sous	在...下面=under
+mille	一千
+l'année deux mille vingt-cinq	"2025年"
+air conditionné	空调(air  空气n.m.+conditionné  可调节的)
+le bar	(这个酒吧)  酒吧n.m.
+Bon voyage	旅途愉快(bon  好adj.阳性+voyage  旅行n.m.)
+Bon week-end	周末愉快(bon  好adj.阳性+week-end  周末n.m.)
+Bonne journée	祝你一天愉快(bonne  好adj.阴性+journée  白天n.f.)
+Bonne semaine	祝你一周愉快(bonne  好adj.阴性+semaine  周n.f.)
+Bonne année	新年快乐(bonne  好adj.阴性+année  年n.f.)
+au bord de	在......边上
+au bord de la mer	在海边(mer  大海n.f.)
+carte	卡片n.f.;地图n.f.
+la carte de la France	法国地图
+un circuit	一条旅游线路(circuit  环形n.m.)
+la différence	差别n.f.;不同n.f.
+hélicoptère	直升飞机n.m.
+jour	日子,天n.m.
+juste	正好adv.;恰巧
+parfait	完美的adj.(阳性)
+parfaite	完美的adj.阴性
+C'est parfait	这太完美了。
+partir	离开v.出发
+Je pars	我出发了。
+Tu pars	你出发了。
+Il part	他出发了。
+Elle part	她出发了。
+Nous partons	我们出发了。
+Vous partez	你们出发了。
+le boulevard	大道
+la cour	院子n.f.
+Bonne route	一路平安(bonne  好adj.阴性+route  路n.f.)(route=road)
+bord	边n.m.边缘;岸边
+mer	大海n.f.
+au bord de la plage	在海滩边(plage  海滩n.f.)
+conceil	建议n.m.;劝告n.m.
+île	岛n.f.
