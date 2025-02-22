@@ -812,3 +812,53 @@ registration	(n.) 登记 ，注册 ，挂号
 crossing	(n.) 人行横道
 charity	"n. 慈善；慈善机构（或组 织）"
 repair	(v.) 修理；   n. 维修
+equal	"adj. 平等的；相同的；相等 的；   v. 导致"
+photography	(n.) 摄影 ，摄影术
+wet	(adj.) 湿的
+record	"v. 记录（读作/rɪˈkɔrd/）； 录制；   n. 记录；最好成绩"
+activity	(n.) 活动
+island	(n.) 岛，  岛屿
+college	(n.) 大学
+decide	(v.) 决定；判决
+climb	"v. 攀登 ，爬；上升 ，增长； (n.) 攀爬"
+pass	"v. 给 ，传递；经过 ，度过； （时间）流逝；通过；走 …"
+shoot	"v.   （使朝某方向）  冲 ，奔， 扑 ，射 ，飞驰；射门"
+cream	(n.) 奶油 ，乳脂
+video	(n.) 视频 ，录像
+promote	"v. 促进；宣传；提升 ，升 级；推动"
+invitation	(n.) 邀请
+advise	(v.) 建议
+mistake	(n.) 错误 ，过失
+paragraph	(n.) （文章的）段 ，节；段落
+check	"v. 检查；核查；   n. 检查； 阻止"
+cover	(v.) 覆盖；   n. 封面
+smooth	(adj.) 平稳的
+population	(n.) （地区 、国家等的）  人口
+government	(n.) 政府
+weekday	(n.) 工作日 ，平日
+contact	"v. 联系；   n. 接触；联系， 联络；  隐形眼镜"
+voice	(n.) 声音
+style	(n.) 风格；方式 ，特点
+marriage	(n.) 婚姻
+order	"v. 订购；点（食物 、饮 料）   ；命令；   n. 订单；  …"
+crime	(n.) 犯罪活动
+expect	"v. 期望；预计 ，预料 ，预 期 ；猜想 ，认为 ，料想；  …"
+magnificent	"adj. 宏伟的 ，壮丽的 ，极好 的"
+persuade	(v.) 说服
+equipment	(n.) 设备 ，器材
+creature	(n.) 生物；人
+essay	(n.) 文章 ，短文；论文
+freezer	(n.) 冷冻室
+trumpet	(n.) 喇叭 ，小号
+coast	(n.) 海岸 ，海滨
+wheelchair	(n.) 轮椅
+interval	(n.) 音程
+petrol	(n.) <英>汽油
+typical	(adj.) 典型的 ，有代表性的
+goods	(n.) 货物 ，商品
+documentary	(n.) 纪录片
+shore	(n.) 岸
+occupation	(n.) 职业 ，工作
+deposit	(v.) 沉淀；   n. 定金
+series	(n.) 系列 ，系列节目
+passive	"adj. 被动的；消极的；   n. 被动语态"
