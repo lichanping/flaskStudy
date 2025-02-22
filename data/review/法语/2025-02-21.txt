@@ -1,3 +1,5 @@
+traverser	穿过v.穿越
+un vélo libre	公共自行车
 Elle ouvre le placard et y met la robe	她打开橱柜,把裙子放进去。(y=dans le placard,上文提到的地方,作副代词)
 Vous habitez en banlieu	你住在郊区吗?
 Après vous	您先请
