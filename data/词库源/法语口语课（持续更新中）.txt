@@ -143,7 +143,6 @@ qui s'appelle la galette des rois	关系从句,用来修饰先行词 “gâteau�
 des	一些(复数)(de + les = des)
 la galette des rois	国王蛋糕
 En France, en janvier, on mange un gâteau spécial qui s'appelle la galette des rois	在法国,一月份,我们吃一种特别的蛋糕,叫做国王蛋糕。
-déjà	已经
 mangé	吃(manger的过去分词)(与 “as” 一起构成复合过去时,表示 “吃过” 。)
 Tu as déjà mangé	你已经吃过(“avoir déjà + 过去分词” 构成复合过去时的一种形式,“déjà” 表示 “已经” )
 Tu as déjà mangé de la galette des rois	你吃过国王蛋糕了吗?
@@ -181,7 +180,6 @@ Qu'est-ce que tu vas faire pendant les vacances	你放假时要做什么?
 Je vais avoir des cours de maths, de français et de physique	我将要上数学、法语和物理课。
 Je vais voyager avec mes grands-parents	我将和我的祖父母一起旅行。
 Vous allez aller où	你们要去哪里?
-On ne sait pas encore	我们还不知道。
 restent	停留,留下;保持(rester的第三人称复数形式)
 Tes parents restent à Shanghaï	你的父母在上海。
 terminée	结束了(过去分词)(与 “la leçon” 一起构成动词短语,表示 “课程结束了” )
@@ -382,13 +380,11 @@ pendant	在...期间; 在......期间
 faire	做; 做(原形)
 J'apprends le français parce que je voudrais faire mes études en France	我在学法语,因为我想在法国学习。; 我学习法语是因为我想在法国读书。
 pleuvoir	下雨(动词); 下雨(动词原形)
-il pleut	下雨(动词)(其中 “il” 是无人称主语,表示天气,“pleut” 是动词 “pleuvoir(下雨)” 的第三人称单数变位形式); :意思是“下雨”,动词 pleuvoir 的第三人称单数形式,专用于描述天气。
 Tu fais	你做
 Il fait	他做
 Nous faisons	我们做
 Vous faites	你们做
 Ils font	他们做
-fait	是动词 faire(做)的 过去分词,用于复合时态,表示“做了”。(原形:faire)
 rester	剩下; 原形,意为“留下,待在”
 Mille	千
 Samedi 25 janvier 2025	“2025 年 1 月 25 日,星期六”
@@ -784,7 +780,6 @@ Il connaît	他了解
 Nous connaissons	我们了解
 Vous connaissez	你们了解
 Ils connaissent	他们了解
-du poisson	一些鱼(部分冠词 “du” 是由定冠词 “le” 和介词 “de” 缩合而成,表示不可数名词的部分,不是在强调具体有几条鱼,而是泛指吃了一些鱼肉或者一些鱼的部分)
 j'ai mangé du poisson	我吃了鱼(“mangé” 是 “manger” 的过去分词,构成复合过去时,表示动作在过去已经完成)
 le plat	菜,餐(阳性名词)
 le plus connu	最有名的(plus:副词 “更” 的最高级形式)
@@ -818,7 +813,6 @@ les vacances	假期(阴性名词)
 J'adore les vacances	我喜欢假期
 l'école	学校(阴性名词)
 J'aime beaucoup l'école	我很喜欢学校
-Hier	昨天(副词)
 après le cours	下课后,上完课后
 Hier, après le cours, je suis allé voir un biopic	昨天,下课后,我去看了一部传记片("allé" 是动词 "aller" 的过去分词,表示“去”。)
 un biopic	传记片(biography picture的缩写)
@@ -1029,7 +1023,6 @@ Ils mettent	他们花费
 J'ai mis	我花费(mettre 动词的过去式,用来表示花费时间)
 J'ai mis 1h30 de train	我坐了一个半小时的火车
 Je suis allée à l'hôpital ce matin	今天早上我去了医院
-des nouilles	面条(阴性)=noodles(英语)
 J'ai mangé des nouilles avec mon père	我和我爸爸一起吃了面条
 Pas cher	不贵的(阳性)
 le coiffeur	理发师(阳性)
@@ -1056,7 +1049,6 @@ Vous entendez	你们听到
 Ils entendent	他们听到
 ventre	是“肚子”(阳性名词); 肚子、腹部(阳性)
 avoir mal aux dents	牙疼
-la tête	是“头”(阴性名词)
 avoir mal à la tête	头疼
 avoir mal au ventre	肚子疼
 dehors	副词,意为 “在外面”,在这里作地点状语,表明吃饭的地点。; 外面(副词)
@@ -1131,7 +1123,6 @@ J'ai dit à la mère de Camille que Camille prononçait bien le français	我告
 T'écoutes fort dis donc	你听得好大声啊,真夸张。
 toi tu écoutes fort la musique	你听音乐声音很大吗?
 te déranger	打扰你打扰=to bother
-les gens	人们(“gens”是名词,表示“人”,“les”是定冠词)
 des popcorn	爆米花(名词)
 quand je vais au cinéma, les gens qui mangent des popcorn ça me dérange	当我去电影院时,吃爆米花的人会打扰到我
 moi ça ne me dérange pas	我倒是不介意
@@ -1169,10 +1160,335 @@ Le chanteur s'appelle Lescot	这位歌手叫Lescot。
 Son nouvel album s'appelle After Parti	他的新专辑叫《After Parti》。
 Une des chansons de l'album s'appelle Les garçons	专辑中的一首歌叫《Les garçons》。
 Un chanteur chinois qui s'appelle	华晨宇,一个叫华晨宇的中国歌手。
-encore	还(副词); 副词,此处表示 “还,仍然” =英语的yet
 l'histoire	表示 “故事” ,定冠词 “l'” 是 “le” 或 “la” 在以元音或哑音 h 开头的名词前的缩合形式,在这里特指这个特定的故事。; 故事(阴性名词)
 raconte	动词 raconter 的直陈式现在时第三人称单数“讲述,叙述”
 détester	讨厌; 恨(动词原形,表示“恨”或“憎恨”,语气通常比“haïr”稍轻)
 Je vais bien	我很好
 vraiment	真的(副词);确实; 真的(副词,表示“真正地”或“确实”)
 Il écrit son journal et nous on lit avec lui son journal	他写日记,我们和他一起读他的日记。
+Samedi 22 février 2025	"2025年2月22日,星期六"
+Il en reste 8	"还剩下8个"
+Tu as des questions	"你有问题吗?"
+Pour étudier	"为了学习?"
+Pour lire des livres	"为了读书"
+Tu sais quand est l'examen DELF A2	"你知道DELF A2考试是什么时候吗?"
+C'est en mai mais je ne sais pas quel jour	"是在5月,但我不知道具体哪一天。"
+VRAI	“真的”,形容词
+FAUX	“假的”,形容词
+la cuisine française	“法国菜” - 名词
+une des	“其中之一” - 代词
+meilleures	“最好的” - 形容词
+cuisines	“菜系” - 名词
+au monde	“在世界上” - 介词短语
+la cuisine française est une des trois meilleures cuisines au monde	“法国菜是世界上最优秀的三种菜系之一” - VRAI
+le canard laqué	“烤鸭” - 名词
+spécialité	“特色菜” - 名词
+le canard laqué est une spécialité française	“烤鸭是一道法国特色菜” - FAUX
+Emmanuel Macron	“埃马纽埃尔·马克龙” - 专有名词(人名)
+le nom	“名字” - 名词
+un dessert	甜点
+le Emmanuel Macron c'est le nom d'un dessert en France	“Emmanuel Macron是法国一种甜点的名字” - FAUX
+Le macaron	“马卡龙” - 名词
+le poisson	“鱼” - 名词
+souvent	“经常” - 副词
+servir	“上桌,服务” - 动词
+Je sers	“我上桌,我服务”
+Tu sers	“你上桌,你服务”
+Il sert	“他上桌,他服务”
+On sert	“人们上桌,人们服务”
+Nous servons	“我们上桌,我们服务”
+Vous servez	“你们上桌,你们服务”
+Ils servent	“他们上桌,他们服务”
+servi	“被上桌” - 动词过去分词
+entier	“整条的” - 形容词
+symboliser	“象征” - 动词
+la prospérité	“繁荣” - 名词
+En Chine, le poisson est souvent servi entier pour symboliser la prospérité	“在中国,鱼通常被整条上桌,象征着繁荣。” - VRAI
+une boisson	“饮料” - 名词
+Le champignon c'est le nom d'une boisson française	“蘑菇是法国一种饮料的名字。” - FAUX
+un champignon	“一个蘑菇” - 名词
+n'ai	“没有” - 助动词avoir的否定形式
+jamais	“从未” - 副词
+Je n'ai jamais bu de champagne	“我从未喝过香槟”(bu“喝” - 动词boire的过去分词 )
+du vin	“葡萄酒” - 名词(du“一些” - 缩合冠词(de + le))
+j'ai déjà bu du vin rouge	“我已经喝过红葡萄酒”
+j'aime beaucoup ça	“我非常喜欢它”
+Je n'ai jamais bu de champagne mais j'ai déjà bu du vin rouge et j'aime beaucoup ça	我从未喝过香槟,但已经喝过红葡萄酒,而且非常喜欢它。
+Je bois	“我喝”
+Tu bois	“你喝”
+Il boit	“他喝”
+On boit	“人们喝”
+Nous buvons	“我们喝”
+Vous buvez	“你们喝”
+Ils boivent	“他们喝”
+j'ai bu	“我已经喝了”
+tu as bu	“你已经喝了”
+il a bu	“他已经喝了”
+nous avons bu	“我们已经喝了”
+vous avez bu	“你们已经喝了”
+ils ont bu	“他们已经喝了”
+au petit déjeuner	“在早餐时”
+au boeuf	“牛肉的”
+En France, au petit déjeuner on mange des nouilles au boeuf	“在法国,早餐时人们吃牛肉面” - FAUX
+On mange du pain et de la confiture	“人们吃面包和果酱”
+épicé	辣的
+La cuisine française est la cuisine la plus épicée d'Europe	“法国菜是欧洲最辣的菜系” - FAUX
+est réputée	“以......闻名”
+sa variété	“其种类”
+La France est réputée pour sa variété de fromages	“法国以其丰富的奶酪种类而闻名” - VRAI
+longue tradition	“悠久的传统”
+de cuisine	“烹饪的”
+à la vapeur	“用蒸汽”
+La Chine a une longue tradition de cuisine à la vapeur	“中国有一个悠久的蒸菜传统” - VRAI
+Les escargots	“蜗牛”
+sont souvent mangés	“经常被食用”
+Les escargots sont souvent mangés en Chine	“蜗牛在中国经常被食用” - FAUX
+En France, on mange des escargots	“在法国,人们吃蜗牛。”
+La baguette magique	“魔法棒”
+un ustensile traditionnel	“一种传统工具”
+La baguette magique est un ustensile traditionnel en Chine	“魔法棒是中国的一种传统工具。” - FAUX
+Le pain	“面包”
+La baguette	“法棍面包”
+le plus grand consommateur	“最大的消费国”
+de vin rouge	“红葡萄酒”
+La Chine est le plus grand consommateur de vin rouge au monde	“中国是全球最大的红葡萄酒消费国”
+en volume	“按体积”-Vrai
+en vin rouge consommé par habitant	“人均红葡萄酒消费量”-Faux
+Les Français	“法国人”
+ne mangent pas	“不吃”
+de porc	“猪肉”
+Les Français ne mangent pas de porc	“法国人不吃猪肉” - FAUX
+une porcherie	“猪圈(猪居住的地方)”
+là où habitent les porcs	“猪居住的地方”
+Luc, ta chambre est une porcherie	“Luc,你的房间就像猪圈一样。”
+dix fois plus de	“十倍的......”
+que de	“比......”
+Il y a dix fois plus de porcs en Chine que de Chinois	“中国的猪的数量是中国人数量的十倍” - FAUX
+La soupe	“汤”
+est souvent servie	“通常被上桌”
+à la fin des repas chinois	“在中国餐的最后”
+pour aider à la digestion	“以帮助消化”
+La soupe est souvent servie à la fin des repas chinois pour aider à la digestion	“汤通常在中国餐的最后上桌,以帮助消化” - VRAI
+la soupe	“汤”
+au début	“在开始时”
+En France, on mange la soupe au début	“在法国,人们在用餐开始时喝汤。”
+La consommation	“消费,食用”
+de chiens et de chats	“狗和猫”
+feminine form of courant	“courant的阴性形式”
+courante	“常见的”(形容词, feminine form of courant)
+n'est pas courante	“并不常见”
+La consommation de chiens et de chats n'est pas courante en Chine	“在中国,吃狗肉和猫肉并不常见” - VRAI
+Du cheval	“马肉”
+Du lapin	“兔肉”
+Du rat en Afrique	“鼠肉(在非洲)”
+Les Français mangent tous les matins des croissants au petit-déjeuner	“法国人每天早上都吃羊角面包当早餐” - FAUX
+un peu cher	“有点贵”
+grossir	“变胖”-动词
+c'est un peu cher, ça fait grossir	“它有点贵,而且会让人发胖。”
+des grenouilles	“青蛙”
+Les Français mangent très souvent des grenouilles	“法国人经常吃青蛙” - FAUX
+Tous les plats chinois	“所有中国菜”
+contiennent	“含有”(contenir 的第三人称复数现在时)
+Tous les plats chinois contiennent du poisson	“所有中国菜都含有鱼” - FAUX
+Tous les Chinois mangent tous les jours du tofu	“所有中国人都每天吃豆腐” - FAUX
+du foie gras	“鹅肝”
+à tous les repas	“在每顿饭”
+Les Français mangent du foie gras à tous les repas	“法国人在每顿饭都吃鹅肝” - FAUX
+boivent	“喝”
+Les Français boivent du champagne en mangeant	“法国人在吃饭时喝香槟”
+ont inventé	“发明了”
+une danse spéciale	“一种特殊舞蹈”
+appelée	“名为”
+la danse du croissant	“羊角面包舞”
+pour célébrer	“为了庆祝”
+Les Français ont inventé une danse spéciale appelée	"la danse du croissant" pour célébrer le petit-déjeuner “法国人发明了一种名为‘羊角面包舞’的特殊舞蹈来庆祝早餐”
+il est considéré comme impoli	“被认为不礼貌”
+de finir tous les plats à la fin d'un repas	“在饭局结束时吃完所有菜肴”
+car cela peut signifier	“因为这可能意味着”
+signifier que	:短语,意为“意味着......”,后面通常跟从句,表示具体的意思或结果。
+l'hôte	“主人”
+n'a pas préparé	“没有准备”
+assez	形容词或副词,意为“足够的”或“足够地”。
+nourriture	“食物”
+assez de nourriture	“足够的食物”
+que l'hôte n'a pas préparé assez de nourriture	“主人没有准备足够的食物”
+En Chine, il est considéré comme impoli de finir tous les plats à la fin d'un repas, car cela peut signifier que l'hôte n'a pas préparé assez de nourriture	“在中国,吃完所有菜肴被认为是一种不礼貌的行为,因为这可能意味着主人没有准备足够的食物”
+ont une fête nationale	“有一个国庆节”
+dédicée	“专门的;奉献于”(形容词),动词 dédié 的过去分词形式
+dédicée au fromage	“专门庆祝奶酪的”
+défilent	“游行;列队行进”(动词défiler的第三人称复数现在时)
+Je défile	“我游行”
+Tu défiles	“你游行”
+Il défile	“他游行”
+Nous défilons	“我们游行”
+Vous défilez	“你们游行”
+Ils défilent	“他们游行”
+où les gens défilent	“人们游行”
+avec des fromages sur la tête	“头顶奶酪”
+Les Français ont une fête nationale dédiée au fromage, où les gens défilent avec des fromages sur la tête	“法国人有一个专门庆祝奶酪的国庆节,在这个节日里,人们头顶奶酪游行”
+il est courant	“这是常见的”
+de servir	“提供”
+des plats de tofu	“豆腐菜肴”
+lors	“在......的时候”
+lors des mariages	“在婚礼上”
+En Chine, il est courant de servir des plats de tofu lors des mariages	“在中国,婚礼上提供豆腐菜肴是很常见的”
+disent	“说”,法语动词 dire(意为“说”或“讲”)的第三人称复数现在时
+la meilleure façon	“最好的方法”
+de couper	“切”
+un baguette	“一根法棍”
+avec les mains	“用手”
+Les Français disent que la meilleure façon de couper un baguette c'est avec les mains	“法国人说,切法棍最好的方法是用手”
+le vin rouge	“红葡萄酒”
+Les Français disent que le vin rouge c'est bon par la santé	“法国人说红葡萄酒对健康有益” - 这句话的表达有误,正确的说法应该是“对健康有好处”(pour la santé),而不是“par la santé”。
+manger du poisson entier	“吃整条鱼”
+pendant le Nouvel An chinois	“在春节期间”
+apportera une bonne année	“会带来好运”
+En Chine, certains croient que manger du poisson entier pendant le Nouvel An chinois apportera une bonne année	“在中国,有些人相信在春节期间吃整条鱼会带来好运。”
+mangent souvent	“经常吃”
+des insectes	“昆虫”
+Les Chinois mangent souvent des insectes	“中国人经常吃昆虫。”
+pensent	“认为”
+le repas le plus important	“最重要的一餐”
+de la journée	“一天中”
+Les Français pensent que le petit déjeuner est le repas le plus important de la journée	“法国人认为早餐是一天中最重要的一餐。”
+manger des œufs de cent ans	“吃皮蛋”
+prolonge la vie	“可以延年益寿”
+En Chine, certains croient que manger des œufs de cent ans prolonge la vie	“在中国,有些人相信吃皮蛋可以延年益寿。”
+on partage	“人们共享”
+les plats	“菜肴”
+En Chine on partage les plats	“在中国,人们共享菜肴。”
+les repas copieux et longs	“丰盛而漫长的餐食”
+Les Français aiment les repas copieux et longs	“法国人喜欢丰盛而漫长的餐食。”
+préfèrent	“更喜欢”(动词préférer的第三人称复数现在时)
+au thé	“而不是茶”
+Les Français préfèrent le café au thé	“法国人更喜欢咖啡而不是茶。”
+la fondue chinoise	“火锅”
+est populaire	“很受欢迎”
+en hiver	“在冬季”
+En Chine, la fondue chinoise est populaire en hiver	“在中国,冬季火锅很受欢迎。”
+ont l'habitude	“习惯”
+de prendre du temps	“花时间”
+pour déjeuner	“吃午餐”
+Les Français ont l'habitude de prendre du temps pour déjeuner	“法国人习惯花时间吃午餐。”
+certains pensent	“有些人认为”
+manger des graines de lotus	“吃莲子”
+En Chine, certains pensent que manger des graines de lotus c'est bon pour la santé	“在中国,有些人认为吃莲子对健康有益。”
+du pain et du vin	“面包和葡萄酒”
+pendant les repas	“在用餐时”
+Les Français prennent souvent du pain et du vin pendant les repas	“法国人经常在用餐时吃面包和喝葡萄酒。”
+le Nouvel An	“春节”
+est célébré	“被庆祝”
+avec des plats spéciaux	“用特色菜肴”
+En Chine, le Nouvel An est célébré avec des plats spéciaux	“在中国,春节会用特色菜肴来庆祝。”
+le vin blanc	“白葡萄酒”
+est le meilleur accompagnement	“是最佳搭配”
+pour les fruits de mer	“对海鲜”
+Les Français pensent que le vin blanc est le meilleur accompagnement pour les fruits de mer	“法国人认为白葡萄酒是海鲜的最佳搭配。”
+croient	“相信”
+manger des escargots	“吃蜗牛”
+apporte de la chance	“可以带来好运”
+Les Français croient que manger des escargots apporte de la chance	“法国人相信吃蜗牛可以带来好运。”
+les pique-niques	“野餐”
+avec du fromage et du vin	“搭配奶酪和葡萄酒”
+Les Français aiment les pique-niques avec du fromage et du vin	“法国人喜欢搭配奶酪和葡萄酒的野餐。”
+la fête de la mi-automne	“中秋节”
+est associée	“与......相关联”
+à la consommation de gâteaux de la lune	“食用月饼”
+En Chine, la fête de la mi-automne est associée à la consommation de gâteaux de la lune	“在中国,中秋节与食用月饼相关联。”
+doit être	“应该”
+croustillant à l'extérieur	“外皮酥脆”
+et moelleux à l'intérieur	“内部柔软”
+Les Français pensent que le pain doit être croustillant à l'extérieur et moelleux à l'intérieur	“法国人认为面包应该外皮酥脆,内部柔软。”
+de boire du thé pu-erh	“饮用普洱茶”
+après un repas copieux	“在丰盛的餐后”
+En Chine, il est de coutume de boire du thé pu-erh après un repas copieux	“在中国,习惯在丰盛的餐后饮用普洱茶。”
+est la meilleure boisson	“是最佳饮品”
+pour célébrer une victoire	“用于庆祝胜利”
+Les Français pensent que le champagne est la meilleure boisson pour célébrer une victoire	“法国人认为香槟是庆祝胜利的最佳饮品。”
+manger des pommes	“吃苹果”
+peut attirer l'amour	“可以吸引爱情”
+En Chine, certains croient que manger des pommes peut attirer l'amour	“在中国,有些人相信吃苹果可以吸引爱情。”
+il est normal	“是正常的”
+de faire du bruit avec sa bouche	“用嘴发出声响”
+En Chine, il est normal de faire du bruit avec sa bouche en mangeant	“在中国,吃饭时发出声响是正常的。”
+de donner des fruits en cadeau	“送水果作为礼物”
+En Chine, il est de coutume de donner des fruits en cadeau	“在中国,习惯送水果作为礼物。”
+attends	“等一下?”
+ça va	“你好吗?”
+il fait froid à Shanghai	“上海冷吗?”
+non il ne fait pas froid	“不冷。”
+non il ne pleut pas	“没有下雨。”
+Tu es où là	“你现在在哪里?”
+je suis chez moi	“我在家。”
+tes parents vont bien	“你父母好吗?”
+ils vont bien	“他们很好。”
+ils sont chez toi aussi	“他们也在你家吗?”
+mon père regarde la télévision, ma mère dort, elle est fatiguée	“我爸在看电视,我妈在睡觉,她累了。”
+C'était comment cette première semaine d'école	“这第一周上学怎么样?”
+C'était fatiguant	“很累人。”
+je rentre chez moi tous les soirs à 21h	“我每天晚上9点回家。”
+Pourquoi si tard	“为什么这么晚?”
+c'est la règle au lycée Ganquan pour la classe 6 et la classe 8	“这是甘泉中学6班和8班的规定。”
+intelligent	“聪明。”
+nous en classe 8 parce que l'on apprend une nouvelle langue on doit rester plus longtemps à l'école	“我们在8班,因为我们正在学习一门新语言,所以必须在学校待得更久。”
+Avant on a appris l'anglais	“以前我们学过英语。”
+mauvaise nouvelle	“坏消息”
+faux	“错的”
+Hier, mon devoir de maths était tout faux	“昨天我的数学作业全错了”
+Tes parents ont dit quoi	“你父母说了什么”
+Ils n'ont rien dit parce qu'ils ont l'habitude	“他们什么也没说,因为他们习惯了”
+avoir l'habitude	“习惯”
+j'ai l'habitude de boire du café le matin	“我习惯早上喝咖啡”
+une bonne nouvelle	“一个好消息”
+Bientôt	“很快”
+à l'école	“在学校”
+il y aura une petite fête	“会有一个小派对”
+on doit préparer	“我们要准备”
+un spectacle	“一个表演”
+Bientôt à l'école il y aura une petite fête, on doit préparer un spectacle	“学校很快会有一个小派对,我们要准备一个表演”
+5 lycéennes	“5个女高中生”
+et 1 lycéen	“和1个男高中生”
+on apprend le français	“正在学习法语”
+et on prépare ensemble	“并且一起准备”
+un spectacle en français	“一个法语表演”
+5 lycéennes et 1 lycéen on apprend le français et on prépare ensemble un spectacle en français	“5个女高中生和1个男高中生正在学习法语,我们一起准备一个法语表演”
+Tu sais ce que c'est le spectacle	“你知道表演是什么吗”
+On va raconter une histoire	“我们要讲一个故事”
+La semaine dernière	“上周”
+on n'a pas eu cours	“我们没有上课”
+je suis allé avec des amis	“我和朋友们去了”
+au musée de Metz	“梅斯博物馆”
+J'étais content	“我很高兴”
+de visiter le musée avec mes amis	“能和朋友们一起参观博物馆”
+La semaine dernière, on n'a pas eu cours parce que je suis allé avec des amis au musée de Metz, J'étais content de visiter le musée avec mes amis	“上周我们没有上课,因为我和朋友们去了梅斯博物馆。我很高兴能和朋友们一起参观博物馆”
+je suis rentré à Paris	“我回到了巴黎”
+les vacances c'est fini	“假期结束了”
+Mardi, je suis rentré à Paris, les vacances c'est fini	“周二,我回到了巴黎,假期结束了”
+je suis allé	“我去了”
+dans un très bon restaurant chinois	“一家很棒的中餐馆”
+un autre ami chinois	“另一个中国朋友”
+Hier je suis allé dans un très bon restaurant chinois avec Qiang un autre ami chinois	“昨天我和Qiang以及其他一个中国朋友去了一家很棒的中餐馆”
+Un bol	“一个碗”
+Un bol de soupe	“一碗汤”
+Est-ce que tu as des questions sur mes nouvelles	“你对我的消息有什么问题吗?”
+J'ai vu	“我看到了”
+La bande-annonce	“预告片”
+d'un film chinois	“一部中国电影的”
+qui sort	“上映的”
+le 5 mars	“3月5日”
+J'ai vu la bande annonce d'un film chinois qui sort le 5 mars	“我看到了一部3月5日上映的中国电影的预告片。”
+déjà	已经; “已经” - 副词
+des nouilles	面条(阴性)=noodles(英语); “面条”
+fait	是动词 faire(做)的 过去分词,用于复合时态,表示“做了”。(原形:faire); “使,让”(faire 的第三人称单数现在时)
+du poisson	一些鱼(部分冠词 “du” 是由定冠词 “le” 和介词 “de” 缩合而成,表示不可数名词的部分,不是在强调具体有几条鱼,而是泛指吃了一些鱼肉或者一些鱼的部分); “鱼”
+les gens	人们(“gens”是名词,表示“人”,“les”是定冠词); “人们”
+la tête	是“头”(阴性名词); “头顶”
+certains croient	“有些人相信”; “有些人相信”; “有些人相信”
+pour la santé	“对健康”; “对健康”
+le champagne	“香槟” - 名词; “香槟”
+en mangeant	“在吃饭时”; “在吃饭时”
+il est de coutume	“习惯”; “习惯”
+il pleut	下雨(动词)(其中 “il” 是无人称主语,表示天气,“pleut” 是动词 “pleuvoir(下雨)” 的第三人称单数变位形式); :意思是“下雨”,动词 pleuvoir 的第三人称单数形式,专用于描述天气。; “下雨了吗?”
+encore	还(副词); 副词,此处表示 “还,仍然” =英语的yet; “还”
+On ne sait pas encore	我们还不知道。; “我们还不知道”
+Hier	昨天(副词); “昨天”
