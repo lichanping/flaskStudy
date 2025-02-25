@@ -1173,8 +1173,7 @@ Pour étudier	"为了学习?"
 Pour lire des livres	"为了读书"
 Tu sais quand est l'examen DELF A2	"你知道DELF A2考试是什么时候吗?"
 C'est en mai mais je ne sais pas quel jour	"是在5月,但我不知道具体哪一天。"
-VRAI	“真的”,形容词
-FAUX	“假的”,形容词
+vrai	“真的”,形容词
 la cuisine française	“法国菜” - 名词
 une des	“其中之一” - 代词
 meilleures	“最好的” - 形容词
@@ -1433,7 +1432,6 @@ intelligent	“聪明。”
 nous en classe 8 parce que l'on apprend une nouvelle langue on doit rester plus longtemps à l'école	“我们在8班,因为我们正在学习一门新语言,所以必须在学校待得更久。”
 Avant on a appris l'anglais	“以前我们学过英语。”
 mauvaise nouvelle	“坏消息”
-faux	“错的”
 Hier, mon devoir de maths était tout faux	“昨天我的数学作业全错了”
 Tes parents ont dit quoi	“你父母说了什么”
 Ils n'ont rien dit parce qu'ils ont l'habitude	“他们什么也没说,因为他们习惯了”
@@ -1492,3 +1490,4 @@ il pleut	下雨(动词)(其中 “il” 是无人称主语,表示天气,“pleut
 encore	还(副词); 副词,此处表示 “还,仍然” =英语的yet; “还”
 On ne sait pas encore	我们还不知道。; “我们还不知道”
 Hier	昨天(副词); “昨天”
+faux	“假的”,形容词; “错的”
