@@ -2621,3 +2621,43 @@ mer	大海n.f.
 au bord de la plage	在海滩边(plage  海滩n.f.)
 conceil	建议n.m.;劝告n.m.
 île	岛n.f.
+Samedi 22 février 2025	"2025年2月22日,星期六"
+Il en reste 8	"还剩下8个"
+Tu as des questions	"你有问题吗?"
+Pour étudier	"为了学习?"
+Pour lire des livres	"为了读书"
+Tu sais quand est l'examen DELF A2	"你知道DELF A2考试是什么时候吗?"
+C'est en mai mais je ne sais pas quel jour	"是在5月,但我不知道具体哪一天。"
+VRAI	“真的”,形容词
+FAUX	“假的”,形容词
+la cuisine française	“法国菜” - 名词
+cuisines	“菜系” - 名词
+au monde	“在世界上” - 介词短语
+la cuisine française est une des trois meilleures cuisines au monde	“法国菜是世界上最优秀的三种菜系之一” - VRAI
+le canard laqué est une spécialité française	“烤鸭是一道法国特色菜” - FAUX
+Emmanuel Macron	“埃马纽埃尔·马克龙” - 专有名词(人名)
+le Emmanuel Macron c'est le nom d'un dessert en France	“Emmanuel Macron是法国一种甜点的名字” - FAUX
+Le macaron	“马卡龙” - 名词
+souvent	“经常” - 副词
+Je sers	“我上桌,我服务”
+Tu sers	“你上桌,你服务”
+Il sert	“他上桌,他服务”
+On sert	“人们上桌,人们服务”
+Nous servons	“我们上桌,我们服务”
+Vous servez	“你们上桌,你们服务”
+Ils servent	“他们上桌,他们服务”
+une des	“其中之一” - 代词
+meilleures	“最好的” - 形容词
+le canard laqué	“烤鸭” - 名词
+spécialité	“特色菜” - 名词
+le nom	“名字” - 名词
+un dessert	甜点
+le poisson	“鱼” - 名词
+servir	“上桌,服务” - 动词
+servi	“被上桌” - 动词过去分词
+entier	“整条的” - 形容词
+symboliser	“象征” - 动词
+la prospérité	“繁荣” - 名词
+En Chine, le poisson est souvent servi entier pour symboliser la prospérité	“在中国,鱼通常被整条上桌,象征着繁荣。” - VRAI
+une boisson	“饮料” - 名词
+Le champignon c'est le nom d'une boisson française	“蘑菇是法国一种饮料的名字。” - FAUX

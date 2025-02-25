@@ -1,3 +1,18 @@
+une des	“其中之一” - 代词
+meilleures	“最好的” - 形容词
+le canard laqué	“烤鸭” - 名词
+spécialité	“特色菜” - 名词
+le nom	“名字” - 名词
+un dessert	甜点
+le poisson	“鱼” - 名词
+servir	“上桌,服务” - 动词
+servi	“被上桌” - 动词过去分词
+entier	“整条的” - 形容词
+symboliser	“象征” - 动词
+la prospérité	“繁荣” - 名词
+En Chine, le poisson est souvent servi entier pour symboliser la prospérité	“在中国,鱼通常被整条上桌,象征着繁荣。” - VRAI
+une boisson	“饮料” - 名词
+Le champignon c'est le nom d'une boisson française	“蘑菇是法国一种饮料的名字。” - FAUX
 Joyeux Noël	“圣诞快乐”，是在圣诞节期间人们互相祝福的常用语。;“圣诞快乐”
 Tu veux du miel	你想要蜂蜜吗？
 prochain	下一个，接下来的
