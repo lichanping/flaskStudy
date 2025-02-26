@@ -1,3 +1,16 @@
+jamais	“从未” - 副词
+du vin	“葡萄酒” - 名词(du“一些” - 缩合冠词(de + le))
+au boeuf	“牛肉的”
+On mange du pain et de la confiture	“人们吃面包和果酱”
+épicé	辣的
+est réputée	“以......闻名”
+sa variété	“其种类”
+La France est réputée pour sa variété de fromages	“法国以其丰富的奶酪种类而闻名” - VRAI
+longue tradition	“悠久的传统”
+de cuisine	“烹饪的”
+à la vapeur	“用蒸汽”
+La Chine a une longue tradition de cuisine à la vapeur	“中国有一个悠久的蒸菜传统” - VRAI
+Les escargots	“蜗牛”
 le boulevard	大道
 la cour	院子n.f.
 Bonne route	一路平安(bonne  好adj.阴性+route  路n.f.)(route=road)

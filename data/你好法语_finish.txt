@@ -2661,3 +2661,38 @@ la prospérité	“繁荣” - 名词
 En Chine, le poisson est souvent servi entier pour symboliser la prospérité	“在中国,鱼通常被整条上桌,象征着繁荣。” - VRAI
 une boisson	“饮料” - 名词
 Le champignon c'est le nom d'une boisson française	“蘑菇是法国一种饮料的名字。” - FAUX
+un champignon	“一个蘑菇” - 名词
+n'ai	“没有” - 助动词avoir的否定形式
+Je n'ai jamais bu de champagne	“我从未喝过香槟”(bu“喝” - 动词boire的过去分词 )
+j'ai déjà bu du vin rouge	“我已经喝过红葡萄酒”
+j'aime beaucoup ça	“我非常喜欢它”
+Je n'ai jamais bu de champagne mais j'ai déjà bu du vin rouge et j'aime beaucoup ça	我从未喝过香槟,但已经喝过红葡萄酒,而且非常喜欢它。
+Je bois	“我喝”
+Tu bois	“你喝”
+Il boit	“他喝”
+On boit	“人们喝”
+Nous buvons	“我们喝”
+Vous buvez	“你们喝”
+Ils boivent	“他们喝”
+j'ai bu	“我已经喝了”
+tu as bu	“你已经喝了”
+il a bu	“他已经喝了”
+nous avons bu	“我们已经喝了”
+vous avez bu	“你们已经喝了”
+ils ont bu	“他们已经喝了”
+au petit déjeuner	“在早餐时”
+En France, au petit déjeuner on mange des nouilles au boeuf	“在法国,早餐时人们吃牛肉面” - FAUX
+La cuisine française est la cuisine la plus épicée d'Europe	“法国菜是欧洲最辣的菜系” - FAUX
+jamais	“从未” - 副词
+du vin	“葡萄酒” - 名词(du“一些” - 缩合冠词(de + le))
+au boeuf	“牛肉的”
+On mange du pain et de la confiture	“人们吃面包和果酱”
+épicé	辣的
+est réputée	“以......闻名”
+sa variété	“其种类”
+La France est réputée pour sa variété de fromages	“法国以其丰富的奶酪种类而闻名” - VRAI
+longue tradition	“悠久的传统”
+de cuisine	“烹饪的”
+à la vapeur	“用蒸汽”
+La Chine a une longue tradition de cuisine à la vapeur	“中国有一个悠久的蒸菜传统” - VRAI
+Les escargots	“蜗牛”
