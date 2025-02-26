@@ -11,14 +11,3 @@ de cuisine	“烹饪的”
 à la vapeur	“用蒸汽”
 La Chine a une longue tradition de cuisine à la vapeur	“中国有一个悠久的蒸菜传统” - VRAI
 Les escargots	“蜗牛”
-traverser	穿过v.穿越
-un vélo libre	公共自行车
-Elle ouvre le placard et y met la robe	她打开橱柜,把裙子放进去。(y=dans le placard,上文提到的地方,作副代词)
-Vous habitez en banlieu	你住在郊区吗?
-Après vous	您先请
-on se parlera après	以后再说(on=我们,se parlera=交谈)
-droit	笔直地adv.
-d'abord	首先adv.
-enfin	最后adv.
-jusque	直到prep.(与介词连用,表示时间或空间的限度)
-le métropolitain	地铁nm.
