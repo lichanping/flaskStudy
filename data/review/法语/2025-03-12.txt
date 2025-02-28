@@ -1,3 +1,25 @@
+sont souvent mangés	“经常被食用”
+Les escargots sont souvent mangés en Chine	“蜗牛在中国经常被食用” - FAUX
+La baguette magique	“魔法棒”
+le plus grand consommateur	“最大的消费国”
+en volume	“按体积”-Vrai
+en vin rouge consommé par habitant	“人均红葡萄酒消费量”-Faux
+une porcherie	“猪圈(猪居住的地方)”
+dix fois plus de	“十倍的......”
+que de	“比......”
+Il y a dix fois plus de porcs en Chine que de Chinois	“中国的猪的数量是中国人数量的十倍” - FAUX
+est souvent servie	“通常被上桌”
+à la fin des repas chinois	“在中国餐的最后”
+pour aider à la digestion	“以帮助消化”
+au début	“在开始时”
+La consommation	“消费,食用”
+feminine form of courant	“courant的阴性形式”
+courante	“常见的”(形容词, feminine form of courant)
+grossir	“变胖”-动词
+des grenouilles	“青蛙”
+contiennent	“含有”(contenir 的第三人称复数现在时)
+Tous les plats chinois contiennent du poisson	“所有中国菜都含有鱼” - FAUX
+Tous les Chinois mangent tous les jours du tofu	“所有中国人都每天吃豆腐” - FAUX
 jamais	“从未” - 副词
 du vin	“葡萄酒” - 名词(du“一些” - 缩合冠词(de + le))
 au boeuf	“牛肉的”
