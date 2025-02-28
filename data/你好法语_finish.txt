@@ -2696,3 +2696,53 @@ de cuisine	“烹饪的”
 à la vapeur	“用蒸汽”
 La Chine a une longue tradition de cuisine à la vapeur	“中国有一个悠久的蒸菜传统” - VRAI
 Les escargots	“蜗牛”
+En France, on mange des escargots	“在法国,人们吃蜗牛。”
+un ustensile traditionnel	“一种传统工具”
+La baguette magique est un ustensile traditionnel en Chine	“魔法棒是中国的一种传统工具。” - FAUX
+Le pain	“面包”
+La baguette	“法棍面包”
+de vin rouge	“红葡萄酒”
+La Chine est le plus grand consommateur de vin rouge au monde	“中国是全球最大的红葡萄酒消费国”
+Les Français	“法国人”
+ne mangent pas	“不吃”
+de porc	“猪肉”
+Les Français ne mangent pas de porc	“法国人不吃猪肉” - FAUX
+là où habitent les porcs	“猪居住的地方”
+Luc, ta chambre est une porcherie	“Luc,你的房间就像猪圈一样。”
+La soupe	“汤”
+La soupe est souvent servie à la fin des repas chinois pour aider à la digestion	“汤通常在中国餐的最后上桌,以帮助消化” - VRAI
+la soupe	“汤”
+En France, on mange la soupe au début	“在法国,人们在用餐开始时喝汤。”
+de chiens et de chats	“狗和猫”
+n'est pas courante	“并不常见”
+La consommation de chiens et de chats n'est pas courante en Chine	“在中国,吃狗肉和猫肉并不常见” - VRAI
+Du cheval	“马肉”
+Du lapin	“兔肉”
+Du rat en Afrique	“鼠肉(在非洲)”
+Les Français mangent tous les matins des croissants au petit-déjeuner	“法国人每天早上都吃羊角面包当早餐” - FAUX
+un peu cher	“有点贵”
+c'est un peu cher, ça fait grossir	“它有点贵,而且会让人发胖。”
+Les Français mangent très souvent des grenouilles	“法国人经常吃青蛙” - FAUX
+Tous les plats chinois	“所有中国菜”
+sont souvent mangés	“经常被食用”
+Les escargots sont souvent mangés en Chine	“蜗牛在中国经常被食用” - FAUX
+La baguette magique	“魔法棒”
+le plus grand consommateur	“最大的消费国”
+en volume	“按体积”-Vrai
+en vin rouge consommé par habitant	“人均红葡萄酒消费量”-Faux
+une porcherie	“猪圈(猪居住的地方)”
+dix fois plus de	“十倍的......”
+que de	“比......”
+Il y a dix fois plus de porcs en Chine que de Chinois	“中国的猪的数量是中国人数量的十倍” - FAUX
+est souvent servie	“通常被上桌”
+à la fin des repas chinois	“在中国餐的最后”
+pour aider à la digestion	“以帮助消化”
+au début	“在开始时”
+La consommation	“消费,食用”
+feminine form of courant	“courant的阴性形式”
+courante	“常见的”(形容词, feminine form of courant)
+grossir	“变胖”-动词
+des grenouilles	“青蛙”
+contiennent	“含有”(contenir 的第三人称复数现在时)
+Tous les plats chinois contiennent du poisson	“所有中国菜都含有鱼” - FAUX
+Tous les Chinois mangent tous les jours du tofu	“所有中国人都每天吃豆腐” - FAUX
