@@ -1,3 +1,81 @@
+attends	“等一下?”
+ça va	“你好吗?”
+il fait froid à Shanghai	“上海冷吗?”
+non il ne fait pas froid	“不冷。”
+non il ne pleut pas	“没有下雨。”
+Tu es où là	“你现在在哪里?”
+je suis chez moi	“我在家。”
+tes parents vont bien	“你父母好吗?”
+ils vont bien	“他们很好。”
+ils sont chez toi aussi	“他们也在你家吗?”
+mon père regarde la télévision, ma mère dort, elle est fatiguée	“我爸在看电视,我妈在睡觉,她累了。”
+C'était comment cette première semaine d'école	“这第一周上学怎么样?”
+C'était fatiguant	“很累人。”
+je rentre chez moi tous les soirs à 21h	“我每天晚上9点回家。”
+Pourquoi si tard	“为什么这么晚?”
+c'est la règle au lycée Ganquan pour la classe 6 et la classe 8	“这是甘泉中学6班和8班的规定。”
+intelligent	“聪明。”
+nous en classe 8 parce que l'on apprend une nouvelle langue on doit rester plus longtemps à l'école	“我们在8班,因为我们正在学习一门新语言,所以必须在学校待得更久。”
+Avant on a appris l'anglais	“以前我们学过英语。”
+mauvaise nouvelle	“坏消息”
+faux	“错的”
+Hier, mon devoir de maths était tout faux	“昨天我的数学作业全错了”
+Tes parents ont dit quoi	“你父母说了什么”
+Ils n'ont rien dit parce qu'ils ont l'habitude	“他们什么也没说,因为他们习惯了”
+avoir l'habitude	“习惯”
+j'ai l'habitude de boire du café le matin	“我习惯早上喝咖啡”
+une bonne nouvelle	“一个好消息”
+Bientôt	“很快”
+à l'école	“在学校”
+il y aura une petite fête	“会有一个小派对”
+on doit préparer	“我们要准备”
+un spectacle	“一个表演”
+Bientôt à l'école il y aura une petite fête, on doit préparer un spectacle	“学校很快会有一个小派对,我们要准备一个表演”
+5 lycéennes	“5个女高中生”
+et 1 lycéen	“和1个男高中生”
+on apprend le français	“正在学习法语”
+et on prépare ensemble	“并且一起准备”
+un spectacle en français	“一个法语表演”
+5 lycéennes et 1 lycéen on apprend le français et on prépare ensemble un spectacle en français	“5个女高中生和1个男高中生正在学习法语,我们一起准备一个法语表演”
+Tu sais ce que c'est le spectacle	“你知道表演是什么吗”
+On va raconter une histoire	“我们要讲一个故事”
+La semaine dernière	“上周”
+on n'a pas eu cours	“我们没有上课”
+je suis allé avec des amis	“我和朋友们去了”
+au musée de Metz	“梅斯博物馆”
+J'étais content	“我很高兴”
+de visiter le musée avec mes amis	“能和朋友们一起参观博物馆”
+La semaine dernière, on n'a pas eu cours parce que je suis allé avec des amis au musée de Metz, J'étais content de visiter le musée avec mes amis	“上周我们没有上课,因为我和朋友们去了梅斯博物馆。我很高兴能和朋友们一起参观博物馆”
+je suis rentré à Paris	“我回到了巴黎”
+les vacances c'est fini	“假期结束了”
+Mardi, je suis rentré à Paris, les vacances c'est fini	“周二,我回到了巴黎,假期结束了”
+je suis allé	“我去了”
+dans un très bon restaurant chinois	“一家很棒的中餐馆”
+un autre ami chinois	“另一个中国朋友”
+Hier je suis allé dans un très bon restaurant chinois avec Qiang un autre ami chinois	“昨天我和Qiang以及其他一个中国朋友去了一家很棒的中餐馆”
+Un bol	“一个碗”
+Un bol de soupe	“一碗汤”
+Est-ce que tu as des questions sur mes nouvelles	“你对我的消息有什么问题吗?”
+J'ai vu	“我看到了”
+La bande-annonce	“预告片”
+d'un film chinois	“一部中国电影的”
+qui sort	“上映的”
+le 5 mars	“3月5日”
+J'ai vu la bande annonce d'un film chinois qui sort le 5 mars	“我看到了一部3月5日上映的中国电影的预告片。”
+déjà	已经; “已经” - 副词
+des nouilles	面条(阴性)=noodles(英语); “面条”
+fait	是动词 faire(做)的 过去分词,用于复合时态,表示“做了”。(原形:faire); “使,让”(faire 的第三人称单数现在时)
+du poisson	一些鱼(部分冠词 “du” 是由定冠词 “le” 和介词 “de” 缩合而成,表示不可数名词的部分,不是在强调具体有几条鱼,而是泛指吃了一些鱼肉或者一些鱼的部分); “鱼”
+les gens	人们(“gens”是名词,表示“人”,“les”是定冠词); “人们”
+la tête	是“头”(阴性名词); “头顶”
+certains croient	“有些人相信”; “有些人相信”; “有些人相信”
+pour la santé	“对健康”; “对健康”
+le champagne	“香槟” - 名词; “香槟”
+en mangeant	“在吃饭时”; “在吃饭时”
+il est de coutume	“习惯”; “习惯”
+il pleut	下雨(动词)(其中 “il” 是无人称主语,表示天气,“pleut” 是动词 “pleuvoir(下雨)” 的第三人称单数变位形式); :意思是“下雨”,动词 pleuvoir 的第三人称单数形式,专用于描述天气。; “下雨了吗?”
+encore	还(副词); 副词,此处表示 “还,仍然” =英语的yet; “还”
+On ne sait pas encore	我们还不知道。; “我们还不知道”
 du foie gras	“鹅肝”
 à tous les repas	“在每顿饭”
 Les Français mangent du foie gras à tous les repas	“法国人在每顿饭都吃鹅肝” - FAUX
@@ -120,84 +198,6 @@ de faire du bruit avec sa bouche	“用嘴发出声响”
 En Chine, il est normal de faire du bruit avec sa bouche en mangeant	“在中国,吃饭时发出声响是正常的。”
 de donner des fruits en cadeau	“送水果作为礼物”
 En Chine, il est de coutume de donner des fruits en cadeau	“在中国,习惯送水果作为礼物。”
-attends	“等一下?”
-ça va	“你好吗?”
-il fait froid à Shanghai	“上海冷吗?”
-non il ne fait pas froid	“不冷。”
-non il ne pleut pas	“没有下雨。”
-Tu es où là	“你现在在哪里?”
-je suis chez moi	“我在家。”
-tes parents vont bien	“你父母好吗?”
-ils vont bien	“他们很好。”
-ils sont chez toi aussi	“他们也在你家吗?”
-mon père regarde la télévision, ma mère dort, elle est fatiguée	“我爸在看电视,我妈在睡觉,她累了。”
-C'était comment cette première semaine d'école	“这第一周上学怎么样?”
-C'était fatiguant	“很累人。”
-je rentre chez moi tous les soirs à 21h	“我每天晚上9点回家。”
-Pourquoi si tard	“为什么这么晚?”
-c'est la règle au lycée Ganquan pour la classe 6 et la classe 8	“这是甘泉中学6班和8班的规定。”
-intelligent	“聪明。”
-nous en classe 8 parce que l'on apprend une nouvelle langue on doit rester plus longtemps à l'école	“我们在8班,因为我们正在学习一门新语言,所以必须在学校待得更久。”
-Avant on a appris l'anglais	“以前我们学过英语。”
-mauvaise nouvelle	“坏消息”
-faux	“错的”
-Hier, mon devoir de maths était tout faux	“昨天我的数学作业全错了”
-Tes parents ont dit quoi	“你父母说了什么”
-Ils n'ont rien dit parce qu'ils ont l'habitude	“他们什么也没说,因为他们习惯了”
-avoir l'habitude	“习惯”
-j'ai l'habitude de boire du café le matin	“我习惯早上喝咖啡”
-une bonne nouvelle	“一个好消息”
-Bientôt	“很快”
-à l'école	“在学校”
-il y aura une petite fête	“会有一个小派对”
-on doit préparer	“我们要准备”
-un spectacle	“一个表演”
-Bientôt à l'école il y aura une petite fête, on doit préparer un spectacle	“学校很快会有一个小派对,我们要准备一个表演”
-5 lycéennes	“5个女高中生”
-et 1 lycéen	“和1个男高中生”
-on apprend le français	“正在学习法语”
-et on prépare ensemble	“并且一起准备”
-un spectacle en français	“一个法语表演”
-5 lycéennes et 1 lycéen on apprend le français et on prépare ensemble un spectacle en français	“5个女高中生和1个男高中生正在学习法语,我们一起准备一个法语表演”
-Tu sais ce que c'est le spectacle	“你知道表演是什么吗”
-On va raconter une histoire	“我们要讲一个故事”
-La semaine dernière	“上周”
-on n'a pas eu cours	“我们没有上课”
-je suis allé avec des amis	“我和朋友们去了”
-au musée de Metz	“梅斯博物馆”
-J'étais content	“我很高兴”
-de visiter le musée avec mes amis	“能和朋友们一起参观博物馆”
-La semaine dernière, on n'a pas eu cours parce que je suis allé avec des amis au musée de Metz, J'étais content de visiter le musée avec mes amis	“上周我们没有上课,因为我和朋友们去了梅斯博物馆。我很高兴能和朋友们一起参观博物馆”
-je suis rentré à Paris	“我回到了巴黎”
-les vacances c'est fini	“假期结束了”
-Mardi, je suis rentré à Paris, les vacances c'est fini	“周二,我回到了巴黎,假期结束了”
-je suis allé	“我去了”
-dans un très bon restaurant chinois	“一家很棒的中餐馆”
-un autre ami chinois	“另一个中国朋友”
-Hier je suis allé dans un très bon restaurant chinois avec Qiang un autre ami chinois	“昨天我和Qiang以及其他一个中国朋友去了一家很棒的中餐馆”
-Un bol	“一个碗”
-Un bol de soupe	“一碗汤”
-Est-ce que tu as des questions sur mes nouvelles	“你对我的消息有什么问题吗?”
-J'ai vu	“我看到了”
-La bande-annonce	“预告片”
-d'un film chinois	“一部中国电影的”
-qui sort	“上映的”
-le 5 mars	“3月5日”
-J'ai vu la bande annonce d'un film chinois qui sort le 5 mars	“我看到了一部3月5日上映的中国电影的预告片。”
-déjà	已经; “已经” - 副词
-des nouilles	面条(阴性)=noodles(英语); “面条”
-fait	是动词 faire(做)的 过去分词,用于复合时态,表示“做了”。(原形:faire); “使,让”(faire 的第三人称单数现在时)
-du poisson	一些鱼(部分冠词 “du” 是由定冠词 “le” 和介词 “de” 缩合而成,表示不可数名词的部分,不是在强调具体有几条鱼,而是泛指吃了一些鱼肉或者一些鱼的部分); “鱼”
-les gens	人们(“gens”是名词,表示“人”,“les”是定冠词); “人们”
-la tête	是“头”(阴性名词); “头顶”
-certains croient	“有些人相信”; “有些人相信”; “有些人相信”
-pour la santé	“对健康”; “对健康”
-le champagne	“香槟” - 名词; “香槟”
-en mangeant	“在吃饭时”; “在吃饭时”
-il est de coutume	“习惯”; “习惯”
-il pleut	下雨(动词)(其中 “il” 是无人称主语,表示天气,“pleut” 是动词 “pleuvoir(下雨)” 的第三人称单数变位形式); :意思是“下雨”,动词 pleuvoir 的第三人称单数形式,专用于描述天气。; “下雨了吗?”
-encore	还(副词); 副词,此处表示 “还,仍然” =英语的yet; “还”
-On ne sait pas encore	我们还不知道。; “我们还不知道”
 Hier	昨天(副词); “昨天”
 Ils partent	他们出发了。
 piscine	游泳池n.f.
