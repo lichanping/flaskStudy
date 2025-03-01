@@ -286,7 +286,6 @@ J'aimerais voyager en France	我想去法国旅行。
 aller bien	意为“身体健康,情况良好”
 aller mal	意为“身体不舒服,情况不好”
 Est-ce que tes parents vont bien	你父母身体好吗?
-Mes parents vont bien	我父母身体好。
 Est-ce qu'il fait beau à Shanghai	上海天气好吗?
 Oui, il fait beau à Shanghai	是的,上海天气好。
 Non, il ne fait pas beau à Shanghai	不,上海天气不好。
@@ -526,7 +525,6 @@ est arrivée	:“arriver”(到达)的复合过去时第三人称单数阴性形
 Un peu après, le Petit Chaperon rouge est arrivée chez la grand-mère, a frappé à la porte, toc, toc	过了一会儿,小红帽来到了祖母家,她敲了敲门:笃,笃。
 Comme	:连词,引导原因状语从句,意为 “因为,由于” ,说明主句中女孩产生错误认知的原因。
 une grosse voix	:“une” 是不定冠词,修饰阴性名词 “voix”(声音),“grosse” 是形容词 “大的,粗的” ,修饰 “voix”,整体意思是 “一副粗嗓音” 。
-croire	相信(动词)
 a cru	:“croire”(相信,认为)的直陈式现在完成时第三人称单数形式。“a” 是助动词 “avoir” 的第三人称单数变位,“cru” 是 “croire” 的过去分词,这里表示小女孩 “认为” 这一动作在过去完成。
 avait un rhume	:“avait” 是 “avoir” 的直陈式未完成过去时第三人称单数变位,“un rhume”(感冒),“avait un rhume” 表示 “患感冒” ,在宾语从句中作谓语,描述祖母当时的状态。
 Comme le loup avait une grosse voix, la petite fille a cru que sa grand-mère avait un rhume	由于狼的声音很粗,小女孩以为她祖母感冒了。(que:引导宾语从句,无实际意义,连接主句和从句。)
@@ -762,7 +760,6 @@ un petit-déjeuner	早餐
 Le matin, on mange un petit-déjeuner	早上,我们吃早餐
 Le midi, on mange un déjeuner	中午,我们吃午餐
 Le soir, on mange un diner	晚上,我们吃晚餐
-C'était bon	好吃吗?(être(是)的未完成过去时第三人称单数变位形式)
 C'était bien	很不错
 Tu as mangé dans un restaurant espagnol	你在一家西班牙餐厅吃过饭(“avoir + 过去分词” 构成复合过去时,强调动作在过去已经完成,这里就是 “你吃过” 的意思)
 nés	“naître” 的过去分词的复数形式
@@ -886,7 +883,6 @@ voir	:动词原形,意思是 “看望;看见”,在句中作 “vais” 的补�
 naître	出生(动词)
 connaître	认识(动词); 认识, 知道, 了解
 le nouvel an chinois	表示“中国新年”,nouvel an 是“新年”,chinois 表示“中文的,或中国的”。; 春节
-quelqu'un	某人(不定代词)=英语的 "someone"
 fiche	是动词 “ficher” 的第一人称单数变位,意为 “在意,关心
 Je m'en fiche	我不在乎(“en” 是副代词,代替前文提到的事物或情况,“me” 是自反代词)
 préférée	最喜欢的(阴性形容词)
@@ -1288,8 +1284,6 @@ des grenouilles	“青蛙”
 Les Français mangent très souvent des grenouilles	“法国人经常吃青蛙” - FAUX
 Tous les plats chinois	“所有中国菜”
 contiennent	“含有”(contenir 的第三人称复数现在时)
-Tous les plats chinois contiennent du poisson	“所有中国菜都含有鱼” - FAUX
-Tous les Chinois mangent tous les jours du tofu	“所有中国人都每天吃豆腐” - FAUX
 du foie gras	“鹅肝”
 à tous les repas	“在每顿饭”
 Les Français mangent du foie gras à tous les repas	“法国人在每顿饭都吃鹅肝” - FAUX
@@ -1300,7 +1294,6 @@ une danse spéciale	“一种特殊舞蹈”
 appelée	“名为”
 la danse du croissant	“羊角面包舞”
 pour célébrer	“为了庆祝”
-Les Français ont inventé une danse spéciale appelée	"la danse du croissant" pour célébrer le petit-déjeuner “法国人发明了一种名为‘羊角面包舞’的特殊舞蹈来庆祝早餐”
 il est considéré comme impoli	“被认为不礼貌”
 de finir tous les plats à la fin d'un repas	“在饭局结束时吃完所有菜肴”
 car cela peut signifier	“因为这可能意味着”
@@ -1311,7 +1304,6 @@ assez	形容词或副词,意为“足够的”或“足够地”。
 nourriture	“食物”
 assez de nourriture	“足够的食物”
 que l'hôte n'a pas préparé assez de nourriture	“主人没有准备足够的食物”
-En Chine, il est considéré comme impoli de finir tous les plats à la fin d'un repas, car cela peut signifier que l'hôte n'a pas préparé assez de nourriture	“在中国,吃完所有菜肴被认为是一种不礼貌的行为,因为这可能意味着主人没有准备足够的食物”
 ont une fête nationale	“有一个国庆节”
 dédicée	“专门的;奉献于”(形容词),动词 dédié 的过去分词形式
 dédicée au fromage	“专门庆祝奶酪的”
@@ -1324,14 +1316,10 @@ Vous défilez	“你们游行”
 Ils défilent	“他们游行”
 où les gens défilent	“人们游行”
 avec des fromages sur la tête	“头顶奶酪”
-Les Français ont une fête nationale dédiée au fromage, où les gens défilent avec des fromages sur la tête	“法国人有一个专门庆祝奶酪的国庆节,在这个节日里,人们头顶奶酪游行”
-il est courant	“这是常见的”
 de servir	“提供”
 des plats de tofu	“豆腐菜肴”
 lors	“在......的时候”
 lors des mariages	“在婚礼上”
-En Chine, il est courant de servir des plats de tofu lors des mariages	“在中国,婚礼上提供豆腐菜肴是很常见的”
-disent	“说”,法语动词 dire(意为“说”或“讲”)的第三人称复数现在时
 la meilleure façon	“最好的方法”
 de couper	“切”
 un baguette	“一根法棍”
@@ -1342,48 +1330,35 @@ Les Français disent que le vin rouge c'est bon par la santé	“法国人说红
 manger du poisson entier	“吃整条鱼”
 pendant le Nouvel An chinois	“在春节期间”
 apportera une bonne année	“会带来好运”
-En Chine, certains croient que manger du poisson entier pendant le Nouvel An chinois apportera une bonne année	“在中国,有些人相信在春节期间吃整条鱼会带来好运。”
 mangent souvent	“经常吃”
 des insectes	“昆虫”
-Les Chinois mangent souvent des insectes	“中国人经常吃昆虫。”
 pensent	“认为”
 le repas le plus important	“最重要的一餐”
 de la journée	“一天中”
-Les Français pensent que le petit déjeuner est le repas le plus important de la journée	“法国人认为早餐是一天中最重要的一餐。”
 manger des œufs de cent ans	“吃皮蛋”
 prolonge la vie	“可以延年益寿”
-En Chine, certains croient que manger des œufs de cent ans prolonge la vie	“在中国,有些人相信吃皮蛋可以延年益寿。”
 on partage	“人们共享”
 les plats	“菜肴”
-En Chine on partage les plats	“在中国,人们共享菜肴。”
 les repas copieux et longs	“丰盛而漫长的餐食”
-Les Français aiment les repas copieux et longs	“法国人喜欢丰盛而漫长的餐食。”
 préfèrent	“更喜欢”(动词préférer的第三人称复数现在时)
 au thé	“而不是茶”
-Les Français préfèrent le café au thé	“法国人更喜欢咖啡而不是茶。”
 la fondue chinoise	“火锅”
 est populaire	“很受欢迎”
 en hiver	“在冬季”
-En Chine, la fondue chinoise est populaire en hiver	“在中国,冬季火锅很受欢迎。”
 ont l'habitude	“习惯”
 de prendre du temps	“花时间”
 pour déjeuner	“吃午餐”
-Les Français ont l'habitude de prendre du temps pour déjeuner	“法国人习惯花时间吃午餐。”
 certains pensent	“有些人认为”
 manger des graines de lotus	“吃莲子”
-En Chine, certains pensent que manger des graines de lotus c'est bon pour la santé	“在中国,有些人认为吃莲子对健康有益。”
 du pain et du vin	“面包和葡萄酒”
 pendant les repas	“在用餐时”
-Les Français prennent souvent du pain et du vin pendant les repas	“法国人经常在用餐时吃面包和喝葡萄酒。”
 le Nouvel An	“春节”
 est célébré	“被庆祝”
 avec des plats spéciaux	“用特色菜肴”
-En Chine, le Nouvel An est célébré avec des plats spéciaux	“在中国,春节会用特色菜肴来庆祝。”
 le vin blanc	“白葡萄酒”
 est le meilleur accompagnement	“是最佳搭配”
 pour les fruits de mer	“对海鲜”
 Les Français pensent que le vin blanc est le meilleur accompagnement pour les fruits de mer	“法国人认为白葡萄酒是海鲜的最佳搭配。”
-croient	“相信”
 manger des escargots	“吃蜗牛”
 apporte de la chance	“可以带来好运”
 Les Français croient que manger des escargots apporte de la chance	“法国人相信吃蜗牛可以带来好运。”
@@ -1491,3 +1466,91 @@ encore	还(副词); 副词,此处表示 “还,仍然” =英语的yet; “还�
 On ne sait pas encore	我们还不知道。; “我们还不知道”
 Hier	昨天(副词); “昨天”
 faux	“假的”,形容词; “错的”
+Samedi 1er mars 2025	“2025年3月1日,星期六
+Il en reste 7	:还剩下7个。
+Excuse moi, mais je ne comprends pas	:抱歉,我不明白。
+levée	:升起的,升起(动词“lever”的过去分词形式,这里是女性单数形式,表示“起床”或“被升起”)。
+Tu t'es levée à quelle heure ce matin	:你今天早上几点起床的?
+je me suis levée à 7h45	:我早上7点45分起床。
+tu es fatiguée ce soir	:你今晚累吗?
+je suis en forme ce soir	:我今晚状态很好。
+Comment vont tes parents	:你的父母怎么样?
+J'ai mangé des nouilles	:“我吃了面条。” "tu es nouille":你是个笨蛋。
+stupide	:形容词,表示“愚蠢的”。
+quelqu'un qui est nouille, c'est quelqu'un de stupide	:“nouille”指一个人很愚蠢。
+Ce soir, je vais au restaurant manger une fondue chinoise	:今晚,我要去餐厅吃火锅。
+une fondue au fromage	:奶酪火锅
+une fondue à la viande	:肉类火锅
+maintenant j'aime ça parce que je sais ce que j'aime	:现在我喜欢它,因为我知道自己喜欢什么。
+Il y a eu un contrôle de maths lundi et j'ai 75 sur 150	:周一有一次数学考试,我得了75分,满分是150分。
+En France on note sur 20	:在法国,评分是基于20分制。
+serait	是法语动词 être(意为“是”)的第三人称单数虚拟式现在时态形式,表示“将是”或“会是”。
+Ta note en France ce serait 10 sur 20	:如果你的分数换算成法国的评分标准,就是10分(满分20分)。
+le baccalauréat	:高考(简称le bac)
+assez bien	(12分,还不错)
+et plus excellent	(18分及以上,优秀)
+dernière	:形容词,表示“最后的”“最近的”“上一次的”,是“dernier”的阴性形式,用于修饰阴性名词。
+c'est mieux que la dernière fois	:这次比上次好
+le dernier contrôle j'ai eu 48 sur 150	:上次考试我得了48分,满分150
+jeu	:游戏
+menteurs	:说谎者(复数形式)
+Vendredi je vais au club jouer au jeu des menteurs	:周五我去俱乐部玩说谎者游戏。
+Tu es contente, tu aimes ça jouer	:你很开心,你喜欢玩游戏。
+Vendredi c'est la première fois que tu vas au club	:周五是你第一次去俱乐部吗?
+Tu dois payer	:你需要付费吗?
+gratuit	:免费的、无偿的。
+C'est gratuit	:这是免费的。
+Le club c'est à l'école	:俱乐部在学校。
+de 15 heures trente à 17 heures trente	:从下午3点30分到5点30分。
+Ce matin, je suis allé acheter un petit déjeuner chinois	今天早上,我去买了中式早餐。
+Ce matin, au petit déjeuner, qu'est-ce que tu as mangé	今天早上,早餐你吃了什么?
+j'ai mangé un fantuan	我吃了一个饭团。
+Je suis allé quatre fois au cinéma cette semaine	这周我去了四次电影院。
+Les français mangent du foie gras à tous les repas	法国人并不是每顿饭都吃鹅肝。 FAUX
+Les français boivent du champagne en mangeant	法国人并不是在吃饭时都喝香槟。 FAUX
+le champagne c'est très cher, 50 euros	香槟非常贵,50欧元。
+tu aimes ça les mariages	你喜欢婚礼吗?
+meilleure façon	:最好的方式、最好的方法。
+Les Français disent que la meilleure façon de couper une baguette c'est avec les mains	法国人说,切法棍面包最好的方法是用手。
+une baguette	: 一种法国面包
+un des pains français	: 一种法国面包
+couper avec les mains	:用手切
+couper avec un couteau	:用刀切
+comme ça sans rien	:就这样,什么都不加。
+le pain en France c'est comme le riz en Chine on le mange avec les plats	在法国,面包就像在中国的米饭一样,是和菜肴一起吃的。
+santé	是名词,表示“健康”,是阴性名词,通常用作不可数名词。
+Les Français disent que le vin rouge c'est bon pour la santé	红酒对健康有益。 VRAI 健康
+Le repas de Noël	圣诞大餐
+12h ça finit à 21h	从中午12点开始,持续到晚上9点
+spéciaux	:形容词,意为“特别的”“特殊的”,是“spécial”的复数形式,用于修饰名词,表示某事物与众不同或有特定用途。
+le Nouvel An est	:新年是......
+Quels sont les plats du Nouvel An que tu préfères	你最喜欢哪些春节菜肴
+les raviolis chinois	饺子
+des raviolis italiens	:意大利馄饨
+Mes parents vont bien	“我的父母很好。”
+quelqu'un	某人(不定代词)=英语的 "someone"; 某人,某个人。
+une fondue chinoise	火锅
+C'était bon	好吃吗?(être(是)的未完成过去时第三人称单数变位形式); 很好吃。
+Tous les plats chinois contiennent du poisson	所有中式菜肴都含有鱼。 FAUX
+Tous les Chinois mangent tous les jours du tofu	“所有中国人都每天吃豆腐” - FAUX
+Les Français ont inventé une danse spéciale appelée	"la danse du croissant" pour célébrer le petit-déjeuner “法国人发明了一种名为‘羊角面包舞’的特殊舞蹈来庆祝早餐” FAUX
+En Chine, il est considéré comme impoli de finir tous les plats à la fin d'un repas, car cela peut signifier que l'hôte n'a pas préparé assez de nourriture	在中国,吃完餐桌上的所有菜肴被认为是一种不礼貌的行为,因为这可能意味着主人没有准备足够的食物。 FAUX
+Les Français ont une fête nationale dédiée au fromage, où les gens défilent avec des fromages sur la tête	法国有一个专门庆祝奶酪的国家节日,人们会头顶奶酪游行。 FAUX
+En Chine, il est courant de servir des plats de tofu lors des mariages	“在中国,婚礼上提供豆腐菜肴是很常见的” FAUX
+il est courant	“这是常见的”
+disent	“说”,法语动词 dire(意为“说”或“讲”)的第三人称复数现在时
+croient	“相信”; 是法语动词 croire 的第三人称复数现在时态形式,表示“他们/她们/人们相信”。
+croire	相信(动词); 意为“相信”。
+En Chine, certains croient que manger du poisson entier pendant le Nouvel An chinois apportera une bonne année	在中国,有些人相信在春节期间吃整条鱼会带来好运。 VRAI
+Les Chinois mangent souvent des insectes	中国人经常吃昆虫。 FAUX
+Les Français pensent que le petit déjeuner est le repas le plus important de la journée	法国人认为早餐是一天中最重要的一餐。 FAUX
+En Chine, certains croient que manger des œufs de cent ans prolonge la vie	“在中国,有些人相信吃皮蛋可以延年益寿。” FAUX
+En Chine on partage les plats	在中国,人们共享菜肴。 VRAI
+Les Français aiment les repas copieux et longs	法国人喜欢丰盛且漫长的餐食。 VRAI
+Les Français préfèrent le café au thé	法国人更喜欢咖啡而不是茶。 VRAI
+En Chine, la fondue chinoise est populaire en hiver	在中国,火锅在冬天很受欢迎。 VRAI
+Les Français ont l'habitude de prendre du temps pour déjeuner	法国人习惯花时间吃午餐。 VRAI
+En Chine, certains pensent que manger des graines de lotus c'est bon pour la santé	在中国,有些人认为吃莲子对健康有益 VRAI
+amer	是形容词,表示“苦的”
+Les Français prennent souvent du pain et du vin pendant les repas	法国人经常在用餐时吃面包和喝葡萄酒 VRAI
+En Chine, le Nouvel An est célébré avec des plats spéciaux	在中国,春节会用特别的菜肴来庆祝 VRAI
