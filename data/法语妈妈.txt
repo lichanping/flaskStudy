@@ -398,3 +398,4 @@ lentement	慢,慢慢地
 choisissent选择
 animaux	动物
 le soir在晚上
+neige雪，下雪
