@@ -80,3 +80,33 @@ toujours	还,一直,总是
 faites	做
 que	什么pron.interr.; 什么,的
 bain	洗澡,沐浴
+neige	雪,下雪
+pleut	下雨
+soleil	阳光,太阳,阳
+vent	风
+nuage	云
+octobre	十月
+fait-il	天气
+dehors	外面
+automne	秋天,秋
+août	八月
+froid	冷的,冷
+beau	很好,美丽的,好
+chaud	热的
+trop	太多了,太多,太大了
+quart	一刻,刻
+en général	一般来说
+dent	凹痕,牙齿
+coucher	卧,上床睡觉
+vite	很快,快,快速地
+préparez	准备
+cheveux	头发
+brosser	梳,刷牙
+demie	半
+me	我,为我,向我
+te	你,为你,跟你
+se	自己
+regarder	看电视,看,看看
+réveiller	弄醒
+miroir	镜子,一面镜子
+fait	“faire的变位”,il/elle/on(他/她/人们); 干吗,办,让
