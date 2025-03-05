@@ -2926,3 +2926,29 @@ Les Français mangent du foie gras à tous les repas	“法国人在每顿饭都
 ont inventé	“发明了”
 il est considéré comme impoli	“被认为不礼貌”
 car cela peut signifier	“因为这可能意味着”
+n'a pas préparé	“没有准备”
+assez de nourriture	“足够的食物”
+que l'hôte n'a pas préparé assez de nourriture	“主人没有准备足够的食物”
+En Chine, il est considéré comme impoli de finir tous les plats à la fin d'un repas, car cela peut signifier que l'hôte n'a pas préparé assez de nourriture	“在中国,吃完所有菜肴被认为是一种不礼貌的行为,因为这可能意味着主人没有准备足够的食物”
+dédicée au fromage	“专门庆祝奶酪的”
+Je défile	“我游行”
+Tu défiles	“你游行”
+Il défile	“他游行”
+Nous défilons	“我们游行”
+Vous défilez	“你们游行”
+Ils défilent	“他们游行”
+où les gens défilent	“人们游行”
+Les Français ont une fête nationale dédiée au fromage, où les gens défilent avec des fromages sur la tête	“法国人有一个专门庆祝奶酪的国庆节,在这个节日里,人们头顶奶酪游行”
+des plats de tofu	“豆腐菜肴”
+signifier que	:短语,意为“意味着......”,后面通常跟从句,表示具体的意思或结果。
+l'hôte	“主人”
+assez	形容词或副词,意为“足够的”或“足够地”。
+nourriture	“食物”
+ont une fête nationale	“有一个国庆节”
+dédicée	“专门的;奉献于”(形容词),动词 dédié 的过去分词形式
+défilent	“游行;列队行进”(动词défiler的第三人称复数现在时)
+avec des fromages sur la tête	“头顶奶酪”
+il est courant	“这是常见的”
+de servir	“提供”
+lors	“在......的时候”
+lors des mariages	“在婚礼上”
