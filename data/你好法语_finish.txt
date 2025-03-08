@@ -3002,3 +3002,53 @@ ont l'habitude	“习惯”
 certains pensent	“有些人认为”
 manger des graines de lotus	“吃莲子”
 le Nouvel An	“春节”
+est le meilleur accompagnement	“是最佳搭配”
+pour les fruits de mer	“对海鲜”
+croient	“相信”
+Les Français croient que manger des escargots apporte de la chance	“法国人相信吃蜗牛可以带来好运。”
+les pique-niques	“野餐”
+avec du fromage et du vin	“搭配奶酪和葡萄酒”
+Les Français aiment les pique-niques avec du fromage et du vin	“法国人喜欢搭配奶酪和葡萄酒的野餐。”
+à la consommation de gâteaux de la lune	“食用月饼”
+En Chine, la fête de la mi-automne est associée à la consommation de gâteaux de la lune	“在中国,中秋节与食用月饼相关联。”
+Les Français pensent que le pain doit être croustillant à l'extérieur et moelleux à l'intérieur	“法国人认为面包应该外皮酥脆,内部柔软。”
+de boire du thé pu-erh	“饮用普洱茶”
+après un repas copieux	“在丰盛的餐后”
+En Chine, il est de coutume de boire du thé pu-erh après un repas copieux	“在中国,习惯在丰盛的餐后饮用普洱茶。”
+est la meilleure boisson	“是最佳饮品”
+pour célébrer une victoire	“用于庆祝胜利”
+Les Français pensent que le champagne est la meilleure boisson pour célébrer une victoire	“法国人认为香槟是庆祝胜利的最佳饮品。”
+manger des pommes	“吃苹果”
+En Chine, certains croient que manger des pommes peut attirer l'amour	“在中国,有些人相信吃苹果可以吸引爱情。”
+il est normal	“是正常的”
+de faire du bruit avec sa bouche	“用嘴发出声响”
+de donner des fruits en cadeau	“送水果作为礼物”
+En Chine, il est de coutume de donner des fruits en cadeau	“在中国,习惯送水果作为礼物。”
+Hier	昨天(副词); “昨天”
+Ils partent	他们出发了。
+piscine	游泳池n.f.
+On va à la piscine	我们去游泳池。
+plage	海滩n.f.
+On va à la plage	我们去海滩。
+puis	然后adv.=ensuite
+réception	接待处n.f.
+le restaurant	这个餐馆n.m.(俗语中简称resto)
+télévision	电视n.f.=une télé
+terrasse	阳台n.f.露台;晒台
+ville	城市n.f.(特殊发音/il/;复数villes)
+la ville de Paris	巴黎市
+visiter	参观v.t.;访问v.游览
+visiter la ville de Paris	参观巴黎市
+visiter le musée du Louvre	参观卢浮宫
+voyage	旅行n.m.旅程;旅途
+Les Français pensent que le vin blanc est le meilleur accompagnement pour les fruits de mer	“法国人认为白葡萄酒是海鲜的最佳搭配。”
+manger des escargots	“吃蜗牛”
+apporte de la chance	“可以带来好运”
+la fête de la mi-automne	“中秋节”
+est associée	“与......相关联”
+doit être	“应该”
+croustillant à l'extérieur	“外皮酥脆”
+et moelleux à l'intérieur	“内部柔软”
+peut attirer l'amour	“可以吸引爱情”
+En Chine, il est normal de faire du bruit avec sa bouche en mangeant	“在中国,吃饭时发出声响是正常的。”
+resto	餐馆n.m.=restaurant
