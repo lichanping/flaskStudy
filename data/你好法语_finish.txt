@@ -2952,3 +2952,53 @@ il est courant	“这是常见的”
 de servir	“提供”
 lors	“在......的时候”
 lors des mariages	“在婚礼上”
+En Chine, il est courant de servir des plats de tofu lors des mariages	“在中国,婚礼上提供豆腐菜肴是很常见的”
+disent	“说”,法语动词 dire(意为“说”或“讲”)的第三人称复数现在时
+avec les mains	“用手”
+Les Français disent que la meilleure façon de couper un baguette c'est avec les mains	“法国人说,切法棍最好的方法是用手”
+le vin rouge	“红葡萄酒”
+pendant le Nouvel An chinois	“在春节期间”
+En Chine, certains croient que manger du poisson entier pendant le Nouvel An chinois apportera une bonne année	“在中国,有些人相信在春节期间吃整条鱼会带来好运。”
+mangent souvent	“经常吃”
+des insectes	“昆虫”
+Les Chinois mangent souvent des insectes	“中国人经常吃昆虫。”
+pensent	“认为”
+le repas le plus important	“最重要的一餐”
+de la journée	“一天中”
+Les Français pensent que le petit déjeuner est le repas le plus important de la journée	“法国人认为早餐是一天中最重要的一餐。”
+manger des œufs de cent ans	“吃皮蛋”
+prolonge la vie	“可以延年益寿”
+on partage	“人们共享”
+les plats	“菜肴”
+Les Français aiment les repas copieux et longs	“法国人喜欢丰盛而漫长的餐食。”
+préfèrent	“更喜欢”(动词préférer的第三人称复数现在时)
+au thé	“而不是茶”
+Les Français préfèrent le café au thé	“法国人更喜欢咖啡而不是茶。”
+est populaire	“很受欢迎”
+en hiver	“在冬季”
+En Chine, la fondue chinoise est populaire en hiver	“在中国,冬季火锅很受欢迎。”
+de prendre du temps	“花时间”
+pour déjeuner	“吃午餐”
+Les Français ont l'habitude de prendre du temps pour déjeuner	“法国人习惯花时间吃午餐。”
+En Chine, certains pensent que manger des graines de lotus c'est bon pour la santé	“在中国,有些人认为吃莲子对健康有益。”
+du pain et du vin	“面包和葡萄酒”
+pendant les repas	“在用餐时”
+Les Français prennent souvent du pain et du vin pendant les repas	“法国人经常在用餐时吃面包和喝葡萄酒。”
+est célébré	“被庆祝”
+avec des plats spéciaux	“用特色菜肴”
+En Chine, le Nouvel An est célébré avec des plats spéciaux	“在中国,春节会用特色菜肴来庆祝。”
+le vin blanc	“白葡萄酒”
+la meilleure façon	“最好的方法”
+de couper	“切”
+un baguette	“一根法棍”
+Les Français disent que le vin rouge c'est bon par la santé	“法国人说红葡萄酒对健康有益” - 这句话的表达有误,正确的说法应该是“对健康有好处”(pour la santé),而不是“par la santé”。
+manger du poisson entier	“吃整条鱼”
+apportera une bonne année	“会带来好运”
+En Chine, certains croient que manger des œufs de cent ans prolonge la vie	“在中国,有些人相信吃皮蛋可以延年益寿。”
+En Chine on partage les plats	“在中国,人们共享菜肴。”
+les repas copieux et longs	“丰盛而漫长的餐食”
+la fondue chinoise	“火锅”
+ont l'habitude	“习惯”
+certains pensent	“有些人认为”
+manger des graines de lotus	“吃莲子”
+le Nouvel An	“春节”
