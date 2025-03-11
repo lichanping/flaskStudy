@@ -849,7 +849,6 @@ On parle beaucoup ensemble de notre vie, on est à l'école ensemble.	我们一�
 La vie est belle	生活是美好的
 Vous parlez de quoi	你们聊什么?
 un beau gosse	一个帅哥(“beau” 是形容词,意为“帅的、美的”,“gosse” 是名词,意为“男孩”或“年轻男性”)
-peur	害怕(名词)
 Elle n'aime pas beaucoup les garçons, elle a peur des garçons	她不太喜欢男孩,她害怕男孩。
 Mon professeur préféré	我最喜欢的老师(préféré:形容词,意为“最喜欢的”,阳性形式)
 a été	“être” 的直陈式复合过去时第三人称单数形式,表示“是”或“在”
@@ -1253,7 +1252,6 @@ est souvent servie	“通常被上桌”
 pour aider à la digestion	“以帮助消化”
 La soupe est souvent servie à la fin des repas chinois pour aider à la digestion	“汤通常在中国餐的最后上桌,以帮助消化” - VRAI
 la soupe	“汤”
-au début	“在开始时”
 En France, on mange la soupe au début	“在法国,人们在用餐开始时喝汤。”
 La consommation	“消费,食用”
 de chiens et de chats	“狗和猫”
@@ -1646,3 +1644,43 @@ En Chine, certains croient que manger des pommes peut attirer l'amour	在中国,
 en mangeant	“在吃饭时”; 吃东西时(动词“manger”的现在分词形式)
 En Chine, il est normal de faire du bruit avec sa bouche en mangeant	在中国,吃饭时发出声音是正常的。 VRAI
 En Chine, il est de coutume de donner des fruits en cadeau	在中国,送水果作为礼物是一种传统。 VRAI
+suivi	参加(动词“suivre”的过去分词)、跟踪、监督
+pratiques	实践的
+travaillé	工作、学习(动词“travailler”的过去分词)
+équipe	团队
+Nous avons suivi des cours pratiques et avons travaillé en équipe	我们参加了一些实践课程,并且进行了团队合作。
+marqué	留下深刻印象(形容词,过去分词)
+Un des cours qui m'a le plus marqué,c'est un cours de circuit électronique	其中一个给我留下深刻印象的课程是电子电路课程。
+confiance	信心(名词)
+Parce que je n'ai pas confiance en la science	因为我对科学没有信心。
+Donc	所以(连词)
+j'avais	我有(动词“avoir”的第一人称单数过去时形式)
+Donc j'avais peur au début	所以一开始我很害怕。
+grâce à	多亏了(介词短语)
+encouragements de mes camarades	同学们的鼓励
+réussi	成功(动词“réussir”的过去分词形式,意为“成功”)
+fabriquer	制作(动词原形,意为“制作”)
+Mais grâce aux encouragements de mes camarades, aux explications des professeurs, j'ai réussi à fabriquer un circuit électronique parfait	但是在同学的鼓励和老师的解释下,我成功地制作了一个电子电路。
+fierté	(名词) - 自豪,骄傲
+Donc c'est un moment de grande fierté pour moi	所以这对我来说是一个非常自豪的时刻。
+exploré	探索(动词“explorer”的过去分词形式)
+le centre-ville de Rouen	鲁昂市中心
+Et après-midi, nous avons exploré le centre-ville de Rouen	下午,我们探索了鲁昂市中心。
+promené	漫步(动词“promener”的过去分词形式)
+sous le soleil	在阳光下
+écoutant	听着(动词“écouter”的现在分词形式)
+le son des cloches	钟声
+voyant	看着(动词“voir”的现在分词形式)
+les passants	路人
+Nous avons promené sous le soleil, en écoutant le son des cloches, discutant et voyant les passants	我们在阳光下漫步,听着钟声,交谈着,看着路人。
+songé	想象(动词“songer”的过去分词形式)
+La Seine	塞纳河
+riant	笑着(动词“rire”的现在分词形式)
+Après le dîner, nous avons songé à la Seine, en discutant et en riant	晚饭后,我们幻想这塞纳河,谈天说地,笑声不断。
+un souvenir	一个回忆
+précis	精确的,清晰的
+Rouen restera un souvenir précis pour moi	鲁昂将是我永远难忘的回忆。
+peur	害怕(名词,意为“恐惧”或“害怕”)
+au début	“在开始时”; 一开始(短语,意为“在开始时”)
+électronique	电子的(形容词,意为“电子的”)
+discutant	交谈着(动词“discuter”的现在分词形式)
