@@ -1243,7 +1243,6 @@ Il est quatre heures de l'après-midi	现在是下午四点
 Elle est à côté de lui	她在他的旁边
 autre	另一个的,别的,另外的adj
 des baskets	篮球鞋,运动鞋(一般用复数)n.f.
-bleu	蓝色的adj,阳性单数
 bleue	蓝色的adj,阴性单数
 blond	金色的,金色头发
 blonde	金色的,金色头发(阴性单数)
@@ -1354,11 +1353,9 @@ Cent euros pour un tee-shirt	一件T恤一百欧元
 C'est cher	这很贵
 Elle n'est pas très chère	它不太贵
 Elle ne coûte pas très cher	“它花费不多”(cher做副词没有阴阳性变化)
-faire	动词,意为“做,制造”;“做;干;进行”
 Ça fait combien	“这个多少钱?”
 coûter	“值(多少钱);花费(多少钱)”
 Combien coûte cette robe	“这条裙子多少钱?”
-gris	灰色的、灰白的、花白的
 grise	法语单词“gris”的阴性形式
 C'est pour toi	“这是给你的”
 un pull	一件羊毛套头衫
@@ -1563,3 +1560,16 @@ regarder	看电视,看,看看
 réveiller	弄醒
 miroir	镜子,一面镜子
 fait	“faire的变位”,il/elle/on(他/她/人们); 干吗,办,让
+ciel	天空
+printemps	春天
+décembre	十二月
+saison	季节,季
+novembre	十一月
+pleuvoir	下雨
+neiger	下雪
+pluie	雨
+toute la journée	一整天,一整天都
+mais	但是
+gris	灰色的、灰白的、花白的; 灰色
+bleu	蓝色的adj,阳性单数; 蓝色,蓝色的,青
+faire	动词,意为“做,制造”;“做;干;进行”; 办,逛街,煮
