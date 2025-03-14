@@ -3102,3 +3102,33 @@ qui vend	那卖(“vendre”的第三人称单数现在时,表示“卖”)
 C'est une boutique qui vend les gâteaux et les pains qui n'ont pas été vendus hier	这是一家卖昨天没卖出去的蛋糕和面包的商店。
 je suis radin	我很小气
 télécharger	下载
+téléphone portable	手机
+J'ai téléchargé et installé une nouvelle application chinoise sur mon téléphone	我下载并安装了一款新的中国应用程序到我的手机上。
+ma mère l'utilise	我妈妈在用它。
+Le poisson	鱼
+les fruits de mer	海鲜
+Qu'est-ce que tu préfères comme viande	你最喜欢哪种肉
+Je préfère le bœuf	我最喜欢牛肉
+En Chine, qu'est-ce que l'on mange pour avoir de la chance	在中国,吃什么可以带来好运?
+la chance	运气
+la lune	月亮
+Quels sont ceux que tu préfères	你最喜欢哪种?
+Je préfère ceux au chocolat	我最喜欢巧克力味的。
+Je préfère ceux aux 5 noix	我最喜欢五仁味的。
+un peu dur	有点硬
+Les Français pensent que le pain doit être un peu dur	法国人认为面包应该有点硬。 VRAI
+J'ai téléchargé	我下载了(过去分词)
+En Europe on l'appelle RedNote	在欧洲,我们称之为RedNote。
+utiliser	使用
+qu'est-ce qu'elle dit sur l'application	她对这个应用程序有什么看法?
+La viande	肉
+des escargots	蜗牛
+la malchance	倒霉
+la consommation de	消费;食用
+gâteaux de la lune	月饼
+ceux que	哪些
+5 noix	五仁味
+du thé pu-erh	普洱茶
+un repas copieux	丰盛的餐
+quand on gagne	赢得一场比赛
+la meilleure	最好的
