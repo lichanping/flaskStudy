@@ -3132,3 +3132,53 @@ du thé pu-erh	普洱茶
 un repas copieux	丰盛的餐
 quand on gagne	赢得一场比赛
 la meilleure	最好的
+boisson	饮料
+un match de football	一场足球比赛
+l'amour	爱情
+de coutume	传统
+de donner	给,送
+en cadeau	作为礼物
+apprendre	学习; 学习
+rien	什么都没有(通常用于否定句); 没有东西
+Comment vont tes parents	 你的父母怎么样
+Ils vont bien	他们很好
+connaître	认识(动词); 认识, 知道, 了解; 认识
+Tu connais	你了解; 你认识
+Il connaît	他了解; 他认识
+Nous connaissons	我们了解; 我们认识
+Vous connaissez	 你们认识
+Ils connaissent	 他们认识
+comme	:在此处引导原因状语从句,意为 “因为”,说明狼害怕的原因。; 作为;像......一样
+souvent	“经常” - 副词; 经常吗?
+le vin blanc	“白葡萄酒”; 白葡萄酒
+le vin rouge	“红葡萄酒”; 红葡萄酒
+Les Français pensent que le vin blanc est le meilleur accompagnement pour les fruits de mer	 法国人认为白葡萄酒是海鲜的最佳搭配 VRAI
+Les Français croient que manger des escargots apporte de la chance	法国人相信吃蜗牛会带来好运 FAUX
+les pique-niques	“野餐”
+Les Français aiment les pique-niques avec du fromage et du vin	 法国人喜欢带着奶酪和葡萄酒去野餐 VRAI
+la fête de la mi-automne	“中秋节”
+En Chine, la fête de la mi-automne est associée à la consommation de gâteaux de la lune 在中国,中秋节与吃月饼有关 VRAI
+pensent	“认为”; 相信(动词“penser”的第三人称复数现在时,表示“相信”)
+il est de coutume	“习惯”; 传统; 习惯;通常
+Les Français pensent que le champagne est la meilleure boisson pour célébrer une victoire	 法国人认为香槟是庆祝胜利的最佳饮品 VRAI
+En Chine, certains croient que manger des pommes peut attirer l'amour	 在中国,有些人相信吃苹果可以吸引爱情 FAUX
+en mangeant	 “在吃饭时”; 吃东西时(动词“manger”的现在分词形式)
+En Chine, il est normal de faire du bruit avec sa bouche en mangeant	 在中国,吃饭时发出声音是正常的。 VRAI
+En Chine, il est de coutume de donner des fruits en cadeau	 在中国,送水果作为礼物是一种传统。 VRAI
+agence de voyage	旅行社
+week-end	周末n.m.
+bien sûr	当然; 当然adv.loc.(bien  好adv.+sûr  确定的adj.)=of Course
+ensuite	然后adv.接下来; 然后adv.=puis
+aéroport	飞机场(n.m.)
+archéologie	考古学(n.f.)
+une victoire	胜利
+gagner un match	赢得一场比赛
+perdre un match	输掉一场比赛
+attirer	吸引
+du bruit	噪音
+sa bouche	他的嘴
+croient	 相信(动词“croire”的第三人称复数现在时,表示“相信”)
+apporte	动词 “apporter” 的第一人称单数直陈式现在时变位,意为 “带来;带去”,在句中作谓语,表示 “我” 正在进行的动作。
+est associée	“与......相关联”; 与......有关(associer的过去分词)
+En Chine, il est de coutume de boire du thé pu-erh après un repas copieux	 在中国,习惯在丰盛的餐后喝普洱茶。 VRAI
+aquarium	水族馆(n.m.)
