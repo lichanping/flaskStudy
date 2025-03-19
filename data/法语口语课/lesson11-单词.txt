@@ -28,7 +28,10 @@ couper	剪
 j'ai coupé les cheveux à ma mère	我给妈妈剪了头发
 se couper	自己剪
 je me suis coupé les cheveux	我给自己剪了头发
-Jeudi jai eu un contrôle de maths jai seulement eu 59 sur 150	周四我有一次数学考试,我只得了150分中的59分。
+un contrôle 测验、考试
+j'ai eu   我得了(“eu” 是 “avoir” 的过去分词,“avoir + 过去分词” 是法语复合过去时的构成形式。)=英语的“have got”
+seulement    仅仅、只
+Jeudi j'ai eu un contrôle de maths, j'ai seulement eu 59 sur 150	周四我有一次数学考试,我只得了150分中的59分。
 Tes parents	你父母呢?
 Ils sont déçus	他们很失望。
 Ta mère a pleuré	你妈妈哭了?

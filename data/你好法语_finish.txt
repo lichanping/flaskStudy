@@ -3232,3 +3232,37 @@ hôtel de ville	市政厅;市政府大楼(n.m.)
 institut	学院(n.m.)机构
 quai	站台;堤岸(n.m.)
 SNCF	法国国家铁路公司(全称:Société Nationale des Chemins de Fer Français)
+oublié	忘记(过去分词)
+avais	有(过去时,第一人称单数)
+J'avais oublié de t'envoyer les notes	我忘了给你发笔记。
+Samedi 15 mars	"2025 3月15日周六
+Il en reste 5	还剩5小时
+Hier j'ai coupé les cheveux de ma mère	昨天我给妈妈剪了头发
+Hier, le coiffeur a coupé les cheveux à ma mère	昨天理发师给妈妈剪了头发
+Ce soir, je me suis coupé les cheveux	今晚我给自己剪了头发
+Ma mère ne m'a pas aidé	妈妈没有帮我
+aider quelqu'un à faire quelque chose	帮助某人做某事
+Est-ce que tu aides ta mère à faire à manger	你帮妈妈做饭吗
+s'habiller	穿衣服
+j'étais	我是(过去时,第一人称单数)
+c'était	那是(过去时,第三人称单数)
+m'habiller	穿衣服(动词不定式)
+Quand j'étais petite c'était ma grand-mère qui m'aidait à m'habiller	当我还是小孩的时候是奶奶帮我穿衣服
+Pourquoi est-ce que tu ne vas pas chez le coiffeur	为什么你不去理发店呢
+Parce que j'aime ça me couper les cheveux	因为我喜欢自己剪头发
+ne... jamais	从不
+ne... pas	不
+couper	剪
+j'ai coupé les cheveux à ma mère	我给妈妈剪了头发
+je me suis coupé les cheveux	我给自己剪了头发
+Tes parents	你父母呢?
+couper les cheveux à quelqu'un	给别人剪头发
+se couper les cheveux	给自己剪头发
+Ta mère t'a aidé	妈妈帮你了吗
+Est-ce que ta mère t'aide à t'habiller	妈妈帮你穿衣服吗
+Quand tu étais petite	当你还是小孩的时候
+m'aidait	帮助我(过去时,第三人称单数)
+Des fois, tu vas chez le coiffeur	有时候你会去理发店吗
+Je ne vais jamais chez le coiffeur	我从不去理发店
+ne... plus	不再
+se couper	自己剪
