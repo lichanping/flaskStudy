@@ -303,7 +303,6 @@ j'ai aussi fait mes devoirs	我还做了作业
 ses	是 il/elle(他/她)的所有格形容词,表示“他的/她的/它的”。
 faire ses devoirs	做作业
 Est-ce que tu es sortie aujourd'hui	你今天出去了吗?
-sortir	出去 出门
 Je sors	我出去(第一人称单数)
 Tu sors	你出去
 Il sort	他出去
@@ -374,7 +373,6 @@ mes nouvelles	:表示“我的消息”,mes 是物主代词,表示“我的”,n
 Est-ce qu'il y a des questions sur mes nouvelles	有关于我的消息的问题吗?
 présenter	介绍(动词); 介绍(原形)
 pendant	在...期间; 在......期间
-faire	做; 做(原形)
 J'apprends le français parce que je voudrais faire mes études en France	我在学法语,因为我想在法国学习。; 我学习法语是因为我想在法国读书。
 pleuvoir	下雨(动词); 下雨(动词原形)
 Tu fais	你做
@@ -565,7 +563,6 @@ Moi, mon prénom c'est Emmanuel, les gens m'appellent Manu	我呢,我的名字�
 un vêtement va bien à quelqu'un	某件衣服很适合某人
 Cette robe va bien à ta sœur	(这条裙子很适合你妹妹。)
 une galette	一块煎饼
-un gâteau	一块蛋糕
 être malade	生病
 proche	近的(形容词)
 Ma maison est proche de l'école	(我的家离学校很近。)
@@ -765,7 +762,6 @@ Il est né en France	他出生在法国
 Elle est née à Paris	她出生在巴黎
 mes parents sont nés en France	我的父母都出生在法国
 Moi, je suis né en France	我出生在法国
-la nourriture	食物(阴性名词)
 Je connais bien la nourriture espagnole	我很了解西班牙美食(connais:动词 connaître(认识)的直陈式现在时第一人称单数变位形式)
 j'ai mangé du poisson	我吃了鱼(“mangé” 是 “manger” 的过去分词,构成复合过去时,表示动作在过去已经完成)
 le plat	菜,餐(阳性名词)
@@ -1427,7 +1423,6 @@ certains croient	“有些人相信”; “有些人相信”; “有些人相�
 pour la santé	“对健康”; “对健康”
 le champagne	“香槟” - 名词; “香槟”
 il pleut	下雨(动词)(其中 “il” 是无人称主语,表示天气,“pleut” 是动词 “pleuvoir(下雨)” 的第三人称单数变位形式); :意思是“下雨”,动词 pleuvoir 的第三人称单数形式,专用于描述天气。; “下雨了吗?”
-encore	还(副词); 副词,此处表示 “还,仍然” =英语的yet; “还”
 On ne sait pas encore	我们还不知道。; “我们还不知道”
 Hier	昨天(副词); “昨天”
 faux	“假的”,形容词; “错的”
@@ -1492,7 +1487,6 @@ Quels sont les plats du Nouvel An que tu préfères	你最喜欢哪些春节菜�
 les raviolis chinois	饺子
 des raviolis italiens	:意大利馄饨
 Mes parents vont bien	“我的父母很好。”
-quelqu'un	某人(不定代词)=英语的 "someone"; 某人,某个人。
 une fondue chinoise	火锅
 C'était bon	好吃吗?(être(是)的未完成过去时第三人称单数变位形式); 很好吃。
 Tous les plats chinois contiennent du poisson	所有中式菜肴都含有鱼。 FAUX
@@ -1520,7 +1514,6 @@ En Chine, le Nouvel An est célébré avec des plats spéciaux	在中国,春节�
 Samedi 8 mars 2025	“2025年3月8日,星期六”
 Il en reste 6	还剩下6个
 Demain matin qu'est-ce que tu fais	明天早上你打算做什么?
-Je vais faire mes devoirs	我要去写作业。
 Tu as beaucoup de devoirs à faire	你有很多作业要做。
 par cœur	通过心
 apprendre par cœur	背诵
@@ -1788,3 +1781,82 @@ déjà	“已经” - 副词
 oublié	忘记(过去分词)
 avais	有(过去时,第一人称单数)
 J'avais oublié de t'envoyer les notes	我忘了给你发笔记。
+Samedi 22 mars 2025	“2025年3月22日,星期六”
+Il en reste 4	还剩下4个
+rappeler	提醒
+rappeler quelque chose à quelqu'un	提醒某人某事
+dire encore une fois	再说一次
+je t'ai rappelé la chanson - comme d'habitude	我有没有提醒你那首歌《像往常一样》?
+d'habitude	“通常,平常,像往常一样”,在句子中作状语,说明情况的常态。
+Aujourd'hui, comme d'habitude	今天,像往常一样
+j'ai mangé mexicain	我吃了墨西哥菜
+je suis allée dans un restaurant mexicain	我去了一家墨西哥餐厅
+des nachos	玉米片
+des tacos	玉米卷饼
+des burritos	墨西哥卷饼
+j'ai mangé des nachos, des tacos, des burritos	我吃了玉米片,玉米卷饼,墨西哥卷饼
+du guacamole	牛油果酱
+j'ai acheté au supermarché du guacamole et je vais en manger ce soir	我在超市买了牛油果酱,今晚要吃
+un avocat	律师 / 牛油果
+Mon frère est avocat	我哥哥是律师
+j'aime manger de l'avocat	我喜欢吃牛油果
+la santé	健康
+Tu sais que la nourriture mexicaine n'est pas bonne pour la santé	你知道墨西哥食物对健康没有好处吗?
+de temps en temps	偶尔, 时不时地
+On peut manger de temps en temps	我们可以偶尔吃
+tu es contente d'aller à l'école demain	你明天去上学开心吗?non
+Notre de Paris	巴黎圣母院
+a pleuré	哭了(复合过去时)
+pensait	想起(复合过去时)(penser的过去未完成时第三人称单数)
+Elle a pleuré à l'école parce qu'elle pensait à son petit ami	她在学校哭了,因为她想起了她的男朋友。
+J'ai fait des fleurs pour ma prof de français	我为我的法语老师做了花。
+bientôt	不久
+C'est bientôt mon anniversaire	快到我的生日了。
+un cadeau	礼物
+un château	城堡
+tu vas avoir quoi comme cadeau pour ton anniversaire	你生日想要什么礼物?(comme=作为)
+des trucs pour dessiner et peindre	画画和素描的工具。
+ce truc	这个工具
+C'est quoi ce truc	这个工具是什么?
+être	是,成为,存在
+La prof était contente des fleurs	老师对花满意吗?
+a mis	放置(复合过去时, mettre的第三人称单数)
+Elle a mis les fleurs sur le bureau	她把花放在了桌子上
+en colère	生气,“colère” 是阴性名词,意为 “愤怒、生气”,在句子中作表语。
+Je suis en colère	我很生气。
+Pourquoi t'es en colère	你为什么生气?
+des travaux	工程;施工
+Parce qu'il y a des travaux dans ma rue	因为我住的街上有施工。
+Se reposer	休息一下。
+se terminent	结束(复合过去时, terminer的第三人称复数)
+Les travaux se terminent en mai	施工会在五月结束。
+dernier	最后的;最近的
+réalisateur	导演(阳性名词)
+La 2e partie du dernier film de mon réalisateur chinois préféré va sortir à Paris	我最喜欢的中国导演的最新电影的第二部分将在巴黎上映。
+JEUNESSE	青春
+Le film s'appelle JEUNESSE	青春 这部电影叫《青春》。
+Le film dure 12 heures	这部电影时长12小时。
+Mais il est en 3 parties	但它分为3部分。
+1ère partie 4h	第一部分4小时。
+2e partie 4h	第二部分4小时。
+3e partie 4h	第三部分4小时。
+Je ne regarde pas beaucoup de films chinois	我不看很多中国电影。
+Tu veux écouter une 3e nouvelle	你想听第三条新闻吗?
+J'ai vu hier un documentaire sur les frères Lumières	我昨天看了一部关于卢米埃尔兄弟的纪录片。
+En 1893 les frères Lumières ont inventé le cinéma	卢米埃尔兄弟在1893年发明了电影。
+J'ai vu 120 films des frères Lumières	我看了卢米埃尔兄弟的120部电影。
+Au début, les films duraient 50 secondes	起初,电影的时长为50秒。
+Quand on a inventé le cinéma, les films duraient 50 secondes	当电影被发明时,电影的时长为50秒。
+J'ai regardé 120 films de 50 secondes, combien de temps j'ai passé au cinéma	我看了120部50秒的电影,我在电影院待了多久?
+6000 secondes	“6000秒”
+100 heures	“100小时”
+100 minutes	“100分钟”
+Une heure et 40 minutes	“1小时40分钟”
+Les Champs Elysées	香榭丽舍大道
+quelqu'un	某人(不定代词)=英语的 "someone"; 某人,某个人。
+encore	还(副词); 副词,此处表示 “还,仍然” =英语的yet
+la nourriture	食物(阴性名词)
+un gâteau	一块蛋糕; 蛋糕
+faire	做; 做(原形)
+Je vais faire mes devoirs	我要去写作业。
+sortir	出去,出来,出版;上映
