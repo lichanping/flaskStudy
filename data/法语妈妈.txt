@@ -400,3 +400,4 @@ animaux	动物
 le soir在晚上
 neige雪，下雪
 ciel天空
+sympa讨人喜欢的，亲切
