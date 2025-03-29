@@ -1,9 +1,0 @@
-square	"adj. 平方的；   n. 广场；   v. 使成平方 ，使成二次幂"
-chain	(n.) 连锁店 ，连锁集团
-register	"v. 注册；登记；   n. 现金收 纳机；登记表 ，注册表"
-giant	(adj.) 巨大的 ，特大的
-compare	(vt.) 比较；  比作
-ceremony	(n.) 仪式；典礼
-cooker	(n.) 炉具 ，炊具
-announce	(vt.) 宣布；   v. 显示
-software	(n.) 软件
