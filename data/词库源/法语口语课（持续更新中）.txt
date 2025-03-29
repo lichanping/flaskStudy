@@ -4,7 +4,6 @@ heure	小时
 cour	课程
 1 heure de cours	一小时的课程
 Il en reste 15	还剩15个。
-Je m'appelle Camille	我叫卡米尔。
 quinze	十五
 J'ai 15 ans	我15岁。
 anniversaire	生日,周年纪念日(名词);周年纪念的;生日的(形容词)
@@ -28,9 +27,7 @@ Je suis lycéenne au lycée Ganquan	我在甘泉中学上高中。
 je suis en seconde	我在读高一。
 Le lycée en France	法国的高中
 née	动词 “naître”(出生)的过去分词形式,通常用于女性
-J'habite à Shanghaï et j'y suis née	我住在上海,我在那里出生。
 shanghaïen	上海话/shang ga yien/
-A la maison, on parle le shanghaïen	在家里,我们说上海话。
 Je n'aime pas le sport	我不喜欢运动。
 peindre	“画;描绘;粉刷”
 j'aime peindre et dessiner	我喜欢画画。
@@ -45,7 +42,6 @@ Je déteste les maths	我讨厌数学。
 physique	物理
 Mais j'aime la physique	但我喜欢物理。
 aussi	也
-J'aime aussi les cours de français	我也喜欢法语课。
 chez moi	在我家
 On est	人称代词“on”(我们)的现在时第一人称单数形式
 On est six chez moi	我家有六口人。
@@ -67,9 +63,7 @@ informaticienne	计算机专家(女性)
 Ma mère est informaticienne	我母亲是计算机专家。
 tous	所有
 Tous les deux	他们两个
-Tous les deux travaillent beaucoup	他们两个都工作很忙。
 plus	更
-Mon père est le plus sévère	我父亲最严格。
 Je parle bien anglais	我英语说得很好。
 et un peu français	和一点法语。
 J'apprends le français	我在学法语。
@@ -273,14 +267,11 @@ Il y a un lit, un bureau, une lampe, deux étagères, une chaise, deux fenêtres
 canapé	沙发(阳性名词)
 Il y a aussi un canapé	还有一张沙发。
 J'aime bien ma chambre	我很喜欢我的房间。
-J'aime bien voyager	我很喜欢旅行。
 En Chine, j'ai voyagé à Pékin	在中国,我去过北京。
 Thaïlande	泰国(阴性名词)
 Corée	韩国(阴性名词)
 Japon	日本(阳性名词)
-A l'étranger, j'ai voyagé en Thaïlande, en Corée, au Japon	在国外,我去过泰国,韩国,日本。
 aimerais	是动词 aimer(喜欢)的条件式现在时,表示一种愿望或礼貌语气,翻译为“想”或“希望”。(原形:aimer)
-J'aimerais voyager en France	我想去法国旅行。
 aller bien	意为“身体健康,情况良好”
 aller mal	意为“身体不舒服,情况不好”
 Est-ce que tes parents vont bien	你父母身体好吗?
@@ -372,8 +363,6 @@ Est-ce qu'il y a des filles qui dansent la danse des lions	有没有女孩子在
 mes nouvelles	:表示“我的消息”,mes 是物主代词,表示“我的”,nouvelles 是阴性名词,表示“消息”。
 Est-ce qu'il y a des questions sur mes nouvelles	有关于我的消息的问题吗?
 présenter	介绍(动词); 介绍(原形)
-pendant	在...期间; 在......期间
-J'apprends le français parce que je voudrais faire mes études en France	我在学法语,因为我想在法国学习。; 我学习法语是因为我想在法国读书。
 pleuvoir	下雨(动词); 下雨(动词原形)
 Tu fais	你做
 Il fait	他做
@@ -584,7 +573,6 @@ Camille a un très bon accent et une bonne prononciation	卡米尔有非常好�
 En Chine, j'ai voyagé à Pékin, Hangzhou, Suzhou, Taiwan, Hainan, Chonming	在中国,我去过北京,杭州,苏州,台湾,海南,崇明。
 à la maison	在家里
 Camille, aujourd'hui tu as mangé dehors ou à la maison	卡米尔,今天你是在外面吃的饭还是在家吃的?
-du bœuf	牛肉
 du pain	面包
 J'ai mangé avec ma mère et mon père	我和我的母亲还有父亲一起吃了饭。
 J'ai dessiné	:“dessiner”(绘画,画)的直陈式复合过去时第一人称单数形式。“J'ai” 是助动词 “avoir” 的第一人称单数变位,“dessiné” 是 “dessiner” 的过去分词,表明过去完成的 “画” 这个动作。
@@ -1448,7 +1436,6 @@ Ta note en France ce serait 10 sur 20	:如果你的分数换算成法国的评�
 le baccalauréat	:高考(简称le bac)
 assez bien	(12分,还不错)
 et plus excellent	(18分及以上,优秀)
-dernière	:形容词,表示“最后的”“最近的”“上一次的”,是“dernier”的阴性形式,用于修饰阴性名词。
 c'est mieux que la dernière fois	:这次比上次好
 le dernier contrôle j'ai eu 48 sur 150	:上次考试我得了48分,满分150
 jeu	:游戏
@@ -1516,7 +1503,6 @@ Il en reste 6	还剩下6个
 Demain matin qu'est-ce que tu fais	明天早上你打算做什么?
 Tu as beaucoup de devoirs à faire	你有很多作业要做。
 par cœur	通过心
-apprendre par cœur	背诵
 je n'ai rien fait aujourd'hui	我今天什么都没做
 je n'ai rien dit à ma mère	我什么都没和妈妈说
 je n'ai rien acheté pour son anniversaire	我什么都没为她的生日买
@@ -1624,7 +1610,6 @@ Les Français aiment les pique-niques avec du fromage et du vin	法国人喜欢�
 la fête de la mi-automne	“中秋节”
 est associée	“与......相关联”; 与......有关(associer的过去分词)
 En Chine, la fête de la mi-automne est associée à la consommation de gâteaux de la lune	在中国,中秋节与吃月饼有关 VRAI
-pensent	“认为”; 相信(动词“penser”的第三人称复数现在时,表示“相信”)
 il est de coutume	“习惯”; 传统; 习惯;通常
 En Chine, il est de coutume de boire du thé pu-erh après un repas copieux	在中国,习惯在丰盛的餐后喝普洱茶。 VRAI
 Les Français pensent que le champagne est la meilleure boisson pour célébrer une victoire	法国人认为香槟是庆祝胜利的最佳饮品 VRAI
@@ -1860,3 +1845,118 @@ un gâteau	一块蛋糕; 蛋糕
 faire	做; 做(原形)
 Je vais faire mes devoirs	我要去写作业。
 sortir	出去,出来,出版;上映
+Samedi 29 mars 2025	"2025年3月29日,星期六"
+Il en reste 3	还剩下3个
+J'ai 15 ans, mon anniversaire c'est le 2 avril	我15岁,我的生日是4月2日。
+Je suis lycéenne au lycée Ganquan, je suis en seconde	我是甘泉中学的女高中生,我在读高二。
+Je n'aime pas le sport, j'aime peindre et dessiner des personnes et des fleurs	我不喜欢运动,我喜欢画人和花。
+J'aime beaucoup manger des bonbons	我非常喜欢吃糖果。
+J'aime aller au musée et au cinéma	我喜欢去博物馆和电影院。
+On est quatre chez moi, ma grand-mère maternelle, ma mère, mon père et moi	我们家有四口人,我外婆、妈妈、爸爸和我。
+Ma mère a 38 ans et mon père a quarante-trois ans	我妈妈38岁,我爸爸43岁。
+Mon père est ingénieur, ma mère est informaticienne	我爸爸是工程师,我妈妈是计算机专家。
+Je parle bien anglais, et un peu français	我英语说得很好,法语也懂一点。
+En Chine, j'ai voyagé à Pékin, Hangzhou, Suzhou, Taiwan, Hainan, Chongming	在中国,我曾去过北京、杭州、苏州、台湾、海南、崇明。
+du riz	米饭
+le bœuf, il était cuisiné comment	那头牛,它是怎么烹饪的呢?
+à l'occidentale	西方的 用西式的方法
+quand tu manges du bœuf au restaurant en France, on te demande comment tu aimes la cuisson du bœuf	当你在法国的餐厅里吃牛肉时,人们会问你喜欢牛肉几成熟。
+bleu	生的
+saignant	半生不熟;带血
+à point	适中熟度
+bien cuit	熟透了
+le restaurant était près de chez moi	那家餐馆在我家附近。
+à paris, il fait beau aujourd'hui	在巴黎,今天天气晴朗。
+13 degrés	"13 度13°(表述有点小问题,一般会说 13 degrés )
+six degrés le soir	晚上 6 度(表述有点小问题,一般会说 six degrés )
+Ton cours de français à l'école	你在学校的法语课
+Est-ce que tu as des devoirs pour demain	你明天有作业吗?
+tu as terminé tes devoirs de français	你完成你的法语作业了吗?
+c'était quoi exactement tes devoirs de français	你具体的法语作业是什么呀?
+il y a des exercices	有一些练习题吗?
+Ce n'est pas pour demain	这不是明天要交(做)的 。
+Camille, il faut apprendre par cœur ta présentation	卡米尔,你必须背诵你的自我介绍。
+Un de mes camarades m'a dit qu'il était gay	我的一个同学告诉我他是同性恋。
+Il a fait son -coming out	他公开出柜了。
+faire son -coming out dire à sa famille à ses amis qu'on est gay	所谓“出柜”,就是向家人和朋友表明自己是同性恋。
+Toute la classe sait	全班都知道了吗?
+dizaine	十几个
+élèves	学生
+Il l'a dit à une dizaine d'élèves de ma classe	他只告诉我班上的十几个同学。
+Qu'est-ce que tu lui as dit quand il t'a dit	当他告诉你时,你对他说了什么?
+J'ai demandé -est-ce que tu as un petit ami	我问他“你有男朋友吗?” -non  没有
+autre	其他的
+tu as dit autre chose	你还说了别的吗?
+ce garçon est un peu bizarre mais ce n'est pas parce qu'il est gay	这个男孩有点奇怪,但这不是因为他同性恋。
+Il pose toujours des questions bizarres au professeur	他总是向老师问一些奇怪的问题。
+Il ne fait pas toujours ses devoirs	他并不总是做作业。
+Il est beau	他很帅。
+les professeurs savent	老师们知道吗?
+camarade	同学
+c'est un ami ou juste un camarade	他是朋友还是只是同学?
+Pourquoi il te l'a dit à toi	他为什么告诉你?
+Je ne sais pas pourquoi	我也不知道为什么。
+débat	辩论
+Vendredi, en cours d'anglais, le prof a organisé un débat entre 8 élèves	周五,在英语课上,老师组织了8名学生之间的辩论。
+Je faisais partie des 8 élèves	我是这8名学生之一。
+nécessaire	必要的
+protéger	保护
+Le débat était sur les zoos, est-ce cruel ou bien nécessaire pour protéger les animaux	辩论的主题是动物园,这是残酷还是保护动物的必要手段?
+Toi, tu penses quoi	你认为呢?
+Moi, je pense que c'est cruel	我认为这是残酷的。
+faire partie de	是...... 的一部分(这里 “faisais” 是 “faire” 的变位)
+ceux	那些人(指代前面提到的人)
+Je faisais partie de ceux qui pensent que c'est cruel	我是那些认为这是残酷的人之一。
+Leçon de grammaire	法语语法课
+L	’expression de l’appartenance et de l’inclusion    表达归属和包含
+Je fais partie de cette entreprise	我是这家公司的一员。(表达归属)
+appartenir à	属于
+indiquer	表示;指出
+l	’une des... est utilisé pour indiquer qu’une personne ou une chose fait partie d’un groupe plus large之一用于表示某人或某物是一个更大群体的一部分
+Elle est l	’une des élèves les plus intelligentes de notre classe  她是我们班最聪明的学生之一。
+ajouter	添加
+d	’autres  其他的
+Tu veux que j	’ajoute d’autres explications 你想让我添加其他解释吗?
+Tu aimes bien ça les débats en cours d'anglais	你喜欢英语课上的辩论。
+perdre	输
+gagner	赢
+mon groupe a perdu	我们组输了。
+Dans d'autres cours vous avez aussi des débats	你在其他课上也有辩论吗?
+cours de politique	政治课。
+les élèves me disent qu'ils n'aiment pas ce cours	学生们告诉我他们不喜欢这门课。
+un débat	一场辩论。
+est-ce que vous avez des débats en cours de politique	你们在政治课上有辩论吗?
+Au lycée, en France, il n'y a pas de cours de Politique et éducation civique mais il y a des cours de philosophie	在法国的高中,没有政治和公民教育课,但有哲学课。
+anglais	英语
+allemand	德语
+français	法语
+chez le médecin	在医生那里
+avoir mal au bras	胳膊疼
+plusieurs jours	几天
+Je suis allé chez le médecin, il m'a fait un vaccin, j'ai eu mal au bras pendant plusieurs jours	我去了医生那里,他给我打了疫苗,我的胳膊疼了好几天。
+un vaccin	疫苗
+L'année dernière	去年
+Il y a combien d'injections pour le vaccin HPV	"HPV疫苗需要打多少针?
+un vaccin pour les vieux	老年人疫苗
+corrida	斗牛
+un toréador	斗牛士
+J'ai vu un documentaire sur la corrida, sur un toréador	我看过一部关于斗牛士的斗牛纪录片
+Tardes de Soledad	《孤独的午后》
+après-midi - solitude	下午 - 孤独
+Un opéra français très connu	一部非常著名的法国歌剧
+Carmen	《卡门》
+Je m'appelle Camille	我叫卡米尔。
+J'habite à Shanghaï et j'y suis née	我住在上海,我在那里出生。
+A la maison, on parle le shanghaïen	在家里,我们说上海话。
+J'aime aussi les cours de français	我也喜欢法语课。
+Tous les deux travaillent beaucoup	他们俩都工作很忙。
+Mon père est le plus sévère	我爸爸最严厉。
+J'aime bien voyager	我很喜欢旅行。
+A l'étranger, j'ai voyagé en Thaïlande, en Corée, au Japon	在国外,我曾去过泰国、韩国、日本。
+J'aimerais voyager en France	我想去法国旅行。
+J'apprends le français parce que je voudrais faire mes études en France	我在学法语,因为我想在法国学习。
+apprendre par cœur	背诵
+du bœuf	牛肉
+pensent	“认为”; 相信(动词“penser”的第三人称复数现在时,表示“相信”); 认为
+pendant	在...期间
+dernière	形容词,表示“最后的”“最近的”“上一次的”,是“dernier”的阴性形式,用于修饰阴性名词。; 最后的
