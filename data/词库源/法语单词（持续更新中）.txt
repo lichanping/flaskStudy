@@ -1612,3 +1612,13 @@ mal	疼,不对的,痛
 vraiment	真的,真的很,真
 sens	思,意思,感到
 avoir	有v.t.; 取得,有,拿到
+Est-ce que tu dors assez	你睡得够吗?
+Tu dois manger moins de sucre	你应该少吃糖。
+Je n'ai pas soif	我不渴。
+Nous nous sentons bien	我们感觉很好。
+Vous vous sentez fatigués	你们感到疲劳吗?
+Les enfants ont sommeil	孩子们困了。
+Ils se sentent tristes	他们感到悲伤。
+Tu vas avoir froid	你会感到冷。
+J'ai besoin de dormir	我需要睡觉。
+Avez-vous faim	你饿了吗?
