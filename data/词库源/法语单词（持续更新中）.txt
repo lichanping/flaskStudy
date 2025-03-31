@@ -541,7 +541,6 @@ elles vont	(她们去)
 alors	那么,在这种情况下adv.=Then
 C'est mon ami	他是我的朋友
 Ju suis avec mon ami	我和我的朋友在一起
-avoir	有v.t.
 j'ai	我有(当动词以原音开头,je要改成j')
 tu as	你有
 il a	他有
@@ -1593,3 +1592,23 @@ couleur	颜色n.f.; 色,颜,颜色
 aussi	也adv.; 一样,也是,也好
 gauche	左边,左面n.f.; 左,左边,左脚的
 maman	妈妈(儿语,对母亲的爱称)n.f; 妈妈,妈
+parce que	因为
+stressés	紧张
+malade	病了,生病
+triste	很难过,难过,悲伤
+fatigué	很困,很疲劳,累
+dormir	睡觉
+Je dors	我睡觉
+tu dors	你睡觉
+il dort	他睡觉
+nous dormons	我们睡觉
+vous dormez	你们睡觉
+ils dorment	他们睡觉
+faim	饿
+soif	渴
+assez	相当,够,足够
+sommeil	困
+mal	疼,不对的,痛
+vraiment	真的,真的很,真
+sens	思,意思,感到
+avoir	有v.t.; 取得,有,拿到
