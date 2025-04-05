@@ -402,3 +402,4 @@ neige雪，下雪
 ciel天空
 sympa讨人喜欢的，亲切
 parce que	因为
+plus de	更多的,多些,超过
