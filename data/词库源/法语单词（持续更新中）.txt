@@ -1622,3 +1622,11 @@ Ils se sentent tristes	他们感到悲伤。
 Tu vas avoir froid	你会感到冷。
 J'ai besoin de dormir	我需要睡觉。
 Avez-vous faim	你饿了吗?
+plus de	更多的,多些,超过
+sent	闻起来,感到
+moins de	少些,不到
+sentent	感到
+dormez	睡觉,在睡觉,觉
+parce qu'	因为
+sentez	感觉
+sentons	感觉
