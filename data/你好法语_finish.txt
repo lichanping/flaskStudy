@@ -3697,3 +3697,53 @@ qui	谁pron.
 que	什么pron.interr.
 quand	什么时候(adv.interr.)
 Ils commencent à parler	他们开始说话。(后面加动词的话,前面要加à)
+Samedi 5 avril 2025	"2025年4月5日,星期六
+Il en reste 2	还剩下2个
+se coucher	睡觉
+23h	“23点”
+A quelle heure ils se couchent	他们几点睡觉?
+ça change souvent	经常变化。
+ma mère se couche à minuit	我妈妈在午夜睡觉。
+12h midi	"12点是中午。
+0h minuit	"0点是午夜。
+je mange à midi	我中午吃饭。
+je me couche à minuit	我午夜睡觉。
+après les cours on a fait du vélo mon père et moi	下课后我和爸爸骑了自行车。
+les vélos, ce sont nos vélos	自行车,是我们的自行车。
+je fais du vélo à Paris	我在巴黎骑自行车。
+Vélib	维利(巴黎自行车共享系统)
+Lime	莱姆(共享单车品牌)
+un pyjama-un vêtement que l'on porte pour dormir	睡衣:睡觉时穿的衣物。
+la bibliothèque	图书馆
+tu connais les principales bandes dessinées françaises	你知道主要的法国漫画吗?
+Tintin	丁丁历险记
+Astérix	阿斯特里克斯
+Lucky Luke	幸运的卢克
+un jour férié	节假日
+Hier, c'était un jour férié en Chine	昨天在中国是一个公共假期。
+Tes parents qu'est-ce qu'ils ont fait	你的父母做了什么?
+Non, il aime ça le travail	不,他喜欢工作。
+je toussais beaucoup	我咳嗽得很厉害。(toussais是tousser的过去式)
+Je suis sérieuse, je suis allée quand même à l'école	我是认真的,我还是去上学了。
+C'était le COVID 19	是新冠肺炎吗?
+commencer	开始
+terminer	结束
+Les examens de mi semestre commence le mardi 8 et terminent jeudi 17 avril	期中考试从4月8日周二开始,4月17日周四结束。
+10 examens	共有10场考试。
+Hier soir, moi, ma mère et mon père on est allé au restaurant manger avec des amis de mon père	昨晚,我、妈妈和爸爸一起和爸爸的一些朋友去餐馆吃饭。
+mer	海洋,词性是阴性
+On a mangé des fruits de mer	我们吃了海鲜。
+à peu près	大约
+tu es en pyjama	你穿睡衣了吗?
+tu es prête à aller au lit	你准备好去睡觉了吗?
+hier tu n'es pas allée à l'école mais tu es allée à la bibliothèque pour lire des bandes dessinées	昨天你没去上学,而是去了图书馆看漫画。
+un manga-une bande dessinée japonaise	一部日本漫画
+férié	节假日的
+Il était en colère	他生气了吗?
+couler	流动
+tousser	咳嗽
+Lundi, j'ai été malade, le nez qui coule, je toussais beaucoup	周一,我生病了,流鼻涕,还咳得很厉害。
+sérieuse	认真的(阴性)
+quand même	“仍然,还是,尽管如此”,在句子中作状语,修饰动词 “suis allée”,表示 “我还是去了”。
+mi semestre	期中考试
+céréale	谷物,词性是阴性
