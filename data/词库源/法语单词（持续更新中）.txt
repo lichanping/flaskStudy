@@ -496,7 +496,6 @@ informaticien	计算机编程员,信息论专家(阳性)[ɛ̃fɔrmatisjɛ̃,-εn
 informaticienne	计算机编程员,信息论专家(阴性)[ɛ̃fɔrmatisjɛ̃,-εn]
 six enfants	六个孩子[sis]
 seize personnes	十六个人[sɛz]
-vingt	二十[vɛ̃t]
 américain	美国的;美国人的
 américaine	美国的;美国人的(阴性)
 familier	(adj.)家庭的;亲近的,亲密的,亲热的;熟悉的;习以为常的,习惯的;通晓的
@@ -669,7 +668,6 @@ J'ai trente et un ans	我31岁了
 Je suis guyanaise	我是圭亚那人
 J'habite à Cayenne	我住在卡宴
 Je suis secrétaire	我是一名秘书
-quarante	四十
 Je cherche une correspondante de trente à quarante ans	我想找一个30岁到40岁的笔友
 J'aime beaucoup la danse	我真的很喜欢跳舞
 J'habite en Suisse à Lausanne	我住在瑞士的洛桑
@@ -1048,7 +1046,6 @@ Ce sont des étudiants	这些是学生;这是一些学生
 Il va au café	他去咖啡馆
 Il travaille à l'hôtel	他在酒店工作;他在旅馆工作
 C'est l'adresse du café	这就是那家咖啡馆的地址(du=de+le)
-manteau	“外套”或“大衣”
 C'est le manteau du directeur	这是主任的大衣(du=de+le的缩合)
 directeur	经理n.阳性形式;导演,校长(阳性);“主任”或“负责人”
 Elle vient du bureau des professeurs	她来自老师们的办公室(des=de+les)
@@ -1114,7 +1111,6 @@ C'est le blouson de Paul	这是保罗的夹克
 chaise	椅子n.f.
 Il y a une chaise	有一张椅子
 Il y a une chaise dans la chambre	房间里有一把椅子。
-chapeau	帽子n.m.
 C'est un chapeau	这是一顶帽子。
 chatte	母猫
 le mur	墙
@@ -1258,7 +1254,6 @@ un jean	牛仔裤n.m.
 Je parle à lui	(我在和他说话。)
 lunettes	眼镜,阴性复数名词
 des lunettes	眼镜
-noir	黑色的
 noire	黑色的n.f.
 pantalon	裤子;长裤n.m.
 porter un pantalon	穿戴,佩戴v.t.
@@ -1630,3 +1625,34 @@ dormez	睡觉,在睡觉,觉
 parce qu'	因为
 sentez	感觉
 sentons	感觉
+celui-ci	这个
+celui-là	那个
+là-bas	在那边,那边,那边的
+là	那边,呐
+faisons	做,弄,做饭
+pas d'	不
+soupe	汤
+crêpe	可丽饼
+environ	大约
+trente	三十
+pas de	不
+biscuit	饼干
+riz	米,米饭,大米
+nourriture	食物
+eau gazeuse	气泡水
+viande	肉
+glace	冰,冰淇淋,淇
+achetons	买冰,买,买票
+pommes de terre	土豆
+poisson	鱼
+marché	走,市场,走路
+œufs	鸡蛋
+les courses	购物
+préférer	更喜欢
+tomate	番茄,西红柿
+acheter	不买,买些,买热
+manteau	“外套”或“大衣”
+chapeau	帽子n.m.
+noir	黑色的,黑,黑色
+quarante	四十; 四十
+vingt	二十[vɛ̃t]; 二十
