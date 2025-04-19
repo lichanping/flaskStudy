@@ -103,7 +103,6 @@ voulais	想要(vouloir的过去式第一人称单数形式)
 vivre	生活
 vivre un peu en Chine	在中国生活一段时间
 pour	为了(引导目的状语从句)
-mieux	更好(bien的比较级)
 et je voulais vivre un peu en Chine pour mieux connaître la Chine	我想在中国生活一段时间,以便更好地了解中国。
 J'ai des amis en Chine	我在中国有朋友。
 je suis allé à Shanghaï	我去了上海。
@@ -165,7 +164,6 @@ hiver	冬天
 d'hiver	冬季的(“de” 在这里表示所属关系)
 Je suis maintenant en vacances d'hiver	我现在放寒假。
 être en vacances	放假
-Tu es contente	你高兴吗?
 Je suis très contente	我很高兴。
 tu vas faire	你将要做(“aller + 动词原形” 构成最近将来时,表示即将或打算做某事;“faire” 是动词原形,意为 “做” )
 Qu'est-ce que tu vas faire pendant les vacances	你放假时要做什么?
@@ -223,7 +221,6 @@ exprimer	表达(原形)
 exprimez-vous	表达你们自己
 sur	关于;在......上
 Vous vous exprimez sur le sujet	你们表达关于这个主题的看法
-L'examinateur	考官(阳性名词)
 ensuite	然后,接着
 poser	提出(原形)
 poser des questions	提出问题
@@ -334,7 +331,6 @@ tu es rentrée à 17h00	你17点回来的"dix-sept heures"
 Pour fêter	:表示“为了庆祝”,pour 是介词,表示“为了”,fêter 是动词 (庆祝)的原形。
 les chinois	:表示“那些中国人”,les 是定冠词复数形式,chinois 是形容词,也可以作为名词,指代“中国人”。
 qui vivent à Paris	:表示“住在巴黎的”,qui 是关系代词,vivent 是动词 vivre(生活,居住)的第三人称复数形式,表示“他们生活”。
-mettre	:是动词(放置,挂)的原形。
 ont mis	:是动词 mettre(放置,挂)的复合过去时形式,使用 avoir 作为助动词,表示“他们放了”。
 des lanternes	:表示“灯笼”,des 是不定冠词的复数形式,表示一些,lanternes 是名词的复数形式。
 Pour fêter le nouvel an chinois, les chinois qui vivent à Paris on mis des lanternes	为了庆祝中国新年,住在巴黎的中国人挂了灯笼。
@@ -708,7 +704,6 @@ Les nouvelles de Camille	关于卡米尔的新闻; "Camille的消息"(nouvelle �
 devoirs	常用复数形式,意为 “作业,功课”(阳性名词)
 Pourquoi	为什么?
 savoir faire quelque chose	“会做某事”“懂得做某事”
-écrire	写(ECRIRE)
 pouvoir	能够(原形)
 courir	跑(动词); :动词,意为 “跑” 。在这里作谓语,表示祖母的腿长是为了 “跑得快” 。
 a couru	:“courir”(跑)的直陈式现在完成时第三人称单数形式。“a” 是助动词 “avoir” 的第三人称单数变位。表明狼 “跑” 这个动作在过去已经结束
@@ -796,7 +791,6 @@ J'ai dit à un ami chinois, je vais voir un biopic sur Bob Dylan	我告诉一个
 C'est qui	是谁?(qui:疑问代词,表示“谁”)
 chanteur	歌手(阳性名词)
 vieux	老的(形容词)
-toujours	仍然(副词)
 vivant	活着的(形容词)
 C'est un chanteur américain qui est vieux, il est toujours vivant	他是一个美国歌手,年纪大了,但仍然活着。
 L'acteur	演员(阳性名词)
@@ -845,7 +839,6 @@ Elle est très gentille	她非常和蔼。
 s'occuper de	照顾(动词短语)(“se” 是自反代词,表示“自己”)
 Elle s'occupe bien de nous	她很好地照顾我们。
 Et elle est très intelligente	而且她非常聪明。
-des fois	有时候,在句中作时间状语,表明动作发生的频率
 serre	“抱紧,搂住”(动词 serrer(抱)的第三人称单数形式)
 ses bras	她的胳膊
 dans ses bras	在她的怀里
@@ -1442,8 +1435,6 @@ Vendredi je vais au club jouer au jeu des menteurs	:周五我去俱乐部玩说�
 Tu es contente, tu aimes ça jouer	:你很开心,你喜欢玩游戏。
 Vendredi c'est la première fois que tu vas au club	:周五是你第一次去俱乐部吗?
 Tu dois payer	:你需要付费吗?
-gratuit	:免费的、无偿的。
-C'est gratuit	:这是免费的。
 Le club c'est à l'école	:俱乐部在学校。
 de 15 heures trente à 17 heures trente	:从下午3点30分到5点30分。
 Ce matin, je suis allé acheter un petit déjeuner chinois	今天早上,我去买了中式早餐。
@@ -1481,7 +1472,6 @@ En Chine, il est considéré comme impoli de finir tous les plats à la fin d'un
 Les Français ont une fête nationale dédiée au fromage, où les gens défilent avec des fromages sur la tête	法国有一个专门庆祝奶酪的国家节日,人们会头顶奶酪游行。 FAUX
 En Chine, il est courant de servir des plats de tofu lors des mariages	“在中国,婚礼上提供豆腐菜肴是很常见的” FAUX
 il est courant	“这是常见的”
-disent	“说”,法语动词 dire(意为“说”或“讲”)的第三人称复数现在时
 croire	相信(动词); 意为“相信”。
 En Chine, certains croient que manger du poisson entier pendant le Nouvel An chinois apportera une bonne année	在中国,有些人相信在春节期间吃整条鱼会带来好运。 VRAI
 Les Chinois mangent souvent des insectes	中国人经常吃昆虫。 FAUX
@@ -1757,16 +1747,13 @@ dans le film il est chanteur d'opéra	在电影里,他是歌剧演员。
 un opéra	歌剧
 Il joue souvent des personnages gay	他经常扮演“同性恋”角色。
 ne... pas	不......; 不
-avait	动词 “avoir(有)” 的直陈式未完成过去时第三人称单数形式,可表示过去拥有的特征,如 “avait une grosse voix” 即“有一副粗嗓音” 。
 sais	知道(savoir的现在式第二人称单数形式)
-jamais	“从未” - 副词
 déjà	“已经” - 副词
 oublié	忘记(过去分词)
 avais	有(过去时,第一人称单数)
 J'avais oublié de t'envoyer les notes	我忘了给你发笔记。
 Samedi 22 mars 2025	“2025年3月22日,星期六”
 Il en reste 4	还剩下4个
-rappeler	提醒
 rappeler quelque chose à quelqu'un	提醒某人某事
 dire encore une fois	再说一次
 je t'ai rappelé la chanson - comme d'habitude	我有没有提醒你那首歌《像往常一样》?
@@ -2046,3 +2033,134 @@ entendre	动词,意为 “听见,听到” 。; 听到(动词)常见的 -re 动�
 un dessin animé	“动画片” ,字面意思是 “活动的画” 。
 une bande dessinée	一本漫画; 漫画
 sortir	出去,出来,出版;上映; 上映
+Samedi 19 avril 2025	"2025年4月19日,星期六"
+Il en reste 1	还剩下1个。
+SUJET	题目
+organiser	组织
+aimerait	“aimer”的条件式现在时第三人称单数, 想要
+Votre ami français aimerait vous aider	你的法国朋友想要帮助你。
+discuter	一起讨论
+discutez	“discuter” 的第二人称复数(vous)现在时变位
+mettre d'accord	达成一致
+l'organisation	组织
+cette fête	这场派对
+Vous discutez ensemble et vous vous mettez d'accord sur l'organisation de cette fête	你们一起讨论并就这场派对的组织达成一致。
+le rôle	角色
+L'examinateur joue le rôle de l'ami français	考官扮演法国朋友的角色。
+Tourisme	– Vous visitez Montpellier en été avec vos parents旅游 – 你夏天和父母一起参观蒙彼利埃。
+tourisme	旅游,观光
+demander	询问
+des informations	信息
+les activités	活动
+culturelles	文化的(复数)
+sportives	体育的(复数),单数是sportif
+les transports	交通(复数)
+Vous allez au bureau de tourisme pour demander des informations sur les activités culturelles et sportives, les prix et les transports	你们去旅游局询问有关文化体育活动、价格和交通的信息。
+l'employé	员工
+L'examinateur joue le rôle de l'employé de l'office de tourisme	考官扮演旅游信息处员工的角色。
+La présentation de Camille	卡米尔的自我介绍
+Tu as oublié de mettre tes lunettes	
+des lunettes	眼镜
+mettre sur la table	放置在桌子上面
+mettre ses lunettes	戴上他 / 她 / 他们等的眼镜
+mettre un chapeau	(戴上一顶帽子)
+elles sont sales	她们脏了
+propres	干净的
+maintenant elles sont propres	现在它们干净了
+nettoyer	清洁;打扫;擦拭
+nettoyé	动词 “nettoyer(清洁;打扫;擦拭)” 的过去分词形式
+j'ai nettoyé mes lunettes	我擦了我的眼镜
+nettoyer la salle de bain	打扫浴室
+comme d'habitude	像往常一样
+j'ai utilisé	"comme d'habitude" 我用了“像往常一样”这个表达
+as eu	你有,“eu” 是 “avoir” 的过去分词。“avoir + 过去分词” 构成复合过去时
+jeudi tu as eu un examen de français	周四你有一个法语考试
+Tu as eu 92 sur 140	你得了92分,总分140。
+C'est 13 sur 20 - treize sur vingt	这是13/20(二十分之十三)。
+C'est mieux	这更好。
+C'est moins bien	这不太好。
+En physique, j'ai eu une bonne note	我在物理考试中取得了好成绩。
+je suis la 2e de ma classe	我在班级里排名第二。
+tu as eu 74 sur 100	你得了74分,满分100。
+C'est 15 sur 20	这是15分,满分20分。
+Tes parents étaient contents	你的父母感到高兴。
+ont dit	他们说过了;他们说“avoir + 过去分词” 构成复合过去时(“ont” 是动词 “avoir” 的第三人称复数,“dit” 是动词 “dire(说)” 的过去分词)
+Ils ont dit -c'est très bien ma fille	他们说“做得很好,我的女儿”。
+J'ai une élève avant toi, elle s'appelle Lisa, tu ne la connais pas, elle est à Guangming	我之前有一个学生,她叫丽莎,你不认识她,她在光明学校。
+à chaque fois	每次
+à 19h57	在19点57分
+Je lui dis à chaque fois le cours c'est à 20h, pas à 19h57	我每次都告诉她,课程是在20点,而不是19点57分。
+Je lui dis	我对她说。
+Ah Lisa, qu'est-ce que je vais faire de toi	啊,丽莎,我该拿你怎么办呢?
+leur enfant	他们的孩子(leur:主有形容词 “他们的;她们的;它们的”,修饰 “enfant”,表示所属关系。)
+colères	形容词,“生气的,发怒的”
+Les mamans disent ça à leur enfant quand elles sont colères	妈妈们在生气的时候会对孩子这么说。
+disait	动词 “dire(说)” 的未完成过去时第三人称单数(il、elle、on)形式
+ma mère me disait toujours ça	我妈妈过去总是这么对我说
+pour deux jours	持续两天(pour:介词,在这里表示时间的 “持续”)
+Je vais partir en voyage demain avec l'école pour deux jours	我明天将和学校一起去旅行两天。
+scolaire	学校的
+C'est le voyage scolaire du printemps	这是学校的春季旅行。
+C'est le voyage de l'école du printemps	这是学校的春季旅行。
+Comment vous y allez	你们怎么去?
+On y va en TGV	我们坐高铁去。
+Quelles activités	有什么活动?
+Je suis super contente, pas de cours, pas de devoirs, on va faire ce que l'on veut	我非常开心,没有课,没有作业,我们可以做我们想做的事。
+Ces mots	这些单词
+Ecrire un texte de 80 mots	写一篇80字的文章
+Je voyage à Paris et j'ai une amie française et j'écris une lettre sur mon voyage à Paris	我去巴黎旅行,我有一个法国朋友,我写了一封关于我的巴黎之行的信
+au lieu de	代替=instead of
+112 mots au lieu de 80	“112字而不是80字”
+Qu'est-ce que tu as visité	你参观了什么?
+La tour Eiffel	埃菲尔铁塔
+Le musée du Louvre	卢浮宫
+C'était en hiver	那是在冬天
+j'ai visité une plage	我参观了一片海滩
+rappelle	记得(动词“rappeler”的第1人称单数现在时变位)
+Je me rappelle après l'examen qu'il y a pas de plage à Paris	我记得考试后发现巴黎没有海滩
+A Paris, il y a une activité chaque année en été qui s'appelle Paris - Plage	在巴黎,每年夏天都有一个叫“巴黎海滩”的活动
+c'est trop sale	这太脏了
+Shanghai - Plage	上海海滩
+J'ai passé de bonnes à Thionville	我在提翁维尔度过了一段美好时光。
+ai découvert	发现了“découvert” 是动词 “découvrir” 的过去分词,“ai découvert” 构成复合过去时
+salon de thé	茶馆
+J'ai découvert qu'il y avait un salon de thé avec des chats à Thionville	我发现提翁维尔有一个有猫的茶馆。
+suis allé,	是 “aller(去)” 的复合过去时第一人称单数形式,主语是男性 “我”,如女性要用“allée”
+caresser	摸
+je suis allé caresser les chats	我去摸了摸那些猫。
+Ce WE, en France, c'est le WE de Pâques	这个周末,法国是复活节的周末。
+Pâques	复活节
+Easter	复活节
+Et lundi on ne travaille pas	周一不工作。
+les Français font	“font” 是动词 “faire(做)” 的第三人称复数现在时形式
+Qu'est-ce que les Français font à Pâques	法国人在复活节做什么?
+On mange du chocolat	吃巧克力。
+On mange des œufs en chocolat	我们吃巧克力彩蛋
+des lapins en chocolat	巧克力兔子
+des poules en chocolat	巧克力母鸡
+des poissons en chocolat	巧克力鱼
+des cloches en chocolat	巧克力钟
+anciens	古老的,以前的(复数)
+Un de mes anciens élèves était à Paris, on est allé au ciné et au restaurant ensemble	我以前的一名学生当时在巴黎,我们一起去看了电影还去了餐厅。
+Il étudie à Rouen -ESIGELEC, il vient des fois à Paris	他在鲁昂(高等电子与电工技术工程师学校)上学,他有时候会来巴黎。
+Des voleurs	小偷(复数)=thieves
+des touristes	游客(复数)=tourists
+arrivent	到达,动词 “arriver(到达;抵达)” 的第三人称复数
+il faut	“应该,必须”,后面加动词原形
+faire attention	注意=be careful
+porter des choses chers	穿戴贵重物品
+Des touristes américains arrivent à Paris, ils ne savent qu'il faut faire attention, il ne faut porter des choses chers	一些美国游客抵达巴黎,他们不知道应该要注意(安全),不应该佩戴贵重物品。
+Fête d'anniversaire	生日派对; – Vous voulez organiser la fête d'anniversaire de votre ami Julien生日派对 – 你想要为你的朋友朱利安组织一场生日派对。
+L'examinateur	考官(阳性名词); 主考人、考官(阳性)
+mettre	:是动词(放置,挂)的原形。; 放
+mieux	更好(bien的比较级); “bien(好)” 的比较级,表示 “更好地;更好”
+disent	“说”,法语动词 dire(意为“说”或“讲”)的第三人称复数现在时; “dire(说)” 的第三人称复数现在时变位
+jamais	“从未” - 副词; “从不;绝不;从未”= never
+toujours	仍然(副词); “总是;始终”= always
+gratuit	:免费的、无偿的。; 免费的;无偿的
+C'est gratuit	:这是免费的。; 这是免费的。(妈妈说:600多元一个人,你搞错了!)
+Tu es contente	你高兴吗?; 你开心吗?
+écrire	写(ECRIRE); 写(原形动词)
+rappeler	提醒; 记得
+avait	动词 “avoir(有)” 的直陈式未完成过去时第三人称单数形式,可表示过去拥有的特征,如 “avait une grosse voix” 即“有一副粗嗓音” 。; 是动词 “avoir” 的第三人称单数未完成过去时
+des fois	有时候,在句中作时间状语,表明动作发生的频率; 有时候=sometimes
