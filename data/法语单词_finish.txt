@@ -1703,3 +1703,53 @@ Je veux faire de la plongée	我想要去潜水。
 lentement	慢,慢慢地
 comprenons	懂,理解,明白
 sac à dos	背包
+est-ce qu'	吗
+apprennent	学,学得
+comprennent	理解,明白,懂得
+apprend	学,教
+élève	学生
+tout	所有的,共,所有东西
+comprenez	理解,了解,懂
+est-ce que	吗,是否,是不是
+apprenez	学
+septembre	九月
+apprends	学
+comprends	懂,懂得,理解
+examen	考试,考
+choisissent	选择(第三人称复数)
+finit	做完,结束,完(第三人称单数)
+choisit	选择(第三人称单数)
+finissent	做完(第三人称复数)
+idée	主意(阴性)
+finissez	做完(第二人称复数)
+finissons	做完(第一人称复数)
+choisissons	选择(第一人称复数)
+choisissez	选择(第二人称复数)
+avril	四月
+date	日期(阴性)
+choisis	选择,选(第二人称单数)
+finis	做完,完(第一、二人称复数)
+quoi	怎么样,什么,么(代词)
+horaire	时间表(阴性)
+choisir	选择(动词)
+finir	做完,结束(动词)
+projet	项目,项(阳性)
+chef	领导,厨师长(阳性)
+mars	三月
+seize	十六
+besoin	需要,需(阳性)
+réunion	会议(阴性)
+une réunion de travail	工作会议
+leurs	他们的,她们的,它们的; 他们的,她们的(复数)
+leur	他们的,她们的,它们的; 她们,给他们,她们的
+dix-neuf	十九[diznœf]; 十九
+dix-huit	十八[dizɥit]; 十八
+dix-sept	十七[dissɛt]; 十七
+salle	房间,室; 厅,大厅,室(阴性)
+animaux	动物
+juillet	七月
+comprend	理解,懂,知道
+matière	课
+dictionnaire	字典
+besoin de	需要
+géniaux	很棒的,棒

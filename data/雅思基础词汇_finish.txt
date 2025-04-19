@@ -947,3 +947,50 @@ ceremony	(n.) 仪式；典礼
 cooker	(n.) 炉具 ，炊具
 announce	(vt.) 宣布；   v. 显示
 software	(n.) 软件
+nearly	(adv.) 将近 ，几乎 ，差不多
+baseball	(n.) 棒球（运动）
+alive	"adj. 活着的 ，在世；活跃 的 ，有生气的；充满的；  …"
+kill	(v.) 杀死；导致死亡
+develop	"v. 发展；壮大；开发 ，研 制 ；加强 ，增强 ，发挥；  …"
+encourage	(v.) 鼓励 ，支持；促使
+web	(n.) 网
+lose	(v.) 失去
+electrical	(adj.) 电的
+instead	(adv.) 代替 ，顶替；更换
+kid	"n. 小孩 ，儿童；   v. 开玩 笑 ，欺骗"
+certain	"adj. 某一 ，某些 ，一定 （ 量）  的；确定的"
+airport	(n.) 机场
+goal	"n. 目标；球门； （进球）得 分"
+manage	(v.) 设法完成 ，管理
+store	(n.) 商店；   v. 贮藏 ，储存
+maximum	(adj.) 最大的；   n. 最大值
+central	(adj.) 中心的
+shape	"n. 形状；身材；   vt. 使形 成 ，塑造"
+put	"v. 使处于；放 ，摆；表达， 表述；  写上 ，记上"
+special	"adj. 特别的；特殊的 ，不寻 常的；   n. 特色菜 ，特产 …"
+sand	(n.) 沙
+huge	(adj.) 巨大的
+pack	"v. 收拾 ，打包；塞满 ，挤 满；   n. 群；行李"
+mention	(vt.) 提到
+kite	(n.) 风筝
+trust	(n.) 信任；   v. 信任 ，相信
+stressful	(adj.) 压力大的 ，令人紧张的
+keen	(adj.) 热衷的 ，渴望的
+usually	(adv.) 通常 ，经常
+stress	(n.) 压力；   v. 强调
+mountain	(n.) 山，  山脉
+cabin	(n.) （简陋的）小屋
+guide	"n. 导游；指南 ，手册；   v. 引导 ，指导"
+grant	(v.) 允许，  同意，  准允 ﬂight	n. 航班；航程；空中航行
+route	(n.) 路线
+annual	(adj.) 年度的 ，一年一次的
+wild	"adj. 野生的；荒芜的；   n. 自然环境；野生状态"
+aim	(v.) 目的是，   旨在；   n. 目标
+ladder	(n.) 梯子
+tourism	(n.) 旅游 ，观光
+virus	(n.) 病毒
+fax	(v.) 用传真传输
+dishwasher	(n.) 洗碟机
+preposition	(n.) 前置词 ，介词
+certificate	"n. 证明 ，证明书（读作/sər ˈtɪfɪkɪt/）"
+unlikely	(adj.) 不太可能的
