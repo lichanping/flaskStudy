@@ -1749,7 +1749,6 @@ Il joue souvent des personnages gay	他经常扮演“同性恋”角色。
 ne... pas	不......; 不
 sais	知道(savoir的现在式第二人称单数形式)
 déjà	“已经” - 副词
-oublié	忘记(过去分词)
 avais	有(过去时,第一人称单数)
 J'avais oublié de t'envoyer les notes	我忘了给你发笔记。
 Samedi 22 mars 2025	“2025年3月22日,星期六”
@@ -2059,7 +2058,7 @@ Vous allez au bureau de tourisme pour demander des informations sur les activit�
 l'employé	员工
 L'examinateur joue le rôle de l'employé de l'office de tourisme	考官扮演旅游信息处员工的角色。
 La présentation de Camille	卡米尔的自我介绍
-Tu as oublié de mettre tes lunettes	
+Tu as oublié de mettre tes lunettes	你忘了戴你的眼镜了。
 des lunettes	眼镜
 mettre sur la table	放置在桌子上面
 mettre ses lunettes	戴上他 / 她 / 他们等的眼镜
@@ -2164,3 +2163,4 @@ Tu es contente	你高兴吗?; 你开心吗?
 rappeler	提醒; 记得
 avait	动词 “avoir(有)” 的直陈式未完成过去时第三人称单数形式,可表示过去拥有的特征,如 “avait une grosse voix” 即“有一副粗嗓音” 。; 是动词 “avoir” 的第三人称单数未完成过去时
 des fois	有时候,在句中作时间状语,表明动作发生的频率; 有时候=sometimes
+oublié	忘记(过去分词); 忘记了,是动词 “oublier” 的过去分词

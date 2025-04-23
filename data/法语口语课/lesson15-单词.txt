@@ -27,7 +27,7 @@ Vous allez au bureau de tourisme pour demander des informations sur les activit�
 l'employé 员工
 L'examinateur joue le rôle de l'employé de l'office de tourisme考官扮演旅游信息处员工的角色。
 La présentation de Camille卡米尔的自我介绍
-Tu as oublié de mettre tes lunettes
+Tu as oublié de mettre tes lunettes你忘了戴你的眼镜了。
 des lunettes眼镜
 mettre 放
 mettre sur la table放置在桌子上面
