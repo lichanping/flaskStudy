@@ -1,48 +1,4 @@
 class LearnWords {
-    // 注释掉原readText方法，改用IndexedDB方案
-    /* static async readText(fileName) {
-        // 从 sessionStorage 中获取 studentName
-        let studentName = sessionStorage.getItem('studentName');
-        // 判断 studentName 是否为 null 或空值
-        const directoryName = studentName && studentName.trim() !== '' ? studentName : '法语';
-        const filePath = `data/review/${directoryName}/${fileName}`;
-        const cachedData = localStorage.getItem(filePath);
-
-        if (cachedData) {
-            console.log("If cached data exists, parse and return it, good optimization!");
-            // If cached data exists, parse and return it
-            return JSON.parse(cachedData);
-        } else {
-            const response = await fetch(filePath);
-            const text = await response.text();
-            const data = [];
-            const pattern = /^([a-zA-ZéèêëîïùûüàâäôöçœÉÇÀ\'\s\-\.\/\?\？，,0-9]+)\s*(.*)$/;
-            const encounteredWords = new Set();
-            text.split('\n').forEach(line => {
-                const match = line.trim().match(pattern);
-                if (match) {
-                    let [_, englishWord, translation] = match;
-                    englishWord = englishWord.trim(); // Trim any whitespace or tabs
-                    if (englishWord && translation) {
-                        if (encounteredWords.has(englishWord)) {
-                            console.error("Duplicate: ", englishWord);
-                        } else {
-                            encounteredWords.add(englishWord);
-                            data.push({"单词": englishWord, "释意": translation});
-                        }
-                    } else {
-                        console.error("Translation missing or empty for English word:", englishWord);
-                    }
-                }
-            });
-
-            // Cache the fetched data
-            localStorage.setItem(filePath, JSON.stringify(data));
-            console.log(JSON.stringify(data));
-            return data;
-        }
-    } */
-
     static shuffleArray(array) {
         for (let i = array.length - 1; i > 0; i--) {
             const j = Math.floor(Math.random() * (i + 1));
@@ -683,7 +639,7 @@ function displayToast(message) {
 
 function processText(text) {
     const data = [];
-    const pattern = /^([a-zA-ZéèêëîïùûüàâäôöçœÉÇÀ\'\s\-\.\/\?\？，,0-9]+)\s*(.*)$/;
+    const pattern = /^([a-zA-ZéèêëîïùûüàâäôöçœÉÇÀ\'\s–\.\/\?\？，,0-9-]+)\s*(.*)$/;
     const encounteredWords = new Set();
     
     text.split('\n').forEach(line => {

@@ -149,7 +149,7 @@ class TxtToXLSX:
                 # Replace specific ligatures
                 line = line.replace('ﬂ', 'fl').replace('ﬁ', 'fi')
 
-                match = re.match(r'([a-zA-ZéèêëîïùûüàâäôöçœÉÇÀ\'\s\-\.\/\?\？，,0-9]+)\s*(.*)', line)
+                match = re.match(r'([a-zA-ZéèêëîïùûüàâäôöçœÉÇÀ\'\s–\.\/\?\？，,0-9-]+)\s*(.*)', line)
                 if match:
                     english_word, translation = match.groups()
                     english_word = english_word.strip()
@@ -212,7 +212,7 @@ class TxtToXLSX:
         missing_sound_file = os.path.join(self.data_folder, "MissingSound.txt")  # Path to store missing sound words
         file_path = os.path.join(self.data_folder, file_name)
         data = []
-        pattern = re.compile(r'([a-zA-ZéèêëîïùûüàâäôöçœÉÇÀ\'\s\-\.\/\?\？，,0-9]+)\s*(.*)')
+        pattern = re.compile(r'([a-zA-ZéèêëîïùûüàâäôöçœÉÇÀ\'\s–\.\/\?\？，,0-9-]+)\s*(.*)')
         with open(file_path, 'r', encoding='utf-8') as file:
             for line in file:
                 match = pattern.match(line.strip())
