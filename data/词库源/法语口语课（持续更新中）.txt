@@ -2047,7 +2047,7 @@ cette fête	这场派对
 Vous discutez ensemble et vous vous mettez d'accord sur l'organisation de cette fête	你们一起讨论并就这场派对的组织达成一致。
 le rôle	角色
 L'examinateur joue le rôle de l'ami français	考官扮演法国朋友的角色。
-Tourisme	– Vous visitez Montpellier en été avec vos parents旅游 – 你夏天和父母一起参观蒙彼利埃。
+Tourisme–Vous visitez Montpellier en été avec vos parents	旅游 – 你夏天和父母一起参观蒙彼利埃。
 tourisme	旅游,观光
 demander	询问
 des informations	信息
