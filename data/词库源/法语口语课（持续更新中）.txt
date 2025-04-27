@@ -2206,7 +2206,7 @@ tomber malade	(生病)
 Je suis tombé malade hier	我昨天生病了。
 aimer	喜欢。
 elle t'a dit qu'elle préférait les femmes	她告诉你她更喜欢女性。
-tu penses quoi?	你怎么看?
+tu penses quoi	你怎么看?
 je suis choquée	"我很震惊。"
 Vous pensez qu'elle aime les femmes aussi	你觉得她也喜欢女性吗?
 Non, elle a un copain -un petit ami	不,她有一个男朋友。
