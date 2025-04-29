@@ -15,9 +15,12 @@ Ah, tous les jours  每天？
 seulement  仅仅
 Non, je vais à Paris du lundi au mercredi seulement  不，我仅仅在星期一到星期三去巴黎
 Le reste de la semaine, je travaille à la maison每周剩下的时间里，我在家工作。
-Et tu pars à quelle heure le matin  你早上几点出发？
+Et tu pars à quelle heure le matin  你每天早上几点出发？
+Très tôt   非常早
 à six heures trente  六点半
 Et je rentre tard le soir vers vingt et une heures, vingt et une heures et demie  我晚上回家很晚，大约九点到九点半
-Mais c'est seulement trois jours par semaine, ça va  但是这仅仅是一周三天，还好吧.
+par jour 每天
+par semaine 每周
+Mais c'est seulement trois jours par semaine, ça va  但是这仅仅是每周三天，还好吧.
 Qu'est-ce que tu fais à Londres, alors  那么你在伦敦干什么？
 Là, je suis en vacances  我在那里度假
