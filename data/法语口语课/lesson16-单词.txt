@@ -77,7 +77,7 @@ je te crois 我相信你。
 nouvelle新的（阴性）
 l'athlétisme田径运动
 A l'école j'ai une nouvelle activité sportive le mercredi, c'est l'athlétisme 在学校，我每周三有一项新的体育活动，那就是田径。
-Le 21 mai je vais avoir un examen d'informatique 5月21日我将参加一场计算机考试。
+Le 21 mai je vais avoir un examen d'informatique "5月21日我将参加一场计算机考试。"
 tu n'aimes pas les ordinateurs 你不喜欢电脑。
 chez toi, qui est fort en informatique 你家里谁擅长计算机？
 cauchemars “cauchemar（噩梦）” 的复数形式
