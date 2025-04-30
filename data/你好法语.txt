@@ -1,33 +1,3 @@
-Le 21 mai je vais avoir un examen d'informatique "5月21日我将参加一场计算机考试。"
-tu n'aimes pas les ordinateurs	你不喜欢电脑。
-chez toi, qui est fort en informatique	你家里谁擅长计算机?
-cauchemars	“cauchemar(噩梦)” 的复数形式
-J'ai mal dormi, j'ai fait des cauchemars	我睡得很不好,做了噩梦。
-cochon	名词,“猪”,阳性。
-En attendant Lisa -étudiante de 20h, j'ai demandé à ChatGPT de faire une image de moi en cochon	等待Lisa(20点的学生)时,我让ChatGPT做了一张我变成猪的图。
-c'est rigolo	好笑
-Tu as déjà demandé à DeepSeek de te faire une image de toi en animal	你有没有让DeepSeek做一张你变成动物的图?
-Des camarades le font	有同学这么做吗?(font:是动词 “faire(做;干;进行)” 的第三人称复数直陈式现在时
-Je suis allé voir Nezha 2	我去看了哪吒2。
-tellement	副词,意为 “如此,这样;很,非常;那么些,这么些” ,在本句中表示程度,
-pas tellement	意思是 “不是很,不太”。
-je n'ai pas tellement aimé le film	我不是很喜欢这部电影。
-raison	原因;理由;理智;道理
-histoire	历史;故事;经历;情况
-compliqué	复杂的,错综复杂的
-1ère raison - l'histoire est trop compliqué	第一个原因- 故事太复杂。
-trouvé	动词 “trouver(找到;觉得;认为)” 的过去分词形式
-regarder	动词,“看;观看;注视”,这里是动词原形
-2e raison - je n'ai pas trouvé ça beau à regarder	第二个原因- 我觉得看起来不美。
-Dans la salle il n'y avait que des	华裔 在电影院里只有华裔。
-En Europe on a des histoires de Dieux	在欧洲,我们有关于神的故事。
-C'est pareil, je ne comprends rien	一样的,我什么都不懂。
-Les immortels	不朽者。
-Les dieux	神。
-Les dragons	龙。
-une randonnée	徒步旅行;远足;散步” 的意思,阴性。
-Je suis allé faire une randonnée près du château de Versailles	我去凡尔赛宫附近徒步旅行
-marché	“marcher(走,行走;行进;运转)” 的过去分词形式,与 “j'ai” 构成复合过去时,表示过去发生的 “行走” 这个动作。
 J'ai marché 15 km dans la forêt	我在森林里走了15公里。
 Le palais impérial	故宫
 Le château de Versailles	凡尔赛宫
