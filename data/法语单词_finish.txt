@@ -1753,3 +1753,53 @@ matière	课
 dictionnaire	字典
 besoin de	需要
 géniaux	很棒的,棒
+réception	前台
+animal	动物
+wi-fi	无线上网
+compris	包含在内的,懂
+mai	五月
+juin	六月
+douche	淋浴间,澡
+simple	单人的,单,简单
+combien de	几,几条,几本
+nuits	夜晚,晚
+télévision	电视
+voici	这是,这儿是,这就是prep
+adresse	地址,住址n.f.
+billet	票,入场券,门票,(车、船)票; 张
+le soir	在晚上
+d'habitude	通常
+faire du sport	进行体育锻炼
+le matin	在早上
+fais	做,办
+toujours	还,一直,总是
+faites	做
+que	什么pron.interr.; 什么,的
+pleut	下雨
+soleil	阳光,太阳,阳
+octobre	十月
+fait-il	天气
+automne	秋天,秋
+août	八月
+froid	冷的,冷
+beau	很好,美丽的,好
+chaud	热的
+trop	太多了,太多,太大了
+en général	一般来说
+dent	凹痕,牙齿
+journaux	报纸
+génial	棒,很棒的,十分好
+non-fumeur	无烟的
+mot de passe	密码
+prendre une douche	洗淋浴
+propre	干净的,净
+réserver	预订
+serviette	毛巾,餐巾,巾
+clé	钥匙
+bain	洗澡,沐浴
+neige	雪,下雪
+vent	风
+nuage	云
+dehors	外面
+quart	一刻,刻
+coucher	卧,上床睡觉
