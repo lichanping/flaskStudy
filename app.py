@@ -161,6 +161,13 @@ def index():
             new_file_name = txt_reader.move_words_to_new_file(selected_file, review_words)
             words = txt_reader.read_words_from_txt(selected_file)
             return render_template('index.html', words=words)
+        elif action == 'mark_known':
+            selected_file = request.form['file_name']
+            selected_check_words = request.form.getlist('check_word')
+            # 只移动 ✓ 单词，不调度复习
+            txt_reader.move_words_to_new_file(selected_file, selected_check_words)
+            words = txt_reader.read_words_from_txt(selected_file)
+            return render_template('index.html', words=words)
 
         # elif action == 'resist_forgetting':
         #     selected_file = request.form['file_name']

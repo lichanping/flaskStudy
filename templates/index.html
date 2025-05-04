@@ -17,13 +17,17 @@
         <option value="法语单词.txt">法语单词</option>
         <option value="你好法语.txt">你好法语</option>
         <option value="法语妈妈.txt">法语妈妈</option>
-<!--        <option value="雅思全部(卢).txt">雅思全部</option>-->
-<!--        <option value="中考考纲词组.txt">中考考纲词组</option>-->
-<!--        <option value="中考词汇.txt">中考词汇</option>-->
+        <!--        <option value="雅思全部(卢).txt">雅思全部</option>-->
+        <!--        <option value="中考考纲词组.txt">中考考纲词组</option>-->
+        <!--        <option value="中考词汇.txt">中考词汇</option>-->
     </select>
     <input type="hidden" name="selected_file" id="selected_file" value="">
     <button type="submit" onclick="document.getElementById('action').value = 'check';">刷新</button>
     <div id="buttonsContainer">
+        <button id="markKnownButton" type="submit" onclick="document.getElementById('action').value = 'mark_known';">
+            标记 ✓=会
+        </button>
+        <button id="selectAllUnknownButton" type="button">全选 ✗</button>
         <button id="startLearningButton" type="submit" onclick="document.getElementById('action').value = 'learn';">
             完成(✓=会，✗=不会)
         </button>
@@ -119,6 +123,9 @@
     document.getElementById('startLearningButton').addEventListener('click', function (event) {
         handleSubmission(event, 'learn');
     });
+    document.getElementById('markKnownButton').addEventListener('click', function (event) {
+        handleSubmission(event, 'mark_known');
+    });
 
     // // Add event listener for resistForgettingButton click
     // document.getElementById('resistForgettingButton').addEventListener('click', function (event) {
@@ -193,6 +200,27 @@
             // Add border to the clicked item
             item.classList.add('clicked');
         }
+
+        document.getElementById('selectAllUnknownButton').addEventListener('click', function () {
+            document.querySelectorAll('.wordItem').forEach(item => {
+                const closeButton = item.querySelector('.closeButton');
+                const checkButton = item.querySelector('.checkButton');
+
+                // Only mark as ✗ if not already clicked
+                if (!closeButton.classList.contains('clicked')) {
+                    closeButton.classList.add('clicked');
+                    selectedCount++;
+
+                    // If it was previously marked as ✓, unmark it and update learnedCount
+                    if (checkButton.classList.contains('clicked')) {
+                        checkButton.classList.remove('clicked');
+                        learnedCount--;
+                    }
+                }
+            });
+
+            updateLabel(); // Update the counts on the UI
+        });
 
         document.querySelectorAll('.wordItem').forEach((item, index) => {
             // Add event listener to the closeButton
