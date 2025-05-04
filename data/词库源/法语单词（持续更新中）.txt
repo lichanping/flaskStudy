@@ -1240,7 +1240,6 @@ blonde	金色的,金色头发(阴性单数)
 brune	棕色的(阴性)
 brun	棕色的
 chaussure	鞋;鞋子,靴n.f.
-chemise	男式衬衫n.f.
 chemisier	女衬衫n.m.
 chose	事情,事物n.f.
 d'accord	同意,赞同loc.adv.
@@ -1252,7 +1251,6 @@ Un homme grand	身材高大的男人
 Un grand homme	伟大的人
 un jean	牛仔裤n.m.
 Je parle à lui	(我在和他说话。)
-lunettes	眼镜,阴性复数名词
 des lunettes	眼镜
 noire	黑色的n.f.
 pantalon	裤子;长裤n.m.
@@ -1656,3 +1654,27 @@ chapeau	帽子n.m.
 noir	黑色的,黑,黑色
 quarante	四十; 四十
 vingt	二十[vɛ̃t]; 二十
+le jean	这条牛仔裤
+parce qu'elle	因为它,因为她
+marron	栗色的
+mêmes	相同的,样,同样
+parce qu'il	因为,因为他,因为它
+même	即使是,连,同样
+celles-ci	这些
+nouvel	新,新的
+porter des lunettes	戴眼镜
+celles-là	那些,那双
+jaune	黄色的,黄色,黄
+porter	戴,带,担
+celle-ci	这个
+celle-là	那个
+bel	美丽的,好看的,美的
+nouvelle	新人,消息,新
+ceux-là	那些
+ceux-ci	这些
+manteaux	大衣
+chapeaux	帽子,帽
+beaux	美丽的,美丽,好看
+nouveaux	新,新人,新的
+lunettes	眼镜,阴性复数名词; 眼镜,镜
+chemise	男式衬衫n.f.; 衬衫,衫
