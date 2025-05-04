@@ -1,125 +1,125 @@
-Samedi 26 avril 2025	"2025年4月26日,星期六"
-Il en reste 0	还剩下0个。
-Traduction	翻译
-CAMILLE- Bonjour Antoine	"CAMILLE-你好,安托万。"
-ANTOINE- Bonjour Camille	"ANTOINE-你好,Camille。"
-CAMILLE- tu sais que c'est bientôt l'anniversaire de Julien	"CAMILLE-你知道朱利安的生日快到了。"
-ANTOINE- je savais pas	"ANTOINE-我不知道。"
-fête	派对	pàiduì
-CAMILLE- j'aimerais organiser une fête pour son anniversaire	"CAMILLE-我想为他的生日举办一个派对。"
-serais	动词 “être(是)” 的条件式现在时第二人称单数形式
-amoureuse	形容词,意思是 “爱恋的,钟情的,相爱的”“amoureux(阳性)/amoureuse(阴性)”
-amoureux	形容词,意思是 “爱恋的,钟情的,相爱的”(阳性)
-être amoureux de	喜欢
-ANTOINE- Camille, tu ne serais pas un peu amoureuse de Julien	"ANTOINE-Camille,你是不是有点喜欢Julien?"( “ne...pas” 与条件式 “serais” 一起,带有 “难道不...... 吗” 的意思)
-bête	傻的,愚蠢的(familier, un peu idiot)
-plaisir	愉快,高兴;乐趣(名词)
-faire plaisir	让...开心
-CAMILLE- mais non, t'es bête, c'est un très bon ami, je veux juste lui faire plaisir	"CAMILLE-当然不是啦,你真傻,他是一个很好的朋友,我只是想让他开心。"
-comprendre	明白
-ANTOINE- D'accord, je comprends, je vais t'aider à l'organiser	"ANTOINE-好的,我明白了,我来帮你组织。"
-Liste de vocabulaire	词汇表
-Les parents de Camille ont acheté 16 nouvelles heures de cours	"Camille的父母购买了16小时的新课程。"
-Les cours seront le vendredi et le samedi de 21h à 22h	"课程将在周五和周六晚上21点到22点进行。"
-manger français	吃法国菜。
-manger japonais	吃日本菜。
-manger chinois	吃中国菜。
-manger un Français	吃一个法国人。
-manger un Japonais	吃一个日本人。
-manger un Chinois	吃一个中国人。
-cru	生的,未煮熟的”,阳性单数形式
-poisson cru	生鱼片
-tu as du poisson cru	你有生鱼片吗?
-j'aime tous les poissons crus	我喜欢所有的生鱼片。
-du thon	金枪鱼。
-du saumon	三文鱼。
-de la sardine	沙丁鱼。
-du maquereau	马鲛鱼。
-J'aime tout mais j'aime beaucoup le saumon	我什么都喜欢,但我特别喜欢三文鱼。
-thon	金枪鱼
-saumon	三文鱼
-daurade	鲷鱼
-maquereau	鲭鱼
-anguille	鳗鱼
-crevette	虾
-coquille Saint-Jacques	扇贝	shànbèi
-Les coquilles Saint - Jacques sont très délicieuses	扇贝肉很好吃。
-calmar	鱿鱼
-poulpe	章鱼
-sériole	鰤鱼	shīyú
-chinchard	竹荚鱼	zhújiáyú
-alose	鲥鱼	shíyú
-oursin	海胆
-oursin -pas un poisson, mais utilisé aussi	海胆-不是鱼,但也可以使用。
-ma camarade m'a dit qu'elle est amoureuse du professeur de maths qui est une femme	我的同学告诉我她爱上了数学老师,数学老师是个女人。
-tomber	陷入(某种状态)
-tomber malade	(生病)
-Je suis tombé malade hier	我昨天生病了。
-aimer	喜欢。
-elle t'a dit qu'elle préférait les femmes	她告诉你她更喜欢女性。
-tu penses quoi	你怎么看?
-je suis choquée	"我很震惊。"
-Vous pensez qu'elle aime les femmes aussi	你觉得她也喜欢女性吗?
-Non, elle a un copain -un petit ami	不,她有一个男朋友。
-Elle a confiance en toi	她相信你。
-avoir confiance en quelqu'un	信任某人。
-avoir confiance en	信任。
-je te crois	我相信你。
-nouvelle	新的(阴性)
-l'athlétisme	田径运动
-A l'école j'ai une nouvelle activité sportive le mercredi, c'est l'athlétisme	在学校,我每周三有一项新的体育活动,那就是田径。
-Le 21 mai je vais avoir un examen d'informatique 5	月21日我将参加一场计算机考试。
-tu n'aimes pas les ordinateurs	你不喜欢电脑。
-chez toi, qui est fort en informatique	你家里谁擅长计算机?
-cauchemars	“cauchemar(噩梦)” 的复数形式
-J'ai mal dormi, j'ai fait des cauchemars	我睡得很不好,做了噩梦。
-cochon	名词,“猪”,阳性。
-En attendant Lisa -étudiante de 20h, j'ai demandé à ChatGPT de faire une image de moi en cochon	等待Lisa(20点的学生)时,我让ChatGPT做了一张我变成猪的图。
-c'est rigolo	好笑
-Tu as déjà demandé à DeepSeek de te faire une image de toi en animal	你有没有让DeepSeek做一张你变成动物的图?
-Des camarades le font	有同学这么做吗?(font:是动词 “faire(做;干;进行)” 的第三人称复数直陈式现在时
-Je suis allé voir Nezha 2	我去看了哪吒2。
-tellement	副词,意为 “如此,这样;很,非常;那么些,这么些” ,在本句中表示程度,
-pas tellement	意思是 “不是很,不太”。
-je n'ai pas tellement aimé le film	我不是很喜欢这部电影。
-raison	原因;理由;理智;道理
-histoire	历史;故事;经历;情况
-compliqué	复杂的,错综复杂的
-1ère raison - l'histoire est trop compliqué	第一个原因- 故事太复杂。
-trouvé	动词 “trouver(找到;觉得;认为)” 的过去分词形式
-regarder	动词,“看;观看;注视”,这里是动词原形
-2e raison - je n'ai pas trouvé ça beau à regarder	第二个原因- 我觉得看起来不美。
-Dans la salle il n'y avait que des	华裔 在电影院里只有华裔。
-En Europe on a des histoires de Dieux	在欧洲,我们有关于神的故事。
-C'est pareil, je ne comprends rien	一样的,我什么都不懂。
-Les immortels	不朽者。
-Les dieux	神。
-Les dragons	龙。
-une randonnée	徒步旅行;远足;散步” 的意思,阴性。
-Je suis allé faire une randonnée près du château de Versailles	我去凡尔赛宫附近徒步旅行
-marché	“marcher(走,行走;行进;运转)” 的过去分词形式,与 “j'ai” 构成复合过去时,表示过去发生的 “行走” 这个动作。
-J'ai marché 15 km dans la forêt	我在森林里走了15公里。
-Le palais impérial	故宫
-Le château de Versailles	凡尔赛宫
-tes exercices de français	你的法语练习
-Lisa a appris à l'école le pronom -en	"Lisa在学校学了代词"en"。
-Tu as des bonbons chez toi	你家里有糖果吗?
-Oui j'en ai	是的,我有。(en:代词)
-Tu n'as pas encore appris -en	你还没有学过"en"。
-bientôt	不久; 快到了	kuài dàole
-anniversaire	生日,周年纪念日(名词);周年纪念的;生日的(形容词)
-savoir	知道
-Je sais	我知道
-Tu sais	你知道
-Il sait	他知道
-Elle sait	她知道
-Nous savons	我们知道
-Vous savez	你们知道
-Ils savent	他们知道
-organiser	组织; 举办
-aider	帮助(动词)规则的 -er 动词; 帮
-nouvelles	新闻(复数); 新的;新颖的
-tomber amoureux	坠入爱河 ,强调爱情产生的过程; 陷入爱河。
-sévère	严格; 严厉的(形容词); 严格
-croire	相信(动词); 意为“相信”。; 相信。
-encore	还(副词); 副词,此处表示 “还,仍然” =英语的yet; 副词,意为 “还,仍然;再,又;更,更加”,在这里表示 “还”,用于修饰动词 “appris”,说明动作 “学习” 的状态还未完成。
+Samedi 3 mai 2025	“2025年5月3日,星期六”
+Choisir entre 6 ou 7 et préparer le dialogue	“选择6或7,并准备对话”
+l'accueil	接待处
+Beaux-Arts	美术馆
+Vous êtes à l'accueil du musée des Beaux-Arts de Lyon avec votre famille	“你和你的家人在里昂美术博物馆的接待处。”
+renseignez	动词 renseigner 的第二人称复数形式,意为打听、询问
+les horaires d'ouverture et de fermeture	开放和关闭时间
+tarifs	票价
+proposés	提供的(动词 proposer 的过去分词形式,在这里作后置定语修饰 tarifs )
+Vous vous renseignez sur les jours et les horaires d'ouverture et de fermeture et les différents tarifs proposés	“你询问博物馆的开放和关闭时间以及不同的票价。”
+posez	动词 poser 的第二人称复数形式,意为提出、询问
+la librairie boutique	书店(兼具书店和精品店功能的场所)
+Vous posez des questions sur l'accès au jardin, à la librairie boutique et sur le café restaurant du musée	“你询问如何到达花园、书店和博物馆的咖啡餐厅。”
+l'employé du musée	博物馆的工作人员(阳性单数名词)
+L'examinateur joue le rôle de l'employé du musée	“考官扮演博物馆员工的角色。”
+CAMILLE Bonjour Monsieur	“卡米尔:您好,先生。”
+GASTON Bonjour Madame	“加斯顿:您好,女士。”
+me renseigner	打听、了解情况
+les différents tarifs	不同的票价
+CAMILLE Je suis avec ma famille et voudrais me renseigner sur les jours et les horaires d'ouverture et de fermeture et les différents tarifs proposés	“卡米尔:我和我的家人在这里,想了解一下开放和关闭的时间,以及不同的票价。”
+sauf	除了
+GASTON C'est ouvert tous les jours de 10h à 18h sauf le mardi	“加斯顿:博物馆每天从上午10点到下午6点开放,除了周二。
+les adultes	成人
+les moins de	少于、不到
+les moins de 18 ans 18	岁以下的
+Le prix c'est 15 euros pour les adultes et 12 euros pour les moins de 18 ans	成人票价是15欧元,18岁以下的儿童是12欧元。”
+CAMILLE Je voudrais aussi me renseigner sur l'accès au jardin, à la librairie et sur le café du musée	“卡米尔:我还想了解一下如何到达花园、书店和博物馆的咖啡厅。”
+sans payer	免费(payer:动词原形,意思是 “支付、付款” 。)
+vous pouvez y aller sans payer	您(你们)可以不花钱去那里
+falloir acheter un billet	需要买票
+il faut acheter un billet	需要买票(第三人称单数形式)
+GASTON Le café et la boutique vous pouvez y aller sans payer mais pour aller dans le jardin il faut acheter un billet	“加斯顿:咖啡厅和商店您可以免费进入,但要进入花园需要购买门票。”
+CAMILLE Merci beaucoup monsieur au revoir	“卡米尔:非常感谢您,先生,再见。”
+Lundi tu ne vas pas à l'école, tu es contente	“周一你不用去上学,你开心吗?”
+discutent	讨论(动词 discuter 的第三人称复数形式)
+des choses	事情,des(de 和 les 的缩合形式,一些、关于)
+pendant une semaine	在一周期间(pendant(介词,在...... 期间)
+Camille et Lisa discutent des choses qu'elles vont faire avec Ella pendant une semaine à Shanghai	“卡米尔和丽莎正在讨论她们将和艾拉在上海待一周期间要做的事情。”(Ella, Lisa, Camille)
+CAMILLE Bonjour Lisa, ça va	卡米尔:你好,丽莎,你好吗?
+morte	累死了(动词 mourir 的阴性单数形式)
+LISA Bonjour Camille, je suis morte et toi ça va	“丽莎:你好,卡米尔,我累死了,你呢,你好吗?
+notre amie Ella	我们的朋友艾拉
+CAMILLE Je suis un peu fatiguée, j'ai une nouvelle à te dire, notre amie Ella arrive à Shanghai la semaine prochaine	卡米尔:我有点累,我有个消息要告诉你,我们的朋友艾拉下周要来上海。
+racontes	讲述,说,瞎编(动词 raconter 的第二人称单数形式)
+n'importe quoi	意为 “任何东西,乱七八糟的东西,瞎话”
+LISA Non, c'est pas vrai, tu me racontes n'importe quoi	丽莎:不会吧,你在开玩笑吧。
+te jure	发誓(动词 jurer 的第一人称单数形式)
+CAMILLE Non, c'est vrai, je te jure	卡米尔:是真的,我保证。
+LISA C'est super, elle dort où chez toi	“丽莎:太好了,她住在哪里?住你家吗?”
+CAMILLE Oui, elle dort chez moi	卡米尔:是的,她住我家。
+discuter de	讨论关于......(动词 discuter 的不定式)
+On doit discuter de ce que l'on va faire avec elle à Shanghai	我们需要讨论一下在上海我们要和她一起做什么。
+LISA Oui, il faut préparer un peu	丽莎:是啊,我们需要稍微准备一下。
+penser à quoi	想要做什么(动词 penser 的不定式)
+comme programme	作为计划(comme:介词,意为 “作为”。)
+Tu penses à quoi comme programme	你有什么计划吗?
+la rivière	河流
+CAMILLE On peut aller au Bund, traverser la rivière pour visiter le centre ville de Pudong	卡米尔:我们可以去外滩,过河去参观浦东的市中心。
+LISA Quoi d'autre	丽莎:还有别的吗?
+ira	动词 aller 的简单将来时第三人称单数形式, 意为 将去;会去
+la présenter	介绍她
+CAMILLE Au musée de Shanghai, faire du shopping Rue Nankin, et puis on ira au lycée la présenter à la classe	卡米尔:去上海博物馆,在南京路购物,然后我们去学校把她介绍给班级。
+LISA Super programme	丽莎:太棒的计划了!
+Mais si	用于反驳对方否定的说法,可译为 “不,不是这样”
+Mais si, je vais à l'école lundi, j'ai deux heures de cours de français	“不,我周一要去上学,我有两小时的法语课。”
+Tu es sortie	“你出去了吗?”
+Je suis sortie à 16h faire du vélo avec ma mère	“我下午4点出去和妈妈一起骑自行车了。”
+Ma mère a préparé un examen d'IA	“我的妈妈准备了一场人工智能考试。”
+Elle aime ça, préparer des examens, oui oui elle aime ça	“她喜欢这个,准备考试,是的,她喜欢。”
+Le manga que ma mère m'a offert est arrivé	“我妈妈送给我的漫画已经到了。”
+arrête	停止(动词 arrêter 的第一人称单数形式)
+Moi je fais 10 films et après j'arrête	我拍10部电影,然后就停下来。
+à dire	要说的
+Je n'ai plus rien d'intéressant à dire	我没有什么有趣的要说的了。
+Elle est partie toute seule	她独自一人离开了。
+toute seule	独自一人?
+Cette fille, je l'aime beaucoup	这个女孩,我非常喜欢她。
+tuer	杀死;杀害(Elle tue)
+le monde	人们
+Elle tue tout le monde	她杀死了所有人。
+Je suis allé une fois au cinéma hier et une fois ce matin	我昨天去了一次电影院,今天早上又去了一次。
+Les linceuls- c'est un film bizarre	《裹尸布》是一部奇怪的电影。
+une mouche	一只苍蝇
+se transforme	变成(动词 se transformer 的第三人称单数形式)
+La mouche, c'est l'histoire d'un homme se transforme en mouche	《苍蝇》讲述了一个男人变成苍蝇的故事。
+un film roumain	罗马尼亚电影
+J'ai un film roumain hier	我昨天看了一部罗马尼亚电影。
+La Roumanie - c'est un pays d'Europe	罗马尼亚是一个欧洲国家。
+as entendu	听到(动词 entendre 的过去分词),和 “as” 一起构成复合过去时,表示过去已经完成的动作 “听到了”。
+compris	理解(动词 comprendre 的过去分词),和 “as” 构成复合过去时,表示过去没有完成的动作 “没有听懂”。
+Tu as entendu du roumain mais tu n'as pas compris	你听到了罗马尼亚语,但你没有听懂。
+Allemagne	德国	Déguó
+Autriche	奥地利	Àodìlì
+Belgique	比利时	Bǐlìshí
+Bulgarie	保加利亚	Bǎojiālìyà
+Chypre	塞浦路斯	Sàipǔlùsī
+Croatie	克罗地亚	Kèluōdìyà
+Danemark	丹麦	Dānmài
+Espagne	西班牙	Xībānyá
+Estonie	爱沙尼亚	Àishāníyà
+Finlande	芬兰	Fēnlán
+France	法国	Fǎguó
+Grèce	希腊	Xīlà
+Hongrie	匈牙利	Xiōngyálì
+Irlande	爱尔兰	Ài’ěrlán
+Italie	意大利	Yìdàlì
+Lettonie	拉脱维亚	Lātuōwéiyà
+Lituanie	立陶宛	Lìtáowǎn
+Luxembourg	卢森堡	Lúsēnbǎo
+Malte	马耳他	Mǎ’ěrtā
+Pays-Bas	荷兰	 Hélán
+Pologne	波兰	Bōlán
+Portugal	葡萄牙	Pútáoyá
+République tchèque	捷克	Jiékè
+Roumanie	罗马尼亚	Luómǎníyà
+Slovaquie	斯洛伐克	Sīluòfákè
+Slovénie	斯洛文尼亚	Sīluòwénníyà
+Suède	瑞典	Ruìdiǎn
+Il en reste 14	还剩下 14 个
+l'accès au jardin	花园的入口
+vrai	真的(形容词)
+et puis	连词短语,意为 “并且,然后”,用于连接两个并列的动作或情况。
+toute	副词,意为“整个”(toute la journée:整天); 是tout的阴性单数形式,作副词“非常,完全”
+seule	独自的、单独的(形容词,表示“独自”或“单独”); 是 seul 的阴性单数形式,意为 “单独的,孤独的”
+entendre	动词,意为 “听见,听到” 。
