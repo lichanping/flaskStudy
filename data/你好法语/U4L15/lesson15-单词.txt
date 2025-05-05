@@ -51,3 +51,79 @@ L'après-midi, je me repose   下午我休息。
 L'après-midi, je ne me repose pas, je travaille   下午我不休息，我工作。（me repose不可分割）
 Tu te lèves à quelle heure   你几点起床？
 À quelle heure te lèves-tu le dimanche   星期天你几点起床？
+se lever    起床(代词式动词)
+je me lève   我起床
+tu te lèves   你起床
+il se lève   他起床
+nous nous levons   我们起床
+vous vous levez   你们起床
+ils se lèvent   他们起床
+Tu te lèves à quelle heure   你几点起床？
+Je me lève à six heures du matin   我早上六点起床。
+athlétisme   田径n.m.
+boîte   盒子n.f.夜总会
+la boîte de nuit   夜总会
+aller en boîte   去夜总会
+campagne   乡村n.f.
+aller à la campagne   去乡村
+faire de la course   奔跑
+faire des courses   购物
+faire les courses   购物
+faire du jogging   慢跑
+faire un footing   踢足球
+d'abord   首先loc.adv.
+tout d'abord   首先
+ensuite   然后loc.adv.
+après   然后loc.adv.
+enfin   最后loc.adv.
+D'abord, je me lève, ensuite je me lave, après je prends le petit-déjeuner, enfin je sors de la maison   首先，我起床，然后我洗澡，之后我吃早饭，最后我出门。
+le déjeuner   午饭n.m.
+le dîner   晚饭n.m.
+prendre le déjeuner   吃午饭=dejeuner
+Qu'est-ce que tu fais    你在做什么？
+Je prends le déjeuner   我吃午饭。
+Je déjeune  我吃午饭。
+écouter   听v.t.
+ecouter de la musique   听音乐
+écouter une chanson   听一首歌
+écrire  写v.t.
+écrire une lettre   写一封信
+enfant   孩子n.m.
+jouer au foot  踢足球(au=à+le)
+générale  一般的(阴性形容词)
+en générale   一般来说=généralement
+généralement   一般来说(ment副词 = ly)
+En générale, les Français aiment prendre du vin  一般来说，法国人喜欢喝酒。
+gymnastique   体操n.f.
+faire de la gymnastique   做体操
+habiller   穿衣服(代词式动词)
+chaudement   温暖地adv.
+Je m'habille chaudement   我穿得暖和。
+jouer   玩，演奏v.i.
+jouer à玩
+jouer de演奏
+jouer au foot   踢足球
+jouer aux cartes   玩牌
+jouer aux échecs   下棋
+jouer de la guitare   弹吉他
+jouer du piano   弹钢琴
+laver  洗漱（代词式动词）
+se laver   洗漱
+je me lave tous les matins   我每天早上洗漱。
+lever   起床(代词式动词)
+Je me lève à six heures du matin   我早上六点起床。
+lire   读v.t.
+lire un journal   读一份报纸
+marché   市场n.m.集市
+aller au marché   去市场
+ménage   家务n.m.
+faire le ménage   做家务
+natation   游泳n.f.
+faire de la natation   游泳
+préparer   准备v.t.
+préparer les enfants   使孩子们准备好
+préparer un dîner   准备一顿晚餐
+se reposer   休息(代词式动词)
+faire du ski   滑雪n.m.
+témoignage见证，证明n.m.
+jouer au tennis   打网球(n.m.)
