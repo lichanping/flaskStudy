@@ -9,6 +9,7 @@ from flask import Flask, render_template, request, send_file
 app = Flask(__name__)
 # Configure Flask to serve static files from the 'static' directory
 app.static_folder = 'static'
+DEFAULT_WORD_LIMIT = 50
 
 # Mapping of word list files to student folders
 file_to_student_mapping = {
@@ -32,7 +33,7 @@ class TxtReader:
         self.data_folder = get_sub_folder_path('data')
         self.base_review_folder = os.path.join(self.data_folder, 'review')
 
-    def read_words_from_txt(self, file_name, limit=50):
+    def read_words_from_txt(self, file_name, limit=DEFAULT_WORD_LIMIT):
         file_path = os.path.join(self.data_folder, file_name)
         words = []
         pattern = re.compile(r'([a-zA-ZéèêëîïùûüàâäôöçœÉÇÀ\'\s–\.\/\?\？，,0-9-]+)\s*(.*)')
@@ -166,7 +167,8 @@ def index():
             selected_check_words = request.form.getlist('check_word')
             # 只移动 ✓ 单词，不调度复习
             txt_reader.move_words_to_new_file(selected_file, selected_check_words)
-            words = txt_reader.read_words_from_txt(selected_file)
+            remaining_limit = max(0, DEFAULT_WORD_LIMIT - len(selected_check_words))
+            words = txt_reader.read_words_from_txt(selected_file, limit=remaining_limit)
             return render_template('index.html', words=words)
 
         # elif action == 'resist_forgetting':
