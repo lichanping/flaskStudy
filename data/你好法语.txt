@@ -120,3 +120,44 @@ jouer au foot	踢足球(au=à+le)
 se laver	洗澡(代词式动词)
 Je me lève à six heures du matin	我早上六点起床。
 lire	读v.t.
+actuel	目前的,现实的,当前的adj
+actuelle	目前的,现实的,当前的adj 阴性
+bravo	太好了,干得好
+céréales	谷物,谷类食品n.f.pl.
+championne	冠军n.f. 阳性=champion
+se coucher	躺下,睡觉
+se détendre	放松
+difficile	难的,艰难的adj困难的
+s'endormir	入睡,睡着(s'表示反身)
+entraînement	训练,锻炼n.m.
+s'entraîner	训练,锻炼(s'表示反身)
+éviter	避免,躲避
+famille	家庭,家族n.f.家人,家属
+le fruit	水果n.m.
+habituel	习惯的,惯常的adj
+habituelle	习惯的,惯常的adj 阴性
+janvier	一月n.m.
+jus	果汁n.m.
+libre	自由的,空闲的adj
+longue	长的,长久的adj,阳性=long
+manger	吃v.t.
+Le match	比赛n.m.
+musculation	健身,肌肉锻炼n.f.
+nager	游泳v.i.
+la natation	游泳n.f.
+nouveau	新的,新的adj 阳性
+nouvelle	新的,新的adj 阴性
+peu	少,几乎没有adv不大,不太
+se promener	散步,遛(狗)
+recommencer	重新开始
+regarder	看,注视v.t.
+reprendre	重新从事v.t.
+reprendre le travail	重新开始工作
+retourner	返回v.i.
+retourner en Chine	返回中国
+sortir	出去,外出v.i.
+je sors de chez moi	我出门
+stresse	压力,紧张n.m.
+se terminer	结束,完结(代词式动词)
+toilette	梳洗,盥洗;梳妆,打扮n.f.
+yaourt	酸奶n.m.
