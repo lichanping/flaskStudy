@@ -1,53 +1,3 @@
-Je déjeune	我吃午饭。
-écouter	听v.t.
-ecouter de la musique	听音乐
-écouter une chanson	听一首歌
-écrire une lettre	写一封信
-enfant	孩子n.m.
-générale	一般的(阴性形容词)
-en générale	一般来说=généralement
-généralement	一般来说(ment副词 = ly)
-En générale, les Français aiment prendre du vin	一般来说,法国人喜欢喝酒。
-gymnastique	体操n.f.
-faire de la gymnastique	做体操
-habiller	穿衣服(代词式动词)
-chaudement	温暖地adv.
-Je m'habille chaudement	我穿得暖和。
-jouer	玩,演奏v.i.
-jouer à	玩
-jouer de	演奏
-jouer aux cartes	玩牌
-jouer aux échecs	下棋
-jouer de la guitare	弹吉他
-jouer du piano	弹钢琴
-laver	洗漱(代词式动词)
-je me lave tous les matins	我每天早上洗漱。
-lever	起床(代词式动词)
-lire un journal	读一份报纸
-marché	市场n.m.集市
-aller au marché	去市场
-ménage	家务n.m.
-faire le ménage	做家务
-natation	游泳n.f.
-faire de la natation	游泳
-préparer	准备v.t.
-préparer les enfants	使孩子们准备好
-préparer un dîner	准备一顿晚餐
-se reposer	休息(代词式动词)
-faire du ski	滑雪n.m.
-témoignage	见证,证明n.m.
-jouer au tennis	打网球(n.m.)
-Vous vous appelez comment	你叫什么名字?phr.; 您叫什么名字?(代词式动词)
-L'après-midi, je me repose	下午我休息。(me reposer,代词+动词); 下午我休息。
-Tu te lèves à quelle heure	你几点起床?
-d'abord	首先adv.; 首先loc.adv.
-ensuite	然后adv.接下来; 然后adv.=puis; 然后loc.adv.
-après	以后adv.然后=after; 然后loc.adv.
-enfin	最后adv.; 最后loc.adv.
-Qu'est-ce que tu fais	你在做什么?(Que+est-ce que变为qu'est-ce que); 你在做什么?
-écrire	写v.t.
-jouer au foot	踢足球(au=à+le)
-se laver	洗澡(代词式动词)
 Je me lève à six heures du matin	我早上六点起床。
 lire	读v.t.
 actuel	目前的,现实的,当前的adj
@@ -174,3 +124,69 @@ Je veux du pain, mais pas ce pain-là	我想要一些面包,但不是那个面�
 tous les jours	每天
 faire de la natation	游泳
 faire du ski	滑雪n.m.
+acheter	买v.t.
+J'achète	我买
+tu achètes	你买
+il achète	他买
+nous achetons	我们买
+vous achetez	你们买
+ils achètent	他们买
+assez	足够地adv.
+C'est assez	够吗?
+boire du vin	喝酒
+bouteille	瓶子n.f.
+une bouteille de vin	一瓶酒
+Chandeleur	圣蜡节(天主教节日,2月2日)
+il faut	必须,需要,应该(il无人称短语)
+falloir	原形(必须,需要)
+Il faut du beurre	需要一些黄油。
+Il faut écrire en français	应该用法语写。
+gramme	克n.m.
+un gramme de beurre	一克黄油
+inviter	邀请v.t.
+inviter des amis chez moi	邀请朋友来我家
+kilo	千克n.m.
+kilogramme	千克n.m.
+un kilo de farine	一千克面粉
+un kilogramme de farine	一千克面粉
+livre	磅n.f.半公斤
+une livre de	半公斤。。。
+litre	升n.m.
+un litre de lait	一升牛奶
+liste	清单n.f.单子
+faire une liste	列一个单子
+repas	餐n.m.进餐
+prendre un repas	吃一顿饭
+C'est tout	这就是全部。=that's all
+supermarché	超市n.m.
+aller au supermarché	去超市
+téléphoner	打电话v.i.
+téléphoner à qn	给某人打电话
+Je téléphone à mes parents	我给我父母打电话。
+cidre	苹果酒n.m.
+coca	可乐n.m.
+eau	水n.f.
+minéral	矿物的,矿泉水的adj.
+l'eau minérale	矿泉水
+vin	葡萄酒n.m.
+lait	牛奶n.m.
+crêpe	可丽饼n.f.
+fromage	奶酪n.m.
+légumes	蔬菜n.m.pl.
+viande	肉n.f.
+œuf	鸡蛋n.m.
+œufs	鸡蛋n.m.pl.
+un œuf	一只鸡蛋
+des œufs	一些鸡蛋(复数时f不发音)
+beurre	黄油n.m.
+farine	面粉n.f.
+confiture	果酱n.f.
+un pain	面包n.m.
+poisson	鱼n.m.
+pomme	苹果n.f.
+pomme de terre	土豆n.f.
+riz	大米n.m.
+salade	沙拉n.f.生菜;凉拌生菜
+sucre	糖n.m.
+boire	喝v.t.
+tout	(adv.) 十分,非常,极其,完全=tres; 全部,一切,整体,全体n.m.sing.
