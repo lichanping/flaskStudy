@@ -4425,3 +4425,53 @@ campagne	乡村n.f.
 faire de la course	奔跑
 faire du jogging	慢跑
 D'abord, je me lève, ensuite je me lave, après je prends le petit-déjeuner, enfin je sors de la maison	首先,我起床,然后我洗澡,之后我吃早饭,最后我出门。
+Je déjeune	我吃午饭。
+écouter	听v.t.
+ecouter de la musique	听音乐
+écouter une chanson	听一首歌
+écrire une lettre	写一封信
+enfant	孩子n.m.
+générale	一般的(阴性形容词)
+en générale	一般来说=généralement
+généralement	一般来说(ment副词 = ly)
+En générale, les Français aiment prendre du vin	一般来说,法国人喜欢喝酒。
+faire de la gymnastique	做体操
+habiller	穿衣服(代词式动词)
+Je m'habille chaudement	我穿得暖和。
+jouer	玩,演奏v.i.
+jouer à	玩
+jouer aux cartes	玩牌
+jouer de la guitare	弹吉他
+jouer du piano	弹钢琴
+laver	洗漱(代词式动词)
+je me lave tous les matins	我每天早上洗漱。
+lever	起床(代词式动词)
+lire un journal	读一份报纸
+aller au marché	去市场
+ménage	家务n.m.
+faire le ménage	做家务
+faire de la natation	游泳
+préparer	准备v.t.
+préparer les enfants	使孩子们准备好
+préparer un dîner	准备一顿晚餐
+se reposer	休息(代词式动词)
+faire du ski	滑雪n.m.
+jouer au tennis	打网球(n.m.)
+Vous vous appelez comment	你叫什么名字?phr.; 您叫什么名字?(代词式动词)
+L'après-midi, je me repose	下午我休息。(me reposer,代词+动词); 下午我休息。
+d'abord	首先adv.; 首先loc.adv.
+ensuite	然后adv.接下来; 然后adv.=puis; 然后loc.adv.
+après	以后adv.然后=after; 然后loc.adv.
+enfin	最后adv.; 最后loc.adv.
+Qu'est-ce que tu fais	你在做什么?(Que+est-ce que变为qu'est-ce que); 你在做什么?
+écrire	写v.t.
+se laver	洗澡(代词式动词)
+gymnastique	体操n.f.
+chaudement	温暖地adv.
+jouer de	演奏
+jouer aux échecs	下棋
+marché	市场n.m.集市
+natation	游泳n.f.
+témoignage	见证,证明n.m.
+Tu te lèves à quelle heure	你几点起床?
+jouer au foot	踢足球(au=à+le)
