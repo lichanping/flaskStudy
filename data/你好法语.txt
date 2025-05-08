@@ -1,54 +1,3 @@
-Je me lève à six heures du matin	我早上六点起床。
-lire	读v.t.
-actuel	目前的,现实的,当前的adj
-actuelle	目前的,现实的,当前的adj 阴性
-bravo	太好了,干得好
-céréales	谷物,谷类食品n.f.pl.
-championne	冠军n.f. 阳性=champion
-se coucher	躺下,睡觉
-se détendre	放松
-difficile	难的,艰难的adj困难的
-s'endormir	入睡,睡着(s'表示反身)
-entraînement	训练,锻炼n.m.
-s'entraîner	训练,锻炼(s'表示反身)
-éviter	避免,躲避
-famille	家庭,家族n.f.家人,家属
-le fruit	水果n.m.
-habituel	习惯的,惯常的adj
-habituelle	习惯的,惯常的adj 阴性
-janvier	一月n.m.
-jus	果汁n.m.
-libre	自由的,空闲的adj
-longue	长的,长久的adj,阳性=long
-manger	吃v.t.
-Le match	比赛n.m.
-musculation	健身,肌肉锻炼n.f.
-nager	游泳v.i.
-la natation	游泳n.f.
-nouveau	新的,新的adj 阳性
-nouvelle	新的,新的adj 阴性
-peu	少,几乎没有adv不大,不太
-se promener	散步,遛(狗)
-recommencer	重新开始
-regarder	看,注视v.t.
-reprendre	重新从事v.t.
-reprendre le travail	重新开始工作
-retourner	返回v.i.
-retourner en Chine	返回中国
-sortir	出去,外出v.i.
-je sors de chez moi	我出门
-stresse	压力,紧张n.m.
-se terminer	结束,完结(代词式动词)
-toilette	梳洗,盥洗;梳妆,打扮n.f.
-yaourt	酸奶n.m.
-Bravo Laure	太棒了,Laure
-A 22 ans, elle est championne de France, d'Europe et du monde de natation	在22岁时,她是法国、欧洲和世界游泳冠军。
-Mais une vie championne est difficile	但冠军的生活是艰难的。
-Elle se lève tous les matins vers 6 heures	她每天早上6点起床(vers表示将近)。
-Elle fait sa toilette	她洗漱。
-Ensuite, elle s'habille et elle prend son petit déjeuner-fruit, yaourt, céréales et jus d'orange	然后她穿衣服,吃早餐-水果、酸奶、谷物和橙汁。
-A 7 heures, elle est à la piscine 7	点时,她在游泳池。
-Elle s'entraîne jusqu'à 10 heures	她训练到10点。
 Puis elle retourne à son appartement à côté de la piscine	然后她回到游泳池旁边的公寓。
 Elle reprend l'entraînement l'après-midi à 15 heures 30	她下午3点30分重新开始训练。
 Elle nage 15 kilomètres par jour	她每天游15公里。
@@ -190,3 +139,25 @@ salade	沙拉n.f.生菜;凉拌生菜
 sucre	糖n.m.
 boire	喝v.t.
 tout	(adv.) 十分,非常,极其,完全=tres; 全部,一切,整体,全体n.m.sing.
+C'est la Chandeleur	圣蜡节
+On fait des crêpes, ce soir	今天晚上我们做可丽饼吧?
+D'accord, mais tu fais les courses	好的,但你来购物吧
+Et toi, tu fais les crêpes, alors	你来做可丽饼,那么
+Oui, bien sûr	好的,当然
+On invite Max et Sarah	我们邀请Max和Sarah吗?
+Il faut de la farine et des oeufs, c'est ça	应该需要面粉和鸡蛋,对吗?
+Combien de kilos de farine	多少公斤面粉?
+Un kilo de farine et six oeufs	一公斤面粉和六个鸡蛋
+Achète aussi un litre de lait et 250 grammes de beurre	再买一升牛奶和250克黄油
+Non, prends du sucre et du la confiture	不,买些糖和果酱
+Et du cidre	和苹果酒
+Deux bouteilles, c'est assez	两瓶就够了吗?
+Oui, ça va, Et achète aussi de l'eau minérale, du Coca et des céréales	好的,再买些矿泉水、可乐和谷物
+Des céréales	谷物吗?
+Pour faire des crêpes	为了做可丽饼吗?
+Non, pour le petit déjeuner	不,为了吃早餐
+Ah, tu téléphones à Max et Sarah	啊,你给Max和Sarah打电话吗?
+D'accord	好的
+Bon, J'y vais	好的,我要走了。(y代替地点)
+inviter	邀请v.t.
+C'est tout	这就是全部。=that's all; 就这些吗?

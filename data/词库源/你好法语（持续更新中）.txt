@@ -1337,7 +1337,6 @@ Il faut du beurre	需要一些黄油。
 Il faut écrire en français	应该用法语写。
 gramme	克n.m.
 un gramme de beurre	一克黄油
-inviter	邀请v.t.
 inviter des amis chez moi	邀请朋友来我家
 kilo	千克n.m.
 kilogramme	千克n.m.
@@ -1351,7 +1350,6 @@ liste	清单n.f.单子
 faire une liste	列一个单子
 repas	餐n.m.进餐
 prendre un repas	吃一顿饭
-C'est tout	这就是全部。=that's all
 supermarché	超市n.m.
 aller au supermarché	去超市
 téléphoner	打电话v.i.
@@ -1384,3 +1382,25 @@ salade	沙拉n.f.生菜;凉拌生菜
 sucre	糖n.m.
 boire	喝v.t.
 tout	(adv.) 十分,非常,极其,完全=tres; 全部,一切,整体,全体n.m.sing.
+C'est la Chandeleur	圣蜡节
+On fait des crêpes, ce soir	今天晚上我们做可丽饼吧?
+D'accord, mais tu fais les courses	好的,但你来购物吧
+Et toi, tu fais les crêpes, alors	你来做可丽饼,那么
+Oui, bien sûr	好的,当然
+On invite Max et Sarah	我们邀请Max和Sarah吗?
+Il faut de la farine et des oeufs, c'est ça	应该需要面粉和鸡蛋,对吗?
+Combien de kilos de farine	多少公斤面粉?
+Un kilo de farine et six oeufs	一公斤面粉和六个鸡蛋
+Achète aussi un litre de lait et 250 grammes de beurre	再买一升牛奶和250克黄油
+Non, prends du sucre et du la confiture	不,买些糖和果酱
+Et du cidre	和苹果酒
+Deux bouteilles, c'est assez	两瓶就够了吗?
+Oui, ça va, Et achète aussi de l'eau minérale, du Coca et des céréales	好的,再买些矿泉水、可乐和谷物
+Des céréales	谷物吗?
+Pour faire des crêpes	为了做可丽饼吗?
+Non, pour le petit déjeuner	不,为了吃早餐
+Ah, tu téléphones à Max et Sarah	啊,你给Max和Sarah打电话吗?
+D'accord	好的
+Bon, J'y vais	好的,我要走了。(y代替地点)
+inviter	邀请v.t.
+C'est tout	这就是全部。=that's all; 就这些吗?
