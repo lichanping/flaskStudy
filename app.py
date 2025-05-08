@@ -3,6 +3,7 @@ import os
 import re
 from collections import Counter
 from datetime import datetime, timedelta
+from math import ceil
 
 from flask import Flask, render_template, request, send_file
 
@@ -167,7 +168,9 @@ def index():
             selected_check_words = request.form.getlist('check_word')
             # 只移动 ✓ 单词，不调度复习
             txt_reader.move_words_to_new_file(selected_file, selected_check_words)
+            # Round up to the nearest multiple of 5
             remaining_limit = max(0, DEFAULT_WORD_LIMIT - len(selected_check_words))
+            remaining_limit = ceil(remaining_limit / 5) * 5
             words = txt_reader.read_words_from_txt(selected_file, limit=remaining_limit)
             return render_template('index.html', words=words)
 
