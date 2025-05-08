@@ -1,3 +1,12 @@
+actuelle	目前的,现实的,当前的adj 阴性
+entraînement	训练,锻炼n.m.
+éviter	避免,躲避
+habituelle	习惯的,惯常的adj 阴性
+libre	自由的,空闲的adj
+musculation	健身,肌肉锻炼n.f.
+reprendre	重新从事v.t.
+reprendre le travail	重新开始工作
+retourner	返回v.i.
 boîte	盒子n.f.夜总会
 campagne	乡村n.f.
 faire de la course	奔跑
