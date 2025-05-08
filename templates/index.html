@@ -43,6 +43,7 @@
             <div class="word">{{ word.单词 }}</div>
             <div class="translation">{{ word.释意 }}</div>
             <div class="buttons">
+                <button class="translateButton">中</button>
                 <button class="checkButton">✓</button>
                 <button class="closeButton">×</button>
             </div>
@@ -259,11 +260,8 @@
                 updateLabel();
             });
             item.addEventListener('click', event => {
-                // Check if the clicked element is not the closeButton
-                if (!event.target.classList.contains('closeButton')) {
-                    {#var word = item.querySelector('.word').textContent.trim().toLowerCase();#}
+                if (!event.target.matches('.closeButton, .checkButton, .translateButton')) {
                     var word = item.querySelector('.word').textContent.trim();
-                    // var audioSrc = "{{ url_for('static', filename='sounds/') }}" + word + ".mp3";
                     var audioSrc = "{{ url_for('static', filename='sounds') }}/" + word + ".mp3";
 
                     if (item === lastClickedItem) {
@@ -295,6 +293,10 @@
                         }
                         highlightCurrentIndex(); // Highlight the next item
                     }
+                } else if (event.target.matches('.translateButton')) {
+                    // Show the translation directly when the translate button is clicked
+                    var translation = item.querySelector('.translation');
+                    translation.style.display = translation.style.display === 'none' ? 'block' : 'none';
                 }
             });
         });
