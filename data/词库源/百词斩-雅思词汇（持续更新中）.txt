@@ -170,3 +170,33 @@ barometer	(n.) 晴雨表;气压表
 sword	(n.) 剑 ,刀
 metropolitan	(adj.) 大城市的 ,大都会的
 comprise	(vt.) 包含 ,包括
+specialty	(n.) 特色菜
+distortion	(n.) 扭曲 ,变形
+recommend	"vt. 劝告 ,建议;推荐 ,介 绍"
+closed	(adj.) 关着的
+aimless	(adj.) 没有目标的
+splash	(n.) 飞溅的水
+optimum	(adj.) 最佳的
+rotate	"v. 以 ... ...轴转动 ,使旋转; (adj.) 车轮状的"
+undertaking	(n.) 任务
+attentive	(adj.) 专心的 ,注意的
+suspension	(n.) 悬挂 ,悬置状态
+outskirts	(pl.) (尤指城市)郊区
+horn	(n.) (牛 、羊的)角 ,号角
+baggy	(adj.) 宽松而下垂的
+oceanography	(n.) 海洋学
+vaccination	"n.  【 医】接种疫苗 ,种痘, 牛痘疤"
+verdict	(n.) (陪审团)裁决
+synopsis	(n.) 摘要 ,概要
+canvas	(n.) (帆布做的)画布
+suppress	(v.) 禁止发表
+vertical	(adj.) 垂直的
+defendant	(n.) 被告
+chronological	(adj.) 按照时间顺序排列的
+bushel	"n. 蒲式耳(容量等于八加 仑)"
+humble	"adj. 卑微的;谦逊的;简陋 的;   v. 使 ... ...谦逊 ,  ..."
+excessive	(adj.) 过多的
+violate	(v.) 违反 ,违背;侵犯 ,妨碍
+ignorant	(adj.) 无知的 ,愚昧的
+hinder	(v.) 阻碍 ,妨碍
+starch	(n.) 淀粉;   v. 给 ...上浆
