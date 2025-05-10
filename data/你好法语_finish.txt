@@ -4526,3 +4526,53 @@ musculation	健身,肌肉锻炼n.f.
 reprendre	重新从事v.t.
 reprendre le travail	重新开始工作
 retourner	返回v.i.
+Vendredi 9 mai 2025	“2025年5月9日,星期五”
+Pourquoi, Que faites-vous ensemble	为什么?你们一起做什么?
+J'ai fini	“我完成了”
+Ma meilleure amie	“我的最好朋友(女性)”
+cheveux	“头发”
+dire ou parler	“说 / 讲”
+Toutes les deux on reste à l'école tard le soir pour faire ses devoirs	“我们俩晚上在学校待到很晚做作业。”
+Sur 100 élèves combien restent manger le soir	“在100名学生中,有多少人晚上留下来吃饭?”
+365 élèves en seconde soit 9 classes	“365名高一学生,共9个班级。”
+1 élève sur 4 reste manger le soir à l'école	“每4名学生中就有1名晚上在学校吃饭。”
+Des fois, il y a même des cours le soir	“有时候,晚上甚至还有课。”
+dîner ou déjeuner	“晚餐 / 午餐”
+Comment êtes-vous devenues amies	“你们是怎么成为朋友的?”
+ai rencontrée	“我遇见了”,“avoir”(变位为 “ai”)和过去分词 “rencontrée” 构成复合过去时。
+Je l'ai rencontrée dans le bureau de la prof de français	“我在法语老师的办公室遇到了她。”
+je parle avec Camille
+je dis à Camille -Ma meilleure amie a 63 ans	我对卡米尔说:‘我最好的朋友63岁了。’
+je bavarde avec Camille	我和卡米尔聊天
+tu bavardes avec Camille	你和卡米尔聊天
+elle bavarde avec Camille	她和卡米尔聊天
+nous bavardons avec Camille	我们和卡米尔聊天
+vous bavardez avec Camille	你们和卡米尔聊天
+ils bavardent avec Camille	他们和卡米尔聊天
+parler ou bavarder ou discuter	“说 / 聊天 / 讨论”
+B MONOLOGUE SUIVI	“B - 随后进行独白”
+Il faut parler 2 minutes sur quelque chose	“需要就某件事情说2分钟”
+Le professeur pose 2 ou 3 questions	“老师会提2到3个问题”
+Ce logement	这个住所(阳性名词)
+Ce logement est très confortable	这个住宿非常舒适。
+Le paysage ici est magnifique	这里的风景很美。
+Ils ont trouvé un logement près de la mer	他们找到了一个靠近海边的住宿。
+pendant des heures	“几个小时”
+offre	动词 “offrir” 的第三人称单数形式
+une belle vue	“美丽的景色”, “视力;视觉;景色;风景”
+Le logement offre une belle vue sur le paysage montagneux	这个住宿提供了美丽的山景。
+C EXERCICE EN INTERACTION	“C - 互动练习”
+J'ai eu 7 cours	“我上了7节课”(“eu” 是动词 “avoir” 的过去分词形式)
+Quel était le cours le plus intéressant	“哪一节课最有趣?”(“était” 是动词 “être(是)” 的第三人称单数(il/elle/on)过去时态变位形式)
+Aucun n'était intéressant	“没有一节有趣的”
+Le vendredi j'ai 7 cours au lieu de 9	“周五我有7节课而不是9节”
+Je suis prête	“我准备好了”
+même	“甚至”,在句子中起到加强语气的作用
+devenir amie	“成为朋友”
+devenues	动词 “devenir(成为,变得)” 的过去分词,与前面的 “êtes” 构成复合过去时。
+bavarder	“聊天”
+un long monologue	“一个长的独白”
+Le paysage	这里的风景(阳性名词)
+Nous avons admiré le paysage pendant des heures	我们欣赏了这个风景好几个小时。
+montagneux	“山的;多山的”,修饰 “paysage”,说明是山区的风景。
+aucun	“没有一个”,代指前面提到的 “课程(cours)” 等事物。=英语中的 “none”
