@@ -554,7 +554,6 @@ Il a des yeux bleus	(他有一双蓝色的眼睛。)
 un bûcheron c'est quelqu'un qui coupe les arbres dans la forêt	一名伐木工就是在森林里砍伐树木的人。
 des gens	:“一些人”,“des” 是不定冠词复数形式,修饰复数名词 “gens”(人)。
 pour qui	:这是一个关系代词引导的结构,“pour” 是介词,“qui” 代替先行词 “gens”,在从句中作间接宾语,表示 “对于...... 的人”。
-facile	容易的(形容词)
 Il y a des gens pour qui c'est facile	有些人觉得这很容易。
 un très bon accent	:“un” 是不定冠词,“très bon” 表示 “非常好的”,修饰名词 “accent”(口音),即 “非常好听的口音”。
 Camille a un très bon accent et une bonne prononciation	卡米尔有非常好听的口音和不错的发音。
@@ -998,7 +997,6 @@ Je ne sais pas encore	我还不知道
 Tes parents sont là ce WE	这个周末你的父母在吗?
 Dimanche vous allez faire quoi	周日你们打算做什么?
 Faire les devoirs	做作业
-dessin	画,图画
 animé	原形是动词 animer(使活动,使有生气)的过去分词形式,此处作形容词修饰 dessin,表 “活动的”
 Aujourd'hui on regarde un dessin animé français de quelques minutes	今天我们要看一部几分钟的法语动画片
 Le dessin animé s'appelle Samuel	这部动画片叫《萨缪尔》
@@ -1554,14 +1552,12 @@ apprendre	学习; 学习
 rien	什么都没有(通常用于否定句); 没有东西
 Comment vont tes parents	你的父母怎么样
 Ils vont bien	他们很好
-connaître	认识(动词); 认识, 知道, 了解; 认识
 Tu connais	你了解; 你认识
 Il connaît	他了解; 他认识
 Nous connaissons	我们了解; 我们认识
 Vous connaissez	你们认识
 Ils connaissent	他们认识
 comme	:在此处引导原因状语从句,意为 “因为”,说明狼害怕的原因。; 作为;像......一样
-souvent	“经常” - 副词; 经常吗?
 le vin blanc	“白葡萄酒”; 白葡萄酒
 le vin rouge	“红葡萄酒”; 红葡萄酒
 Les Français pensent que le vin blanc est le meilleur accompagnement pour les fruits de mer	法国人认为白葡萄酒是海鲜的最佳搭配 VRAI
@@ -2119,9 +2115,7 @@ Des touristes américains arrivent à Paris, ils ne savent qu'il faut faire atte
 Fête d'anniversaire	生日派对; – Vous voulez organiser la fête d'anniversaire de votre ami Julien生日派对 – 你想要为你的朋友朱利安组织一场生日派对。
 L'examinateur	考官(阳性名词); 主考人、考官(阳性)
 mettre	:是动词(放置,挂)的原形。; 放
-mieux	更好(bien的比较级); “bien(好)” 的比较级,表示 “更好地;更好”
 disent	“说”,法语动词 dire(意为“说”或“讲”)的第三人称复数现在时; “dire(说)” 的第三人称复数现在时变位
-jamais	“从未” - 副词; “从不;绝不;从未”= never
 toujours	仍然(副词); “总是;始终”= always
 gratuit	:免费的、无偿的。; 免费的;无偿的
 C'est gratuit	:这是免费的。; 这是免费的。(妈妈说:600多元一个人,你搞错了!)
@@ -2129,7 +2123,6 @@ Tu es contente	你高兴吗?; 你开心吗?
 écrire	写(ECRIRE); 写(原形动词)
 rappeler	提醒; 记得
 avait	动词 “avoir(有)” 的直陈式未完成过去时第三人称单数形式,可表示过去拥有的特征,如 “avait une grosse voix” 即“有一副粗嗓音” 。; 是动词 “avoir” 的第三人称单数未完成过去时
-des fois	有时候,在句中作时间状语,表明动作发生的频率; 有时候=sometimes
 oublié	忘记(过去分词); 忘记了,是动词 “oublier” 的过去分词
 Samedi 26 avril 2025	"2025年4月26日,星期六"
 Il en reste 0	还剩下0个。
@@ -2585,3 +2578,83 @@ rencontrer	遇见,碰到(动词); 偶然相遇” 或 “结识”
 suivi	参加(动词“suivre”的过去分词)、跟踪、监督; 跟随
 au lieu de	代替=instead of; “而不是”,表示替代或选择
 une randonnée	徒步旅行;远足;散步” 的意思,阴性。; “一次远足”
+Samedi 10 mai	“2025年5月10日,星期六”
+Ils sont sages	“他们表现得好吗?”
+je connais	“我知道”(直陈式现在时)
+tu connais	“你知道”(直陈式现在时)
+il connaît	“他知道”(直陈式现在时)
+nous connaissons	“我们知道”(直陈式现在时)
+vous connaissez	“你们知道”(直陈式现在时)
+ils connaissent	“他们知道”(直陈式现在时)
+connu	“著名的” 形容词, “connaître” 的过去分词形式
+Un acteur très connu	“一个非常著名的演员”
+En France, il y a un festival de films très connu	“在法国,有一个非常著名的电影节。”
+Le festival de Cannes	“戛纳电影节。”
+Je regarde quels films vont être à Cannes	“我在看哪些电影将在戛纳放映。”
+sera	“将会”“être(是、在)” 的简单将来时第三人称单数
+je serai	“我将会”
+tu seras	“你将会”
+il sera	“他将会”
+nous serons	“我们将会”
+vous serez	“你们将会”
+ils seront	“他们将会”
+Un film chinois sera à Cannes	“一部中国电影将在戛纳放映。”
+un carrot cake	“胡萝卜蛋糕”
+J'ai fait un carrot cake, C'était bon	“我做了一个胡萝卜蛋糕。很好吃。”
+Je n'ai jamais mangé de carrot cake	“我从来没吃过胡萝卜蛋糕。”
+Je n'aime pas les bananes	“我不喜欢香蕉。”
+propre	“干净的”
+un salon-regarde la télé	“客厅(看电视的地方)”
+des invités	“客人”
+une salle à manger -on y mange quand il y a des invités	“餐厅(有客人时吃饭的地方)”
+salle à manger	“餐厅”(salle:名词,意为 “房间”“厅”)
+salle de classe	“教室”
+salle de bain	“浴室”
+salle de concert	“音乐厅”
+un salon salle à manger	“客厅餐厅(兼具客厅和餐厅功能的空间)”
+depuis	介词,意为 “从......起”
+depuis combien de temps	“多久了?”
+Tu y habites depuis combien de temps	“你住在那里多久了?”
+J'y habite depuis que je suis née	“我从出生起就住在那里。”
+Tes parents, ils sont mariés depuis combien de temps	“你的父母结婚多久了?”
+Answer - Mes parents se sont mariés en 2008	我的父母在2008年结婚
+A quel âge ta mère s'est mariée	“你妈妈结婚时多大?”
+leur anniversaire de mariage	“他们的结婚纪念日”
+fêtent	“庆祝”,法语动词 “fêter” 的直陈式现在时第三人称复数
+Nous fêtons la fête du printemps avec notre famille	“我们和家人一起庆祝春节。”
+Ton père et ta mère ne fêtent pas leur anniversaire de mariage	“你的爸爸和妈妈不过他们的结婚纪念日吗?”
+la campagne	“乡村”=英语“countryside”
+J'habite en ville, je ne vais pas souvent à la campagne	“我住在城市里,我不常去乡村。”
+les arbres	“树木”=英语“trees”
+le temps	“天气”=英语“weather”
+Quand je vais à la campagne, j'aime les arbres, les fleurs, le temps	“当我到乡村时,我喜欢那里的树木、花朵和天气。”
+moins de gens	“人少”=英语“fewer people”
+moins de pollution	“污染少”=英语“less pollution”
+Je pense que c'est plus calme qu'en ville, il y a moins de gens, moins de pollution	“我觉得那里比城市更安静,人少,污染也少。”
+pratique	“方便的”=英语“convenient”
+Je préfère la ville parce que c'est pratique	“我更喜欢城市,因为这里更方便。”
+Il y a des taxis, des bus et des métros, c'est facile d'aller à l'école	“有出租车、公共汽车和地铁,去学校很方便。”
+Et puis parce que quand on fait des études c'est mieux d'être près de l'école	“而且因为上学时,住在学校附近更好。”
+grandir en ville	“在城市里长大”
+grandir à la campagne	“在乡村长大”
+tu grandis	“你长大”
+elle grandit	“她长大”
+nous grandissons	“我们长大”
+vous grandissez	“你们长大”
+elles grandissent	“她们长大”
+je grandis en ville mais mes parents ont grandi à la campagne	“我在城市里长大,但我的父母在乡村长大。”
+j'ai grandi à la campagne	“我在乡村长大。”(复合过去时)
+tu as grandi	“你长大了”
+elle a grandi	“她长大了”
+nous avons grandi	“我们长大了”
+vous avez grandi	“你们长大了”
+elles ont grandi	“她们长大了”
+Elle s'en fiche ma grand-mère paternelle	“我的奶奶不在乎。”
+un cahier de dessin	“一本绘画本”
+connaître	认识, 知道, 了解; 认识; 知道(动词)
+jamais	“从来没有”,用于否定句中加强否定语气=英语never
+des fois	有时候,在句中作时间状语,表明动作发生的频率; 有时候=sometimes
+souvent	“经常” - 副词; “经常”=英语“often”
+facile	“容易的”=英语“easy”
+mieux	更好(bien的比较级); “更好”=英语“better”
+dessin	画,图画(名词)
