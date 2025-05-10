@@ -415,7 +415,6 @@ Alors le Petit Chaperon rouge est partie chez sa grand-mère qui habitait un peu
 Pour aller	:“pour” 是介词,此处表示目的,意为 “为了”;“aller” 是动词原形,意为 “去”,“pour aller” 即 “为了去......” 。
 devait	:动词 “devoir” 的第三人称单数未完成过去时形式。“devoir” 常见含义有 “应该;必须”,这里 “devait” 表示小红帽过去必须做某事,带有过去的一种必要性。
 traverser	:动词原形,意为 “穿过,穿越”,在句中作 “devoir” 的宾语,即小红帽必须要做的动作。
-rencontrer	遇见,碰到(动词)
 a rencontré	:“rencontrer”(遇见,碰到)的直陈式现在完成时第三人称单数形式。“a” 是助动词 “avoir” 的第三人称单数变位,“rencontré” 是 “rencontrer” 的过去分词,表明小红帽遇到大灰狼这个动作在过去已经完成。
 le Loup	:“le” 是定冠词,用于修饰阳性名词;“loup” 是阳性名词,意为 “狼”,“le loup” 即 “狼” 。
 Monsieur le Loup	大灰狼先生
@@ -791,9 +790,6 @@ il pleut à Shanghaï et il fait un peu froid	上海下雨了,而且有点冷("p
 Lundi, tes parents vont au travail	周一,你的父母去工作吗?
 ils sont en vacances	他们在放假
 Quand est-ce qu'ils vont au travail	他们什么时候去工作?
-Mon meilleur ami	我最好的朋友(meilleur:形容词,意为“最好的”,男性)
-ma meilleure amie	我最好的朋友(meilleure:形容词,意为“最好的”,女性)
-Qui est votre meilleure amie	你最好的朋友是谁?("votre" 是“你的”或“您的”)
 comme moi	和我一样
 même classe	同班
 Elle s'appelle Lydia, elle a 15 ans comme moi, on est dans la même classe	她叫莉迪亚,和我一样15岁,我们在同一个班级。
@@ -1584,7 +1580,6 @@ En Chine, certains croient que manger des pommes peut attirer l'amour	在中国,
 en mangeant	“在吃饭时”; 吃东西时(动词“manger”的现在分词形式)
 En Chine, il est normal de faire du bruit avec sa bouche en mangeant	在中国,吃饭时发出声音是正常的。 VRAI
 En Chine, il est de coutume de donner des fruits en cadeau	在中国,送水果作为礼物是一种传统。 VRAI
-suivi	参加(动词“suivre”的过去分词)、跟踪、监督
 pratiques	实践的
 travaillé	工作、学习(动词“travailler”的过去分词)
 équipe	团队
@@ -2081,7 +2076,6 @@ Je suis super contente, pas de cours, pas de devoirs, on va faire ce que l'on ve
 Ces mots	这些单词
 Ecrire un texte de 80 mots	写一篇80字的文章
 Je voyage à Paris et j'ai une amie française et j'écris une lettre sur mon voyage à Paris	我去巴黎旅行,我有一个法国朋友,我写了一封关于我的巴黎之行的信
-au lieu de	代替=instead of
 112 mots au lieu de 80	“112字而不是80字”
 Qu'est-ce que tu as visité	你参观了什么?
 La tour Eiffel	埃菲尔铁塔
@@ -2234,7 +2228,6 @@ C'est pareil, je ne comprends rien	一样的,我什么都不懂。
 Les immortels	不朽者。
 Les dieux	神。
 Les dragons	龙。
-une randonnée	徒步旅行;远足;散步” 的意思,阴性。
 Je suis allé faire une randonnée près du château de Versailles	我去凡尔赛宫附近徒步旅行
 marché	“marcher(走,行走;行进;运转)” 的过去分词形式,与 “j'ai” 构成复合过去时,表示过去发生的 “行走” 这个动作。
 J'ai marché 15 km dans la forêt	我在森林里走了15公里。
@@ -2480,3 +2473,115 @@ et puis	连词短语,意为 “并且,然后”,用于连接两个并列的动�
 toute	副词,意为“整个”(toute la journée:整天); 是tout的阴性单数形式,作副词“非常,完全”
 seule	独自的、单独的(形容词,表示“独自”或“单独”); 是 seul 的阴性单数形式,意为 “单独的,孤独的”
 entendre	动词,意为 “听见,听到” 。
+Vendredi 9 mai 2025	“2025年5月9日,星期五”
+Pourquoi, Que faites-vous ensemble	为什么?你们一起做什么?
+J'ai fini	“我完成了”
+Je suis prête	“我准备好了”
+Ma meilleure amie	“我的最好朋友(女性)”
+cheveux	“头发”
+dire ou parler	“说 / 讲”
+Toutes les deux on reste à l'école tard le soir pour faire ses devoirs	“我们俩晚上在学校待到很晚做作业。”
+Sur 100 élèves combien restent manger le soir	“在100名学生中,有多少人晚上留下来吃饭?”
+365 élèves en seconde soit 9 classes	“365名高一学生,共9个班级。”
+1 élève sur 4 reste manger le soir à l'école	“每4名学生中就有1名晚上在学校吃饭。”
+même	“甚至”,在句子中起到加强语气的作用
+Des fois, il y a même des cours le soir	“有时候,晚上甚至还有课。”
+dîner ou déjeuner	“晚餐 / 午餐”
+devenir amie	“成为朋友”
+devenues	动词 “devenir(成为,变得)” 的过去分词,与前面的 “êtes” 构成复合过去时。
+Comment êtes-vous devenues amies	“你们是怎么成为朋友的?”
+ai rencontrée	“我遇见了”,“avoir”(变位为 “ai”)和过去分词 “rencontrée” 构成复合过去时。
+Je l'ai rencontrée dans le bureau de la prof de français	“我在法语老师的办公室遇到了她。”
+je parle avec Camille	
+je dis à Camille -Ma meilleure amie a 63 ans	我对卡米尔说:‘我最好的朋友63岁了。’
+bavarder	“聊天”
+je bavarde avec Camille	我和卡米尔聊天
+tu bavardes avec Camille	你和卡米尔聊天
+elle bavarde avec Camille	她和卡米尔聊天
+nous bavardons avec Camille	我们和卡米尔聊天
+vous bavardez avec Camille	你们和卡米尔聊天
+ils bavardent avec Camille	他们和卡米尔聊天
+parler ou bavarder ou discuter	“说 / 聊天 / 讨论”
+un long monologue	“一个长的独白”
+B MONOLOGUE SUIVI	“B - 随后进行独白”
+Il faut parler 2 minutes sur quelque chose	“需要就某件事情说2分钟”
+Le professeur pose 2 ou 3 questions	“老师会提2到3个问题”
+Ce logement	这个住所(阳性名词)
+Ce logement est très confortable	这个住宿非常舒适。
+Le paysage	这里的风景(阳性名词)
+Le paysage ici est magnifique	这里的风景很美。
+Ils ont trouvé un logement près de la mer	他们找到了一个靠近海边的住宿。
+pendant des heures	“几个小时”
+Nous avons admiré le paysage pendant des heures	我们欣赏了这个风景好几个小时。
+offre	动词 “offrir” 的第三人称单数形式
+une belle vue	“美丽的景色”, “视力;视觉;景色;风景”
+montagneux	“山的;多山的”,修饰 “paysage”,说明是山区的风景。
+Le logement offre une belle vue sur le paysage montagneux	这个住宿提供了美丽的山景。
+C EXERCICE EN INTERACTION	“C - 互动练习”
+J'ai eu 7 cours	“我上了7节课”(“eu” 是动词 “avoir” 的过去分词形式)
+Quel était le cours le plus intéressant	“哪一节课最有趣?”(“était” 是动词 “être(是)” 的第三人称单数(il/elle/on)过去时态变位形式)
+aucun	“没有一个”,代指前面提到的 “课程(cours)” 等事物。=英语中的 “none”
+Aucun n'était intéressant	“没有一节有趣的”
+Le vendredi j'ai 7 cours au lieu de 9	“周五我有7节课而不是9节”
+des jeux	“jeu” 的复数形式, “游戏;比赛;玩耍;策略”
+des jeux vidéo	“电子游戏”
+des jeux olympiques	“奥林匹克运动会”
+des jeux sportifs	“体育运动会”
+Au lieu de dormir, il joue à des jeux vidéo	他不睡觉,而是玩电子游戏。
+devrais	动词 “devoir” 的直陈式条件现在时中第二人称变位“应该;必须;得”
+je devrais	“我应该”,条件式现在时通常用于表示在某种条件下可能发生的动作或情况,或者用于表达建议、愿望、推测等语气
+il devrait	“他应该”
+nous devrions	“我们应该”
+vous devriez	“你们应该”
+elles devraient	“她们应该”
+Tu devrais faire tes devoirs au lieu de regarder la télé	你应该做作业,而不是看电视。
+Au lieu de prendre le bus, elle est allée à pied	她没有坐公交车,而是走路去的。
+Il a choisi le thé au lieu du café	他选择了茶,而不是咖啡。
+se fâcher	“生气;发怒”(代动词)
+a souri	动词 “sourire”(微笑)的复合过去时,表明 “笑” 这个动作发生在过去。
+Au lieu de se fâcher, il a souri	他没有生气,而是笑了。
+La prof de français a organisé une activité de jeu de Monopoly	“法语老师组织了一次玩《大富翁》的游戏活动”
+traduire	“翻译”(动词)
+traduit	动词 “traduire” 的过去分词形式,“est traduit” 构成了被动语态,表示 “被翻译”
+Le Monopoly, c'est un jeu américain qui est aussi traduit en français	“《大富翁》是一款美国游戏,也被翻译成了法语”
+Notre professeur de géographie a changé	“我们的地理老师换人了”
+changer	改变
+a changé	“avoir(变位形式) + 过去分词”表示现在完成时。改变;更换;变换;兑换
+Monsieur Deng	邓老师
+Comment est le nouveau prof	“新老师怎么样?”
+la cinquantaine	“五十多岁”
+Il a environ la cinquantaine	“他大约五十多岁”
+gentil ou sévère	“和蔼 / 严格”
+l'autre professeur	“另一位老师”
+Pourquoi l'autre professeur est partie	“为什么之前的老师离开了?”
+to teach ou apprendre ou enseigner	“教 / 学习 / 教授”
+Elle n'est pas partie, elle enseigne une autre classe	“她没有离开,她在教另一个班级。”
+plus vieux	“更老”
+Lycée	“高中”
+1ère année ou La seconde	“第一年 / 高二”
+2e année ou La première	“第二年 / 高一”
+3e année ou La terminale	“第三年 / 高三”
+CP 1	“小学一年级”
+CE1	“小学二年级”
+CE2	“小学三年级”
+CM1	“小学四年级”
+CM2	“小学五年级”
+Il a 80 ans	“他80岁”
+Moi j'ai 62 ans	“我62岁”
+Cela	这、那、此事、此物
+faisait	动词 “faire” 的未完成过去时第三人称单数形式(“Cela faisait + 时间 + que...” 结构中表示 “已经有(多长时间)”)
+Cela faisait 53 ans que nous nous n'avions pas vu	“我们已经有53年没见面了。”
+Hier, j'ai fait une randonnée	“昨天,我去远足了。”
+randonner	“远足”
+Je randonne souvent le week-end	“我周末经常远足”
+se promener - 1 heure	“散步:1小时”
+randonner - 5 heures ou plus	“远足:5小时或更久”
+Parc de Saint-Cloud	“圣克鲁公园”
+Le Bois de Boulogne	“布洛涅森林”
+Mon meilleur ami	我最好的朋友(meilleur:形容词,意为“最好的”,男性); 我最好的朋友
+ma meilleure amie	我最好的朋友(meilleure:形容词,意为“最好的”,女性); “我最好的朋友”
+Qui est votre meilleure amie	你最好的朋友是谁?("votre" 是“你的”或“您的”)
+rencontrer	遇见,碰到(动词); 偶然相遇” 或 “结识”
+suivi	参加(动词“suivre”的过去分词)、跟踪、监督; 跟随
+au lieu de	代替=instead of; “而不是”,表示替代或选择
+une randonnée	徒步旅行;远足;散步” 的意思,阴性。; “一次远足”
