@@ -171,7 +171,6 @@ en	在......(指地点)prép.
 espagnole	西班牙的adj.;西班牙人(首字母大写)n.
 français	法语n.m.
 la France	法国n.f.
-habiter	居住(在)v.
 Japon	日本n.m.Japon
 japonais	日本的adj.日本人Japonais(n.)
 japonaise	日本的adj.日本人Japonaise(n.)
@@ -275,7 +274,6 @@ Cent euros pour un tee-shirt	一件T恤一百欧元
 C'est cher	这很贵
 Elle n'est pas très chère	它不太贵
 Elle ne coûte pas très cher	“它花费不多”(cher做副词没有阴阳性变化)
-fait	“faire的变位”,il/elle/on(他/她/人们)
 Ça fait combien	“这个多少钱?”
 coûter	“值(多少钱);花费(多少钱)”
 Combien coûte cette robe	“这条裙子多少钱?”
@@ -455,7 +453,6 @@ Ils prennent	他们拿
 Elles prennent	她们拿
 Prenez-vous le bus	你们坐公共汽车吗?
 Je prends le taxi	我打车
-aller	去(原形)
 Je vais	我去
 Tu vas	你去
 Il va	他去
@@ -476,7 +473,6 @@ Il parle	他说
 Elle parle	她说
 Nous parlons	我们说
 Vous parlez	你们说
-Ils parlent	他们说
 Elles parlent	她们说
 Parle	请你说!(命令式,如果动词是er结尾,去掉er加e)
 Parlez	请你们说,请您说!(命令式,如果动词是er结尾,去掉er加ez)
@@ -513,7 +509,6 @@ Va à la poste	你去邮局(命令式)
 Vas-y	你去吧(命令式)(加s接元音)
 Donnes-en	给我(命令式)(en代表着一些东西)(加s接元音)
 Parles-en	说给我(命令式)(en代表着一些东西)(加s接元音)
-avoir	有(原形)
 Tu as	你有
 Aie	请你有!(命令式,不规则)
 n'aie pas	不要有!(命令式否定式,不规则)
@@ -521,7 +516,6 @@ ayons	让我们一起有吧!(命令式,不规则)
 n'ayons pas	让我们不要有!(命令式否定式,不规则)
 ayez	请您有!(命令式,不规则)
 n'ayez pas	请您不要有!(命令式否定式,不规则)
-être	是(原形)
 Tu es	你是
 Sois	请你是!(命令式,不规则)
 ne sois pas	请你不要是!(命令式否定式,不规则)
@@ -616,7 +610,6 @@ Un vélib	公共自行车
 un vélo libre	公共自行车
 entrer	进入(原形); 进入vi.
 C'est par là	从那里走; 从那边走
-prendre	拿(原形); 搭乘,选取(道路,路线)vt.
 aller tout droit	一直走; 一直走
 Pardon,monsieur	对不起,先生
 Le musée du Louvre,c'est par où	卢浮宫在哪里?(par=by)
@@ -669,7 +662,6 @@ jour	日子,天n.m.
 juste	正好adv.;恰巧
 parfait	完美的adj.(阳性)
 parfaite	完美的adj.阴性
-partir	离开v.出发
 Je pars	我出发了。
 Tu pars	你出发了。
 Il part	他出发了。
@@ -689,7 +681,6 @@ télévision	电视n.f.=une télé
 terrasse	阳台n.f.露台;晒台
 ville	城市n.f.(特殊发音/il/;复数villes)
 la ville de Paris	巴黎市
-visiter	参观v.t.;访问v.游览
 visiter la ville de Paris	参观巴黎市
 visiter le musée du Louvre	参观卢浮宫
 voyage	旅行n.m.旅程;旅途
@@ -944,7 +935,6 @@ Oui, je fais du sport	是的,我做运动。
 Est-ce que vous faites de la photographie	您摄影吗?
 Oui, nous faisons de la photographie	是的,我们摄影。
 Oui, je fais de la photographie	是的,我摄影。
-voir	看见
 Je vois	我看见 /ʒə vwa/
 Tu vois	你看见 /ty vwa/
 Il voit	他看见 /il vwa/
@@ -999,7 +989,6 @@ Travaille-t-il à Londres	他在伦敦工作吗?(当动词主谓倒装,动词以
 Comment va-t-elle au bureau	她怎么去办公室?(当动词主谓倒装,动词以元音字母结尾,主语以元音开头,中间要加t来连读)
 Isabelle travaille-t-elle à Londres	伊莎贝尔在伦敦工作吗?(主语为名词时,主谓倒装)
 Comment Farid va-t-il au bureau	法里德怎么去办公室?
-faire	“做;干;进行”
 C'est la chambre de Paul	这是保罗的卧室?(口语)
 Paul parle français	保罗说法语?(口语)
 qui	谁pron.
@@ -1078,7 +1067,6 @@ Mais c'est seulement trois jours par semaine, ça va	但是这仅仅是一周三
 Qu'est-ce que tu fais à Londres, alors	那么你在伦敦干什么?
 Là, je suis en vacances	我在那里度假
 seulement	仅仅adv.只=only; 仅仅
-dormir	睡觉
 je dors	我睡觉
 tu dors	你睡觉
 il dort	他睡觉
@@ -1146,7 +1134,6 @@ le dîner	晚饭n.m.
 prendre le déjeuner	吃午饭=dejeuner
 Je prends le déjeuner	我吃午饭。
 Je déjeune	我吃午饭。
-écouter	听v.t.
 ecouter de la musique	听音乐
 écouter une chanson	听一首歌
 écrire une lettre	写一封信
@@ -1190,11 +1177,9 @@ ensuite	然后adv.接下来; 然后adv.=puis; 然后loc.adv.
 après	以后adv.然后=after; 然后loc.adv.
 enfin	最后adv.; 最后loc.adv.
 Qu'est-ce que tu fais	你在做什么?(Que+est-ce que变为qu'est-ce que); 你在做什么?
-écrire	写v.t.
 jouer au foot	踢足球(au=à+le)
 se laver	洗澡(代词式动词)
 Je me lève à six heures du matin	我早上六点起床。
-lire	读v.t.
 actuel	目前的,现实的,当前的adj
 actuelle	目前的,现实的,当前的adj 阴性
 bravo	太好了,干得好
@@ -1215,7 +1200,6 @@ janvier	一月n.m.
 jus	果汁n.m.
 libre	自由的,空闲的adj
 longue	长的,长久的adj,阳性=long
-manger	吃v.t.
 Le match	比赛n.m.
 musculation	健身,肌肉锻炼n.f.
 nager	游泳v.i.
@@ -1380,7 +1364,6 @@ pomme de terre	土豆n.f.
 riz	大米n.m.
 salade	沙拉n.f.生菜;凉拌生菜
 sucre	糖n.m.
-boire	喝v.t.
 tout	(adv.) 十分,非常,极其,完全=tres; 全部,一切,整体,全体n.m.sing.
 C'est la Chandeleur	圣蜡节
 On fait des crêpes, ce soir	今天晚上我们做可丽饼吧?
@@ -1402,5 +1385,90 @@ Non, pour le petit déjeuner	不,为了吃早餐
 Ah, tu téléphones à Max et Sarah	啊,你给Max和Sarah打电话吗?
 D'accord	好的
 Bon, J'y vais	好的,我要走了。(y代替地点)
-inviter	邀请v.t.
 C'est tout	这就是全部。=that's all; 就这些吗?
+Il est comment	它是什么样的?
+le passé composé	复合过去时=英语中的现在完成时:1)已经完成的动作,构成:助动词avoir/être现在时 + 过去分词
+j'ai	我有
+tu as	你有
+il a	他有
+nous avons	我们有
+vous avez	你们有
+ils ont	他们有
+je suis	我是
+tu es	你是
+il est	他是
+nous sommes	我们是
+vous êtes	你们是
+ils sont	他们是
+j'ai visité le musée du Louvre	我参观了卢浮宫
+Il a fait du sport hier soir	他昨晚做了运动
+habité	住过(第一组规则动词:-er结尾, 去掉词尾的er,加上é)
+écouté	听过
+invité	邀请过
+visité	参观过
+dîner	吃晚餐
+dîné	吃晚餐过
+mangé	吃过
+allé	去过
+Paul a invité ses amis chez lui	"Paul邀请了他的朋友们到他家"
+finir	完成
+fini	完成过(第二组规则动词:去掉词尾的r)
+choisir	选择
+choisi	选择过
+réussir	成功=英语的to succeed
+réussi	成功过
+réfléchir	思考=英语的to think
+réfléchi	思考过
+Paul a fini son travail	"Paul完成了他的工作"
+Paul a pris un café	"Paul喝了一杯咖啡"
+vendre	卖
+vendu	卖过
+vivre	生活
+vécu	生活过
+ravi	高兴的
+revoir	再见到,是 “voir(看见)” 的复合形式
+Tu as été ravi de revoir ta mère	"你曾经是很高兴见到你的母亲"
+la fièvre	发烧=英语的fever
+Il a eu de la fièvre hier	"他昨天发烧了"
+attendre	等待(及物动词)
+attendu	等待过(过去分词)
+longtemps	很久(副词)
+Oui, j'ai longtemps attendu ce moment	"是的,我等了很久这个时刻"(全部及物动词,用avoir构成复合过去时)
+J'ai fini mon travail	"我完成了我的工作"(finir是及物动词)
+Il a bu du vin rouge	他喝了些红葡萄酒
+La terre	大地、地面、土地
+trembler	震动、颤抖
+tremblé	“trembler(震动、颤抖)” 的过去分词
+La terre a encore tremblé cette nuit en Italie	今晚意大利的地面(大地)又震动了。
+Ils ont parlé	他们说过话了
+Ils n'ont pas parlé	他们没有说过话(否定加在助动词的两边)
+J'ai beaucoup travaillé ce week-end	"我这个周末工作得特别努力"(副词beaucoup应位于助动词和过去分词之间)
+Tu as bien mangé	"你吃得好吗?"(副词bien, aussi, toujours, trop等应放在助动词和过去分词之间)
+habiter	居住(在)v.; 住
+écouter	听v.t.; 听
+inviter	邀请v.t.; 邀请
+visiter	参观v.t.;访问v.游览; 参观
+manger	吃v.t.; 吃
+aller	去(原形); 去
+faire	“做;干;进行”; 做
+fait	“faire的变位”,il/elle/on(他/她/人们); 做过
+dormir	睡觉; 睡觉
+dormi	睡过
+partir	离开v.出发; 出发
+parti	出发过
+prendre	拿(原形); 搭乘,选取(道路,路线)vt.; 拿
+pris	拿过
+boire	喝v.t.; 喝
+bu	喝过
+lire	读v.t.; 读
+lu	读过
+voir	看见; 看
+vu	看过
+écrire	写v.t.; 写
+écrit	写过
+être	是(原形); 是
+été	是过,être的过去分词
+avoir	有(原形); 有
+eu	有过(第三组不规则动词:不规则动词的过去分词)
+Ils parlent	他们说; 他们说话
+Ils ne parlent pas	他们不说话(否定加在动词的两边)
