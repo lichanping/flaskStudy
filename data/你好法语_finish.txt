@@ -4683,3 +4683,57 @@ a souri	动词 “sourire”(微笑)的复合过去时,表明 “笑” 这个�
 traduire	“翻译”(动词)
 traduit	动词 “traduire” 的过去分词形式,“est traduit” 构成了被动语态,表示 “被翻译”
 la cinquantaine	“五十多岁”
+Il a environ la cinquantaine	“他大约五十多岁”
+gentil ou sévère	“和蔼 / 严格”
+l'autre professeur	“另一位老师”
+Pourquoi l'autre professeur est partie	“为什么之前的老师离开了?”
+Elle n'est pas partie, elle enseigne une autre classe	“她没有离开,她在教另一个班级。”
+plus vieux	“更老”
+Lycée	“高中”
+1ère année ou La seconde	“第一年 / 高二”
+2e année ou La première	“第二年 / 高一”
+3e année ou La terminale	“第三年 / 高三”
+CP 1	“小学一年级”
+CE1	“小学二年级”
+CE2	“小学三年级”
+CM1	“小学四年级”
+CM2	“小学五年级”
+Il a 80 ans	“他80岁”
+Moi j'ai 62 ans	“我62岁”
+Cela	这、那、此事、此物
+faisait	动词 “faire” 的未完成过去时第三人称单数形式(“Cela faisait + 时间 + que...” 结构中表示 “已经有(多长时间)”)
+Hier, j'ai fait une randonnée	“昨天,我去远足了。”
+Je randonne souvent le week-end	“我周末经常远足”
+se promener - 1 heure	“散步:1小时”
+randonner - 5 heures ou plus	“远足:5小时或更久”
+Parc de Saint-Cloud	“圣克鲁公园”
+Mon meilleur ami	我最好的朋友(meilleur:形容词,意为“最好的”,男性); 我最好的朋友
+ma meilleure amie	我最好的朋友(meilleure:形容词,意为“最好的”,女性); “我最好的朋友”
+Qui est votre meilleure amie	你最好的朋友是谁?("votre" 是“你的”或“您的”)
+rencontrer	遇见,碰到(动词); 偶然相遇” 或 “结识”
+au lieu de	代替=instead of; “而不是”,表示替代或选择
+une randonnée	徒步旅行;远足;散步” 的意思,阴性。; “一次远足”
+Puis elle retourne à son appartement à côté de la piscine	然后她回到游泳池旁边的公寓。
+Elle reprend l'entraînement l'après-midi à 15 heures 30	她下午3点30分重新开始训练。
+Elle nage 15 kilomètres par jour	她每天游15公里。
+Sa journée se termine vers 19 heures 30	她的一天在晚上7点30分结束。
+Elle rentre chez elle	她回到家。
+Elle mange, elle regarde un peu la télé et elle téléphone à des amis	她吃饭,看电视,给朋友打电话。
+Elle se couche tôt, vers 22 heures	她早早上床睡觉,大约在10点。
+Elle dort huit heures par nuit	她每晚睡8小时。
+Le samedi soir, elle est libre	每星期六晚上,她是有空的。
+Elle sort, elle va au restaurant ou au cinéma avec des amis	她和朋友们一起出去,去餐厅或电影院。
+Le dimanche, elle dort jusqu'à midi	每星期天,她睡到中午。
+Elle passe l'après-midi avec des amis ou avec sa famille	她和朋友或家人一起度过下午。
+Et le lundi, une nouvelle semaine recommence...	每星期一,新的一周重新开始。
+En général, qu'est-ce que vous faites le dimanche matin	每个星期天上午您一般来说都做什么?
+Ensuite, je joue au foot ou au tennis avec des amis	然后,我和朋友们踢足球或打网球
+Et l'après-midi, je me repose	下午我休息
+Moi, je fais les courses	我去购物
+Et ma femme prépare les enfants et elle joue avec eux	我妻子照顾孩子们并和他们玩(eux是重读人称代词,指代孩子们)
+to teach ou apprendre ou enseigner	“教 / 学习 / 教授”
+Cela faisait 53 ans que nous nous n'avions pas vu	“我们已经有53年没见面了。”
+randonner	“远足”
+Le Bois de Boulogne	“布洛涅森林”
+suivi	参加(动词“suivre”的过去分词)、跟踪、监督; 跟随
+Le dimanche matin, je fais d'abord un footing	星期天上午,我先去慢跑
