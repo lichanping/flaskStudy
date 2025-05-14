@@ -280,7 +280,6 @@ Combien coûte cette robe	“这条裙子多少钱?”
 gris	灰色的、灰白的、花白的
 grise	法语单词“gris”的阴性形式
 C'est pour toi	“这是给你的”
-un pull	一件羊毛套头衫
 quantité	“数量;量;大量;许多”
 taille	(成衣的)尺寸,尺码n.f.
 Quelle est votre taille	“您的尺码是多少?”或者“您的身高是多少?”
@@ -1508,3 +1507,26 @@ On prend un verre	我们喝一杯吧
 un verre de vin	一杯酒
 un verre d'eau	一杯水
 waouh	哇(表示惊讶)惊叹,赞美
+Alors, Fabien, qu'est-ce que tu as fait hier	“Fabien, 昨天你做了什么? (Fabien, what did you do yesterday?)
+Eh bien, j'ai fait les magazins	嗯,我去逛商店了。 (Well, I went shopping.)
+Non, toi	不可能,你吗? (No, you can't be, can you?)
+Oui, oui, c'est pour le ski	是的,我是为了滑雪。 (Yes, yes, it's for skiing.)
+Je pars à Val d'Isère dimanche	我星期天将出发去瓦尔迪泽尔。 (I'm going to Val d'Isère on Sunday.)-法语中现在时表将来
+Et qu'est-ce que tu as acheté, alors	你都买了什么? (And what did you buy, then?)
+Eh bien, j'ai acheté ces chaussures	我买了这些鞋。 (Well, I bought these shoes.)
+Waouh, elles sont très jolies	哇,它们真漂亮。 (Wow, they are very pretty.)
+Ouais, bon...Ce sont des chaussures de ski, c'est tout	这些是滑雪鞋,仅此而已。 (Yeah, well... These are ski boots, that's all.)
+un pull	一个毛衣 (a sweater)
+J'ai aussi pris un pull	我还买了一件毛衣。 (I also got a sweater.)(pris是prendre的过去分词=吃喝乘拿买)
+Il est comment ton pull	你的套头毛衣是怎么样? (How is your sweater?)
+Tiens, regarde	看! (Here, look!)
+Ah, oui, c'est un beau pull	哦,是一件漂亮的毛衣。 (Oh, it's a nice sweater.)
+Hum, hum...Il est très chaud	嗯,它很暖和。 (Hmm, it's very warm.)
+Et hier soir, qu'est-ce que tu as fait	昨天晚上你做了什么? (And last night, what did you do?)
+J'ai dîné dans un petit restaurant italien â côté de chez moi,avec ma sœur	我和我妹妹在我家附近的一家小意大利餐厅吃了晚饭。 (I had dinner in a small Italian restaurant next to my house, with my sister.)
+Il est bien, ce restaurant	这家餐厅好吗? (Is this restaurant good?)
+Très bien, Il est simple, mais la cuisine est bonne	非常好,它很简单,但菜很好。 (Very good, it's simple, but the food is good.)
+Ma sœur a pris des pâtes et, moi, j'ai mangé une pizza	我妹妹吃了意大利面,我吃了比萨饼。 (My sister had pasta and I had a pizza.)
+Et pour le dessert	甜点呢? (And for dessert?)
+Nous n'avons pas pris de dessert	我们没有吃甜点。 (We didn't have dessert.)
+Et bien, moi, j'ai travaillé toute la journée et j'ai dîné seul	我工作了一整天,独自吃了晚饭。 (Well, I worked all day and had dinner alone.)
