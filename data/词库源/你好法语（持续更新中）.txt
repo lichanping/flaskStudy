@@ -544,7 +544,6 @@ Bonne année 2025	"2025年新年快乐"
 Après vous	您先请
 après trois jours	三天以后
 on se parlera après	以后再说(on=我们,se parlera=交谈)
-arriver	到达vi.
 J'arrive au parc en bus	我乘公共汽车到公园
 banque	银行nf.
 Est-ce que tu aimes le français	你喜欢法语吗?
@@ -607,7 +606,6 @@ en voiture	开车
 voiture	汽车nf.
 Un vélib	公共自行车
 un vélo libre	公共自行车
-entrer	进入(原形); 进入vi.
 C'est par là	从那里走; 从那边走
 aller tout droit	一直走; 一直走
 Pardon,monsieur	对不起,先生
@@ -1015,7 +1013,6 @@ passer les vacances à Londres	在伦敦度假
 quelle	多么,何等exclam.多么
 Quelle jolie robe	多么漂亮的裙子!
 Quelle belle maison	多么漂亮的房子!
-rentrer	回家v.回来,回到
 Je rentre chez moi	我回家。
 reste	其余n.m.剩余
 réunion	会议n.f.
@@ -1090,12 +1087,6 @@ ils lisent	他们读
 Qu'est-ce que vous lisez	你在读什么?
 Je lis un journal	我在读一份报纸。
 Le dimanche, je me lève à midi	星期天我中午起床。
-je me lave	我洗澡
-tu te laves	你洗澡
-il se lave	他洗澡
-nous nous lavons	我们洗澡
-vous vous lavez	你们洗澡
-ils se lavent	他们洗澡
 Les Allemands se lavent le matin	德国人早上洗澡。
 Et les Chinois se lavent le soir	中国人晚上洗澡。
 se roposer	休息(代词式动词)
@@ -1108,7 +1099,6 @@ ils se reposent	他们休息
 Je me lave tous les matins	我每天早上洗澡。
 L'après-midi, je ne me repose pas, je travaille	下午我不休息,我工作。(me repose不可分割)
 À quelle heure te lèves-tu le dimanche	星期天你几点起床?
-se lever	起床(代词式动词)
 je me lève	我起床
 tu te lèves	你起床
 il se lève	他起床
@@ -1177,7 +1167,6 @@ après	以后adv.然后=after; 然后loc.adv.
 enfin	最后adv.; 最后loc.adv.
 Qu'est-ce que tu fais	你在做什么?(Que+est-ce que变为qu'est-ce que); 你在做什么?
 jouer au foot	踢足球(au=à+le)
-se laver	洗澡(代词式动词)
 Je me lève à six heures du matin	我早上六点起床。
 actuel	目前的,现实的,当前的adj
 actuelle	目前的,现实的,当前的adj 阴性
@@ -1211,9 +1200,7 @@ recommencer	重新开始
 regarder	看,注视v.t.
 reprendre	重新从事v.t.
 reprendre le travail	重新开始工作
-retourner	返回v.i.
 retourner en Chine	返回中国
-sortir	出去,外出v.i.
 je sors de chez moi	我出门
 stresse	压力,紧张n.m.
 se terminer	结束,完结(代词式动词)
@@ -1421,7 +1408,6 @@ Paul a fini son travail	"Paul完成了他的工作"
 Paul a pris un café	"Paul喝了一杯咖啡"
 vendre	卖
 vendu	卖过
-vivre	生活
 vécu	生活过
 ravi	高兴的
 revoir	再见到,是 “voir(看见)” 的复合形式
@@ -1447,12 +1433,10 @@ habiter	居住(在)v.; 住
 inviter	邀请v.t.; 邀请
 visiter	参观v.t.;访问v.游览; 参观
 manger	吃v.t.; 吃
-aller	去(原形); 去
 faire	“做;干;进行”; 做
 fait	“faire的变位”,il/elle/on(他/她/人们); 做过
 dormir	睡觉; 睡觉
 dormi	睡过
-partir	离开v.出发; 出发
 parti	出发过
 prendre	拿(原形); 搭乘,选取(道路,路线)vt.; 拿
 pris	拿过
@@ -1530,3 +1514,126 @@ Ma sœur a pris des pâtes et, moi, j'ai mangé une pizza	我妹妹吃了意大�
 Et pour le dessert	甜点呢? (And for dessert?)
 Nous n'avons pas pris de dessert	我们没有吃甜点。 (We didn't have dessert.)
 Et bien, moi, j'ai travaillé toute la journée et j'ai dîné seul	我工作了一整天,独自吃了晚饭。 (Well, I worked all day and had dinner alone.)
+Chère Léa	亲爱的蕾娅 (Dear Léa)
+aller	去(to go)
+être allée	去(to have gone)
+être allé	去(to have gone)-阳性
+je suis allée	我去(to have gone)-阴性
+je suis allé	我去(to have gone)-阳性
+tu es allée	你去(to have gone)-阴性
+tu es allé	你去(to have gone)-阳性
+il est allé	他去(to have gone)
+elle est allée	她去(to have gone)
+nous sommes allées	我们去(to have gone)-阴性
+nous sommes allés	我们去(to have gone)-阳性
+vous êtes allées	你们去(to have gone)-阴性
+vous êtes allés	你们去(to have gone)-阳性
+ils sont allés	他们去(to have gone)-阳性
+elles sont allées	她们去(to have gone)-阴性
+Mathilde et Alicia sont allées faire des courses	玛蒂尔德和艾丽西亚去购物了。(Mathilde and Alicia went shopping.)
+venir	来(to come)
+être venue	来(to have come)-阴性
+être venu	来(to have come)-阳性
+Quand ils sont venus	他们什么时候来?(When did they come?)
+entrer	进入(to enter)
+être entrée	进入(to have entered)-阴性
+être entré	进入(to have entered)-阳性
+sortir	出去(to go out)
+être sortie	出去(to have gone out)-阴性
+être sorti	出去(to have gone out)-阳性
+Je suis sorti de la salle de classe	我走出教室。(I walked out of the classroom.)
+arriver	到达(to arrive)
+être arrivée	到达(to have arrived)-阴性
+être arrivé	到达(to have arrived)-阳性
+Je suis arrivé à l'aéroport à trois heures de l'après-midi	我下午三点到达机场。(I arrived at the airport at three o'clock in the afternoon.)
+Elle est arrivée vendredi	她星期五到达。(She arrived on Friday.)
+partir	出发(to leave)
+être parti	出发(to have left)-阳性
+être partie	出发(to have left)-阴性
+pour trois jours	三天(for three days)
+M. Durant est parti à Paris hier, pour trois jours	杜兰先生昨天出发去巴黎,为期三天 (Mr. Durant left for Paris yesterday, for three days)
+monter	上(to go up)
+être montée	上(to have gone up)-阴性
+être monté	上(to have gone up)-阳性
+descendre	下(to go down)
+être descendue	下(to have gone down)-阴性
+être descendu	下(to have gone down)-阳性
+naître	出生(to be born)
+être née	出生(to have been born)-阴性
+être né	出生(to have been born)-阳性
+Vous êtes né quand	你什么时候出生的?(When were you born?)
+mourir	死亡(to die)
+être morte	死亡(to have died)-阴性
+être mort	死亡(to have died)-阳性
+rester	停留(to stay)
+être restée	停留(to have stayed)-阴性
+être resté	停留(to have stayed)-阳性
+tomber	掉下来,滚落下来(to fall)区别于descendre
+être tombée	掉下来(to have fallen)-阴性
+être tombé	掉下来(to have fallen)-阳性
+devenir	变成(to become)
+être devenue	变成(to have become)-阴性
+être devenu	变成(to have become)-阳性
+retourner	归来(to return)
+être retournée	返回(to have returned)-阴性
+être retourné	返回(to have returned)-阳性
+rentrer	回家(to go home)
+être rentrée	回家(to have gone home)-阴性
+être rentré	回家(to have gone home)-阳性
+revenir	再来(to come back)
+être revenue	再来(to have come back)-阴性
+parvenir	到达(to reach)
+être parvenue	到达(to have reached)-阴性
+intervenir	干涉,干预(to intervene)
+être intervenu	干涉(to have intervened)-阳性
+survenir	突然到达(to occur)
+être survenue	突然到达(to have occurred)-阴性
+se lever	起床(to get up)
+se laver	洗澡、洗漱(to wash oneself)
+je me lave	我洗澡(to wash myself)-现在时变位
+tu te laves	你洗澡(to wash yourself)
+il se lave	他洗澡(to wash himself)
+nous nous lavons	我们洗澡(to wash ourselves)
+vous vous lavez	你们洗澡(to wash yourselves)
+ils se lavent	他们洗澡(to wash themselves)
+je me suis lavée	我洗澡(to have washed myself)-阴性-过去时变位
+je me suis lavé	我洗澡(to have washed myself)-阳性-过去时变位
+tu t'es lavée	你洗澡(to have washed yourself)-阴性-过去时变位
+tu t'es lavé	你洗澡(to have washed yourself)-阳性-过去时变位
+il s'est lavé	他洗澡(to have washed himself)-阳性-过去时变位
+elle s'est lavée	她洗澡(to have washed herself)-阴性-过去时变位
+nous nous sommes lavées	我们洗澡(to have washed ourselves)-阴性-过去时变位
+nous nous sommes lavés	我们洗澡(to have washed ourselves)-阳性-过去时变位
+vous vous êtes lavées	你们洗澡(to have washed yourselves)-阴性-过去时变位
+vous vous êtes lavés	你们洗澡(to have washed yourselves)-阳性-过去时变位
+ils se sont lavés	他们洗澡(to have washed themselves)-阳性-过去时变位
+elles se sont lavées	她们洗澡(to have washed themselves)-阴性-过去时变位
+s'habiller	穿衣(to get dressed)
+je me suis habillée	我穿衣(to have dressed myself)-阴性-过去时变位
+je me suis habillé	我穿衣(to have dressed myself)-阳性-过去时变位
+tu t'es habillée	你穿衣(to have dressed yourself)-阴性-过去时变位
+tu t'es habillé	你穿衣(to have dressed yourself)-阳性-过去时变位
+il s'est habillé	他穿衣(to have dressed himself)-阳性-过去时变位
+elle s'est habillée	她穿衣(to have dressed herself)-阴性-过去时变位
+nous nous sommes habillées	我们穿衣(to have dressed ourselves)-阴性-过去时变位
+nous nous sommes habillés	我们穿衣(to have dressed ourselves)-阳性-过去时变位
+vous vous êtes habillées	你们穿衣(to have dressed yourselves)-阴性-过去时变位
+vous vous êtes habillés	你们穿衣(to have dressed yourselves)-阳性-过去时变位
+ils se sont habillés	他们穿衣(to have dressed themselves)-阳性-过去时变位
+elles se sont habillées	她们穿衣(to have dressed themselves)-阴性-过去时变位
+se suicider	自杀
+Elle s'est suicidée	她自杀了(She committed suicide)
+Le chasseur	猎人n.m.
+se cacher	躲藏(to hide)
+Le chasseur s'est caché derrière un buisson	猎人躲在灌木丛的后面(The hunter hid behind a bush)
+J'ai vu ce film	我看过这部电影(I have seen this movie)
+Je n'ai pas vu ce film	我没看过这部电影(I have not seen this movie)-助动词才是P.C.的关键
+Il est allé au cinéma	他去看电影了(He went to the cinema)
+Il n'est pas allé au cinéma	他没去看电影(He did not go to the cinema)
+C'est un très bon restaurant, On y est allés deux fois	这是一家非常好的餐厅,我们去过两次(It's a very good restaurant, we went there twice)(副代词y:代替地点状语)
+Vous êtes allés chez elle	你们去她家了?(You went to her house)
+Oui, on y est allés	是的,我们去过(Yes, we went there)
+Non, on n'y est pas allés	不,我们没去过(No, we did not go there)
+plusieurs	好多(several)
+vivre	生活(to live)
+Paris, J'y ai vécu plusieurs années	巴黎,我在这里生活了好几年(I lived in Paris for several years)
