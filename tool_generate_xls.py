@@ -44,47 +44,53 @@ class FrenchTTSProcessor:
             texts = [line.strip() for line in file.readlines() if line.strip()]
         return texts
 
-    # Async function to process a batch of texts and convert them to speech
-    async def process_text_batch(self, texts, use_michelle=False):
-        for text in texts:
-            # Create output file path for each text
-            output_file = os.path.join(self.sound_folder, f"{text}.mp3")
+    # Async function to process a single text and convert it to speech
+    async def process_single_text(self, text, voices_manager, use_michelle=False):
+        # Create output file path for each text
+        output_file = os.path.join(self.sound_folder, f"{text}.mp3")
 
-            # Create VoicesManager instance
-            voices = await VoicesManager.create()
+        if use_michelle:
+            # Choose voice: specific Michelle voice
+            name = "Microsoft Server Speech Text to Speech Voice (en-US, MichelleNeural)"
+            communicate = edge_tts.Communicate(text, name)
+            await communicate.save(output_file)
+        else:
+            excluded_voices = [
+                'Microsoft Server Speech Text to Speech Voice (fr-FR, EloiseNeural)',
+                'Microsoft Server Speech Text to Speech Voice (fr-FR, VivienneMultilingualNeural)',
+                # 'Microsoft Server Speech Text to Speech Voice (fr-FR, HenriNeural)',
+                'Microsoft Server Speech Text to Speech Voice (fr-FR, RemyMultilingualNeural)'
+            ]
+            # Choose voice from the voice library
+            all_voices = voices_manager.find(Language="fr", Locale="fr-FR")  # For French voices
+            # Filter out the excluded voices
+            available_voices = [voice for voice in all_voices if voice["Name"] not in excluded_voices]
+            selected_voice = random.choice(available_voices)["Name"]
+            print(f"Processing text: '{text}' with voice: '{selected_voice}'")
+            # Use Edge TTS API to convert text to speech and save as MP3 file
+            communicate = edge_tts.Communicate(text, selected_voice, rate="-10%")
+            await communicate.save(output_file)
 
-            if use_michelle:
-                # Choose voice: specific Michelle voice
-                name = "Microsoft Server Speech Text to Speech Voice (en-US, MichelleNeural)"
-                communicate = edge_tts.Communicate(text, name)
-                await communicate.save(output_file)
-            else:
-                excluded_voices = [
-                    'Microsoft Server Speech Text to Speech Voice (fr-FR, EloiseNeural)',
-                    'Microsoft Server Speech Text to Speech Voice (fr-FR, VivienneMultilingualNeural)',
-                    # 'Microsoft Server Speech Text to Speech Voice (fr-FR, HenriNeural)',
-                    'Microsoft Server Speech Text to Speech Voice (fr-FR, RemyMultilingualNeural)'
-                ]
-                # Choose voice from the voice library
-                all_voices = voices.find(Language="fr", Locale="fr-FR")  # For French voices
-                # Filter out the excluded voices
-                available_voices = [voice for voice in all_voices if voice["Name"] not in excluded_voices]
-                selected_voice = random.choice(available_voices)["Name"]
-                print(f"Processing text: '{text}' with voice: '{selected_voice}'")
-                # Use Edge TTS API to convert text to speech and save as MP3 file
-                communicate = edge_tts.Communicate(text, selected_voice, rate="-10%")
-                await communicate.save(output_file)
-
-    # Main function to process the entire TEXT_LIST in batches
+    # Main function to process the entire TEXT_LIST in parallel batches
     async def process_all_texts(self):
         start_time = time.time()  # Record start time
-        batch_size = 10  # Define the batch size
-        # Split the TEXT_LIST into batches
-        batches = [self.TEXT_LIST[i:i + batch_size] for i in range(0, len(self.TEXT_LIST), batch_size)]
 
-        # Process each batch sequentially
-        for batch in batches:
-            await self.process_text_batch(batch)
+        # Create the voices manager once
+        voices_manager = await VoicesManager.create()
+
+        # Process all texts in parallel (with a limit to avoid overwhelming the system)
+        max_concurrent_tasks = 5  # Adjust based on your system's capabilities
+        semaphore = asyncio.Semaphore(max_concurrent_tasks)
+
+        async def process_with_semaphore(text):
+            async with semaphore:
+                await self.process_single_text(text, voices_manager)
+
+        # Create tasks for all texts
+        tasks = [process_with_semaphore(text) for text in self.TEXT_LIST]
+
+        # Run all tasks concurrently
+        await asyncio.gather(*tasks)
 
         end_time = time.time()  # Record end time
         elapsed_time = end_time - start_time  # Calculate elapsed time

@@ -1,0 +1,123 @@
+Chère Léa 亲爱的蕾娅 (Dear Léa)
+aller   去(to go)
+être allée 去(to have gone)
+être allé 去(to have gone)-阳性
+je suis allée 我去(to have gone)-阴性
+je suis allé 我去(to have gone)-阳性
+tu es allée 你去(to have gone)-阴性
+tu es allé 你去(to have gone)-阳性
+il est allé 他去(to have gone)
+elle est allée 她去(to have gone)
+nous sommes allées 我们去(to have gone)-阴性
+nous sommes allés 我们去(to have gone)-阳性
+vous êtes allées 你们去(to have gone)-阴性
+vous êtes allés 你们去(to have gone)-阳性
+ils sont allés 他们去(to have gone)-阳性
+elles sont allées 她们去(to have gone)-阴性
+Mathilde et Alicia sont allées faire des courses 玛蒂尔德和艾丽西亚去购物了。(Mathilde and Alicia went shopping.)
+venir   来(to come)
+être venue 来(to have come)-阴性
+être venu 来(to have come)-阳性
+Quand ils sont venus 他们什么时候来？(When did they come?)
+entrer  进入(to enter)
+être entrée 进入(to have entered)-阴性
+être entré 进入(to have entered)-阳性
+sortir  出去(to go out)
+être sortie 出去(to have gone out)-阴性
+être sorti 出去(to have gone out)-阳性
+Je suis sorti de la salle de classe 我走出教室。(I walked out of the classroom.)
+arriver 到达(to arrive)
+être arrivée 到达(to have arrived)-阴性
+être arrivé 到达(to have arrived)-阳性
+Je suis arrivé à l'aéroport à trois heures de l'après-midi 我下午三点到达机场。(I arrived at the airport at three o'clock in the afternoon.)
+Elle est arrivée vendredi   她星期五到达。(She arrived on Friday.)
+partir 出发(to leave)
+être parti 出发(to have left)-阳性
+être partie 出发(to have left)-阴性
+pour trois jours 三天(for three days)
+M. Durant est parti à Paris hier, pour trois jours 杜兰先生昨天出发去巴黎，为期三天 (Mr. Durant left for Paris yesterday, for three days)
+monter 上(to go up)
+être montée 上(to have gone up)-阴性
+être monté 上(to have gone up)-阳性
+descendre 下(to go down)
+être descendue 下(to have gone down)-阴性
+être descendu 下(to have gone down)-阳性
+naître 出生(to be born)
+être née 出生(to have been born)-阴性
+être né 出生(to have been born)-阳性
+Vous êtes né quand  你什么时候出生的？(When were you born?)
+mourir 死亡(to die)
+être morte 死亡(to have died)-阴性
+être mort 死亡(to have died)-阳性
+rester 停留(to stay)
+être restée 停留(to have stayed)-阴性
+être resté 停留(to have stayed)-阳性
+tomber 掉下来，滚落下来(to fall)区别于descendre
+être tombée 掉下来(to have fallen)-阴性
+être tombé 掉下来(to have fallen)-阳性
+devenir 变成(to become)
+être devenue 变成(to have become)-阴性
+être devenu 变成(to have become)-阳性
+retourner 归来(to return)
+être retournée 返回(to have returned)-阴性
+être retourné 返回(to have returned)-阳性
+rentrer 回家(to go home)
+être rentrée 回家(to have gone home)-阴性
+être rentré 回家(to have gone home)-阳性
+revenir 再来(to come back)
+être revenue 再来(to have come back)-阴性
+parvenir 到达(to reach)
+être parvenue 到达(to have reached)-阴性
+intervenir 干涉，干预(to intervene)
+être intervenu 干涉(to have intervened)-阳性
+survenir 突然到达(to occur)
+être survenue 突然到达(to have occurred)-阴性
+se lever起床(to get up)
+se laver 洗澡、洗漱(to wash oneself)
+je me lave 我洗澡(to wash myself)-现在时变位
+tu te laves 你洗澡(to wash yourself)
+il se lave 他洗澡(to wash himself)
+nous nous lavons 我们洗澡(to wash ourselves)
+vous vous lavez 你们洗澡(to wash yourselves)
+ils se lavent 他们洗澡(to wash themselves)
+je me suis lavée 我洗澡(to have washed myself)-阴性-过去时变位
+je me suis lavé 我洗澡(to have washed myself)-阳性-过去时变位
+tu t'es lavée 你洗澡(to have washed yourself)-阴性-过去时变位
+tu t'es lavé 你洗澡(to have washed yourself)-阳性-过去时变位
+il s'est lavé 他洗澡(to have washed himself)-阳性-过去时变位
+elle s'est lavée 她洗澡(to have washed herself)-阴性-过去时变位
+nous nous sommes lavées 我们洗澡(to have washed ourselves)-阴性-过去时变位
+nous nous sommes lavés 我们洗澡(to have washed ourselves)-阳性-过去时变位
+vous vous êtes lavées 你们洗澡(to have washed yourselves)-阴性-过去时变位
+vous vous êtes lavés 你们洗澡(to have washed yourselves)-阳性-过去时变位
+ils se sont lavés 他们洗澡(to have washed themselves)-阳性-过去时变位
+elles se sont lavées 她们洗澡(to have washed themselves)-阴性-过去时变位
+s'habiller 穿衣(to get dressed)
+je me suis habillée 我穿衣(to have dressed myself)-阴性-过去时变位
+je me suis habillé 我穿衣(to have dressed myself)-阳性-过去时变位
+tu t'es habillée 你穿衣(to have dressed yourself)-阴性-过去时变位
+tu t'es habillé 你穿衣(to have dressed yourself)-阳性-过去时变位
+il s'est habillé 他穿衣(to have dressed himself)-阳性-过去时变位
+elle s'est habillée 她穿衣(to have dressed herself)-阴性-过去时变位
+nous nous sommes habillées 我们穿衣(to have dressed ourselves)-阴性-过去时变位
+nous nous sommes habillés 我们穿衣(to have dressed ourselves)-阳性-过去时变位
+vous vous êtes habillées 你们穿衣(to have dressed yourselves)-阴性-过去时变位
+vous vous êtes habillés 你们穿衣(to have dressed yourselves)-阳性-过去时变位
+ils se sont habillés 他们穿衣(to have dressed themselves)-阳性-过去时变位
+elles se sont habillées 她们穿衣(to have dressed themselves)-阴性-过去时变位
+se suicider自杀
+Elle s'est suicidée她自杀了(She committed suicide）
+Le chasseur 猎人n.m.
+se cacher 躲藏(to hide)
+Le chasseur s'est caché derrière un buisson猎人躲在灌木丛的后面（The hunter hid behind a bush）
+J'ai vu ce film 我看过这部电影(I have seen this movie)
+Je n'ai pas vu ce film 我没看过这部电影(I have not seen this movie)-助动词才是P.C.的关键
+Il est allé au cinéma 他去看电影了(He went to the cinema)
+Il n'est pas allé au cinéma 他没去看电影(He did not go to the cinema)
+C'est un très bon restaurant, On y est allés deux fois 这是一家非常好的餐厅，我们去过两次(It's a very good restaurant, we went there twice)(副代词y：代替地点状语)
+Vous êtes allés chez elle 你们去她家了?(You went to her house)
+Oui, on y est allés 是的，我们去过(Yes, we went there)
+Non, on n'y est pas allés 不，我们没去过(No, we did not go there)
+plusieurs  好多(several)
+vivre 生活(to live)
+Paris, J'y ai vécu plusieurs années 巴黎，我在这里生活了好几年(I lived in Paris for several years)
