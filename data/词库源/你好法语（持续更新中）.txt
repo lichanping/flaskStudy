@@ -844,7 +844,6 @@ pendule	挂钟,座钟;钟摆(n.f.)
 prochain	下一个的(adj.)
 prochaine	下一个的(adj.阴性)
 À samdi prochain	下周六见(À表示什么时候再见)
-fois	次(n.f.)
 À la prochaine	下次见(省略了fois)
 À la prochaine fois	下次见
 renseignement	有关资料,情况,咨询(n.m.)
@@ -1531,7 +1530,6 @@ vous êtes allés	你们去(to have gone)-阳性
 ils sont allés	他们去(to have gone)-阳性
 elles sont allées	她们去(to have gone)-阴性
 Mathilde et Alicia sont allées faire des courses	玛蒂尔德和艾丽西亚去购物了。(Mathilde and Alicia went shopping.)
-venir	来(to come)
 être venue	来(to have come)-阴性
 être venu	来(to have come)-阳性
 Quand ils sont venus	他们什么时候来?(When did they come?)
@@ -1552,10 +1550,8 @@ partir	出发(to leave)
 être partie	出发(to have left)-阴性
 pour trois jours	三天(for three days)
 M. Durant est parti à Paris hier, pour trois jours	杜兰先生昨天出发去巴黎,为期三天 (Mr. Durant left for Paris yesterday, for three days)
-monter	上(to go up)
 être montée	上(to have gone up)-阴性
 être monté	上(to have gone up)-阳性
-descendre	下(to go down)
 être descendue	下(to have gone down)-阴性
 être descendu	下(to have gone down)-阳性
 naître	出生(to be born)
@@ -1565,10 +1561,8 @@ Vous êtes né quand	你什么时候出生的?(When were you born?)
 mourir	死亡(to die)
 être morte	死亡(to have died)-阴性
 être mort	死亡(to have died)-阳性
-rester	停留(to stay)
 être restée	停留(to have stayed)-阴性
 être resté	停留(to have stayed)-阳性
-tomber	掉下来,滚落下来(to fall)区别于descendre
 être tombée	掉下来(to have fallen)-阴性
 être tombé	掉下来(to have fallen)-阳性
 devenir	变成(to become)
@@ -1580,7 +1574,6 @@ retourner	归来(to return)
 rentrer	回家(to go home)
 être rentrée	回家(to have gone home)-阴性
 être rentré	回家(to have gone home)-阳性
-revenir	再来(to come back)
 être revenue	再来(to have come back)-阴性
 parvenir	到达(to reach)
 être parvenue	到达(to have reached)-阴性
@@ -1637,3 +1630,28 @@ Non, on n'y est pas allés	不,我们没去过(No, we did not go there)
 plusieurs	好多(several)
 vivre	生活(to live)
 Paris, J'y ai vécu plusieurs années	巴黎,我在这里生活了好几年(I lived in Paris for several years)
+Ils sont partis pour combien de temps	他们出发多久了?(How long have they been gone?)
+Pour trois mois	三个月(For three months)
+Ils rentrent quand	他们什么时候回家?(When are they coming back?)
+Ils rentrent dans combien de temps	他们多久回家?(How long will they be back?)
+Dans une semaine	一周后(In a week)
+Ils rentreront dans un mois	他们一个月后回家(They will be back in a month)
+année	年(year)n.f.
+Barcelone	巴萨罗那(Barcelona)-西班牙
+Bordeaux	波尔多(Bordeaux)-法国
+bisou	亲吻(kiss)n.m.<俗>
+descendre	下来(to go down)v.i.
+fois	次(times)n.f.
+là-bas	那里,那边(there)adv.
+magnifique	壮丽的,豪华的;极美的;极好的;非凡的(magnificent)adj.
+marcher	走路(to walk)v.i.
+une minute	分钟(minute)n.f.
+monter	上去,登上(to go up)v.i.
+parc	公园(park)n.m.
+république	共和国(republic)n.f.
+la cinquième République française	法兰西第五共和国(the Fifth French Republic)
+rester	停留(to stay)v.i.
+revenir	回来(to come back)v.i.
+soirée	夜晚(evening)n.f.
+tomber	跌落,落下(to fall)v.i.
+venir	来(to come)v.i.
