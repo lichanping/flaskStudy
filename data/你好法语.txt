@@ -307,3 +307,28 @@ Non, on n'y est pas allés	不,我们没去过(No, we did not go there)
 plusieurs	好多(several)
 vivre	生活(to live)
 Paris, J'y ai vécu plusieurs années	巴黎,我在这里生活了好几年(I lived in Paris for several years)
+Ils sont partis pour combien de temps	他们出发多久了?(How long have they been gone?)
+Pour trois mois	三个月(For three months)
+Ils rentrent quand	他们什么时候回家?(When are they coming back?)
+Ils rentrent dans combien de temps	他们多久回家?(How long will they be back?)
+Dans une semaine	一周后(In a week)
+Ils rentreront dans un mois	他们一个月后回家(They will be back in a month)
+année	年(year)n.f.
+Barcelone	巴萨罗那(Barcelona)-西班牙
+Bordeaux	波尔多(Bordeaux)-法国
+bisou	亲吻(kiss)n.m.<俗>
+descendre	下来(to go down)v.i.
+fois	次(times)n.f.
+là-bas	那里,那边(there)adv.
+magnifique	壮丽的,豪华的;极美的;极好的;非凡的(magnificent)adj.
+marcher	走路(to walk)v.i.
+une minute	分钟(minute)n.f.
+monter	上去,登上(to go up)v.i.
+parc	公园(park)n.m.
+république	共和国(republic)n.f.
+la cinquième République française	法兰西第五共和国(the Fifth French Republic)
+rester	停留(to stay)v.i.
+revenir	回来(to come back)v.i.
+soirée	夜晚(evening)n.f.
+tomber	跌落,落下(to fall)v.i.
+venir	来(to come)v.i.
