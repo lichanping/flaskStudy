@@ -4,16 +4,14 @@ import random
 import re
 import sys
 import time
+import unicodedata
 from datetime import datetime, date
 from datetime import timedelta
 from os.path import dirname, abspath
-import pytest
 
 import edge_tts
 import pandas as pd
-import unicodedata
 from edge_tts import VoicesManager
-from ptest.decorator import TestClass, Test
 
 
 def get_sub_folder_path(sub_dir_name='data'):
