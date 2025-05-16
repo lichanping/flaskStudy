@@ -386,8 +386,6 @@ vivait	:动词 “vivre”(生活,居住)的第三人称单数未完成过去时
 une petite fille qui vivait dans un village	一个住在村子里的小女孩(qui:关系代词,引导定语从句)
 aimaient	:动词 “aimer”(喜爱,爱)的第三人称复数未完成过去时形式,意为 “她们喜爱” ,表示过去习惯性、持续性的动作,即她的母亲和祖母过去一直很疼爱她。
 Sa mère et sa grand-mère l'aimaient beaucoup	她的母亲和祖母非常疼爱她
-donner	给(动词)
-a donné	动词 “donner”(给)的直陈式现在完成时第三人称单数变位形式,“a” 是助动词 “avoir” 的第三人称单数变位,“donné” 是 “donner” 的过去分词,二者构成现在完成时,表示过去发生并完成的动作
 chaperon	:阳性名词,常见意思为 “兜帽” 。
 de couleur	:短语,意为 “...... 颜色的” ,“de” 在这里表示性质、特征。(阴性名词)
 Un jour, sa grand-mère lui a donné un petit chaperon de couleur rouge	一天,她的祖母给了她一顶红色的小兜帽
@@ -695,7 +693,6 @@ déshabiller	脱衣服(动词); 动词,意为 “给...... 脱衣服”
 l'autre	“l'” 是定冠词 “le” 与元音开头的 “autre” 的缩合形式,“autre” 作形容词时,意为 “别的,其他的”
 l'autre chemin	表示 “另一条路” 。
 Le Petit Chaperon rouge s'est déshabillée et s'est couchée	小红帽脱了衣服,然后躺了下来。
-Il en reste 11	剩下11个
 Est-ce que tu m'entends	你听到我说话吗?(entends:动词 entendre 的直陈式现在时第二人称单数变位形式)
 Oui je t'entends	是的,我听到你说话了。(t': te 的变位形式, 代词 te(你)的宾格形式)
 Est-ce que tu me vois	你看到我吗?(vois:动词 voir(看见)的直陈式现在时第二人称单数变位形式)
@@ -808,7 +805,6 @@ un beau gosse	一个帅哥(“beau” 是形容词,意为“帅的、美的”,�
 Elle n'aime pas beaucoup les garçons, elle a peur des garçons	她不太喜欢男孩,她害怕男孩。
 Mon professeur préféré	我最喜欢的老师(préféré:形容词,意为“最喜欢的”,阳性形式)
 a été	“être” 的直陈式复合过去时第三人称单数形式,表示“是”或“在”
-expliquer	解释(动词原形)
 expliquez	解释(动词 expliquer(解释)的第二人称复数命令式形式)
 Parlez d'un professeur qui est, ou a été, important pour vous et expliquez pourquoi	谈谈一个对你来说很重要的老师,或者是一个你最喜欢的老师,并解释为什么。
 il est mon professeur préféré	他是我最喜欢的老师
@@ -830,7 +826,6 @@ naître	出生(动词)
 le nouvel an chinois	表示“中国新年”,nouvel an 是“新年”,chinois 表示“中文的,或中国的”。; 春节
 fiche	是动词 “ficher” 的第一人称单数变位,意为 “在意,关心
 Je m'en fiche	我不在乎(“en” 是副代词,代替前文提到的事物或情况,“me” 是自反代词)
-préférée	最喜欢的(阴性形容词)
 Vendredi 7 février 2025	今天是2025年2月7日,星期五
 Il en reste 10	还剩10次
 spécial	特别的(阳性)
@@ -1378,7 +1373,6 @@ le champagne	“香槟” - 名词; “香槟”
 il pleut	下雨(动词)(其中 “il” 是无人称主语,表示天气,“pleut” 是动词 “pleuvoir(下雨)” 的第三人称单数变位形式); :意思是“下雨”,动词 pleuvoir 的第三人称单数形式,专用于描述天气。; “下雨了吗?”
 On ne sait pas encore	我们还不知道。; “我们还不知道”
 Hier	昨天(副词); “昨天”
-faux	“假的”,形容词; “错的”
 Samedi 1er mars 2025	“2025年3月1日,星期六
 Il en reste 7	:还剩下7个。
 Excuse moi, mais je ne comprends pas	:抱歉,我不明白。
@@ -1691,7 +1685,6 @@ Muet	无声的
 un film muet	无声电影
 as déjà vu	看过(过去时,第二人称单数, voir)
 Est-ce que tu as déjà vu un film muet	你看过无声电影吗?
-découvrir	发现
 j'ai découvert	我发现(过去分词,第一人称单数)
 un chanteur	歌手
 ai écouté	动词 écouter(听)的复合过去时第一人称单数形式,“听了”
@@ -1790,7 +1783,6 @@ J'ai regardé 120 films de 50 secondes, combien de temps j'ai passé au cinéma	
 100 minutes	“100分钟”
 Une heure et 40 minutes	“1小时40分钟”
 Les Champs Elysées	香榭丽舍大道
-quelqu'un	某人(不定代词)=英语的 "someone"; 某人,某个人。
 la nourriture	食物(阴性名词)
 un gâteau	一块蛋糕; 蛋糕
 faire	做; 做(原形)
@@ -1951,7 +1943,6 @@ quand même	“仍然,还是,尽管如此”,在句子中作状语,修饰动词 
 Je suis sérieuse, je suis allée quand même à l'école	我是认真的,我还是去上学了。
 C'était le COVID 19	是新冠肺炎吗?
 mi semestre	期中考试
-commencer	开始
 terminer	结束
 Les examens de mi semestre commence le mardi 8 et terminent jeudi 17 avril	期中考试从4月8日周二开始,4月17日周四结束。
 10 examens	共有10场考试。
@@ -2114,7 +2105,6 @@ porter des choses chers	穿戴贵重物品
 Des touristes américains arrivent à Paris, ils ne savent qu'il faut faire attention, il ne faut porter des choses chers	一些美国游客抵达巴黎,他们不知道应该要注意(安全),不应该佩戴贵重物品。
 Fête d'anniversaire	生日派对; – Vous voulez organiser la fête d'anniversaire de votre ami Julien生日派对 – 你想要为你的朋友朱利安组织一场生日派对。
 L'examinateur	考官(阳性名词); 主考人、考官(阳性)
-mettre	:是动词(放置,挂)的原形。; 放
 disent	“说”,法语动词 dire(意为“说”或“讲”)的第三人称复数现在时; “dire(说)” 的第三人称复数现在时变位
 toujours	仍然(副词); “总是;始终”= always
 gratuit	:免费的、无偿的。; 免费的;无偿的
@@ -2461,7 +2451,6 @@ Slovénie	斯洛文尼亚	Sīluòwénníyà
 Suède	瑞典	Ruìdiǎn
 Il en reste 14	还剩下 14 个
 l'accès au jardin	花园的入口
-vrai	真的(形容词)
 et puis	连词短语,意为 “并且,然后”,用于连接两个并列的动作或情况。
 toute	副词,意为“整个”(toute la journée:整天); 是tout的阴性单数形式,作副词“非常,完全”
 seule	独自的、单独的(形容词,表示“独自”或“单独”); 是 seul 的阴性单数形式,意为 “单独的,孤独的”
@@ -2592,12 +2581,6 @@ En France, il y a un festival de films très connu	“在法国,有一个非常�
 Le festival de Cannes	“戛纳电影节。”
 Je regarde quels films vont être à Cannes	“我在看哪些电影将在戛纳放映。”
 sera	“将会”“être(是、在)” 的简单将来时第三人称单数
-je serai	“我将会”
-tu seras	“你将会”
-il sera	“他将会”
-nous serons	“我们将会”
-vous serez	“你们将会”
-ils seront	“他们将会”
 Un film chinois sera à Cannes	“一部中国电影将在戛纳放映。”
 un carrot cake	“胡萝卜蛋糕”
 J'ai fait un carrot cake, C'était bon	“我做了一个胡萝卜蛋糕。很好吃。”
@@ -2658,3 +2641,164 @@ souvent	“经常” - 副词; “经常”=英语“often”
 facile	“容易的”=英语“easy”
 mieux	更好(bien的比较级); “更好”=英语“better”
 dessin	画,图画(名词)
+Vendredi 16 mai 2025	“2025年5月16日,星期五”
+Il en reste 11	“还剩下11个”
+Une journée à l'école	“在学校的一天”
+décrire	描述(to describe)
+Je décris	我描述
+tu décris	你描述
+il décrit	他描述
+nous décrivons	我们描述
+vous décrivez	你们描述
+ils décrivent	他们描述
+j'ai décrit	我描述了
+tu as décrit	你描述了
+habituel	习惯的adj.(usual)
+habituelle	习惯的adj.(usual)-阴性
+Une routine habituelle	日常习惯(routine)
+Décrivez une de vos journées habituelles à l'école	“描述一下你在学校的一天。
+expliquer	解释v.(to explain)
+j'ai expliqué	我解释了
+Expliquez ce que vous faites et avec qui	解释你做了什么以及和谁一起。”
+commencer	开始(to start)
+A quelle heure tu commences	“你几点开始上课?”
+Tu as combien par jour	“你一天有多少节课?”
+Le midi tu manges où	“中午你在哪儿吃饭?”
+A quelle heure tu finis les cours	“你几点下课?”
+J'arrive à l'école vers 7 heures, il y a 4 cours le matin, et ensuite je prends le déjeuner à midi et je me repose en classe 30 minutes	“我大概7点到学校,上午有4节课,然后中午吃午饭并在教室里休息30分钟。”
+L'après midi j'ai 5 cours jusqu'à 17 heures trente	“下午我有5节课(你几点结束课程?)直到下午5点30分。”
+Je dîne à l'école à 17h45 et à 18h30, j'ai étude jusqu'à 21h	“我在学校吃晚饭,17点45分,18点30分开始自习,直到21点。
+chercher	寻找(to look for)
+chercher à l'école	来学校接我(to pick me up at school)
+Il vient	他来(he comes)-原形:venir
+Je rentre après chez moi avec mon père qui vient me cherche à l'école	之后我爸爸来学校接我,我们一起回家。”
+quelque part	某处、某地(somewhere)
+quelqu'un	某人(someone)
+aller quelque part chercher quelqu'un	“去某地接某人”
+Le père de Camille va à l'école pour chercher sa fille	“卡米尔的爸爸去学校接他的女儿。”
+L'étude	学习、自习(study)-n.f.
+Pendant l'étude, les élèves sont seuls en classe ou bien y-a-t-il un professeur pour les aider	“自习时,学生们是独自在教室里,还是有老师帮助他们?”
+surveiller	监督(to supervise)
+Un prof vous surveille	“有老师监督你们。”
+En classe, pendant l'études, vous êtes combien d'élèves	“在自习课上,你们班上有多少学生?”
+Un quarantaine d'élève	“大约40名学生。”
+Environ quarante élèves	“大约40名学生。”
+ça c'est du lundi au jeudi	“这是从周一到周四的情况。”
+quitter	“离开”(to leave)
+Le vendredi, je quitte l'école vers 15h30, il n'y a pas d'étude	“周五,我大约在下午3点30分离开学校,没有自习。”
+Le vendredi je rentre toute seule à la maison	“周五,我独自回家。”
+Pendant mon temps libre	“在我的空闲时间”
+Qu'aimez-vous faire quand vous n'êtes pas en classe	“您不在课堂上时喜欢做什么?
+activité de loisirs	“休闲活动”(leisure activity)
+préférée	“最喜欢的”(favorite)-阴性单数
+loisirs	休闲活动(n.m.pl.)
+Est-ce votre activité de loisirs préférée, Pourquoi	“这是您最喜欢的休闲活动吗?为什么?”
+je t'écoute	“我在听你说”
+faire beaucoup d'activité	“进行很多活动”
+passé	“过去时”
+futur	“将来时”
+je regarde des films	“我看电影”
+je dessine	“我画画”
+je lis des livres	“我读书”
+je parle avec mes amis sur WeChat	“我和我的朋友在微信上聊天”
+je chatte avec mes amis sur WeChat	“我和我的朋友在微信上聊天。”
+Mon activité préférée c'est le dessin	“我最喜欢的活动是画画。”
+Je préfère dessiner	“我更喜欢画画。”
+J'ai appris à dessiner quand j'étais une enfant	“我小时候学过画画。”
+un enfant	“一个孩子(男孩)”
+une enfant	“一个孩子(女孩)”
+t'a appris	“教你(过去式)”(动词 apprendre(教)的复合过去时)
+Qui t'a appris à dessiner	“谁教你画画的?”
+privé	私人的(adj. private)
+un professeur privé	“私人教师”
+des cours privés de dessin	“私人绘画课”
+des cours privés de français	“私人法语课”
+j'allais chez lui prendre des cours privés de dessin	“我到他家去上私人绘画课。”
+Ganquan, c'est un lycée public	“甘泉是一所公立高中。”
+L'Esigelec	法国鲁昂高等工程师学院
+L'Esigelec, à Rouen, c'est une école privée	“位于鲁昂的ESIGELEC是一所私立学校。”
+donner	给、提供、教授(to give)
+Je donne des cours privés de français	“我教授私人法语课。”
+montrer	展示(to show)
+as montré	“给我看过(过去式)”(动词 montrer(展示)的复合过去时)
+faisais	过去未完成时(原形:faire)
+Tu ne m'as jamais montré les dessins que tu faisais	“你从没给我看过你画的作品。”
+mettre	放置、使用、穿上(to put)
+je mets	“我放置、使用、穿上”
+tu mets	“你放置、使用、穿上”
+il met	“他放置、使用、穿上”
+nous mettons	“我们放置、使用、穿上”
+vous mettez	“你们放置、使用、穿上”
+ils mettent	“他们放置、使用、穿上”
+Est-ce que tu mets beaucoup de couleurs	“你用了很多颜色吗?”
+Tu aimes bien les couleurs	“你喜欢颜色。”
+être mort	“去世了”
+mourir	“去世、死亡”(不及物)(to die)
+a donné	“给了,捐赠(过去式)”(donation)-助动词用 avoir
+tableaux	“画作”p.l.
+tableau	“画作”
+Il est mort, mais il a donné des tableaux au musée après sa mort	“他去世了,但他去世后把画作捐给了博物馆。”
+Philippe Perrot	法国艺术家
+seras	法语动词 “être”(是,在)的简单将来时第二人称单数
+je serai	“我将是”
+tu seras	“你将是”
+il sera	“他将是”
+nous serons	“我们将是”
+vous serez	“你们将是”
+ils seront	“他们将是”
+venir	“来”
+je viens	“我来”
+je suis venu	“我来了”
+je viendrai	“我会来”
+viendra	“来”简单将来时第三人称单数
+tu viendras	“你将来”
+nous viendrons	“我们将来”
+vous viendrez	“你们将来”
+ils viendront	“他们将来”
+Quand tu seras à Rouen, elle viendra te voir	“当你在鲁昂的时候,她会来看你。”
+Ton ami viendra aussi	“你的朋友也会来吗?”
+Il n'a pas le temps	“他没有时间。”
+Le 24 mai, c'est l'examen de DELF A2	“5月24日是DELF A2考试。”
+depuis quand	从何时开始(since when)
+Le dernier cours, je t'ai demandé depuis quand ils sont mariés	“上次课,我问过他们结婚多久了。”
+Ils sont mariés depuis 2005	“他们从2005年就结婚了
+Ca fait ans	“已经多少年了”
+10 mai 2005	“2005年5月10日”
+Ils sont fêtés leur anniversaire de mariage	“他们庆祝结婚纪念日了吗?”
+porcelaine	陶瓷(n.f.)(porcelain)
+20 ans de mariage - noces de porcelaine	结婚20周年:陶瓷婚
+Le temps passe... Parfois, la routine s	’installe, mais les noces de porcelaine sont là pour rappeler que l’amour des époux est solide et résistant“时间流逝......有时,日常生活变得单调,但陶瓷婚提醒我们,夫妻之间的爱情是坚固而持久的。”
+La porcelaine est une céramique fine connue pour sa couleur translucide	“陶瓷是一种以半透明颜色著称的精细陶瓷。”
+Ce matériau est beaucoup utilisé pour la création d	’art de la table telles que les assiettes puisqu’il est résistant aux chocs et à la chaleur“这种材料常用于制作餐具等餐桌艺术品,因为它能抵抗冲击和高温。”
+C'était leur noce de porcelaine	“这是他们的陶瓷婚。”
+Ils ont fêté leur noce de porcelaine	“他们庆祝了他们的陶瓷婚。”
+Il faut faire un cadeau à sa femme pour fêter l'anniversaire de mariage	“为了庆祝结婚纪念日,应该给妻子送一份礼物。”
+Ton père a-t-il fait un cadeau à ta mère le 10 mai	“你爸爸在5月10日给妈妈送礼物了吗?”
+Ma mère a offert une montre à mon père	“我的妈妈送了一块手表给我的爸爸。”
+Un bouquet de fleurs	“一束花。”
+Tu as eu une bonne note en maths	“你在数学上得了好成绩。”
+vrai	“正确”
+faux	“错误/不正确”
+la réponse est correcte	“答案是正确的。”
+tu es contente	“你开心吗?”
+moi aussi je suis content quand les élèves ont des bonnes notes	“当学生们取得好成绩时,我也会很高兴。”
+se rappeler	“记住”
+J'ai découvert un chanteur qui s'appelle Hedegaard et qui chante une chanson que le prof de sport a utilisé en cours	“我发现了一位名叫Hedegaard的歌手,他唱的一首歌被体育老师在课堂上使用过。
+Cette chanson s'appelle All Designer	这首歌叫《All Designer》
+découvrir	发现
+J'ai téléchargé les deux films de Bin Gan mais je ne les ai pas encore regardés	“我下载了毕赣的两部电影,但我还没看。”
+Voici la filmographie du cinéaste Gan Bi, réalisateur chinois connu pour son style poétique et onirique	“以下是毕赣(拼音:Bǐ Gàn)的电影作品,他是一位以诗意和梦幻风格著称的中国导演:”
+Kaili Blues	“🎬 1.《开犁蓝调》”
+Pinyin	: Lùbiān Yěcān“拼音:Lùbiān Yěcān”
+Titre international- Kaili Blues	“英文名:开犁蓝调”
+Année 2015	“年份:2015”
+Remarques -Premier long-métrage, tourné avec un budget très modeste	“备注:这是毕赣的第一部长片,制作预算非常有限。
+Contient un plan-séquence de plus de 40 minutes très remarqué	影片中有一个超过40分钟的长镜头,备受赞誉。”
+Long Day's Journey Into Night	“🎬 2.《漫长的一天》”
+Titre international-Long Day's Journey Into Night	“英文名:漫长的一天”
+Année 2018	“年份:2018”
+Remarques	: Connue pour sa seconde moitié en 3D et un long plan-séquence de près d'une heure“备注:该片以其后半部分的3D效果和近一小时的长镜头而闻名。
+Rien à voir avec la pièce d	’Eugene O’Neill, malgré le titre尽管片名相同,但与尤金·奥尼尔的同名戏剧并无关联。”
+La pâtisserie en bas de chez va ouvrir le samedi 24 mai	你家楼下的蛋糕店将于5月24日星期六开业。
+présent	“现在时”; “现在时”
+Titre original chinois	中文原名; “中文原名:地球最后的夜晚”
