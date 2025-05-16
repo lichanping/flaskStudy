@@ -7,6 +7,7 @@ import time
 from datetime import datetime, date
 from datetime import timedelta
 from os.path import dirname, abspath
+import pytest
 
 import edge_tts
 import pandas as pd
@@ -323,10 +324,8 @@ class TextToSpeechConverter:
         print(f"Audio file '{output_file}' created successfully.")
 
 
-@TestClass(run_mode='singleline')
-class GenerateTool:
-    @Test()
-    def simplify_words(self):
+class TestGenerateTool:
+    def test_simplify_words(self):
         # remove duplicate words
         tool = TxtToXLSX()
         tool.remove_old_files()
@@ -334,16 +333,14 @@ class GenerateTool:
         # tool.remove_duplicates_or_merge_translations('词库源/雅思基础词汇(更新完毕).txt')
         tool.remove_duplicates_or_merge_translations('词库源/百词斩-雅思词汇（持续更新中）.txt')
 
-    @Test()
-    def calculate_missing_words(self):
+    def test_calculate_missing_words(self):
         tool = TxtToXLSX()
         # generate missing sounds
         # tool.convert('词库源/高考词汇（更新完毕）.txt')
         # tool.convert('词库源/雅思基础词汇(更新完毕).txt')
         tool.convert('词库源/百词斩-雅思词汇（持续更新中）.txt')
 
-    @Test()
-    def french_words(self):
+    def test_french_words(self):
         files = [
             '词库源/法语单词（持续更新中）.txt',
             '词库源/你好法语（持续更新中）.txt',
@@ -359,8 +356,7 @@ class GenerateTool:
         processor = FrenchTTSProcessor()
         asyncio.run(processor.process_all_texts())
 
-    @Test()
-    def import_forgotten(self):
+    def test_import_forgotten(self):
         student_name = "英语"  # TBD
 
         data_folder = get_sub_folder_path('data')
@@ -398,8 +394,7 @@ class GenerateTool:
                     for word in new_words:
                         new_file.write(word + '\n')
 
-    @Test()
-    def generate_media_word_list(self):
+    def test_generate_media_word_list(self):
         def en_and_cn(file, max_items, language="fr"):
             start_time = time.time()  # Record start time
             converter = TextToSpeechConverter(tool)
