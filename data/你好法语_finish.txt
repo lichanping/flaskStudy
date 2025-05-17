@@ -4841,3 +4841,53 @@ assez	足够地adv.
 falloir	原形(必须,需要)
 kilo	千克n.m.
 livre	磅n.f.半公斤
+Vendredi 16 mai 2025	“2025年5月16日,星期五”
+Il en reste 11	“还剩下11个”
+Une journée à l'école	“在学校的一天”
+décrire	描述(to describe)
+Je décris	我描述
+tu décris	你描述
+il décrit	他描述
+nous décrivons	我们描述
+vous décrivez	你们描述
+ils décrivent	他们描述
+j'ai décrit	我描述了
+tu as décrit	你描述了
+habituel	习惯的adj.(usual)
+habituelle	习惯的adj.(usual)-阴性
+Décrivez une de vos journées habituelles à l'école	“描述一下你在学校的一天。
+expliquer	解释v.(to explain)
+j'ai expliqué	我解释了
+Expliquez ce que vous faites et avec qui	解释你做了什么以及和谁一起。”
+commencer	开始(to start)
+A quelle heure tu commences	“你几点开始上课?”
+Tu as combien par jour	“你一天有多少节课?”
+Le midi tu manges où	“中午你在哪儿吃饭?”
+A quelle heure tu finis les cours	“你几点下课?”
+J'arrive à l'école vers 7 heures, il y a 4 cours le matin, et ensuite je prends le déjeuner à midi et je me repose en classe 30 minutes	“我大概7点到学校,上午有4节课,然后中午吃午饭并在教室里休息30分钟。”
+L'après midi j'ai 5 cours jusqu'à 17 heures trente	“下午我有5节课(你几点结束课程?)直到下午5点30分。”
+Je dîne à l'école à 17h45 et à 18h30, j'ai étude jusqu'à 21h	“我在学校吃晚饭,17点45分,18点30分开始自习,直到21点。
+chercher	寻找(to look for)
+chercher à l'école	来学校接我(to pick me up at school)
+Je rentre après chez moi avec mon père qui vient me cherche à l'école	之后我爸爸来学校接我,我们一起回家。”
+quelque part	某处、某地(somewhere)
+quelqu'un	某人(someone)
+aller quelque part chercher quelqu'un	“去某地接某人”
+Le père de Camille va à l'école pour chercher sa fille	“卡米尔的爸爸去学校接他的女儿。”
+L'étude	学习、自习(study)-n.f.
+Pendant l'étude, les élèves sont seuls en classe ou bien y-a-t-il un professeur pour les aider	“自习时,学生们是独自在教室里,还是有老师帮助他们?”
+Un prof vous surveille	“有老师监督你们。”
+En classe, pendant l'études, vous êtes combien d'élèves	“在自习课上,你们班上有多少学生?”
+Un quarantaine d'élève	“大约40名学生。”
+ça c'est du lundi au jeudi	“这是从周一到周四的情况。”
+Le vendredi, je quitte l'école vers 15h30, il n'y a pas d'étude	“周五,我大约在下午3点30分离开学校,没有自习。”
+Le vendredi je rentre toute seule à la maison	“周五,我独自回家。”
+Pendant mon temps libre	“在我的空闲时间”
+Qu'aimez-vous faire quand vous n'êtes pas en classe	“您不在课堂上时喜欢做什么?
+activité de loisirs	“休闲活动”(leisure activity)
+préférée	“最喜欢的”(favorite)-阴性单数
+Une routine habituelle	日常习惯(routine)
+Il vient	他来(he comes)-原形:venir
+surveiller	监督(to supervise)
+Environ quarante élèves	“大约40名学生。”
+quitter	“离开”(to leave)
