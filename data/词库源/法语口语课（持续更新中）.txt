@@ -19,10 +19,8 @@ octobre	十月
 novembre	十一月
 décembre	十二月
 lycéenne	高中生
-Je suis lycéenne	我是高中生。
 lycée	高中
 Je suis lycéenne au lycée Ganquan	我在甘泉中学上高中。
-je suis en seconde	我在读高一。
 Le lycée en France	法国的高中
 née	动词 “naître”(出生)的过去分词形式,通常用于女性
 shanghaïen	上海话/shang ga yien/
@@ -55,9 +53,7 @@ grand-père maternel	外祖父
 grand-mère paternelle	奶奶
 grand-père paternel	爷爷
 Ma mère a quarante et un ans	我母亲41岁。
-ingénieur	工程师(男性)
 Mon père est ingénieur	我父亲是工程师。
-informaticienne	计算机专家(女性)
 Ma mère est informaticienne	我母亲是计算机专家。
 tous	所有
 Tous les deux	他们两个
@@ -73,7 +69,6 @@ Vous apprenez le français	你们在学法语。
 Ils apprennent le français	他们在学法语。
 voudrais	想要(vouloir的条件式第一人称单数形式)
 études	学习(复数)
-Emmanuel	埃马纽埃尔
 Le 8 février	"2月8号"
 C'est mon anniversaire	这是我的生日。
 soixante-deux	六十二
@@ -139,7 +134,6 @@ Tu peux en acheter à Shanghai	你可以在上海买到。(en:代替前面提到
 maman	妈妈(名词)
 Maman va acheter une galette	妈妈要买一个蛋糕。(“aller + 动词原形” 构成最近将来时,表示即将或打算做某事。)
 On travaille un peu	我们有点工作。
-si	是否,连接 “我不知道” 的内容
 que	连接词,引导宾语从句(引出 “你知道” 的具体内容)
 un examen de français	一次法语考试
 en mai 2025	在2025年5月
@@ -420,7 +414,6 @@ Pour aller chez sa grand-mère, le Petit Chaperon rouge devait traverser la for�
 noir	:形容词,意为 “黑色的” ,修饰阳性单数名词时用此形式。
 Le loup était tout noir	这只狼全身乌黑。
 œil	:阳性名词,意为 “眼睛” ,复数形式为 “yeux” 。
-les yeux	:“les” 是定冠词复数形式,“yeux” 是阳性名词 “œil”(眼睛)的复数形式,“les yeux” 即 “眼睛”。
 avait l'air	:固定短语,“avoir l'air + 形容词” 表示 “看起来......”,这里 “avait” 同样是 “avoir” 的第三人称单数未完成过去时形式。
 méchant	:形容词,意为 “凶恶的,恶意的”,描述狼看起来的样子。
 Il avait les yeux jaunes et il avait l'air très méchant	它有着黄色的眼睛,而且看起来十分凶恶。
@@ -440,7 +433,6 @@ Je vais voir ma grand-mère	我要去看望我的祖母 / 外祖母
 Je lui apporte une galette et un petit pot de beurre	我给她带一张煎饼和一小罐黄油。
 Est-ce que ta grand-mère habite loin d'ici	你祖母住得离这儿远吗??
 Oui, c'est très loin	是的,离这儿很远。
-dire	说(动词)
 dit le loup	:“dit” 是动词 “dire”(说)的第三人称单数直陈式现在时变位,“le loup” 是主语 “狼”,这部分表示 “狼说”,在句中以插入语形式出现,表明话语的发出者。
 Eh bien, dit le loup, moi aussi je veux aller voir ta grand-mère	“好吧,” 狼说,“我也想去看望你的祖母。”
 ce chemin	这条路(“ce” 是指示代词,意为 “这个” ,修饰阳性名词 “chemin”(路))
@@ -546,7 +538,6 @@ Tu as peur des loups	你怕狼吗?
 En Chine il y a des loups dans la nature	在中国有狼在大自然中吗?
 la nature	大自然
 En France il y en a	在法国有。(“en” 有特定的指代作用,它可以替代前文提及的名词,避免重复)
-un œil	一只眼睛
 des yeux	眼睛(复数)
 Il a des yeux bleus	(他有一双蓝色的眼睛。)
 un bûcheron c'est quelqu'un qui coupe les arbres dans la forêt	一名伐木工就是在森林里砍伐树木的人。
@@ -763,7 +754,6 @@ J'aime beaucoup l'école	我很喜欢学校
 après le cours	下课后,上完课后
 Hier, après le cours, je suis allé voir un biopic	昨天,下课后,我去看了一部传记片("allé" 是动词 "aller" 的过去分词,表示“去”。)
 un biopic	传记片(biography picture的缩写)
-raconter	讲述
 célèbre	著名的
 un biopic,c'est un film qui raconte l'histoire de quelqu'un de célèbre	传记片是讲述某个著名人物的故事的电影("qui" 是关系代词,指代前面的 "film",意思是“它”。)
 dit	是动词 "dire"(说)的过去分词,表示“说”
@@ -1543,7 +1533,6 @@ de coutume	传统
 de donner	给,送
 en cadeau	作为礼物
 apprendre	学习; 学习
-rien	什么都没有(通常用于否定句); 没有东西
 Comment vont tes parents	你的父母怎么样
 Ils vont bien	他们很好
 Tu connais	你了解; 你认识
@@ -1895,7 +1884,6 @@ Mon père est le plus sévère	我爸爸最严厉。
 J'aime bien voyager	我很喜欢旅行。
 A l'étranger, j'ai voyagé en Thaïlande, en Corée, au Japon	在国外,我曾去过泰国、韩国、日本。
 J'aimerais voyager en France	我想去法国旅行。
-J'apprends le français parce que je voudrais faire mes études en France	我在学法语,因为我想在法国学习。
 apprendre par cœur	背诵
 du bœuf	牛肉
 pensent	“认为”; 相信(动词“penser”的第三人称复数现在时,表示“相信”); 认为
@@ -2657,7 +2645,6 @@ habituel	习惯的adj.(usual)
 habituelle	习惯的adj.(usual)-阴性
 Une routine habituelle	日常习惯(routine)
 Décrivez une de vos journées habituelles à l'école	“描述一下你在学校的一天。
-expliquer	解释v.(to explain)
 j'ai expliqué	我解释了
 Expliquez ce que vous faites et avec qui	解释你做了什么以及和谁一起。”
 commencer	开始(to start)
@@ -2802,3 +2789,155 @@ Rien à voir avec la pièce d	’Eugene O’Neill, malgré le titre尽管片名�
 La pâtisserie en bas de chez va ouvrir le samedi 24 mai	你家楼下的蛋糕店将于5月24日星期六开业。
 présent	“现在时”; “现在时”
 Titre original chinois	中文原名; “中文原名:地球最后的夜晚”
+Samedi 17 mai 2025	“2025年5月17日,星期六”
+Vendredi on a cours	“周五我们有课”
+Samedi on a cours	“周六我们有课”
+La 3e partie	“第三部分”(3e=troisième)
+Chercher les mots importants	“找出关键词”
+Ecrire trois articles	“写三篇文章”
+un moyen de	一种...的方法
+un moyen de transport	“交通工具”
+tout ce que tu utilises pour te déplacer	“你用来移动的一切”
+l'avion	“飞机”
+le métro	“地铁”
+le bus	“公交车”
+le tramway	“有轨电车”
+un ingrédient	“一种食材”
+citer	引用
+dire	“说”
+Ma recette préférée	“我最喜欢的食谱”
+Quel plat savez-vous préparer	“你知道做哪道菜?(What dish do you know how to prepare?)
+Réaliser un gâteau	“做一个蛋糕”(make a cake)
+vous le réalisez	“你做这个菜”(you make this dish)
+ingrédients	“食材”,配料(ingredients)
+quantités	“数量”(quantities)
+temps de préparation et de cuisson	“准备和烹饪时间”(preparation and cooking time)
+Dites à quelle occasion vous le réalisez et expliquez comment vous le préparez	(ingrédients, quantités, temps de préparation et de cuisson...)说说你在什么场合做这道菜,以及你是如何准备的(食材、数量、准备时间和烹饪时间......)。”
+Explication	“解释”(explanation)
+recette	“食谱”(recipe)
+plat à cuisiner	“菜肴”(dish to cook)
+plat	菜
+mets	菜肴(dish)
+savoir préparer	会做
+savoir faire	会做(to know how to do)
+être capable de cuisiner	能够烹饪(to be able to cook)
+quelle occasion	什么场合(what occasion)
+contexte	背景(context)
+expliquer	解释(explain)
+temps de préparation	准备时间(preparation time)
+temps de cuisson	烹饪时间(cooking time)
+L'événement de l'année	“年度事件”(the event of the year)
+Quel événement aimez-vous fêter	“你喜欢庆祝什么活动? (which event do you like to celebrate?)
+raconter	讲述(tell)
+Racontez -quoi , quand , comment  etc	讲讲(是什么?什么时候?怎么庆祝?等等)。”
+événement	活动 / 事件	(event)=activité
+de l'année	今年的
+de cette année	今年的(of this year)
+fêter	庆祝(celebrate)
+célébrer	庆祝(celebrate)
+apprécier	欣赏(appreciate)
+quoi	什么(what)
+quel	什么(what)
+quand	什么时候(when)
+comment	怎么(how)
+ainsi de suite	等等(and so on)
+Je suis lycéenne	“我是一名高中生”
+je suis en seconde	“我在1年级”
+j'aime peindre et dessiner des personnes et des fleurs	“我喜欢画人和花”
+On est quatre chez moi	“我们家有四个人”
+ma grand-mère maternelle	“外婆”
+ingénieur	“工程师”(engineer)
+informaticienne	“计算机科学家”(computer scientist)
+A l'étranger	“在国外”(abroad)
+j'ai voyagé	“我去过”(I have traveled)
+J'aimerais	“我想要”(I would like)
+J'apprends le français parce que je voudrais faire mes études en France	“我学法语是因为我想去法国读书”
+Je te vois	“我看到你。”(I see you.)
+oublier	“忘记”(forget)
+Tu as oublié les lunettes	“你忘了带眼镜。”(You forgot your glasses.)
+Avoir besoin de	“需要”(need)
+Tu n'as besoin des lunettes pour lire	“你不需要眼镜来阅读。”
+si	如果(if)
+rien	“什么都没有”(nothing)
+ne vois rien	“看不到任何东西”(see nothing)
+je ne vois rien si je ne porte pas mes lunettes	“如果我不戴眼镜,我什么都看不见。”
+Lunettes pour lire	“阅读眼镜”(glasses for reading)
+un œil	眼睛(eye)
+les yeux	眼睛(eyes)
+Si tu veux des lunettes tu dois aller voir le médecin des yeux	“如果你想配眼镜,你需要去看眼科医生:眼科专家。”  (If you want glasses, you need to see an eye doctor: an eye specialist.)
+un ophtalmologiste	眼科医生(eye doctor)
+une ordonnance	处方,方药(prescription)
+drôle	“有趣的”(funny)
+Un film drôle	“有趣的电影”(a funny movie)
+J'ai une histoire drôle	“我有一个有趣的故事。”
+J'ai une élève qui s'appelle zhulizheng	“我有一个学生叫朱立峥。”
+Cochon	猪(pig)
+vouloir dire	“意味着”(mean)
+Qu	’est-ce que ce mot veut dire  “这个词是什么意思?”(What does this word mean?)
+Ton nom ça veut dire aussi cochon	“你的名字也意味着猪。”
+tu étais	动词 être 的未完成过去时第二人称单数变位(你是)(you were)
+tes camarades	同学们(classmates)
+Quand tu étais petite, tes camarades se moquaient de toi	“当你小的时候,你的同学嘲笑过你吗?”
+se moquer de quelqu'un	“嘲笑某人”
+se moquaient de toi	“嘲笑你”(made fun of you)
+je moquais de toi	“我嘲笑你”(I made fun of you)
+tu moquais de moi	“你嘲笑我”(you made fun of me)
+il moquait de moi	“他嘲笑我”(he made fun of me)
+nous moquions de toi	“我们嘲笑你”(we made fun of you)
+vous moquiez de moi	“你们嘲笑我”(you made fun of me)
+ils moquaient de moi	“他们嘲笑我”(they made fun of me)
+je me rappelle	“我记得”
+à la maternelle	幼儿园(kindergarten)
+la maîtresse me détestait	“老师讨厌我”(the teacher hated me)
+elle disait	她说(she said)(disait:动词 dire 的未完成过去时第三人称单数变位)
+aux autres enfants	“给其他孩子们”(to the other children)
+quand j'étais à la maternelle la maîtresse me détestait, elle disait aux autres enfants de ne pas jouer avec moi	“当我上幼儿园的时候,老师讨厌我,她告诉其他孩子不要和我一起玩。”
+Je me suis rappelé que mes camarades se moquaient de moi	“我想起同学们曾经嘲笑过我。”
+Emmanuel	“埃马纽埃尔(男名)
+Emmanuelle	埃马纽埃勒(女名)”
+Il y a eu une chanson qui s'appelle Emmanuelle, et les camarades la chantait quand il me voyait	“有一首歌叫《Emmanuelle》,同学们看到我时就会唱这首歌。”
+Emmanuelle, comme un soleil	“埃马纽埃勒,像太阳一样”
+Emmanuelle, toujours plus belle	“埃马纽埃勒,越来越美”
+la vraie merveille	“真正的奇迹”(the real miracle)
+Emmanuelle, devant mes yeux la vraie merveille	“埃马纽埃勒,是我眼前的真正奇迹”
+Emmanuelle, du bout du monde	“埃马纽埃勒,来自世界的尽头”
+sensuelle	“性感的”(sensual)
+une femme sensuelle	“一位富有魅力的女性”(a sensual woman)
+Emmanuelle, sensuelle et blonde	“埃马纽埃勒,性感又金发”
+Emmanuelle, aux grands yeux verts, aux jambes longues	“埃马纽埃勒,有着大大的绿眼睛,长长的腿”
+j'ai acheté un café	“我买了一杯咖啡”
+il était	动词 être(是)的 未完成过去时第三人称单数变位
+Avant le cours de physique j'ai acheté un café, il était très bon	“物理课前我买了一杯咖啡,它很好喝。”
+Un latté-un café au lait sucré	“一杯拿铁(加糖的牛奶咖啡)。”(a latte)
+Ma note au contrôle de chinois	我的中文考试成绩(My Chinese exam score)
+contrôle	考试(exam)
+mauvaise	“差的”(bad)
+la plus mauvaise note de la classe	“班上最差的成绩”(the worst score in the class)
+Ma note au contrôle de chinois était très mauvaise -77 sur 150, c'était la plus mauvaise note de la classe	“我的中文考试成绩很差(150分中得了77分),这是班上最差的成绩。”
+dernier contrôle	“最后一次考试”(last exam)
+en juin	“在六月”(in June)
+j'ai encore	“我又得了”(I got again)
+pendant l'été	“在暑假期间”(during the summer)
+devoir passer	“必须参加”(have to take)
+examen de rattrapage	“补考”(make-up exam)
+je vais devoir passer un examen de rattrapage	“我将不得不参加一次‘补考’”
+Si au dernier contrôle en juin, j'ai encore une mauvaise note, pendant l'été je vais devoir passer un	"examen de rattrapage"“如果在六月的最后一次考试中,我的成绩仍然很差,那么在暑假期间我将不得不参加一次‘补考’。”
+10 passable	及格的,中等的(英语=passable)
+12 assez bien	相当好,不错(英语=quite good)
+14 bien	好,良好(英语=good)
+16 très bien	非常好(英语=very good)
+18 excellent	优异的,杰出的(英语=excellent)
+20 parfait	完美的(英语=perfect)
+Histoire de la Chine	“中国历史”(history of China)
+devoir à la maison	“家庭作业”  (homework)
+Je n'aime pas apprendre les dates par cœur	“我不喜欢死记硬背日期。”(I don't like to memorize dates by heart.)
+Quel est ta date de naissance	“你的出生日期是什么?”(What is your date of birth?)
+Emmanuelle toujours plus belle	“埃马纽埃勒,越来越美”
+allait pouvoir	“将能够”(would be able to)
+dans la Seine	“在塞纳河里”(in the Seine)
+Le ville de Paris a dit que cet été on allait pouvoir nager dans la Seine	“巴黎市表示,今年夏天我们可以在塞纳河游泳。”
+depuis très longtemps	“很久以来”(for a long time)
+la Seine était sale	“塞纳河很脏”(the Seine was dirty)
+C'est la première depuis très longtemps, la Seine était sale, maintenant ça va	“这是很久以来的第一次,塞纳河曾经很脏,现在好多了。”
+je sais nager mais pas très bien	“我会游泳,但不太擅长。”
+Tu aimes ça	“你喜欢这个吗?”
