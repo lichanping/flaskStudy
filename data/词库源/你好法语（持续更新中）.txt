@@ -643,7 +643,6 @@ Bon voyage	旅途愉快(bon  好adj.阳性+voyage  旅行n.m.)
 Bon week-end	周末愉快(bon  好adj.阳性+week-end  周末n.m.)
 Bonne journée	祝你一天愉快(bonne  好adj.阴性+journée  白天n.f.)
 Bonne semaine	祝你一周愉快(bonne  好adj.阴性+semaine  周n.f.)
-Bonne année	新年快乐(bonne  好adj.阴性+année  年n.f.)
 Bonne route	一路平安(bonne  好adj.阴性+route  路n.f.)(route=road)
 bord	边n.m.边缘;岸边
 mer	大海n.f.
@@ -1670,3 +1669,41 @@ Nous rentrons dans deux jours	我们两天后回家(We will return in two days.)
 À bientôt, Bisous	再见,亲吻
 18, avenu de la République	共和国18号
 33200 BORDEAUX	法国波尔多的一个邮政编码
+ard de	(建筑术语)拱(arch) n.
+arc de triomphe	凯旋门
+copain	朋友,伙伴,同伴(阳性)
+copine	朋友,伙伴,同伴(阴性)
+dernière	最后的,最近的,最新的(阴性)
+la semaine dernière	上周(上一个的)
+la dernière semaine	最近一周,最后一周
+dernier	最后的,最近的,最新的(阳性)
+enquête	调查,询问n.f.(inquiry)
+exister	存在,生存v.i.
+faculté	学院,系,能力n.f.(faculty)
+fac	大学n.f.=faculté
+fête	节日,宴会n.f.(festival)
+fêter	庆祝v.t.纪念(celebrate)
+feu	火,火焰n.m.(fire)
+feu d'artifice	烟火,焰火n.m.(fireworks)
+gâteau	蛋糕n.m.(cake)
+groupe	合唱队,演奏乐团n.m.
+juin	六月n.m.(June)
+juillet	七月n.m.(July)
+magazine	杂志n.m.(magazine)
+mariage	婚姻,结婚n.m.(marriage)
+moment	时刻,片刻n.m.(moment)
+muguet	铃兰n.m.(lily of the valley)
+la fête du muguet	铃兰节=五一劳动节
+Noël	圣诞节n.m.(Christmas)
+nouvel an	新年n.m.(New Year)
+papa	爸爸n.m.(dad)
+pâtisserie	糕点店n.f.(pastry shop)
+petit ami	男朋友n.m.(boyfriend)
+romantique	浪漫的,富有浪漫色彩的adj.
+Saint-Valentin	情人节n.m.(Valentine's Day)
+souvenir	回忆,纪念品n.m.(souvenir)
+triomphe	凯旋,胜利n.m.(triumph)
+Vienne	维也纳n.f.(Vienna)
+viennois	维也纳的,维也纳人adj.
+viennoise	维也纳的,维也纳人adj.阴性
+Bonne année	新年快乐
