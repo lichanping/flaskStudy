@@ -477,7 +477,6 @@ l'a mangée	:这里 “l'” 是直接宾语人称代词 “la” 的省音形�
 Le loup a ouvert la porte, il a sauté sur la grand-mère et l'a mangée	狼打开门,扑向祖母并把她吃掉了。
 Ensuite	:副词,意为 “随后,接着”,用于表示时间顺序,引出接下来发生的事情。
 fermer	关闭(动词)
-a fermé	:“fermer”(关闭)的直陈式现在完成时第三人称单数形式。“a” 是助动词 “avoir” 的第三人称单数变位,“fermé” 是 “fermer” 的过去分词,表明狼 “关闭” 门这一动作在过去已经完成。
 coucher	躺下(动词)
 il s'est couché	:“se coucher” 是代动词,意为 “躺下”。“s'” 是自反代词 “se” 的省音形式,与主语 “il” 配合;“est” 是助动词 être 的第三人称单数变位,“couché” 是 “se coucher” 的过去分词,构成代动词的复合过去时,表示狼 “躺下” 这一动作在过去完成。
 a attendu	:“attendre”(等待)的直陈式现在完成时第三人称单数形式。“a” 是助动词 “avoir” 的第三人称单数变位,“attendu” 是 “attendre” 的过去分词,表明狼 “等待” 小红帽这一动作在过去已经开始并持续。
@@ -998,7 +997,6 @@ Julie dans le bus elle écoute de la musique	朱莉在公交车上听音乐。
 Elle écoute Dire Straits	她在听Dire Straits(一支乐队)。
 Samuel c'est son groupe de musique préféréSamuel	是她最喜欢的乐队。
 Je m'appelle Samuel j'ai 10 ans et j'ai un problème	我叫萨缪尔,我10岁,我有一个问题。
-avoir envie de	表示 “想做某事 / 想要某物”,常见搭配 “avoir envie de + 动词原形 / 名词”(envie:阴性名词,常见意思为 “愿望,欲望;想,想要” )
 Mais je n'ai pas trop envie d'en parler	但我不是很想谈它。
 Bon en fait	其实。
 Mon problème c'est que Basile a dit à la grande Julie que je l'aimais	我的问题是巴希尔对大朱莉说,我爱她。
@@ -1048,7 +1046,6 @@ moi ça ne me dérange pas	我倒是不介意
 haïr	恨(动词原形,表示“恨”或“憎恨”)
 Il fait beau à Shangai	上海天气很好。
 Il fait froid	天气很冷。
-Tu vas bien	你很好。
 Elle va bien	她很好。
 Nous allons bien	我们很好。
 Vous allez bien	你们很好。
@@ -1314,7 +1311,6 @@ Tes parents ont dit quoi	“你父母说了什么”
 Ils n'ont rien dit parce qu'ils ont l'habitude	“他们什么也没说,因为他们习惯了”
 avoir l'habitude	“习惯”
 j'ai l'habitude de boire du café le matin	“我习惯早上喝咖啡”
-une bonne nouvelle	“一个好消息”
 Bientôt	“很快”
 à l'école	“在学校”
 il y aura une petite fête	“会有一个小派对”
@@ -1568,7 +1564,6 @@ Un des cours qui m'a le plus marqué,c'est un cours de circuit électronique	其
 confiance	信心(名词)
 Parce que je n'ai pas confiance en la science	因为我对科学没有信心。
 Donc	所以(连词)
-j'avais	我有(动词“avoir”的第一人称单数过去时形式)
 Donc j'avais peur au début	所以一开始我很害怕。
 grâce à	多亏了(介词短语)
 encouragements de mes camarades	同学们的鼓励
@@ -1611,7 +1606,6 @@ Est-ce que tu aides ta mère à faire à manger	你帮妈妈做饭吗
 Est-ce que ta mère t'aide à t'habiller	妈妈帮你穿衣服吗
 s'habiller	穿衣服
 Quand tu étais petite	当你还是小孩的时候
-j'étais	我是(过去时,第一人称单数)
 c'était	那是(过去时,第三人称单数)
 m'aidait	帮助我(过去时,第三人称单数)
 m'habiller	穿衣服(动词不定式)
@@ -1674,7 +1668,6 @@ Muet	无声的
 un film muet	无声电影
 as déjà vu	看过(过去时,第二人称单数, voir)
 Est-ce que tu as déjà vu un film muet	你看过无声电影吗?
-j'ai découvert	我发现(过去分词,第一人称单数)
 un chanteur	歌手
 ai écouté	动词 écouter(听)的复合过去时第一人称单数形式,“听了”
 Cette semaine, j'ai découvert un chanteur américain que je ne connaissais, j'ai écouté ses chansons et j'aime bien ça	这周我发现了一个美国歌手,我之前不认识他,我听了他的歌,我很喜欢。
@@ -2237,7 +2230,6 @@ un documentaire	纪录片
 des acteurs	有男演员吗?
 des actrices	“有女演员吗?”
 Tu connais les -5Ws	“你知道‘5个W’吗”?
-mentir	“撒谎”
 patronne	“女老板”
 Je mens	“我撒谎”
 Tu mens	“你撒谎”
@@ -2875,7 +2867,6 @@ Cochon	猪(pig)
 vouloir dire	“意味着”(mean)
 Qu	’est-ce que ce mot veut dire  “这个词是什么意思?”(What does this word mean?)
 Ton nom ça veut dire aussi cochon	“你的名字也意味着猪。”
-tu étais	动词 être 的未完成过去时第二人称单数变位(你是)(you were)
 tes camarades	同学们(classmates)
 Quand tu étais petite, tes camarades se moquaient de toi	“当你小的时候,你的同学嘲笑过你吗?”
 se moquer de quelqu'un	“嘲笑某人”
@@ -2906,7 +2897,6 @@ une femme sensuelle	“一位富有魅力的女性”(a sensual woman)
 Emmanuelle, sensuelle et blonde	“埃马纽埃勒,性感又金发”
 Emmanuelle, aux grands yeux verts, aux jambes longues	“埃马纽埃勒,有着大大的绿眼睛,长长的腿”
 j'ai acheté un café	“我买了一杯咖啡”
-il était	动词 être(是)的 未完成过去时第三人称单数变位
 Avant le cours de physique j'ai acheté un café, il était très bon	“物理课前我买了一杯咖啡,它很好喝。”
 Un latté-un café au lait sucré	“一杯拿铁(加糖的牛奶咖啡)。”(a latte)
 Ma note au contrôle de chinois	我的中文考试成绩(My Chinese exam score)
@@ -2941,3 +2931,113 @@ la Seine était sale	“塞纳河很脏”(the Seine was dirty)
 C'est la première depuis très longtemps, la Seine était sale, maintenant ça va	“这是很久以来的第一次,塞纳河曾经很脏,现在好多了。”
 je sais nager mais pas très bien	“我会游泳,但不太擅长。”
 Tu aimes ça	“你喜欢这个吗?”
+Vendredi 23 mai 2025	“2025年5月23日,星期五”
+Tu es nerveuse	“你紧张吗?”
+J'ai confiance	“我有信心。”
+J'aime bien les examens	“我喜欢考试。”
+Je pense que je vais réussir	“我想我会成功的。”
+passer un examen	参加考试(take an exam)
+réussir un examen	通过考试(pass an exam)
+MERDE POUR DEMAIN	“明天好运”(GOOD LUCK)
+Je ne te vois pas	“我看不到你”
+Tu es fatiguée	“你很累”
+Tu as passé une bonne semaine à l'école	“你在学校度过了一周”
+Il a fait beau à Shanghai cette semaine	“上海这周天气很好”
+Aujourd'hui il pleut	“今天下雨”  (It's rainy today)
+Il pleut beaucoup	“雨下得很大吗?”(It's raining a lot)
+mouillé	湿的(wet)
+sec	干的(dry)
+une vache	母牛(cow)
+pisser	尿尿(to pee)
+Il pleut comme vache qui passe	“雨下得像母牛尿尿一样”
+tu as déjà une vache pisser	“你见过母牛尿尿吗?”
+J'ai changé de place en classe parce que je voulais être à côté d'une fille	“我在课堂上换了座位,因为我想坐在一个女孩旁边。”
+bruyant	吵闹的(noisy)
+Les garçons sont bruyants	“男孩们很吵闹。”
+j'ai fait deux roses en LEGO pour mon amie, Elle est contente	“我用乐高做了两朵玫瑰送给我朋友。她开心吗?”
+C'est difficile	“这很难吗?”
+30 minutes	“30分钟。”
+la pâtisserie	糕点店(bakery)
+en bas de	向下,在下面(downstairs)
+un magasin en bas de l'immeuble	“楼下的商店”(a shop downstairs)
+Aujourd'hui, la pâtisserie en bas de chez a ouvert	“今天,楼下的面包店开业了。”
+J'ai acheté deux gâteaux, je trouve que c'est un peu moins bon qu'avant	我买了两个蛋糕,我觉得它没有以前那么好吃了。”
+6,20 euros	“6.20欧元。”
+10 gâteaux différents	“10种不同的蛋糕。”
+Jeudi c'est la fête de l'Ascension	“周四就是升天节。”
+Je suis athée	“我是无神论者。”(I am an atheist)
+être athée	无神论者
+croire en	相信(to believe in)
+Dieu	上帝(God)
+ne pas croire en Dieu	“无神论者:不相信上帝。”(not believe in God)
+Hier soir je suis allée voir un concert de chansons françaises	“昨天晚上我去看了一场法语歌曲的音乐会,”
+la chanteuse	歌手(the singer)
+je ne connaissais pas la chanteuse, ses chansons	“我不认识那位歌手,也不熟悉她的歌曲,”
+j'avais	"avoir的未完成过去时,表过去的愿望"(I had)
+envie de voir	“想去看看” (want to see)
+avoir envie de	想要(to want)
+mais j'avais envie d'y aller	“但我还是想去看看。”
+Je ne suis pas très contente	“我不太高兴,”
+en retard	迟到地(late)
+Parce que le concert a commencé en retard	“因为音乐会晚开始了,”
+je n'ai pas aimé les musiciens	“我不喜欢那些乐手,”
+mais les boissons au concert étaient bonnes	“但音乐会上的饮料很好,”(étaient 是未完成过去时)
+j'étais	我是 / 我处于... 状态 (I was)
+tu étais	你是 (you were)
+il était	他/她/我们是 (he/she/one was)
+nous étions	我们是 (we were)
+et j'étais bien placée	“而且我的位置很好。”
+Les personnes qui étaient au concert étaient un peu bruyantes	“参加音乐会的人有点吵闹。”
+ressentir	“感受到”(to feel)
+sentir	“闻到”(to smell)
+Bonjour Eric,	“你好,埃里克,”
+j'ai découvert	我发现(I found out)
+mon meilleur restaurant	我最喜欢的餐厅(My favorite restaurant)
+a fermé	关门了(has closed)
+Je ne suis pas très contente parce qu'hier après-midi j'ai découvert que mon meilleur restaurant a fermé	“我不太高兴,因为昨天下午我发现我最喜欢的餐厅关门了。”
+n'était pas bonne	不好吃 (was not good, 阴性形容词)
+Et ensuite, je suis allée au restaurant italien à côté de chez moi, la cuisine dans ce restaurant n'était pas bonne	“然后,我去了我家附近的意大利餐厅,那里的菜不好吃。”
+ça a coûté 40 euros	花了 40 欧元 (it cost 40 euros)
+J'ai mangé seule au restaurant et j'ai mangé deux plats, et ça a coûté 40 euros, c'était très cher et pas très bon	“我一个人在餐厅吃了两道菜,花了40欧元,太贵了,也不太好吃。”
+j'espère que	我希望 (I hope that)
+était meilleure	比我好 (was better than me)
+la mienne	我的 (mine)
+Et toi, j'espère que tu vas bien et que ta journée était meilleure que la mienne	“希望你过得好,你的日子比我好。”
+c'était bon au restaurant	“餐厅里的食物很好吃。”
+mentir	“撒谎(to lie)”
+ce n'est pas bien de mentir	“说谎是不好的。”
+une bonne nouvelle	“好消息”
+une mauvaise nouvelle	“坏消息”
+la cuisine italienne	“意大利菜”
+un plat italien	“一道意大利菜”
+tu connais un peu la cuisine française	“你对法国菜有点了解。”
+Quel est le plat que tu préfères, la baguette	“你最喜欢哪道菜?法棍。”
+un courriel	一封电子邮件(an email)
+Tu vas bien	“你过得好吗?”
+Samedi dernier après-midi je suis allée à la fête d'Anniversaire de ma copine Lisa, on était très content de la fête	“上个周六下午我去了我的朋友丽莎的生日派对,我们对派对非常满意。”
+j'ai lui acheté un grand gâteau	“我给她买了一个大蛋糕。”
+nous avons mangé chez elle	“我们在她家吃饭。”
+Après on a regardé un film à côté de chez elle	“之后我们在她家附近看了一部电影。”
+magnifique	“精彩绝伦的” (magnificent)
+Le film était super et ensuite on a fait du shopping	“这部电影很棒,之后我们去购物了。”
+Je suis rentrée chez moi vers 2 heures du matin	“我凌晨2点回到家。”
+à très bientôt	“很快再见”(See you very soon)
+J'espère que tu vas bien, à très bientôt	“希望你一切都好,期待很快再见到你。”
+Bonjour Luc	“你好,卢克,”
+j'ai assisté à	我参加了(I attended)
+le week-end dernier	“上周末”(last weekend)
+J'ai une bonne nouvelle, j'ai assisté à un match de tennis le WE dernier	“我有个好消息,上周末我参加了一场网球比赛。”
+Il faisait beau	“天气很好”(It was nice weather)
+Il faisait très beau ce jour-là	“那天天气很好。”
+Mes parents sont venus	我的父母来(My parents came)
+me regarder jouer	“来看我比赛”(to watch me play)
+Mes parents sont venus me regarder jouer	“我的父母来看我比赛。”
+J'ai gagné le match	“我赢了比赛”(I won the match)
+jouait très bien	“打得很好”(played very well)
+J'ai gagné le match mais c'était difficile parce que la fille jouait très bien	“我赢了比赛,但很不容易,因为对手打得很好。”
+Mes parents après le match m'ont invité au restaurant	“比赛结束后,我的父母请我吃了饭。”
+Nous étions	我们是(We were)
+Nous étions très contents	“我们都很开心。”
+acheter quelque chose à quelqu'un	买东西给某人(to buy something for someone)
+vous étiez	你们是 / 您是 (you were - plural/formal); 你们是(You were)
+ils étaient	他们/她们是 (they were); 他们是(They were)
