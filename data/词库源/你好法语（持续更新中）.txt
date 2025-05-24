@@ -1736,3 +1736,34 @@ On a beaucoup marché et on a vu des groupes sympa	我们走了很多路,看到�
 Et c'est gratuit	而且是免费的(And it's free)
 Je suis rentré à trois heures du matin	我早上3点回家了(I came home at 3 a.m.)
 nouvelle	新的(New)(阴性单数)
+C'est interdit	这是被禁止的(It is forbidden)
+pouvoir	能够(can)
+je peux	我可以(I can)
+tu peux	你可以(you can)
+il peut	他可以(he can)
+nous pouvons	我们可以(we can)
+vous pouvez	你们可以(you can)
+ils peuvent	他们可以(they can)
+Je peux fumer ici	我可以在这里吸烟吗?(Can I smoke here?)
+Puis-je fumer ici	我可以在这里吸烟吗?(May I smoke here?)-注意不能用"Peux-je"来提问
+Tu peux prendre du café	你可以喝咖啡吗。(You can drink coffee.)
+Je donne un livre à Paul	我给保罗一本书。(I give a book to Paul.)-原形=donner
+Je lui donne un livre	我给他一本书。(I give him a book.)-原形=donner
+Il parle à ses amis	他和他的朋友们说话。(He talks to his friends.)-原形=parler
+Il leur parle	他和他们说话。(He talks to them.)-原形=parler
+J'achète un cadeau pour ma mère	我给我妈妈买了一份礼物。(I buy a gift for my mother.)-原形=acheter
+Je lui achète un cadeau	我给她买了一份礼物。(I buy her a gift.)-原形=acheter
+parler à qn	和某人说话(talk to someone)
+Est-ce que tu me parles	你在和我说话吗?(Are you talking to me?)=tu me parles
+donner qch à qn	给某人某物(give something to someone)
+Il vous a donné le livre	他给了你这本书了吗?(Did he give you the book?)(a donné是复合过去时, donne是原形动词)
+écrire à qn	给某人写信(write to someone)
+Tu leur écris	你给他们写信吗?(Are you writing to them?)(écris是原形动词écrire的变位形式)
+acheter qch pour qn	给某人买某物(buy something for someone)
+Il lui achète un cadeau	他给她买了一份礼物。(He buys her a gift.)-原形=acheter
+quelqu'un	某人(someone)
+raconter qch à qn	给某人讲述某事(tell someone something)
+Il m'a raconté une histoire	他给我讲了一个故事。(He told me a story.)-raconter是原形动词
+leur enfant	他们的孩子(their child)
+leurs enfants	他们的孩子们(their children)
+Je leur écris	我给他们写信。(I write to them.)
