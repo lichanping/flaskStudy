@@ -1750,7 +1750,6 @@ Tu peux prendre du café	你可以喝咖啡吗。(You can drink coffee.)
 Je donne un livre à Paul	我给保罗一本书。(I give a book to Paul.)-原形=donner
 Je lui donne un livre	我给他一本书。(I give him a book.)-原形=donner
 Il parle à ses amis	他和他的朋友们说话。(He talks to his friends.)-原形=parler
-Il leur parle	他和他们说话。(He talks to them.)-原形=parler
 J'achète un cadeau pour ma mère	我给我妈妈买了一份礼物。(I buy a gift for my mother.)-原形=acheter
 Je lui achète un cadeau	我给她买了一份礼物。(I buy her a gift.)-原形=acheter
 parler à qn	和某人说话(talk to someone)
@@ -1767,3 +1766,25 @@ Il m'a raconté une histoire	他给我讲了一个故事。(He told me a story.)
 leur enfant	他们的孩子(their child)
 leurs enfants	他们的孩子们(their children)
 Je leur écris	我给他们写信。(I write to them.)
+Nous disons bonjour à Sophie	我们向索非亚问好。(We say hello to Sophie.)
+Nous lui disons bonjour	我们向她问好。(We say hello to her.)
+Nous ne lui disons pas bonjour	我们不向她问好。(We do not say hello to her.)
+Il parle à ses parents	他和他的父母说话。(He talks to his parents.)
+Il leur parle	他和他们说话。(He talks to them.)
+Il ne leur parle pas	他不和他们说话。(He does not talk to them.)
+téléphoné	打电话(过去分词)
+Paul a téléphoné à sa copine hier matin	保罗昨天早上给他的女朋友打了电话。(Paul called his girlfriend yesterday morning.)
+Paul lui a téléphoné hier matin	保罗昨天早上给她打了电话。(Paul called her yesterday morning.)
+Il a écrit une lettre à ses parents	他给他的父母写了一封信。(He wrote a letter to his parents.)
+Il leur a écrit une lettre	他给他们写了一封信。(He wrote them a letter.)
+Je n'ai pas acheté ce livre pour mes enfants	我没有给我的孩子们买这本书。(I did not buy this book for my children.)
+Je ne leur ai pas acheté ce livre	我没有给他们买这本书。(I did not buy them this book.)
+Paul n'a pas téléphoné à son ami	保罗没有给他的朋友打电话。(Paul did not call his friend.)
+Paul ne lui a pas téléphoné	保罗没有给他打电话。(Paul did not call him.)
+Donne-moi le livre	给我这本书。(Give me the book.)(命令式中me变为moi)
+Raconte-moi cette histoire	告诉我这个故事。(Tell me this story.)(命令式中me变为moi)
+Présente-nous ton ami	介绍一下你的朋友给我们。(Introduce your friend to us.)
+Téléphonez-lui	给他打电话。(Call him.)
+Donnons-leur notre adresse	给他们我们的地址。(Let's give them our address.)
+Ne lui parle pas de ça	不要和他谈论这个。(Do not talk to him about that.)
+Ne leur donnons pas notre numéro de téléphone	不要给他们我们的电话号码。(Do not give them our phone number.)
