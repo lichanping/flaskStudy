@@ -5167,3 +5167,55 @@ un courriel	一封电子邮件(an email)
 à très bientôt	“很快再见”(See you very soon)
 j'ai assisté à	我参加了(I attended)
 Mes parents sont venus	我的父母来(My parents came)
+Nous étions très contents	“我们都很开心。”
+acheter quelque chose à quelqu'un	买东西给某人(to buy something for someone)
+vous étiez	你们是 / 您是 (you were - plural/formal); 你们是(You were)
+ils étaient	他们/她们是 (they were); 他们是(They were)
+privé	私人的(adj. private)
+un professeur privé	“私人教师”
+des cours privés de dessin	“私人绘画课”
+des cours privés de français	“私人法语课”
+j'allais chez lui prendre des cours privés de dessin	“我到他家去上私人绘画课。”
+Ganquan, c'est un lycée public	“甘泉是一所公立高中。”
+L'Esigelec	法国鲁昂高等工程师学院
+L'Esigelec, à Rouen, c'est une école privée	“位于鲁昂的ESIGELEC是一所私立学校。”
+Je donne des cours privés de français	“我教授私人法语课。”
+as montré	“给我看过(过去式)”(动词 montrer(展示)的复合过去时)
+faisais	过去未完成时(原形:faire)
+Tu ne m'as jamais montré les dessins que tu faisais	“你从没给我看过你画的作品。”
+je mets	“我放置、使用、穿上”
+tu mets	“你放置、使用、穿上”
+il met	“他放置、使用、穿上”
+nous mettons	“我们放置、使用、穿上”
+vous mettez	“你们放置、使用、穿上”
+ils mettent	“他们放置、使用、穿上”
+Est-ce que tu mets beaucoup de couleurs	“你用了很多颜色吗?”
+Tu aimes bien les couleurs	“你喜欢颜色。”
+être mort	“去世了”
+mourir	“去世、死亡”(不及物)(to die)
+a donné	“给了,捐赠(过去式)”(donation)-助动词用 avoir
+tableaux	“画作”p.l.
+tableau	“画作”
+Il est mort, mais il a donné des tableaux au musée après sa mort	“他去世了,但他去世后把画作捐给了博物馆。”
+Philippe Perrot	法国艺术家
+seras	法语动词 “être”(是,在)的简单将来时第二人称单数
+je serai	“我将是”
+tu seras	“你将是”
+il sera	“他将是”
+nous serons	“我们将是”
+vous serez	“你们将是”
+ils seront	“他们将是”
+venir	“来”
+je viens	“我来”
+je suis venu	“我来了”
+je viendrai	“我会来”
+viendra	“来”简单将来时第三人称单数
+tu viendras	“你将来”
+nous viendrons	“我们将来”
+vous viendrez	“你们将来”
+ils viendront	“他们将来”
+Quand tu seras à Rouen, elle viendra te voir	“当你在鲁昂的时候,她会来看你。”
+Ton ami viendra aussi	“你的朋友也会来吗?”
+donner	给、提供、教授(to give)
+montrer	展示(to show)
+mettre	放置、使用、穿上(to put)
