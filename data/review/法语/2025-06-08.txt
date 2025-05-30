@@ -1,3 +1,8 @@
+réussir	成功=英语的to succeed
+réfléchir	思考=英语的to think
+vendre	卖
+ravi	高兴的
+trembler	震动、颤抖
 donner	给、提供、教授(to give)
 montrer	展示(to show)
 mettre	放置、使用、穿上(to put)

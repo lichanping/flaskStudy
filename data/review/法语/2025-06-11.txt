@@ -1,3 +1,8 @@
+réussir	成功=英语的to succeed
+réfléchir	思考=英语的to think
+vendre	卖
+ravi	高兴的
+trembler	震动、颤抖
 porcelaine	陶瓷(n.f.)(porcelain)
 se rappeler	“记住”
 J'ai téléchargé les deux films de Bin Gan mais je ne les ai pas encore regardés	“我下载了毕赣的两部电影,但我还没看。”
