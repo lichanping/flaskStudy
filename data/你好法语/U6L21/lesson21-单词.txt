@@ -77,4 +77,7 @@ Il est permis de fumer ici在这里吸烟是被允许的。(It is allowed to smo
 C'est permis  这是被允许的。(It is allowed.)
 la place座位；广场(seat)n.f.
 J'ai deux places au cinéma我有两张电影票。(I have two seats at the cinema.)
-le portable笔记本
+le portable笔记本电脑；手机(laptop; mobile phone)n.m.便携式的，手提式的(portable)adj.
+téléphone portable手机(mobile phone)n.m.
+pouvoir能够,会，可以(can)v.i.
+voiture汽车，车辆；（火车）车厢(car)n.f.
