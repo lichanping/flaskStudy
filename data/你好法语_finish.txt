@@ -5373,3 +5373,105 @@ réfléchir	思考=英语的to think
 vendre	卖
 ravi	高兴的
 trembler	震动、颤抖
+parti	出发过
+prendre	拿(原形); 搭乘,选取(道路,路线)vt.; 拿
+pris	拿过
+boire	喝v.t.; 喝
+bu	喝过
+lire	读v.t.; 读
+lu	读过
+voir	看见; 看
+vu	看过
+écrire	写v.t.; 写
+écrit	写过
+être	是(原形); 是
+été	是过,être的过去分词
+avoir	有(原形); 有
+eu	有过(第三组不规则动词:不规则动词的过去分词)
+Ils parlent	他们说; 他们说话
+Ils ne parlent pas	他们不说话(否定加在动词的两边)
+beau	美丽的,漂亮的;优美的adj.
+un bel ami	一个美丽的朋友(阳性名词以元音或哑音h开头时,beau变为bel)
+une belle fille	一个美丽的女孩
+cadeau	礼物n.m.
+cadeaux	礼物(复数)
+chaud	热的adj.暖的,烫的;暖和的,保暖的(阳性)
+chaude	热的adj.暖的,烫的;暖和的,保暖的(阴性)
+il fait chaud	天气热
+C'est très chaud	这很热,烫
+le dessert	甜点n.m.
+excellente	极好的adj.阴性(阳性=excellent)
+hier	昨天adv.
+aujourd'hui	今天adv.
+demain	明天adv.
+inspecteur	检查员n.m.
+inspecteur de police	便衣警察
+magasin	商店n.m.
+maison	房子n.f.家
+ouais	是的(俗语)=oui
+la pizza	比萨饼n.f.
+seul	单独的adj.独自的;孤单的(阳性)
+seule	单独的adj.独自的;孤单的(阴性)
+Est-ce que tu es seul chez toi	你在家里是一个人吗?
+tout	一切,所有的adj.(阳性)
+toute	一切,所有的adj.(阴性)
+toute la journée	整天
+tout l'après-midi	整个下午
+Tout va bien	一切都好=everything
+verre	玻璃杯(透明的,不带把手的)n.m.一杯酒
+prendre un verre	喝一杯
+On prend un verre	我们喝一杯吧
+un verre de vin	一杯酒
+un beau paysage	美丽的风景/ej/
+inspectrice	检查员n.f.
+pâtes	面条n.f.pl.意大利面
+un verre d'eau	一杯水
+waouh	哇(表示惊讶)惊叹,赞美
+Alors, Fabien, qu'est-ce que tu as fait hier	“Fabien, 昨天你做了什么? (Fabien, what did you do yesterday?)
+Eh bien, j'ai fait les magazins	嗯,我去逛商店了。 (Well, I went shopping.)
+Non, toi	不可能,你吗? (No, you can't be, can you?)
+Oui, oui, c'est pour le ski	是的,我是为了滑雪。 (Yes, yes, it's for skiing.)
+Je pars à Val d'Isère dimanche	我星期天将出发去瓦尔迪泽尔。 (I'm going to Val d'Isère on Sunday.)-法语中现在时表将来
+Et qu'est-ce que tu as acheté, alors	你都买了什么? (And what did you buy, then?)
+Eh bien, j'ai acheté ces chaussures	我买了这些鞋。 (Well, I bought these shoes.)
+Waouh, elles sont très jolies	哇,它们真漂亮。 (Wow, they are very pretty.)
+Ouais, bon...Ce sont des chaussures de ski, c'est tout	这些是滑雪鞋,仅此而已。 (Yeah, well... These are ski boots, that's all.)
+un pull	一个毛衣 (a sweater)
+J'ai aussi pris un pull	我还买了一件毛衣。 (I also got a sweater.)(pris是prendre的过去分词=吃喝乘拿买)
+Il est comment ton pull	你的套头毛衣是怎么样? (How is your sweater?)
+Tiens, regarde	看! (Here, look!)
+Ah, oui, c'est un beau pull	哦,是一件漂亮的毛衣。 (Oh, it's a nice sweater.)
+Hum, hum...Il est très chaud	嗯,它很暖和。 (Hmm, it's very warm.)
+Et hier soir, qu'est-ce que tu as fait	昨天晚上你做了什么? (And last night, what did you do?)
+J'ai dîné dans un petit restaurant italien â côté de chez moi,avec ma sœur	我和我妹妹在我家附近的一家小意大利餐厅吃了晚饭。 (I had dinner in a small Italian restaurant next to my house, with my sister.)
+Il est bien, ce restaurant	这家餐厅好吗? (Is this restaurant good?)
+Très bien, Il est simple, mais la cuisine est bonne	非常好,它很简单,但菜很好。 (Very good, it's simple, but the food is good.)
+Ma sœur a pris des pâtes et, moi, j'ai mangé une pizza	我妹妹吃了意大利面,我吃了比萨饼。 (My sister had pasta and I had a pizza.)
+Et pour le dessert	甜点呢? (And for dessert?)
+Nous n'avons pas pris de dessert	我们没有吃甜点。 (We didn't have dessert.)
+Et bien, moi, j'ai travaillé toute la journée et j'ai dîné seul	我工作了一整天,独自吃了晚饭。 (Well, I worked all day and had dinner alone.)
+Chère Léa	亲爱的蕾娅 (Dear Léa)
+aller	去(to go)
+être allée	去(to have gone)
+être allé	去(to have gone)-阳性
+je suis allée	我去(to have gone)-阴性
+je suis allé	我去(to have gone)-阳性
+tu es allée	你去(to have gone)-阴性
+tu es allé	你去(to have gone)-阳性
+il est allé	他去(to have gone)
+elle est allée	她去(to have gone)
+nous sommes allées	我们去(to have gone)-阴性
+nous sommes allés	我们去(to have gone)-阳性
+vous êtes allées	你们去(to have gone)-阴性
+vous êtes allés	你们去(to have gone)-阳性
+ils sont allés	他们去(to have gone)-阳性
+elles sont allées	她们去(to have gone)-阴性
+Mathilde et Alicia sont allées faire des courses	玛蒂尔德和艾丽西亚去购物了。(Mathilde and Alicia went shopping.)
+venir	来(to come)
+être venue	来(to have come)-阴性
+être venu	来(to have come)-阳性
+Quand ils sont venus	他们什么时候来?(When did they come?)
+entrer	进入(to enter)
+être entrée	进入(to have entered)-阴性
+être entré	进入(to have entered)-阳性
+sortir	出去(to go out)

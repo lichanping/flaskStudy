@@ -603,7 +603,6 @@ en bus	乘公共汽车
 en métro	乘地铁
 en moto	骑摩托车
 en voiture	开车
-voiture	汽车nf.
 Un vélib	公共自行车
 un vélo libre	公共自行车
 C'est par là	从那里走; 从那边走
@@ -814,7 +813,6 @@ un aller-retour	往返票
 après-midi	下午(n.inv.)
 cet après-midi	今天下午
 ce soir	今天晚上
-classe	等级,级别(n.f.)
 première classe ou seconde classe	一等舱或二等舱(ou表示或)
 complet	完全的,满员的(adj.阳性)
 complète	完全的,满员的(adj.阴性)
@@ -899,7 +897,6 @@ Il est onze heures quarante-cinq	现在11点45(官方)
 une heure et demie	"1小时30分"
 une demi-heure	半小时
 ce matin	今天早上(阳性名词前用ce); 今天早上
-la place	广场n.f.; 地方,位置(n.f.)
 Quelle heure est-il	现在几点钟?(il是形式主语,指时间)
 voudrais	想要=would like to
 Bonjour, monsieur, je voudrais un aller Paris-Marseille, s'il vous plaît	您好,先生,我想要一张从巴黎到马赛的单程票。
@@ -1737,14 +1734,12 @@ Et c'est gratuit	而且是免费的(And it's free)
 Je suis rentré à trois heures du matin	我早上3点回家了(I came home at 3 a.m.)
 nouvelle	新的(New)(阴性单数)
 C'est interdit	这是被禁止的(It is forbidden)
-pouvoir	能够(can)
 je peux	我可以(I can)
 tu peux	你可以(you can)
 il peut	他可以(he can)
 nous pouvons	我们可以(we can)
 vous pouvez	你们可以(you can)
 ils peuvent	他们可以(they can)
-Je peux fumer ici	我可以在这里吸烟吗?(Can I smoke here?)
 Puis-je fumer ici	我可以在这里吸烟吗?(May I smoke here?)-注意不能用"Peux-je"来提问
 Tu peux prendre du café	你可以喝咖啡吗。(You can drink coffee.)
 Je donne un livre à Paul	我给保罗一本书。(I give a book to Paul.)-原形=donner
@@ -1754,7 +1749,6 @@ J'achète un cadeau pour ma mère	我给我妈妈买了一份礼物。(I buy a g
 Je lui achète un cadeau	我给她买了一份礼物。(I buy her a gift.)-原形=acheter
 parler à qn	和某人说话(talk to someone)
 Est-ce que tu me parles	你在和我说话吗?(Are you talking to me?)=tu me parles
-donner qch à qn	给某人某物(give something to someone)
 Il vous a donné le livre	他给了你这本书了吗?(Did he give you the book?)(a donné是复合过去时, donne是原形动词)
 écrire à qn	给某人写信(write to someone)
 Tu leur écris	你给他们写信吗?(Are you writing to them?)(écris是原形动词écrire的变位形式)
@@ -1788,3 +1782,33 @@ Téléphonez-lui	给他打电话。(Call him.)
 Donnons-leur notre adresse	给他们我们的地址。(Let's give them our address.)
 Ne lui parle pas de ça	不要和他谈论这个。(Do not talk to him about that.)
 Ne leur donnons pas notre numéro de téléphone	不要给他们我们的电话号码。(Do not give them our phone number.)
+arrivée	到达(过去分词)n.f.
+à l'arrivée	到达时(at the arrival)
+chien	狗(n.m.)
+chienne	母狗(n.f.)
+chocolat	巧克力(n.m.)
+donner	给(give)v.t.
+execuser	原谅,宽恕(forgive)v.t.
+Excusez-moi	原谅我(forgive me)(命令式)
+fumer	吸烟(smoke)v.i.
+Non, c'est interdit	不可以,这是被禁止的。(No, it is forbidden.)
+interdit	被禁止的(forbidden)adj.
+interdite	被禁止的(forbidden)adj.f.
+Il est interdit de fumer ici	在这里吸烟是被禁止的。(It is forbidden to smoke here.)
+important	重要的(important)adj.
+importante	重要的(important)adj.f.
+C'est très important	这很重要。(It is very important.)
+médecin	医生(doctor)n.m.
+permis	被允许的(allowed)adj.
+permise	被允许的(allowed)adj.f.
+Il est permis de fumer ici	在这里吸烟是被允许的。(It is allowed to smoke here.)
+C'est permis	这是被允许的。(It is allowed.)
+J'ai deux places au cinéma	我有两张电影票。(I have two seats at the cinema.)
+le portable	笔记本电脑;手机(laptop; mobile phone)n.m.便携式的,手提式的(portable)adj.
+téléphone portable	手机(mobile phone)n.m.
+classe	等级,级别(n.f.); (n.f.)班级;教室(classroom)
+donner qch à qn	给某人某物(give something to someone); 给某人某物(give something to someone)
+Je peux fumer ici	我可以在这里吸烟吗?(Can I smoke here?); 我可以在这里吸烟吗?(Can I smoke here?)
+la place	广场n.f.; 地方,位置(n.f.); 座位;广场(seat)n.f.
+pouvoir	能够(can); 能够,会,可以(can)v.i.
+voiture	汽车nf.; 汽车,车辆;(火车)车厢(car)n.f.
