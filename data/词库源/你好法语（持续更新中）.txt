@@ -1362,7 +1362,6 @@ Des céréales	谷物吗?
 Pour faire des crêpes	为了做可丽饼吗?
 Non, pour le petit déjeuner	不,为了吃早餐
 Ah, tu téléphones à Max et Sarah	啊,你给Max和Sarah打电话吗?
-D'accord	好的
 Bon, J'y vais	好的,我要走了。(y代替地点)
 C'est tout	这就是全部。=that's all; 就这些吗?
 Il est comment	它是什么样的?
@@ -1733,7 +1732,6 @@ On a beaucoup marché et on a vu des groupes sympa	我们走了很多路,看到�
 Et c'est gratuit	而且是免费的(And it's free)
 Je suis rentré à trois heures du matin	我早上3点回家了(I came home at 3 a.m.)
 nouvelle	新的(New)(阴性单数)
-C'est interdit	这是被禁止的(It is forbidden)
 je peux	我可以(I can)
 tu peux	你可以(you can)
 il peut	他可以(he can)
@@ -1797,7 +1795,6 @@ interdite	被禁止的(forbidden)adj.f.
 Il est interdit de fumer ici	在这里吸烟是被禁止的。(It is forbidden to smoke here.)
 important	重要的(important)adj.
 importante	重要的(important)adj.f.
-C'est très important	这很重要。(It is very important.)
 médecin	医生(doctor)n.m.
 permis	被允许的(allowed)adj.
 permise	被允许的(allowed)adj.f.
@@ -1812,3 +1809,24 @@ Je peux fumer ici	我可以在这里吸烟吗?(Can I smoke here?); 我可以在�
 la place	广场n.f.; 地方,位置(n.f.); 座位;广场(seat)n.f.
 pouvoir	能够(can); 能够,会,可以(can)v.i.
 voiture	汽车nf.; 汽车,车辆;(火车)车厢(car)n.f.
+Il est interdit de fumer dans le restaurant	禁止在餐厅里吸烟(英语:It is forbidden to smoke in the restaurant)
+Où est-ce que je peux fumer alors	那么我可以在哪里吸烟呢?(英语:Where can I smoke then?)
+la terrasse	平台(英语:the terrace)
+Vous pouvez fumer sur la terrasse	您可以在露台上吸烟(英语:You can smoke on the terrace)
+Madame, s'il vous plaît, ne fumez pas ici	女士,请不要在这里吸烟(英语:Madam, please do not smoke here)
+Je voudrais une chambre, s'il vous plaît	我想要一个房间(英语:I would like a room, please)
+Pour une personne	请给我一个人住的房间(英语:For one person)
+Donnez-moi votre passeport, s'il vous plaît	请给我您的护照(英语:Please give me your passport)
+Ah, vous avez un chien	啊,您有一只狗(英语:Ah, you have a dog)
+Je suis désolée, monsieur, mais vous ne pouvez pas prendre votre chien avec vous dans la chambre	抱歉,先生,但您不能带狗进房间(英语:I am sorry, sir, but you cannot take your dog with you in the room)
+Mais comment ça	但怎么会这样呢?(英语:But how is that?)
+Pardon, madame, vous ne pouvez pas utiliser votre portable	对不起,女士,您不能使用手机(英语:Sorry, madam, you cannot use your mobile phone)
+Comment ça, je ne peux pas	怎么会我不能使用手机?(英语:What do you mean I cannot use my mobile phone?)
+Mais je téléphone à mon fils	但我在给我儿子打电话(英语:But I am calling my son)
+Non, madame, je suis désolée	不,女士,我很抱歉(英语:No, madam, I am sorry)
+Ce n'est pas possible	这不可能(英语:It is not possible)
+On ne peut pas téléphoner dans l'avion	在飞机上不能打电话(英语:You cannot make phone calls on the plane)
+Téléphonez-lui à l'aéroport, à l'arrivée	打电话给他在机场,到达时(英语:Call him at the airport, upon arrival)
+C'est interdit	这是被禁止的(It is forbidden)
+D'accord	好的
+C'est très important	这很重要(英语:It is very important)
