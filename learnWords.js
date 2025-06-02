@@ -639,7 +639,7 @@ function displayToast(message) {
 
 function processText(text) {
     const data = [];
-    const pattern = /^([a-zA-ZéèêëîïùûüàâäôöçœÉÇÀ\'\s–\.\/\?\？，,0-9-]+)\s*(.*)$/;
+    const pattern = /^([a-zA-ZéèêëîïùûüàâäôöçœÉÇÀ\'\s–\.\/\?\？，,’0-9-']+)\s*(.*)$/;
     const encounteredWords = new Set();
     
     text.split('\n').forEach(line => {
