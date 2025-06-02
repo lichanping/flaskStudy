@@ -1825,14 +1825,14 @@ faire partie de	是...... 的一部分(这里 “faisais” 是 “faire” 的�
 ceux	那些人(指代前面提到的人)
 Je faisais partie de ceux qui pensent que c'est cruel	我是那些认为这是残酷的人之一。
 Leçon de grammaire	法语语法课
-L	’expression de l’appartenance et de l’inclusion    表达归属和包含
+L’expression de l’appartenance et de l’inclusion	表达归属和包含
 Je fais partie de cette entreprise	我是这家公司的一员。(表达归属)
 appartenir à	属于
 indiquer	表示;指出
-l	’une des... est utilisé pour indiquer qu’une personne ou une chose fait partie d’un groupe plus large之一用于表示某人或某物是一个更大群体的一部分
-Elle est l	’une des élèves les plus intelligentes de notre classe  她是我们班最聪明的学生之一。
+L’une des... est utilisé pour indiquer qu’une personne ou une chose fait partie d’un groupe plus large	之一用于表示某人或某物是一个更大群体的一部分
+Elle est L’une des élèves les plus intelligentes de notre classe	她是我们班最聪明的学生之一。
 ajouter	添加
-Tu veux que j	’ajoute d’autres explications 你想让我添加其他解释吗?
+Tu veux que j’ajoute d’autres explications	你想让我添加其他解释吗?
 Tu aimes bien ça les débats en cours d'anglais	你喜欢英语课上的辩论。
 perdre	输
 mon groupe a perdu	我们组输了。
@@ -2735,9 +2735,9 @@ Ca fait ans	“已经多少年了”
 Ils sont fêtés leur anniversaire de mariage	“他们庆祝结婚纪念日了吗?”
 porcelaine	陶瓷(n.f.)(porcelain)
 20 ans de mariage - noces de porcelaine	结婚20周年:陶瓷婚
-Le temps passe... Parfois, la routine s	’installe, mais les noces de porcelaine sont là pour rappeler que l’amour des époux est solide et résistant“时间流逝......有时,日常生活变得单调,但陶瓷婚提醒我们,夫妻之间的爱情是坚固而持久的。”
+Le temps passe... Parfois, la routine s’installe, mais les noces de porcelaine sont là pour rappeler que l’amour des époux est solide et résistant	“时间流逝......有时,日常生活变得单调,但陶瓷婚提醒我们,夫妻之间的爱情是坚固而持久的。”
 La porcelaine est une céramique fine connue pour sa couleur translucide	“陶瓷是一种以半透明颜色著称的精细陶瓷。”
-Ce matériau est beaucoup utilisé pour la création d	’art de la table telles que les assiettes puisqu’il est résistant aux chocs et à la chaleur“这种材料常用于制作餐具等餐桌艺术品,因为它能抵抗冲击和高温。”
+Ce matériau est beaucoup utilisé pour la création d’art de la table telles que les assiettes puisqu’il est résistant aux chocs et à la chaleur	“这种材料常用于制作餐具等餐桌艺术品,因为它能抵抗冲击和高温。”
 C'était leur noce de porcelaine	“这是他们的陶瓷婚。”
 Ils ont fêté leur noce de porcelaine	“他们庆祝了他们的陶瓷婚。”
 Il faut faire un cadeau à sa femme pour fêter l'anniversaire de mariage	“为了庆祝结婚纪念日,应该给妻子送一份礼物。”
@@ -2766,7 +2766,7 @@ Long Day's Journey Into Night	“🎬 2.《漫长的一天》”
 Titre international-Long Day's Journey Into Night	“英文名:漫长的一天”
 Année 2018	“年份:2018”
 Remarques	: Connue pour sa seconde moitié en 3D et un long plan-séquence de près d'une heure“备注:该片以其后半部分的3D效果和近一小时的长镜头而闻名。
-Rien à voir avec la pièce d	’Eugene O’Neill, malgré le titre尽管片名相同,但与尤金·奥尼尔的同名戏剧并无关联。”
+Rien à voir avec la pièce d’Eugene O’Neill, malgré le titre	尽管片名相同,但与尤金·奥尼尔的同名戏剧并无关联。”
 La pâtisserie en bas de chez va ouvrir le samedi 24 mai	你家楼下的蛋糕店将于5月24日星期六开业。
 présent	“现在时”; “现在时”
 Titre original chinois	中文原名; “中文原名:地球最后的夜晚”
@@ -2854,7 +2854,7 @@ J'ai une histoire drôle	“我有一个有趣的故事。”
 J'ai une élève qui s'appelle zhulizheng	“我有一个学生叫朱立峥。”
 Cochon	猪(pig)
 vouloir dire	“意味着”(mean)
-Qu	’est-ce que ce mot veut dire  “这个词是什么意思?”(What does this word mean?)
+Qu’est-ce que ce mot veut dire	“这个词是什么意思?”(What does this word mean?)
 Ton nom ça veut dire aussi cochon	“你的名字也意味着猪。”
 tes camarades	同学们(classmates)
 Quand tu étais petite, tes camarades se moquaient de toi	“当你小的时候,你的同学嘲笑过你吗?”
@@ -3116,7 +3116,7 @@ Ils sont intelligents et rapides	“他们聪明且反应迅速。”
 Ils pensent vite et parlent bien	“他们思维敏捷,口才好。”
 Ils aiment parler et rencontrer des gens	“他们喜欢交谈和结识新朋友。”
 Ils sont sociables	“他们很社交。”
-Ils changent souvent d	’idée ou d’humeur“他们经常改变主意或情绪。”
+Ils changent souvent d’idée ou d’humeur	“他们经常改变主意或情绪。”
 Parfois, ils sont un peu instables	“有时候,他们有点不稳定。”
 deux côtés	“两面性”(英语:two sides)
 Ils ont souvent deux côtés	“他们通常有两面性。”
@@ -3156,7 +3156,8 @@ et puis	连词短语,意为 “并且,然后”,用于连接两个并列的动�
 un serpent	一条蛇(阳性名词); “一条蛇”
 rencontrer	遇见,碰到(动词); 偶然相遇” 或 “结识”; “结识”(英语:meet)
 des gens	:“一些人”,“des” 是不定冠词复数形式,修饰复数名词 “gens”(人)。; “人们”(英语:people)
-d	’autres  其他的; ’humeur“情绪”(英语:mood)
+d’autres	其他的; ’
+humeur	“情绪”(英语:mood)
 lapin	兔子(阳性名词); “兔子”  (英语:rabbit)
 bœuf	牛(阳性名词); “牛肉”(英语:beef)
 en colère	生气,“colère” 是阴性名词,意为 “愤怒、生气”,在句子中作表语。; “生气的”(英语:angry)
