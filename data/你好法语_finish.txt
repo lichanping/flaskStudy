@@ -5578,3 +5578,157 @@ rapides	反应迅速的(英语:quick)
 deux côtés	“两面性”(英语:two sides)
 signes chinois	中国星座“Chinese zodiac”
 forte	“强壮的;大声的”  (英语:strong; loud)
+Montre moi	“给我看看。”
+C'est très joli	“这很漂亮。”
+On dirait du henné	“看起来像是用指甲花染的。”
+Un garçon mangeait des chips dans la cour, une prof l'a vu et était en colère et lui a demandé d'acheter des crêpes pour tout le monde	“一个男孩在操场上吃薯片,一位老师看到了,很生气,让他给全班买煎饼。”
+Parce que c'était des chips qu'il mangeait	“因为他吃的是薯片。”
+Parce qu'il mangeait dans la cour	“因为他是在操场上吃的。”
+le droit de	“有权利”(英语:the right to)
+Au lycée en Chine, on n'a pas le droit de manger dans la cour	“在中国的高中,不允许在操场上吃东西。”
+Lundi, je suis allé au musée de la chambre du commerce	“周一,我去了商会博物馆。”
+Georg Baselitz	“乔治·巴塞利茨”
+Les images sont à l'envers	“这些画是倒着的。”
+une promenade	散步(英语:a walk)
+Hier, je suis allé faire une promenade à Rambouillet	“昨天,我去拉姆布依耶散步了。”
+J'ai acheté de nouvelles lunettes	“我买了新眼镜。”
+Tu veux regarder ensemble tes devoirs	“你想一起看看你的作业吗?”
+Elle ne m'aime pas	“她不喜欢我。”
+et puis	连词短语,意为 “并且,然后”,用于连接两个并列的动作或情况。; “然后”(英语:then)
+un serpent	一条蛇(阳性名词); “一条蛇”
+rencontrer	遇见,碰到(动词); 偶然相遇” 或 “结识”; “结识”(英语:meet)
+des gens	:“一些人”,“des” 是不定冠词复数形式,修饰复数名词 “gens”(人)。; “人们”(英语:people)
+d	’autres  其他的; ’humeur“情绪”(英语:mood)
+lapin	兔子(阳性名词); “兔子”  (英语:rabbit)
+bœuf	牛(阳性名词); “牛肉”(英语:beef)
+sévère	严格; 严厉的(形容词); 严格; “严格的”
+être sortie	出去(to have gone out)-阴性
+être sorti	出去(to have gone out)-阳性
+Je suis sorti de la salle de classe	我走出教室。(I walked out of the classroom.)
+arriver	到达(to arrive)
+être arrivée	到达(to have arrived)-阴性
+être arrivé	到达(to have arrived)-阳性
+Je suis arrivé à l'aéroport à trois heures de l'après-midi	我下午三点到达机场。(I arrived at the airport at three o'clock in the afternoon.)
+Elle est arrivée vendredi	她星期五到达。(She arrived on Friday.)
+partir	出发(to leave)
+être parti	出发(to have left)-阳性
+être partie	出发(to have left)-阴性
+pour trois jours	三天(for three days)
+M. Durant est parti à Paris hier, pour trois jours	杜兰先生昨天出发去巴黎,为期三天 (Mr. Durant left for Paris yesterday, for three days)
+monter	上(to go up)
+être montée	上(to have gone up)-阴性
+être monté	上(to have gone up)-阳性
+descendre	下(to go down)
+être descendue	下(to have gone down)-阴性
+être descendu	下(to have gone down)-阳性
+naître	出生(to be born)
+être née	出生(to have been born)-阴性
+être né	出生(to have been born)-阳性
+la chambre du commerce	“商会”(英语:chamber of commerce)
+la tête	是“头”(阴性名词); “头顶”; “头”头脑(head)n.f.
+un truc	一个东西(“truc”是非正式用法,表示“东西”或“事物”); “一个东西”
+en colère	生气,“colère” 是阴性名词,意为 “愤怒、生气”,在句子中作表语。; “生气的”(英语:angry)
+Vous êtes né quand	你什么时候出生的?(When were you born?)
+mourir	死亡(to die)
+être morte	死亡(to have died)-阴性
+être mort	死亡(to have died)-阳性
+rester	停留(to stay)
+être restée	停留(to have stayed)-阴性
+être resté	停留(to have stayed)-阳性
+tomber	掉下来,滚落下来(to fall)区别于descendre
+être tombée	掉下来(to have fallen)-阴性
+être tombé	掉下来(to have fallen)-阳性
+devenir	变成(to become)
+être devenue	变成(to have become)-阴性
+être devenu	变成(to have become)-阳性
+retourner	归来(to return)
+être retournée	返回(to have returned)-阴性
+être retourné	返回(to have returned)-阳性
+rentrer	回家(to go home)
+être rentrée	回家(to have gone home)-阴性
+être rentré	回家(to have gone home)-阳性
+revenir	再来(to come back)
+être revenue	再来(to have come back)-阴性
+être parvenue	到达(to have reached)-阴性
+intervenir	干涉,干预(to intervene)
+être survenue	突然到达(to have occurred)-阴性
+se lever	起床(to get up)
+se laver	洗澡、洗漱(to wash oneself)
+je me lave	我洗澡(to wash myself)-现在时变位
+tu te laves	你洗澡(to wash yourself)
+il se lave	他洗澡(to wash himself)
+nous nous lavons	我们洗澡(to wash ourselves)
+vous vous lavez	你们洗澡(to wash yourselves)
+ils se lavent	他们洗澡(to wash themselves)
+je me suis lavée	我洗澡(to have washed myself)-阴性-过去时变位
+je me suis lavé	我洗澡(to have washed myself)-阳性-过去时变位
+tu t'es lavée	你洗澡(to have washed yourself)-阴性-过去时变位
+tu t'es lavé	你洗澡(to have washed yourself)-阳性-过去时变位
+il s'est lavé	他洗澡(to have washed himself)-阳性-过去时变位
+elle s'est lavée	她洗澡(to have washed herself)-阴性-过去时变位
+nous nous sommes lavées	我们洗澡(to have washed ourselves)-阴性-过去时变位
+nous nous sommes lavés	我们洗澡(to have washed ourselves)-阳性-过去时变位
+vous vous êtes lavées	你们洗澡(to have washed yourselves)-阴性-过去时变位
+vous vous êtes lavés	你们洗澡(to have washed yourselves)-阳性-过去时变位
+ils se sont lavés	他们洗澡(to have washed themselves)-阳性-过去时变位
+elles se sont lavées	她们洗澡(to have washed themselves)-阴性-过去时变位
+s'habiller	穿衣(to get dressed)
+je me suis habillée	我穿衣(to have dressed myself)-阴性-过去时变位
+je me suis habillé	我穿衣(to have dressed myself)-阳性-过去时变位
+tu t'es habillée	你穿衣(to have dressed yourself)-阴性-过去时变位
+tu t'es habillé	你穿衣(to have dressed yourself)-阳性-过去时变位
+il s'est habillé	他穿衣(to have dressed himself)-阳性-过去时变位
+parvenir	到达(to reach)
+être intervenu	干涉(to have intervened)-阳性
+survenir	突然到达(to occur)
+elle s'est habillée	她穿衣(to have dressed herself)-阴性-过去时变位
+nous nous sommes habillées	我们穿衣(to have dressed ourselves)-阴性-过去时变位
+nous nous sommes habillés	我们穿衣(to have dressed ourselves)-阳性-过去时变位
+vous vous êtes habillées	你们穿衣(to have dressed yourselves)-阴性-过去时变位
+vous vous êtes habillés	你们穿衣(to have dressed yourselves)-阳性-过去时变位
+ils se sont habillés	他们穿衣(to have dressed themselves)-阳性-过去时变位
+elles se sont habillées	她们穿衣(to have dressed themselves)-阴性-过去时变位
+Elle s'est suicidée	她自杀了(She committed suicide)
+Le chasseur s'est caché derrière un buisson	猎人躲在灌木丛的后面(The hunter hid behind a bush)
+J'ai vu ce film	我看过这部电影(I have seen this movie)
+Je n'ai pas vu ce film	我没看过这部电影(I have not seen this movie)-助动词才是P.C.的关键
+Il est allé au cinéma	他去看电影了(He went to the cinema)
+Il n'est pas allé au cinéma	他没去看电影(He did not go to the cinema)
+C'est un très bon restaurant, On y est allés deux fois	这是一家非常好的餐厅,我们去过两次(It's a very good restaurant, we went there twice)(副代词y:代替地点状语)
+Vous êtes allés chez elle	你们去她家了?(You went to her house)
+Oui, on y est allés	是的,我们去过(Yes, we went there)
+Non, on n'y est pas allés	不,我们没去过(No, we did not go there)
+plusieurs	好多(several)
+vivre	生活(to live)
+Paris, J'y ai vécu plusieurs années	巴黎,我在这里生活了好几年(I lived in Paris for several years)
+Ils sont partis pour combien de temps	他们出发多久了?(How long have they been gone?)
+Pour trois mois	三个月(For three months)
+Ils rentrent quand	他们什么时候回家?(When are they coming back?)
+Ils rentrent dans combien de temps	他们多久回家?(How long will they be back?)
+Dans une semaine	一周后(In a week)
+Ils rentreront dans un mois	他们一个月后回家(They will be back in a month)
+année	年(year)n.f.
+Barcelone	巴萨罗那(Barcelona)-西班牙
+Bordeaux	波尔多(Bordeaux)-法国
+bisou	亲吻(kiss)n.m.<俗>
+descendre	下来(to go down)v.i.
+fois	次(times)n.f.
+là-bas	那里,那边(there)adv.
+magnifique	壮丽的,豪华的;极美的;极好的;非凡的(magnificent)adj.
+marcher	走路(to walk)v.i.
+une minute	分钟(minute)n.f.
+monter	上去,登上(to go up)v.i.
+parc	公园(park)n.m.
+la cinquième République française	法兰西第五共和国(the Fifth French Republic)
+rester	停留(to stay)v.i.
+revenir	回来(to come back)v.i.
+soirée	夜晚(evening)n.f.
+tomber	跌落,落下(to fall)v.i.
+venir	来(to come)v.i.
+Chère Léa...	亲爱的Léa
+Chèr Paul...	亲爱的Paul
+Étienne et moi, nous sommes à Barcelone...	我和Étienne,我们在巴塞罗那
+se suicider	自杀
+Le chasseur	猎人n.m.
+se cacher	躲藏(to hide)
+république	共和国(republic)n.f.
