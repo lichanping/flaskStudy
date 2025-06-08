@@ -4,8 +4,3 @@ faculté	学院,系,能力n.f.(faculty)
 magazine	杂志n.m.(magazine)
 souvenir	回忆,纪念品n.m.(souvenir)
 triomphe	凯旋,胜利n.m.(triumph)
-réussir	成功=英语的to succeed
-réfléchir	思考=英语的to think
-vendre	卖
-ravi	高兴的
-trembler	震动、颤抖
