@@ -76,3 +76,39 @@ Téléphonez-lui à l'aéroport, à l'arrivée	打电话给他在机场,到达�
 C'est interdit	这是被禁止的(It is forbidden)
 D'accord	好的
 C'est très important	这很重要(英语:It is very important)
+Petites annonces	启事,小广告,广告牌
+dire	说(英语:say)
+je dis	我说
+tu dis	你说
+il dit	他说
+nous disons	我们说
+vous dites	你们说
+ils disent	他们说
+Qu'est-ce que tu dis	你在说什么?
+savoir	知道,了解,会
+Je sais	我知道
+Tu sais	你知道
+Il sait	他说
+Nous savons	我们知道
+Vous savez	你们知道
+Ils savent	他们知道
+su	过去分词,知道了
+Je sais jouer du piano	我会弹钢琴
+vouloir	想要
+je veux	我想要
+tu veux	你想要
+il veut	他说
+nous voulons	我们想要
+vous voulez	你们想要
+ils veulent	他们想要
+voulu	过去分词,想要
+je veux voir un film	我想看一部电影
+Il faut	应该(原形:falloir)
+Il faut qch à qn	某人需要某物
+Il faut faire qch	应该做某事
+Il faut de la farine et des œufs, c'est ça	是不是需要面粉和鸡蛋?是这样吗?
+Combien de kilos de farine faut-il	需要多少公斤面粉?
+Il faut un ingénieur ici pour ce travail	这个工作需要一个工程师。
+Il faut finir ce travail avant midi	应该在中午之前完成这项工作。
+Est-ce qu'il faut prendre un taxi	需要打车吗?
+Il ne faut pas fumer dans cette salle	不应该在这个房间里吸烟。
