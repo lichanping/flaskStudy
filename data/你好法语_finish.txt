@@ -5838,3 +5838,54 @@ quelqu'un	某人(someone)
 Pour le 14 juillet, cette année, je suis allée à Paris, avec deux copines de la fac	今年的七月十四日,我和两个大学同学去了巴黎。(This year on July 14th, I went to Paris with two college friends.)
 pouvoir	能够(can)
 je peux	我可以(I can)
+Il m'a raconté une histoire	他给我讲了一个故事。(He told me a story.)-raconter是原形动词
+leur enfant	他们的孩子(their child)
+leurs enfants	他们的孩子们(their children)
+Je leur écris	我给他们写信。(I write to them.)
+Nous disons bonjour à Sophie我们向索非亚问好。(We say hello to Sophie.)
+Nous lui disons bonjour我们向她问好。(We say hello to her.)
+Nous ne lui disons pas bonjour我们不向她问好。(We do not say hello to her.)
+Il parle à ses parents他和他的父母说话。(He talks to his parents.)
+Il leur parle他和他们说话。(He talks to them.)
+Il ne leur parle pas他不和他们说话。(He does not talk to them.)
+téléphoné 打电话(过去分词)
+Paul a téléphoné à sa copine hier matin保罗昨天早上给他的女朋友打了电话。(Paul called his girlfriend yesterday morning.)
+Paul lui a téléphoné hier matin保罗昨天早上给她打了电话。(Paul called her yesterday morning.)
+Il a écrit une lettre à ses parents他给他的父母写了一封信。(He wrote a letter to his parents.)
+Il leur a écrit une lettre他给他们写了一封信。(He wrote them a letter.)
+Je n'ai pas acheté ce livre pour mes enfants我没有给我的孩子们买这本书。(I did not buy this book for my children.)
+Je ne leur ai pas acheté ce livre我没有给他们买这本书。(I did not buy them this book.)
+Paul n'a pas téléphoné à son ami保罗没有给他的朋友打电话。(Paul did not call his friend.)
+Paul ne lui a pas téléphoné保罗没有给他打电话。(Paul did not call him.)
+Donne-moi le livre给我这本书。(Give me the book.)(命令式中me变为moi)
+Raconte-moi cette histoire告诉我这个故事。(Tell me this story.)(命令式中me变为moi)
+Présente-nous ton ami介绍一下你的朋友给我们。(Introduce your friend to us.)
+Téléphonez-lui  给他打电话。(Call him.)
+Donnons-leur notre adresse给他们我们的地址。(Let's give them our address.)
+Ne lui parle pas de ça不要和他谈论这个。(Do not talk to him about that.)
+Ne leur donnons pas notre numéro de téléphone不要给他们我们的电话号码。(Do not give them our phone number.)
+arrivée	到达(过去分词)n.f.
+à l'arrivée	到达时(at the arrival)
+chien	狗(n.m.)
+chienne	母狗(n.f.)
+chocolat	巧克力(n.m.)
+donner	给(give)v.t.
+Excusez-moi	原谅我(forgive me)(命令式)
+fumer	吸烟(smoke)v.i.
+Non, c'est interdit	不可以,这是被禁止的。(No, it is forbidden.)
+interdit	被禁止的(forbidden)adj.
+interdite	被禁止的(forbidden)adj.f.
+Il est interdit de fumer ici	在这里吸烟是被禁止的。(It is forbidden to smoke here.)
+important	重要的(important)adj.
+importante	重要的(important)adj.f.
+C'est très important	这很重要。(It is very important.)
+permis	被允许的(allowed)adj.
+permise	被允许的(allowed)adj.f.
+Il est permis de fumer ici	在这里吸烟是被允许的。(It is allowed to smoke here.)
+C'est permis	这是被允许的。(It is allowed.)
+J'ai deux places au cinéma	我有两张电影票。(I have two seats at the cinema.)
+téléphone portable	手机(mobile phone)n.m.
+raconter qch à qn	给某人讲述某事(tell someone something)
+execuser	原谅,宽恕(forgive)v.t.
+médecin	医生(doctor)n.m.
+le portable	笔记本电脑;手机(laptop; mobile phone)n.m.便携式的,手提式的(portable)adj.
