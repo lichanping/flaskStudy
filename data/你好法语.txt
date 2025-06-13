@@ -8,3 +8,58 @@ Il faut un ingénieur ici pour ce travail	这个工作需要一个工程师。
 Il faut finir ce travail avant midi	应该在中午之前完成这项工作。
 Est-ce qu'il faut prendre un taxi	需要打车吗?
 Il ne faut pas fumer dans cette salle	不应该在这个房间里吸烟。
+Il va avoir 22 ans	他马上就22岁了。
+Je vais acheter une nouvelle voiture	我打算买一辆新车。
+Elle va y habiter	她将要住在那里。(y要提前到意义相关的动词前,而不是va的前面)
+Je vais lui téléphoner demain	我明天打算给她打电话。
+Elle ne va pas y habiter	她不会住在那里。
+Je ne vais pas lui téléphoner demain	我明天不会给她打电话。
+allemand	德语n.m.
+Il parle allemand	他会说德语。
+le client	客户,顾客n.m.
+la cliente	女客户,女顾客n.f.
+pouvoir me contacter	联系,联络v.t.
+déjà	已经
+J'ai déjà écrit à mes parents	我已经给我的父母写过信了。
+Qu'est-ce qu'il a dit	他到底说了什么?
+dynamique	有活力的adj.
+Paris est une ville dynamique	巴黎是一个充满活力的城市。
+école	小学n.f.
+aller à l'école	上学
+entretien	面试,会面n.m.
+passer un entretien	参加面试
+étranger	外国的adj.
+étrangère	外国的adj.阴性
+une langue étrangère	一门外语
+expérience	经验,经历n.f.
+indispensable	必不可少的adj.(英语=indispensable)
+C'est indispensable	这是必不可少的。
+une langue	语言;舌头n.f.
+une seconde langue étrangère	第二外语
+lettre	信;字母n.f.
+mot	词语n.m.(英语:word)
+Nice	尼斯n.f.(法国)
+parfois	有时,偶尔adv.
+Il va parfois au cinéma	他有时去电影院。
+un point	点;(人的)特点,素质n.m.
+le point faible	弱点,缺点
+le point fort	强项,优点
+privé	私人的,私有的adj.
+privée	私人的,私有的adj.阴性
+la vie privée	私生活n.f.
+problème	问题n.m.
+promenade	散步,散步的地方n.f.
+qualité	质量,品质n.f.
+réceptionniste	接待员n.m./f.(英语:receptionist)
+réserver	预定,预约v.t.(英语:reserve)
+réserver une chambre à l'hôtel	预定一个酒店房间
+souriant	面带微笑的adj.
+souriante	面带微笑的adj.阴性(英语:smiling)
+Elle est toujours souriante	她总是面带微笑。
+Je veux un café	我想要一杯咖啡。
+Je veux prendre un café	我想喝一杯咖啡。
+avec	和...一起prep.=with;具有,带有prep; 和,同,用
+Tu viens avec moi	你和我一起来。; 你和我一起来吗?
+dire	说(英语:say); 说,告诉v.t.
+italien	意大利人n.m.; 意大利语n.m.
+savoir	知道,了解v.t.

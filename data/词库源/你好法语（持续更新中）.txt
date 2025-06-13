@@ -131,7 +131,6 @@ Il est français	他是法国人
 Elle est française	她是法国人
 C'est un Français	这是一个法国人
 C'est une Française	这是一个法国女人
-italien	意大利人n.m.
 italienne	意大利人n.f.
 Il est italien	他是意大利人
 Elle est italienne	她是意大利人
@@ -187,7 +186,6 @@ assiette	盘子n.f.
 C'est une assiette	这是一个盘子
 au-dessous	在下面,通常表示某物在另一物的正下方。
 au-dessus	“在上面”;...以上
-avec	和...一起prep.=with;具有,带有prep
 Il parle français avec un accent anglais	他说法语带有英语口音
 blouson	夹克衫n.m.
 C'est le blouson de Paul	这是保罗的夹克
@@ -327,7 +325,6 @@ Ma mère habite avec nous	我妈妈和我们住在一起。
 Vous travaillez chez vous	你们在家工作。
 Eux,ils adorent le football	他们喜欢足球。
 C'est pour qui	这是给谁的?
-Tu viens avec moi	你和我一起来。
 Il y a un bureau avec une chaise ici	这里有一张桌子和一把椅子。
 Où est-ce que le restaurant japonais se trouve	日本餐厅在哪里?
 A côté de chez moi	在我家旁边。
@@ -1831,7 +1828,6 @@ C'est interdit	这是被禁止的(It is forbidden)
 D'accord	好的
 C'est très important	这很重要(英语:It is very important)
 Petites annonces	启事,小广告,广告牌
-dire	说(英语:say)
 je dis	我说
 tu dis	你说
 il dit	他说
@@ -1839,7 +1835,6 @@ nous disons	我们说
 vous dites	你们说
 ils disent	他们说
 Qu'est-ce que tu dis	你在说什么?
-savoir	知道,了解,会
 Je sais	我知道
 Tu sais	你知道
 Il sait	他说
@@ -1866,3 +1861,58 @@ Il faut un ingénieur ici pour ce travail	这个工作需要一个工程师。
 Il faut finir ce travail avant midi	应该在中午之前完成这项工作。
 Est-ce qu'il faut prendre un taxi	需要打车吗?
 Il ne faut pas fumer dans cette salle	不应该在这个房间里吸烟。
+Il va avoir 22 ans	他马上就22岁了。
+Je vais acheter une nouvelle voiture	我打算买一辆新车。
+Elle va y habiter	她将要住在那里。(y要提前到意义相关的动词前,而不是va的前面)
+Je vais lui téléphoner demain	我明天打算给她打电话。
+Elle ne va pas y habiter	她不会住在那里。
+Je ne vais pas lui téléphoner demain	我明天不会给她打电话。
+allemand	德语n.m.
+Il parle allemand	他会说德语。
+le client	客户,顾客n.m.
+la cliente	女客户,女顾客n.f.
+pouvoir me contacter	联系,联络v.t.
+déjà	已经
+J'ai déjà écrit à mes parents	我已经给我的父母写过信了。
+Qu'est-ce qu'il a dit	他到底说了什么?
+dynamique	有活力的adj.
+Paris est une ville dynamique	巴黎是一个充满活力的城市。
+école	小学n.f.
+aller à l'école	上学
+entretien	面试,会面n.m.
+passer un entretien	参加面试
+étranger	外国的adj.
+étrangère	外国的adj.阴性
+une langue étrangère	一门外语
+expérience	经验,经历n.f.
+indispensable	必不可少的adj.(英语=indispensable)
+C'est indispensable	这是必不可少的。
+une langue	语言;舌头n.f.
+une seconde langue étrangère	第二外语
+lettre	信;字母n.f.
+mot	词语n.m.(英语:word)
+Nice	尼斯n.f.(法国)
+parfois	有时,偶尔adv.
+Il va parfois au cinéma	他有时去电影院。
+un point	点;(人的)特点,素质n.m.
+le point faible	弱点,缺点
+le point fort	强项,优点
+privé	私人的,私有的adj.
+privée	私人的,私有的adj.阴性
+la vie privée	私生活n.f.
+problème	问题n.m.
+promenade	散步,散步的地方n.f.
+qualité	质量,品质n.f.
+réceptionniste	接待员n.m./f.(英语:receptionist)
+réserver	预定,预约v.t.(英语:reserve)
+réserver une chambre à l'hôtel	预定一个酒店房间
+souriant	面带微笑的adj.
+souriante	面带微笑的adj.阴性(英语:smiling)
+Elle est toujours souriante	她总是面带微笑。
+Je veux un café	我想要一杯咖啡。
+Je veux prendre un café	我想喝一杯咖啡。
+avec	和...一起prep.=with;具有,带有prep; 和,同,用
+Tu viens avec moi	你和我一起来。; 你和我一起来吗?
+dire	说(英语:say); 说,告诉v.t.
+italien	意大利人n.m.; 意大利语n.m.
+savoir	知道,了解v.t.
