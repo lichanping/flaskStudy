@@ -63,3 +63,12 @@ Tu viens avec moi	你和我一起来。; 你和我一起来吗?
 dire	说(英语:say); 说,告诉v.t.
 italien	意大利人n.m.; 意大利语n.m.
 savoir	知道,了解v.t.
+Hôtel du Musée Nice	尼斯博物馆酒店
+Vous êtes un H homme ou une F femme entre 25 et 35 ans, souriant ou souriante et dynamique	您是一位年龄在25至35岁之间的男士或女士,面带微笑且充满活力
+Vous voulez travailler avec des clients français et étrangers	您想与法国和外国客户一起工作
+Vous savez parler anglais, espagnole et italien	您会说英语、西班牙语和意大利语
+Vous pouvez travailler parfois le week-end	您能够有时在周末工作
+Nous cherchons une réceptionniste	我们正在寻找一名接待员
+Contactez Madame Davoust	请联系达沃斯女士
+Directrice de l'hôtel	酒店经理
+56, promenade des Anglais	英国人大道56号
