@@ -1388,8 +1388,6 @@ allé	去过
 Paul a invité ses amis chez lui	"Paul邀请了他的朋友们到他家"
 finir	完成
 fini	完成过(第二组规则动词:去掉词尾的r)
-choisir	选择
-choisi	选择过
 réussir	成功=英语的to succeed
 réussi	成功过
 réfléchir	思考=英语的to think
@@ -1925,3 +1923,31 @@ Nous cherchons une réceptionniste	我们正在寻找一名接待员
 Contactez Madame Davoust	请联系达沃斯女士
 Directrice de l'hôtel	酒店经理
 56, promenade des Anglais	英国人大道56号
+Qu'est-ce qu'on lui offre	我们送给他什么?
+connaître	认识
+je connais	我认识
+tu connais	你认识
+il connaît	他认识
+nous connaissons	我们认识
+vous connaissez	你们认识
+ils connaissent	他们认识
+connu	认识p.p
+Je suis très heureux de vous connaître	我很高兴认识你们。
+offrir	提供,赠送(英语offer)
+j'offre	我提供
+tu offres	你提供
+il offre	他提供
+nous offrons	我们提供
+vous offrez	你们提供
+ils offrent	他们提供
+offert	提供的,赠送的p.p
+Il a offert un bouquet de fleurs à Julie	他送给朱莉一束花。
+je choisis	我选择
+tu choisis	你选择
+il choisit	他选择
+nous choisissons	我们选择
+vous choisissez	你们选择
+ils choisissent	他们选择
+Qu'est-ce que vous choisissez	您选择什么?
+choisir	选择(英语choose)-第二类规则动词
+choisi	选择过p.p
