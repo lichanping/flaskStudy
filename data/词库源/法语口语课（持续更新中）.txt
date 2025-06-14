@@ -761,7 +761,6 @@ C'est un chanteur américain qui est vieux, il est toujours vivant	他是一个�
 L'acteur	演员(阳性名词)
 joue	扮演”(动词 jouer(演)的直陈式现在时第三人称单数变位形式)
 L'acteur qui joue Bob Dylan c'est Timothée Chamalet	扮演鲍勃・迪伦的演员是蒂莫西・夏勒梅("qui" 是关系代词,指代前面的 "acteur",意思是“他”。)
-siècle	世纪(阳性名词)
 vingtième siècle	二十世纪
 20e siècle,1901 - 2000	"20世纪:1901年 - 2000年"
 Ce WE	这个周末(WE 是 “week-end” 的缩写)
@@ -1209,7 +1208,6 @@ car cela peut signifier	“因为这可能意味着”
 signifier que	:短语,意为“意味着......”,后面通常跟从句,表示具体的意思或结果。
 l'hôte	“主人”
 n'a pas préparé	“没有准备”
-assez	形容词或副词,意为“足够的”或“足够地”。
 nourriture	“食物”
 assez de nourriture	“足够的食物”
 que l'hôte n'a pas préparé assez de nourriture	“主人没有准备足够的食物”
@@ -1354,7 +1352,6 @@ il pleut	下雨(动词)(其中 “il” 是无人称主语,表示天气,“pleut
 On ne sait pas encore	我们还不知道。; “我们还不知道”
 Hier	昨天(副词); “昨天”
 Samedi 1er mars 2025	“2025年3月1日,星期六
-Il en reste 7	:还剩下7个。
 Excuse moi, mais je ne comprends pas	:抱歉,我不明白。
 levée	:升起的,升起(动词“lever”的过去分词形式,这里是女性单数形式,表示“起床”或“被升起”)。
 Tu t'es levée à quelle heure ce matin	:你今天早上几点起床的?
@@ -1370,7 +1367,6 @@ une fondue à la viande	:肉类火锅
 maintenant j'aime ça parce que je sais ce que j'aime	:现在我喜欢它,因为我知道自己喜欢什么。
 Il y a eu un contrôle de maths lundi et j'ai 75 sur 150	:周一有一次数学考试,我得了75分,满分是150分。
 En France on note sur 20	:在法国,评分是基于20分制。
-serait	是法语动词 être(意为“是”)的第三人称单数虚拟式现在时态形式,表示“将是”或“会是”。
 Ta note en France ce serait 10 sur 20	:如果你的分数换算成法国的评分标准,就是10分(满分20分)。
 le baccalauréat	:高考(简称le bac)
 assez bien	(12分,还不错)
@@ -1524,7 +1520,6 @@ de donner	给,送
 en cadeau	作为礼物
 apprendre	学习; 学习
 Comment vont tes parents	你的父母怎么样
-Ils vont bien	他们很好
 Tu connais	你了解; 你认识
 Il connaît	他了解; 他认识
 Nous connaissons	我们了解; 我们认识
@@ -2809,7 +2804,6 @@ temps de préparation	准备时间(preparation time)
 temps de cuisson	烹饪时间(cooking time)
 L'événement de l'année	“年度事件”(the event of the year)
 Quel événement aimez-vous fêter	“你喜欢庆祝什么活动? (which event do you like to celebrate?)
-raconter	讲述(tell)
 Racontez -quoi , quand , comment  etc	讲讲(是什么?什么时候?怎么庆祝?等等)。”
 événement	活动 / 事件	(event)=activité
 de l'année	今年的
@@ -2928,7 +2922,6 @@ Je pense que je vais réussir	“我想我会成功的。”
 passer un examen	参加考试(take an exam)
 réussir un examen	通过考试(pass an exam)
 MERDE POUR DEMAIN	“明天好运”(GOOD LUCK)
-Je ne te vois pas	“我看不到你”
 Tu es fatiguée	“你很累”
 Tu as passé une bonne semaine à l'école	“你在学校度过了一周”
 Il a fait beau à Shanghai cette semaine	“上海这周天气很好”
@@ -3162,3 +3155,164 @@ lapin	兔子(阳性名词); “兔子”  (英语:rabbit)
 bœuf	牛(阳性名词); “牛肉”(英语:beef)
 en colère	生气,“colère” 是阴性名词,意为 “愤怒、生气”,在句子中作表语。; “生气的”(英语:angry)
 sévère	严格; 严厉的(形容词); 严格; “严格的”
+Samedi 14 juin 2025	“2025年6月14日,星期六”
+Il en reste 7	“还剩下7个”
+Je ne te vois pas	“我看不到你”
+Elle travaille à la maison	“她在家里工作”
+Elle est fatiguée	“她很累吗”
+en ligne	在线(英语=online)
+Elle donne des cours d'anglais en ligne	“她在网络上教授英语课程”
+Tu sais combien ça coûte	“你知道这要花多少钱吗”
+Elle a besoin d'argent	“她需要钱吗?”
+Elle n'a pas vraiment besoin d'argent mais elle aime ça l'argent	“她并不真的需要钱,但她喜欢钱。”
+les vacances d'été	“暑假”
+finaux	最后的、最终的(复数形式);名词(n.m. pl.)决赛、期末考试
+C'est bientôt les vacances d'été mais avant il y a 10 examens finaux	“暑假快到了,但在那之前还有10场期末考试。”
+ça va être difficile	“这会很难。”
+tu révises beaucoup	“你在复习很多吗?”
+moyen	“中等的、一般的”
+moyenne	“中等的、平均的(名词)”(阴性形式)
+Le français c'est moyen	“法语水平一般。”
+quelques	一些(修饰可数名词)
+Après les examens, on joue et on a quelques cours à l'école	“考试之后,我们会玩,而且学校还有一些课程。”
+Mardi premier juillet	“7月1日,星期二”
+7 cours par semaine pendant les vacances	“暑假每周7节课”
+3 de maths -6 heures	“3节数学课(6小时)”
+3 de physique -6 heures	“3节物理课(6小时)”
+1 de français -1 heure	“1节法语课(1小时)”
+grâce à lui	“多亏了他”
+à cause de lui	“因为他的原因”
+J'ai regardé une série qui s'appelle en chinois	“我看了一部电视剧,中文叫《喜鹊谋杀案》。”
+Des fois avec mes parents et des fois toute seule	“有时候和父母一起看,有时候独自看。”
+consommateur	“消费者”
+consommatrice	“女消费者”
+La fabrique du consommateur	“消费者的制造”
+J'ai lu un livre français qui s'appelle La fabrique du consommateur	“我读了一本法语书,叫《消费者的制造》。”
+Le livre La fabrique du consommateur a été écrit par Anthony Galluzzo	“《La fabrique du consommateur》这本书是由安东尼·加卢佐撰写的。”
+un essai	“论文、散文”
+retracer	“追溯、回顾”
+la société marchande	“商业社会”
+la mentalité	心态;思维方式(英语=mentality)
+la construction de la mentalité de consommation	“消费心态的构建”
+entre...et...	“在...和...之间”
+siècle	“世纪”
+entre le XIXe et le XXe siècle	“在19世纪和20世纪之间”
+Il s'agit d'un essai qui retrace l'histoire de la société marchande et la construction de la mentalité de consommation en Europe et en Amérique du Nord entre le XIXe et le XXe siècle	“这是一篇论文,追溯了从19世纪到20世纪欧洲和北美商业社会的历史以及消费心态的构建。”
+Les vacances c'était bien	“假期过得很好。”
+Le Havre	“勒阿弗尔”
+Etretat	“埃特勒塔”
+Rouen	“鲁昂”
+anciens élèves	“老同学”(阳性复数形式)
+anciennes élèves	“老同学”(阴性复数形式)
+Quand j'étais à Rouen j'ai vu deux anciens élèves	“我在鲁昂的时候见到了两个老同学。”
+Ils vont bien	“他们过得很好。”
+vacciné	疫苗
+Je suis allé me faire vacciné ce matin et là maintenant j'ai mal au bras	“今天早上我去打了疫苗,现在我的胳膊很疼。”
+Un film chinois est sorti en France, le film est interdit en Chine	“一部中国电影在法国上映了,但这部电影在中国被禁。”
+Le titre	标题(英语=title)
+caractères simplifiés	简体字(英语=simplified characters)
+caractères traditionnels	繁体字(英语=traditional characters)
+Le titre chinois du film	"A New Old Play" est en caractères simplifiés et en caractères traditionnels 电影《A New Old Play》的中文标题是简体字的‘椒麻堂会’和繁体字的‘椒麻堂會’
+En pinyin, il se prononce	“。用拼音读作‘Jiāomá tánghuì’。”
+Dans votre famille, qui est-ce qui gagne le plus d'argent	“在你的家庭中,谁赚的钱最多?”
+C'est ma mère	“是我妈妈。”
+Dans votre famille, est-ce qu'il y a un autel pour les ancêtres	“在你的家庭中,有没有供奉祖先的祭坛?
+Si oui, où est-il	如果有,它在哪里?”
+il y en avait	曾经有
+chez mon grand-père maternel il y en avait un	“在我外祖父家有一个。”
+votre avis	“你的看法”
+malheureuses	“不幸的”(阴性复数形式)
+malheureux	“不幸的”(阳性复数形式)
+A votre avis, pourquoi est-ce qu'il y a des familles malheureuses	“在你看来,为什么有些家庭是不幸的?”
+on n'aime pas les mêmes choses	“家庭成员喜欢的东西不一样。”
+on n'a pas d'argent	“家庭没有足够的钱。”
+violence dans la famille	“家庭中存在暴力。”
+bêtes	愚蠢的,笨的(阴性复数形式)
+les enfants sont très bêtes	“孩子们很笨。”
+faire mal à sa mère	“对妈妈不好。”
+Dans votre pays, les familles ont combien d'enfants	“在你的国家,家庭通常有几个孩子?”
+Un enfant	“一个孩子”
+Deux enfants	“两个孩子”
+Dans votre pays, quels sont les problèmes les plus importants entre les adultes et les enfants	“在你的国家,成人和孩子之间最重要的问题是什么?”
+communiquer	沟通,交流(英语=communicate)
+assez	足够(英语=enough)
+on ne se parle plus, on ne communique pas assez	“不再交谈,沟通不够。”
+vivre ensemble	“共同生活”
+Combien y-a-t-il de générations qui vivent ensemble dans votre famille	“在你的家庭中,有多少代人一起生活?”
+3 générations	“三代人”
+tes parents, ta grand-mère et toi	你的父母、你的祖母和你三代人
+sous le même toit	“在同一屋檐下”
+4 générations sous le même toit	四代人在同一屋檐下生活
+domestiques	“家养的,驯养的”(英语=domestic)
+animaux domestiques	家养的宠物(英语=domestic animals)
+Chez vous, les familles ont-elles des animaux domestiques	“你们家养宠物吗?”
+Non, mon père et moi on n'aime pas ça	“不,我和我爸爸不喜欢养宠物。”
+Qui est la personne la plus âgées dans votre famille	“在你的家庭中,谁是最年长的人?”
+84 ans	“84岁”
+103 ans	“103岁”
+Est-ce que les deux parents travaillent en général dans les familles de votre pays	“在你们国家,通常父母双方都工作吗?”
+Ma mère ne travaillait pas	“我的妈妈不工作。”
+Papa et maman travaillent	“爸爸和妈妈都工作。”
+sociétés modernes	“现代社会”(英语=modern societies)
+de plus en plus de gens	“越来越多的人”(英语=more and more people)
+Dans les sociétés modernes, de plus en plus de gens vivent seuls.	“在现代社会中,越来越多的人独自生活。”
+Après le dernier	上次(英语=last)
+dernière fois	“上次”(阴性形式)
+Après le dernier ma mère m'a demandé si tu étais marié.	“上次,我妈妈问我你是不是结婚了。”
+être marié	“结婚”
+famille élargie	“大家庭”(英语=extended family)
+Est-ce qu'il y a des gens de votre famille élargie qui vivent à l'étranger	“在你的大家庭中,有没有人在国外生活?”
+Personne ne vit à l'étranger	“没有人住在国外。”
+Est-ce que l'on fête les anniversaires dans votre famille	“你们家庆祝生日吗?”
+Ce n'est pas très important chez nous	“在我们家,这并不重要。”
+Si oui	是的话(英语=if yes)
+Si oui, comment fête-on les anniversaires dans votre pays	“如果庆祝,你们国家是怎么庆祝生日的?”
+on achète un cadeau	“买礼物”
+on mange un gâteau	“吃蛋糕”
+objets familiaux	家族传承的物品(英语=family heirlooms)
+hérités	继承的(英语=inherited)
+Est-ce qu'il y a chez vous des objets familiaux hérités	“你们家有没有传家宝?”
+pratiques artistiques	艺术活动(英语=artistic practices)
+Dans votre famille, est-ce que l'on a des pratiques artistiques	“你们家有艺术活动吗?”
+moi j'aime dessiner	“我喜欢画画。”
+Avez-vous des ancêtres célèbres ou des histoires de famille intéressantes	“你们家有没有著名的祖先或有趣的家庭故事?”
+racontait	“讲述”(英语=told)(未完成过去时)
+raconter	“讲述”(英语=tell)
+la guerre à Paris	“巴黎的战争”(英语=the war in Paris)
+ma mère me racontait la guerre à Paris et les Allemands	“我妈妈给我讲过巴黎的战争和德国人。”
+1940 - 10 ans	“1940年 - 10岁”
+1945 - 15 ans	“1945年 - 15岁”
+serait	“将会”(英语=would be)
+idéale	“理想的”(英语=ideal)
+Comment serait votre famille idéale	“你心目中的理想家庭是什么样的?”
+en paix	“和平的”(英语=peaceful)
+Une famille où on s'aime en paix.	“一个彼此相爱、和平相处的家庭。”
+Quelles activités pratique-t-on ensemble dans votre famille	“你们家一起做些什么活动?”
+regarder une série	“一起看电视剧”
+partir en vacances	“一起去度假”
+regarder un film à télévision	“一起看电视电影”
+le plus souvent on fait les choses seul	“但大多数时候,我们都是独自做事。”
+Ma grand-mère pense que je fais beaucoup de choses seule.	“我的奶奶觉得我总是独自做很多事情。”
+chacun	“每个人”(英语=each)
+Mais je pense que c'est différent pour chacu	(n.) “但我认为每个人的情况都不一样。”
+tante	“阿姨”
+Elle est comme moi, elle vit seule.	“她和我一样,独自生活。”
+Elle est riche et libre	“她富有且自由。”
+Elle est heureuse	“她快乐吗?”
+Est-ce vos parents ont beaucoup d'influence sur vous	你的父母对你影响大吗?
+lesquelles	哪些(阴性复数形式)
+lesquelles aspects	“哪些方面”(阴性复数形式)(英语=which aspects)
+Et si oui, lesquelles	“如果是,哪些方面?”
+A qui ressemblez-vous le plus dans votre famille	“在你的家庭中,你最像谁?”
+D'après vous c'est quoi une famille	“在你看来,什么是家庭?”
+homosexuelles	“同性恋的”(阴性复数形式)
+Que pensez-vous des familles homosexuelles	“你对同性家庭怎么看?”
+Avez-vous des frères ou des soeurs	“你有兄弟姐妹吗?
+Des cousins et des cousines	堂兄弟姐妹呢?”
+Quand vous avez un problème, à qui demandez-vous de l'aide dans votre famille	“当你遇到问题时,你会向家庭中的谁寻求帮助?”
+Chez vous, au cours des cent dernières années, est-ce que les familles ont beaucoup changé	“在你们国家,过去一百年里家庭变化大吗?”
+fonder	建立(英语=found)
+sa propre famille	“自己的家庭”(英语=one's own family)
+A quel âge pensez-vous qu'il est temps de fonder sa propre famille	“你认为多少岁是建立自己家庭的合适年龄?”
+la religion	宗教(英语=religion)
+Que pense votre famille de la religion	“你的家庭对宗教怎么看?”
