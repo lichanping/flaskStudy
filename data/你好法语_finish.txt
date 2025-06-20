@@ -6095,3 +6095,53 @@ grâce à lui	“多亏了他”
 un essai	“论文、散文”
 retracer	“追溯、回顾”
 la mentalité	心态;思维方式(英语=mentality)
+Je suis allé me faire vacciné ce matin et là maintenant j'ai mal au bras	“今天早上我去打了疫苗,现在我的胳膊很疼。”
+Un film chinois est sorti en France, le film est interdit en Chine	“一部中国电影在法国上映了,但这部电影在中国被禁。”
+Le titre	标题(英语=title)
+caractères simplifiés	简体字(英语=simplified characters)
+caractères traditionnels	繁体字(英语=traditional characters)
+Le titre chinois du film	"A New Old Play" est en caractères simplifiés et en caractères traditionnels 电影《A New Old Play》的中文标题是简体字的‘椒麻堂会’和繁体字的‘椒麻堂會’
+En pinyin, il se prononce	“。用拼音读作‘Jiāomá tánghuì’。”
+Dans votre famille, qui est-ce qui gagne le plus d'argent	“在你的家庭中,谁赚的钱最多?”
+C'est ma mère	“是我妈妈。”
+Dans votre famille, est-ce qu'il y a un autel pour les ancêtres	“在你的家庭中,有没有供奉祖先的祭坛?
+Si oui, où est-il	如果有,它在哪里?”
+il y en avait	曾经有
+chez mon grand-père maternel il y en avait un	“在我外祖父家有一个。”
+votre avis	“你的看法”
+malheureux	“不幸的”(阳性复数形式)
+A votre avis, pourquoi est-ce qu'il y a des familles malheureuses	“在你看来,为什么有些家庭是不幸的?”
+on n'aime pas les mêmes choses	“家庭成员喜欢的东西不一样。”
+on n'a pas d'argent	“家庭没有足够的钱。”
+violence dans la famille	“家庭中存在暴力。”
+bêtes	愚蠢的,笨的(阴性复数形式)
+les enfants sont très bêtes	“孩子们很笨。”
+faire mal à sa mère	“对妈妈不好。”
+Dans votre pays, les familles ont combien d'enfants	“在你的国家,家庭通常有几个孩子?”
+Un enfant	“一个孩子”
+Deux enfants	“两个孩子”
+Dans votre pays, quels sont les problèmes les plus importants entre les adultes et les enfants	“在你的国家,成人和孩子之间最重要的问题是什么?”
+assez	足够(英语=enough)
+on ne se parle plus, on ne communique pas assez	“不再交谈,沟通不够。”
+vivre ensemble	“共同生活”
+Combien y-a-t-il de générations qui vivent ensemble dans votre famille	“在你的家庭中,有多少代人一起生活?”
+3 générations	“三代人”
+tes parents, ta grand-mère et toi	你的父母、你的祖母和你三代人
+sous le même toit	“在同一屋檐下”
+animaux domestiques	家养的宠物(英语=domestic animals)
+Chez vous, les familles ont-elles des animaux domestiques	“你们家养宠物吗?”
+Non, mon père et moi on n'aime pas ça	“不,我和我爸爸不喜欢养宠物。”
+Qui est la personne la plus âgées dans votre famille	“在你的家庭中,谁是最年长的人?”
+84 ans	“84岁”
+103 ans	“103岁”
+Est-ce que les deux parents travaillent en général dans les familles de votre pays	“在你们国家,通常父母双方都工作吗?”
+Ma mère ne travaillait pas	“我的妈妈不工作。”
+Papa et maman travaillent	“爸爸和妈妈都工作。”
+sociétés modernes	“现代社会”(英语=modern societies)
+de plus en plus de gens	“越来越多的人”(英语=more and more people)
+Dans les sociétés modernes, de plus en plus de gens vivent seuls.	“在现代社会中,越来越多的人独自生活。”
+vacciné	疫苗
+malheureuses	“不幸的”(阴性复数形式)
+communiquer	沟通,交流(英语=communicate)
+4 générations sous le même toit	四代人在同一屋檐下生活
+domestiques	“家养的,驯养的”(英语=domestic)
