@@ -28,6 +28,7 @@
         <span id="fileCountLabel"></span>
         <button id="renderQuestion">播放</button>
         <button id="clearText" class="small-button">⟳</button>
+        <button id="infoPageButton">信息</button>
     </div>
     <div id="english-word">
         <input type="text" id="englishWordTextBox" readonly>
@@ -80,7 +81,7 @@
     import * as script from './learnWords.js';
 
     // Add event listener for the 'ENTER' key when focused on the spellingInput
-    document.getElementById("spellingInput").addEventListener("keydown", function(event) {
+    document.getElementById("spellingInput").addEventListener("keydown", function (event) {
         // Check if the key pressed is 'Enter' (keyCode 13 or event.key === 'Enter')
         if (event.key === 'Enter') {
             event.preventDefault(); // Prevent default action (optional)
@@ -117,6 +118,9 @@
         if (event.target.classList.contains("banner")) {
             script.compareOptionIndex(event);
         }
+    });
+    document.getElementById("infoPageButton").addEventListener("click", function () {
+        window.location.href = "info/info.html";
     });
 </script>
 <footer>
