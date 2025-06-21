@@ -8,7 +8,8 @@ document.addEventListener('DOMContentLoaded', function () {
     const totalQuestionsEl = document.getElementById('total-questions');
     const errorCountEl = document.getElementById('error-count');
     const feedbackContainer = document.getElementById('feedback');
-
+    const jumpInput = document.getElementById('jump-input');
+    const jumpBtn = document.getElementById('jump-btn');
     // 题目数据和状态
     let questionsData = [];
     let currentIndex = 0;
@@ -21,6 +22,7 @@ document.addEventListener('DOMContentLoaded', function () {
         .then(data => {
             questionsData = data;
             totalQuestionsEl.textContent = questionsData.length;
+            jumpInput.setAttribute('max', questionsData.length); // 设置最大题号
             renderQuestion(currentIndex);
         })
         .catch(error => {
@@ -151,4 +153,25 @@ document.addEventListener('DOMContentLoaded', function () {
             nextBtn.click();
         }
     });
+    jumpBtn.addEventListener('click', jumpToQuestion);
+    jumpInput.addEventListener('keypress', function (e) {
+        if (e.key === 'Enter') {
+            jumpToQuestion();
+        }
+    });
+
+    function jumpToQuestion() {
+        let targetIndex = parseInt(jumpInput.value, 10) - 1;
+
+        if (isNaN(targetIndex)) {
+            alert('请输入有效的题号');
+            return;
+        }
+
+        // 确保在有效范围内
+        targetIndex = Math.max(0, Math.min(targetIndex, questionsData.length - 1));
+
+        renderQuestion(targetIndex);
+        jumpInput.value = ''; // 清空输入框
+    }
 });
