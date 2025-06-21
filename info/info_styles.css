@@ -30,11 +30,14 @@ h1 {
     font-size: 1.8rem;
 }
 
-/* 进度条样式 */
+/* 进度条样式 - 修改为水平布局 */
 .progress-container {
     display: flex;
-    justify-content: center;
+    justify-content: space-between; /* 两端对齐 */
+    align-items: center; /* 垂直居中 */
     margin-bottom: 25px;
+    flex-wrap: wrap; /* 允许换行 */
+    gap: 15px; /* 元素间距 */
 }
 
 .progress-text {
@@ -44,6 +47,47 @@ h1 {
     padding: 8px 15px;
     background: #f8f9fa;
     border-radius: 20px;
+    flex: 1; /* 自动扩展 */
+    min-width: max-content; /* 防止文本换行 */
+}
+
+/* 新增跳转控件样式 */
+.jump-container {
+    display: flex;
+    gap: 8px;
+    align-items: center;
+}
+
+#jump-input {
+    width: 70px;
+    padding: 8px 12px;
+    border: 1px solid #ddd;
+    border-radius: 6px;
+    font-size: 1rem;
+    text-align: center;
+    background-color: #f8f9fa;
+}
+
+#jump-input:focus {
+    outline: none;
+    border-color: #1a73e8;
+    box-shadow: 0 0 0 2px rgba(26, 115, 232, 0.2);
+}
+
+#jump-btn {
+    padding: 8px 16px;
+    background-color: #1a73e8;
+    color: white;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+    font-size: 0.9rem;
+    font-weight: 500;
+    transition: all 0.3s;
+}
+
+#jump-btn:hover {
+    background-color: #0d62d9;
 }
 
 /* 题目容器 */
@@ -68,7 +112,7 @@ h1 {
 
 .option {
     display: flex;
-    align-items: flex-start;
+    align-items: center;
     gap: 12px;
 }
 
@@ -205,6 +249,16 @@ button:disabled {
     .error-counter {
         margin-left: auto;
     }
+
+    /* 移动端跳转控件布局 */
+    .progress-container {
+        flex-direction: column;
+        align-items: stretch;
+    }
+
+    .jump-container {
+        justify-content: center;
+    }
 }
 
 /* 选项状态样式 */
@@ -226,6 +280,6 @@ button:disabled {
 }
 
 .option.incorrect input:checked + label::after {
-    content: " ✗";
+    content: " ✗✗";
     font-weight: bold;
 }
