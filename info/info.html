@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>计算机网络选择题练习</title>
+    <link rel="stylesheet" href="./info_styles.css">
+</head>
+<body>
+<div class="container">
+    <a href="../index.html" class="back-btn">返回首页</a>
+    <h1>计算机网络选择题练习</h1>
+    <div class="progress-container">
+        <div class="progress-text">
+            题目: <span id="current-question">1</span>/<span id="total-questions">3</span>
+        </div>
+    </div>
+
+    <div class="question-container">
+        <div class="question-title" id="question-title"></div>
+        <div class="options" id="options-container"></div>
+    </div>
+
+    <div class="feedback" id="feedback"></div>
+
+    <div class="navigation">
+        <button id="prev-btn">上一题</button>
+        <div class="nav-right">
+            <button id="next-btn">下一题</button>
+            <div class="error-counter">
+                错误: <span id="error-count">0</span>次
+            </div>
+        </div>
+    </div>
+</div>
+<script src="info_script.js"></script>
+</body>
+</html>

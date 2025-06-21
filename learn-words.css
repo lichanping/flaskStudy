@@ -81,6 +81,7 @@ input:checked + .slider:before {
 /* Styles for clickable elements */
 #goBackButton,
 #renderQuestion,
+#infoPageButton,
 #file,
 #clearText,
 #switchStudentButton, #checkSpellingButton {

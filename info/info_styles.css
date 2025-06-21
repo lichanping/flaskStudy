@@ -1,0 +1,231 @@
+/* 基础样式 */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body {
+    background-color: #f0f4f8;
+    color: #333;
+    line-height: 1.6;
+    padding: 20px;
+}
+
+.container {
+    max-width: 680px; /* 宽度缩减 */
+    margin: 0 auto;
+    background: white;
+    border-radius: 12px;
+    box-shadow: 0 8px 30px rgba(0, 0, 0, 0.1);
+    padding: 25px;
+    overflow: hidden;
+}
+
+h1 {
+    text-align: center;
+    margin-bottom: 20px;
+    color: #1a73e8;
+    font-size: 1.8rem;
+}
+
+/* 进度条样式 */
+.progress-container {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 25px;
+}
+
+.progress-text {
+    font-size: 1.1rem;
+    font-weight: 600;
+    color: #5f6368;
+    padding: 8px 15px;
+    background: #f8f9fa;
+    border-radius: 20px;
+}
+
+/* 题目容器 */
+.question-container {
+    margin-bottom: 25px;
+}
+
+.question-title {
+    font-weight: 600;
+    font-size: 1.25rem;
+    margin-bottom: 20px;
+    color: #202124;
+    line-height: 1.5;
+}
+
+/* 选项样式 */
+.options {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 12px;
+}
+
+.option {
+    display: flex;
+    align-items: flex-start;
+    gap: 12px;
+}
+
+.option input[type="radio"] {
+    margin-top: 5px;
+    accent-color: #4285f4;
+    cursor: pointer;
+    transform: scale(1.2);
+}
+
+.option label {
+    flex: 1;
+    padding: 14px;
+    border-radius: 8px;
+    background-color: #f8f9fa;
+    transition: all 0.2s ease;
+    cursor: pointer;
+    border: 2px solid transparent;
+    font-size: 1.05rem;
+}
+
+.option label:hover {
+    background-color: #e9f0fd;
+}
+
+.option input:checked + label {
+    background-color: #e3f2fd;
+    border-color: #4285f4;
+    color: #1a73e8;
+    font-weight: 500;
+}
+
+/* 反馈信息 */
+.feedback {
+    margin-top: 15px;
+    padding: 15px;
+    border-radius: 8px;
+    display: none;
+}
+
+.feedback.correct {
+    display: block;
+    background-color: #e6f4ea;
+    color: #0d652d;
+    border: 1px solid #34a853;
+}
+
+.feedback.incorrect {
+    display: block;
+    background-color: #fce8e6;
+    color: #a50e0e;
+    border: 1px solid #ea4335;
+}
+
+.feedback p {
+    margin-bottom: 10px;
+    font-weight: 500;
+}
+
+.feedback .explanation {
+    font-weight: normal;
+}
+
+/* 导航栏 */
+.navigation {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 25px;
+}
+
+.nav-right {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+.error-counter {
+    font-size: 1rem;
+    color: #ea4335;
+    font-weight: 500;
+    background: #fce8e6;
+    padding: 6px 12px;
+    border-radius: 16px;
+}
+
+/* 按钮样式 */
+button {
+    padding: 10px 24px;
+    background-color: #1a73e8;
+    color: white;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+    font-size: 1rem;
+    font-weight: 500;
+    transition: all 0.3s;
+}
+
+button:hover {
+    background-color: #0d62d9;
+}
+
+button:disabled {
+    background-color: #dadce0;
+    cursor: not-allowed;
+}
+
+#prev-btn {
+    background-color: #f1f3f4;
+    color: #5f6368;
+}
+
+#prev-btn:hover:not(:disabled) {
+    background-color: #e8eaed;
+}
+
+/* 响应式设计 */
+@media (max-width: 768px) {
+    .container {
+        padding: 20px;
+        max-width: 95%;
+    }
+
+    .navigation {
+        flex-direction: column;
+        gap: 15px;
+    }
+
+    .nav-right {
+        width: 100%;
+        justify-content: space-between;
+    }
+
+    .error-counter {
+        margin-left: auto;
+    }
+}
+
+/* 选项状态样式 */
+.option.correct label {
+    background-color: #e6f4ea !important;
+    border-color: #34a853 !important;
+    color: #0d652d !important;
+}
+
+.option.incorrect label {
+    background-color: #fce8e6 !important;
+    border-color: #ea4335 !important;
+    color: #a50e0e !important;
+}
+
+.option.correct input:checked + label::after {
+    content: " ✓";
+    font-weight: bold;
+}
+
+.option.incorrect input:checked + label::after {
+    content: " ✗";
+    font-weight: bold;
+}
