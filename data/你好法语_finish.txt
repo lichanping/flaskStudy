@@ -6145,3 +6145,53 @@ malheureuses	“不幸的”(阴性复数形式)
 communiquer	沟通,交流(英语=communicate)
 4 générations sous le même toit	四代人在同一屋檐下生活
 domestiques	“家养的,驯养的”(英语=domestic)
+Après le dernier	上次(英语=last)
+dernière fois	“上次”(阴性形式)
+Après le dernier ma mère m'a demandé si tu étais marié.	“上次,我妈妈问我你是不是结婚了。”
+être marié	“结婚”
+Est-ce qu'il y a des gens de votre famille élargie qui vivent à l'étranger	“在你的大家庭中,有没有人在国外生活?”
+Personne ne vit à l'étranger	“没有人住在国外。”
+Est-ce que l'on fête les anniversaires dans votre famille	“你们家庆祝生日吗?”
+Ce n'est pas très important chez nous	“在我们家,这并不重要。”
+Si oui	是的话(英语=if yes)
+Si oui, comment fête-on les anniversaires dans votre pays	“如果庆祝,你们国家是怎么庆祝生日的?”
+on achète un cadeau	“买礼物”
+on mange un gâteau	“吃蛋糕”
+Est-ce qu'il y a chez vous des objets familiaux hérités	“你们家有没有传家宝?”
+pratiques artistiques	艺术活动(英语=artistic practices)
+Dans votre famille, est-ce que l'on a des pratiques artistiques	“你们家有艺术活动吗?”
+moi j'aime dessiner	“我喜欢画画。”
+Avez-vous des ancêtres célèbres ou des histoires de famille intéressantes	“你们家有没有著名的祖先或有趣的家庭故事?”
+raconter	“讲述”(英语=tell)
+ma mère me racontait la guerre à Paris et les Allemands	“我妈妈给我讲过巴黎的战争和德国人。”
+1940 - 10 ans	“1940年 - 10岁”
+1945 - 15 ans	“1945年 - 15岁”
+serait	“将会”(英语=would be)
+Comment serait votre famille idéale	“你心目中的理想家庭是什么样的?”
+Une famille où on s'aime en paix.	“一个彼此相爱、和平相处的家庭。”
+Quelles activités pratique-t-on ensemble dans votre famille	“你们家一起做些什么活动?”
+partir en vacances	“一起去度假”
+regarder un film à télévision	“一起看电视电影”
+le plus souvent on fait les choses seul	“但大多数时候,我们都是独自做事。”
+Ma grand-mère pense que je fais beaucoup de choses seule.	“我的奶奶觉得我总是独自做很多事情。”
+Mais je pense que c'est différent pour chacu	(n.) “但我认为每个人的情况都不一样。”
+Elle est comme moi, elle vit seule.	“她和我一样,独自生活。”
+Elle est riche et libre	“她富有且自由。”
+Elle est heureuse	“她快乐吗?”
+Est-ce vos parents ont beaucoup d'influence sur vous	你的父母对你影响大吗?
+lesquelles	哪些(阴性复数形式)
+lesquelles aspects	“哪些方面”(阴性复数形式)(英语=which aspects)
+Et si oui, lesquelles	“如果是,哪些方面?”
+A qui ressemblez-vous le plus dans votre famille	“在你的家庭中,你最像谁?”
+D'après vous c'est quoi une famille	“在你看来,什么是家庭?”
+homosexuelles	“同性恋的”(阴性复数形式)
+famille élargie	“大家庭”(英语=extended family)
+objets familiaux	家族传承的物品(英语=family heirlooms)
+hérités	继承的(英语=inherited)
+racontait	“讲述”(英语=told)(未完成过去时)
+la guerre à Paris	“巴黎的战争”(英语=the war in Paris)
+idéale	“理想的”(英语=ideal)
+en paix	“和平的”(英语=peaceful)
+regarder une série	“一起看电视剧”
+chacun	“每个人”(英语=each)
+tante	“阿姨”
