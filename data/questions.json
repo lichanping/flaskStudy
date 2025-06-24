@@ -1114,5 +1114,65 @@
     ],
     "correctIndex": 2,
     "explanation": "正确答案：C（数据备份）。安全措施对比：\n• 数据备份：定期保存数据副本（防止误删/损坏）\n• 数据加密：防止未授权访问\n• 数据脱敏：保护隐私（不适用于系统恢复）\n• 异地容灾：备份的高级形式（成本较高）"
+  },
+  {
+    "id": "q94",
+    "question": "29. 存放11个班级的课本本周阅读量，使用的Python数据类型是（ ）。",
+    "options": [
+      "字符串",
+      "数组",
+      "列表",
+      "整型"
+    ],
+    "correctIndex": 2,
+    "explanation": "正确答案：列表\n\n解析：\n1. 代码中明确使用`book=[99,105,118,...]`的格式\n2. Python中使用方括号`[]`定义的数据结构是列表(list)\n3. 重要区别：\n   - 字符串：必须加引号如`\"数据\"`\n   - 数组：Python没有内置数组类型（需导入NumPy）\n   - 整型：只能存储单个数值"
+  },
+  {
+    "id": "q95",
+    "question": "30. 上面程序所用的算法结构为（ ）。",
+    "options": [
+      "循环嵌套分支结构",
+      "分支嵌套循环结构",
+      "多分支结构",
+      "双重循环结构"
+    ],
+    "correctIndex": 0,
+    "explanation": "正确答案：循环嵌套分支结构\n\n解析：\n1. 程序结构分析：\n   - 外层结构：`for i in ...` (循环结构)\n   - 内层结构：`if book[i] > ...` (分支结构)\n2. 工作流程：\n   ① 循环遍历2-11班（索引1到10）\n   ② 每个班级都与当前最高值比较\n   ③ 若更高则更新记录\n3. 图示说明：\n   🔄循环 → ➡️比较 → ❓判断 → 🔄循环"
+  },
+  {
+    "id": "q96",
+    "question": "31. 关于上面的Python程序，下面说法正确的是（ ）。",
+    "options": [
+      "python是高级语言，python程序可以直接运行",
+      "需要转换成高级语言程序才能运行",
+      "需要转换成汇编语言程序才能运行",
+      "需要转换成机器语言程序才能运行"
+    ],
+    "correctIndex": 3,
+    "explanation": "正确答案：需要转换成机器语言程序才能运行\n\n解析：\n1. 核心原理：计算机CPU只识别二进制指令（机器语言）\n2. 执行过程：\n   ① Python解释器将源代码编译成字节码\n   ② 字节码再转换为机器码（二进制指令）\n   ③ CPU执行机器码\n3. 类比理解：\n   Python代码（英文说明书）\n   → 翻译成机器码（中文说明书）\n   → CPU（工人）执行操作"
+  },
+  {
+    "id": "q97",
+    "question": "33. 'mobike_shanghai.csv'文件存储了2016年8月上海某区域共享单车骑行数据（近十万条记录）。小申同学想在文件中添加天气温度信息，需要从互联网采集数据，可使用的方法是（ ）。",
+    "options": [
+      "requests.get()",
+      "requests.http()",
+      "requests.fetch()",
+      "requests.html()"
+    ],
+    "correctIndex": 0,
+    "explanation": "正确答案：requests.get()\n\n• 技术解析：\n  - `requests.get()`：Python标准库中用于发送HTTP GET请求的方法（可获取网页/API数据）\n  - 天气数据获取：通常通过天气API（如心知天气）返回JSON数据\n\n• 其他选项无效原因：\n  - requests模块没有http()/fetch()/html()方法\n  - requests.html是独立库（需安装），用于HTML解析\n\n• 实战示例：\n```python\nimport requests\n# 获取上海2016年8月天气数据\nresponse = requests.get('https://api.weather.com/2016/08?city=shanghai')\ndata = response.json()  # 转为Python字典\n温度 = data['daily'][0]['temp']  # 提取温度\n```"
+  },
+  {
+    "id": "q98",
+    "question": "34. 小申从网上下载了网页，以下可以用来解析网页的Python函数库是（ ）。",
+    "options": [
+      "requests",
+      "BeautifulSoup",
+      "HTML",
+      "random"
+    ],
+    "correctIndex": 1,
+    "explanation": "正确答案：BeautifulSoup\n\n解析：\n1. 功能区分：\n   - ✅ BeautifulSoup：专门用于解析HTML/XML文档的库（提取/修改页面内容）\n   - ❌ requests：仅用于获取网页内容（不提供解析功能）\n   - ❌ HTML：Python标准库中没有名为HTML的解析模块\n   - ❌ random：随机数生成库（与网页解析无关）\n\n2. 实际工作流程：\n```python\nimport requests\nfrom bs4 import BeautifulSoup\n\n# 用requests下载网页\nhtml = requests.get('https://example.com').text  \n\n# 用BeautifulSoup解析网页\nsoup = BeautifulSoup(html, 'html.parser')\ntitle = soup.title.string  # 获取页面标题\n```\n3. 技术说明：BeautifulSoup可配合多种解析器（html.parser/lxml等）高效处理HTML结构"
   }
 ]
