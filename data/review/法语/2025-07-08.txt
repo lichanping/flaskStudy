@@ -1,3 +1,6 @@
+arrondissement	区(英语=district)
+La mairie	市政厅(city hall)
+Le drapeau des homosexuelles	“同性恋者的旗帜(同性恋者)”
 famille élargie	“大家庭”(英语=extended family)
 objets familiaux	家族传承的物品(英语=family heirlooms)
 hérités	继承的(英语=inherited)
