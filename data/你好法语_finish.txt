@@ -6403,3 +6403,106 @@ Qu'est-ce qu'il a dit他到底说了什么？
 arrondissement	区(英语=district)
 La mairie	市政厅(city hall)
 Le drapeau des homosexuelles	“同性恋者的旗帜(同性恋者)”
+Samedi 5 juillet 2025	“2025年7月5日,星期六”
+Oui, je t'entends	“是的,我听到了。”
+Oui, je vous entends	“是的,我听到了。”
+Tu as passé une bonne journée	“你今天过得好吗?”
+J'ai déjeuné avec une copine	“我和一个朋友一起吃了午饭。”
+Je me suis promené dans un supermarché	“我在超市里逛了逛。”
+J'ai fait du lèche vitrine	“我逛了街。”
+faire du lèche vitrine	强调 “只看不买” 的趣味性
+J'ai mangé	“我吃了东西。”
+Tu es rentrée à quelle heure	“你几点回家的?”
+Je suis rentrée à 15h	“我3点回家的。”
+J'ai fait mes devoirs de physique	“我做了物理作业。”
+faire une sieste	睡个午觉
+J'ai fait une sieste de 17h à 18h	“我从下午5点到6点小睡了一会儿。”
+la sieste, c'est un mot de l'espagnol	“小睡 / 这是一个西班牙语词汇”
+hacer una siesta	“小睡一会儿(西班牙语)”
+Oui, ils vont bien	“是的,他们很好。”
+J'ai mangé du bœuf, un gâteau, des frites	“我吃了牛肉、一个蛋糕、薯条吗?”
+les frites	“薯条”
+un plat occidental	“一道西式菜肴”
+Viande	肉类
+légumes	“蔬菜”
+Tu as compris un repas occidental	“你理解了西餐吗?”
+un plat viande	“一道肉类”
+un plat légume	“一道蔬菜菜”
+un fromage	(一份奶酪)
+En 2025, en janvier, j'ai appris un peu l'italien	“2025年1月,我学了一些意大利语。”
+Les langues latines	“罗曼语族”
+le français	“法语”
+l'espagnol	“西班牙语”
+l'italien	“意大利语”
+Je me suis coupé les cheveux aujourd'hui	“我今天剪了头发。”
+m'a offert un cadeau	“给我送了礼物。”
+offrir un cadeau	“送礼物”
+Quand on est ami en Chine, on s'offre des cadeaux	“在中国,朋友之间会互送礼物。”
+En France, non	“在法国不是这样。”
+Moi, je ne fais pas de cadeau	“我不送礼物。”
+Il me dit que je ne suis pas	“他说我不浪漫。”
+être ensemble	“在一起”
+Il y a des vols en Thaïlande	“有飞往泰国的航班”
+se baigner	“游泳”
+la Seine	“塞纳河”
+Ce matin, avant d'aller au cinéma, je suis allé voir les parisiens se baigner dans la Seine	“今天早上,在去看电影之前,我去看了巴黎人在塞纳河游泳。”
+A partir d'aujourd'hui	从今天起(英语:From today)
+A partir d'aujourd'hui on peut se baigner dans la Seine	“从今天起,人们可以在塞纳河游泳了。”
+je sors un livre	“我出版了一本书。”
+une sieste	午后小睡
+siesta	“小睡(西班牙语)”
+manger dehors	“在外面吃饭”
+on a mangé occidental	“我们吃了‘西餐’”
+une entrée	“一道开胃菜”
+le portugais	“葡萄牙语”
+être PACSÉ -comme le mariage, mais le divorce est plus facile	“民事结合(类似于婚姻,但离婚更简单)”
+tu sors un film	“你上映了一部电影。”
+nous sortons un magazine	“我们出版了一本杂志。”
+vous sortez un journal	“你们出版了一份报纸。”
+Mercredi, deux films chinois sortent à Paris,Je vais aller les voir	“周三,巴黎有两部中国电影上映。我要去看。”
+Est-ce que tu vas prendre des cours de français au lycée guangming	“你打算在光明中学上法语课吗?”
+Ca commence quand	“什么时候开始?”
+La semaine prochaine	“下周”
+8h à 18h30	“从早上8点到下午6点30分”
+matin maths en français pendant 3 heures	“早上用法语上3小时数学课”
+une heure	“一小时”
+2 fois 3 heures de cours de français	“两次,每次3小时的法语课”
+Il fait chaud en ce moment	“现在天气很热”
+Il y a beaucoup de monde dans le métro le matin et le soir	“早上和晚上地铁里人很多”
+c'est trop, trois heures de cours	“太多了,三小时的课”
+Lundi, moi aussi je prends des cours	“周一,我也有课”
+Des cours de japonais	“日语课”
+J'ai déjà donné des cours	“我已经上过课了”
+Tu es en seconde	“你在高二”
+Tu seras en France en mars 2027	“你将在2027年3月去法国”
+C'est toujours le dernier samedi du mois de juin	“这总是六月的最后一个星期六”
+Si tu veux arrêter les cours avec moi cet été	“如果你这个夏天想和我一起停止上课”
+12 ans	“12岁”
+Tu as aimé le Japon	“你喜欢日本吗?”
+Je n'ai pas beaucoup aimé le Japon	“我不太喜欢日本”
+Il y a eu au Japon à Fukuyama un accident dans la centrale nucléaire	“在日本福岛发生了一起核电站事故。”
+Tu m'entends	你听到我说话吗?; “你听到我说话了吗?”
+entendre	动词,意为 “听见,听到” 。; “听见”
+Je ne te vois pas	“我看不到你”; “我看不到你。”
+Tu as acheté quelque chose	你买了什么?; “你买东西了吗?”
+Tes parents vont bien	你父母好吗(“vont” 是动词 “aller”(此处表示 “处于(某种状态)” )的第三人称复数现在时变位); “你的父母好吗?”
+dehors	副词,意为 “在外面”,在这里作地点状语,表明吃饭的地点。; 外面(副词); 在外面(英语:outside); “外面”
+occidental	西方的; 西方的、欧美的(此处省略名词 “cuisine”,用形容词借代 “西餐”。)
+un dessert	甜点; “一份甜点”
+offrir	“提供”; “送”
+être marié	“结婚”; “已婚”
+sortir	出去,出来,出版;上映
+Tu es contente	 “你开心吗?”
+Paris est une ville dynamique 巴黎是一个充满活力的城市。
+école小学n.f.
+aller à l'école 上学
+passer un entretien 参加面试
+étranger 外国的adj.
+étrangère 外国的adj.阴性
+il sort un album	“他发行了一张专辑。”
+ils sortent un disque	“他们发行了一张唱片。”
+La censure	“审查制度”
+arrêter	停止(英语:stop)
+la centrale nucléaire	“核电站”
+dynamique 有活力的adj.
+entretien面试，会面n.m.
