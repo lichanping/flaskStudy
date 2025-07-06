@@ -311,7 +311,6 @@ avoir des allergies	过敏(des 是不定冠词的复数形式,表示一些)
 mardi, je suis sortie avec mes trois amies	星期二,我和我的三个朋友一起出去。
 où est-ce que vous êtes allée	你们去哪里了?
 faire du shopping	逛街购物
-Tu as acheté quelque chose	你买了什么?
 j'ai acheté une glace	我买了一个冰淇淋
 sortie	是动词 sortir(出去)的复合过去时形式
 Tu es sortie à quelle heure mardi	星期二你几点出去的?
@@ -584,7 +583,6 @@ dessiner	“画,绘制”,尤指用铅笔、钢笔等线条勾勒,与 “peindre
 Il en reste 12	剩下12个
 31 janvier	“1月31日”
 Je vais très bien	我很好
-Tes parents vont bien	你父母好吗(“vont” 是动词 “aller”(此处表示 “处于(某种状态)” )的第三人称复数现在时变位)
 Mes parents vont bien aussi	我的父母也很好
 Aujourd'hui, tu as fait quoi	今天你做了什么?
 J'ai fait du shopping avec mon père	我和父亲一起购物
@@ -892,7 +890,6 @@ Marcher	走 / 步行 (zǒu / bùxíng)
 Entrer	进入 (jìnrù)
 Fermer	关 (guān)
 Penser	想 / 认为 (xiǎng / rènwéi)
-Tu m'entends	你听到我说话吗?
 oui je t'entends	是的,我听到你说话
 Je entends	我听到
 Tu entends	你听到
@@ -1089,7 +1086,6 @@ spécialité	“特色菜” - 名词
 le canard laqué est une spécialité française	“烤鸭是一道法国特色菜” - FAUX
 Emmanuel Macron	“埃马纽埃尔·马克龙” - 专有名词(人名)
 le nom	“名字” - 名词
-un dessert	甜点
 le Emmanuel Macron c'est le nom d'un dessert en France	“Emmanuel Macron是法国一种甜点的名字” - FAUX
 Le macaron	“马卡龙” - 名词
 le poisson	“鱼” - 名词
@@ -1453,7 +1449,6 @@ documentaire	纪录片(名词,表示“纪录片”)
 peintre	画家(名词,表示“画家”)
 Ce matin avant le cours, je suis allé au cinéma voir un documentaire sur un peintre espagnol	今天早上上课之前,我去电影院看了一部关于一位西班牙画家的纪录片。
 Diego Vélazquez	地高维拉斯奎兹
-occidental	西方的
 Qui est-ce que tu connais comme peintre occidental	你认识哪些西方画家?
 Je connais	我认识
 Claude Monet	莫奈
@@ -1949,7 +1944,6 @@ un arbre	树。
 A shanghai, est-ce qu'il y a des arbres en fleur	在上海,有树开花吗?
 un dessin animé	“动画片” ,字面意思是 “活动的画” 。
 une bande dessinée	一本漫画; 漫画
-sortir	出去,出来,出版;上映; 上映
 Samedi 19 avril 2025	"2025年4月19日,星期六"
 Il en reste 1	还剩下1个。
 SUJET	题目
@@ -2071,7 +2065,6 @@ disent	“说”,法语动词 dire(意为“说”或“讲”)的第三人称�
 toujours	仍然(副词); “总是;始终”= always
 gratuit	:免费的、无偿的。; 免费的;无偿的
 C'est gratuit	:这是免费的。; 这是免费的。(妈妈说:600多元一个人,你搞错了!)
-Tu es contente	你高兴吗?; 你开心吗?
 écrire	写(ECRIRE); 写(原形动词)
 rappeler	提醒; 记得
 avait	动词 “avoir(有)” 的直陈式未完成过去时第三人称单数形式,可表示过去拥有的特征,如 “avait une grosse voix” 即“有一副粗嗓音” 。; 是动词 “avoir” 的第三人称单数未完成过去时
@@ -2262,7 +2255,6 @@ une rivière	“一条河流”
 un canal	运河
 un pont	桥
 une écluse	水闸
-offrir	“提供”
 je offre	“我提供”
 tu offres	“你提供”
 il offre	“他提供”
@@ -2413,7 +2405,6 @@ Il en reste 14	还剩下 14 个
 l'accès au jardin	花园的入口
 toute	副词,意为“整个”(toute la journée:整天); 是tout的阴性单数形式,作副词“非常,完全”
 seule	独自的、单独的(形容词,表示“独自”或“单独”); 是 seul 的阴性单数形式,意为 “单独的,孤独的”
-entendre	动词,意为 “听见,听到” 。
 Vendredi 9 mai 2025	“2025年5月9日,星期五”
 Pourquoi, Que faites-vous ensemble	为什么?你们一起做什么?
 J'ai fini	“我完成了”
@@ -3149,7 +3140,6 @@ en colère	生气,“colère” 是阴性名词,意为 “愤怒、生气”,在
 sévère	严格; 严厉的(形容词); 严格; “严格的”
 Samedi 14 juin 2025	“2025年6月14日,星期六”
 Il en reste 7	“还剩下7个”
-Je ne te vois pas	“我看不到你”
 Elle travaille à la maison	“她在家里工作”
 Elle est fatiguée	“她很累吗”
 en ligne	在线(英语=online)
@@ -3251,7 +3241,6 @@ Dans les sociétés modernes, de plus en plus de gens vivent seuls.	“在现代
 Après le dernier	上次(英语=last)
 dernière fois	“上次”(阴性形式)
 Après le dernier ma mère m'a demandé si tu étais marié.	“上次,我妈妈问我你是不是结婚了。”
-être marié	“结婚”
 famille élargie	“大家庭”(英语=extended family)
 Est-ce qu'il y a des gens de votre famille élargie qui vivent à l'étranger	“在你的大家庭中,有没有人在国外生活?”
 Personne ne vit à l'étranger	“没有人住在国外。”
@@ -3371,7 +3360,6 @@ Quelles sont les 10 langues les plus difficiles à apprendre	“哪10种语言�
 1ère Le japonais	“第一名是日语”
 2e le chinois	“第二名是中文”
 pleurer	哭。; 哭(英语:to cry)
-dehors	副词,意为 “在外面”,在这里作地点状语,表明吃饭的地点。; 外面(副词); 在外面(英语:outside)
 commencer	开始(to start); 开始(英语:to start)
 Samedi 28 juin 2025	“2025年6月28日,星期六”
 Attends, attends	“等等,等等”
@@ -3453,3 +3441,98 @@ terminer	结束; 结束
 mettre	放置、使用、穿上(to put); 放(put)
 Je mets	我花费; 我放(I put)“présent”直陈式现在时
 Est-ce que tu as des questions sur mes nouvelles	“你对我的消息有什么问题吗?”; “你对我的消息有什么问题吗?”
+Samedi 5 juillet 2025	“2025年7月5日,星期六”
+Oui, je t'entends	“是的,我听到了。”
+Oui, je vous entends	“是的,我听到了。”
+Tu as passé une bonne journée	“你今天过得好吗?”
+J'ai déjeuné avec une copine	“我和一个朋友一起吃了午饭。”
+Je me suis promené dans un supermarché	“我在超市里逛了逛。”
+J'ai fait du lèche vitrine	“我逛了街。”
+faire du lèche vitrine	强调 “只看不买” 的趣味性
+J'ai mangé	“我吃了东西。”
+Tu es rentrée à quelle heure	“你几点回家的?”
+Je suis rentrée à 15h	“我3点回家的。”
+J'ai fait mes devoirs de physique	“我做了物理作业。”
+une sieste	午后小睡
+faire une sieste	睡个午觉
+J'ai fait une sieste de 17h à 18h	“我从下午5点到6点小睡了一会儿。”
+la sieste, c'est un mot de l'espagnol	“小睡 / 这是一个西班牙语词汇”
+siesta	“小睡(西班牙语)”
+hacer una siesta	“小睡一会儿(西班牙语)”
+Oui, ils vont bien	“是的,他们很好。”
+manger dehors	“在外面吃饭”
+on a mangé occidental	“我们吃了‘西餐’”
+J'ai mangé du bœuf, un gâteau, des frites	“我吃了牛肉、一个蛋糕、薯条吗?”
+les frites	“薯条”
+un plat occidental	“一道西式菜肴”
+Viande	肉类
+légumes	“蔬菜”
+Tu as compris un repas occidental	“你理解了西餐吗?”
+une entrée	“一道开胃菜”
+un plat viande	“一道肉类”
+un plat légume	“一道蔬菜菜”
+un fromage	(一份奶酪)
+En 2025, en janvier, j'ai appris un peu l'italien	“2025年1月,我学了一些意大利语。”
+Les langues latines	“罗曼语族”
+le français	“法语”
+l'espagnol	“西班牙语”
+l'italien	“意大利语”
+le portugais	“葡萄牙语”
+Je me suis coupé les cheveux aujourd'hui	“我今天剪了头发。”
+m'a offert un cadeau	“给我送了礼物。”
+offrir un cadeau	“送礼物”
+Quand on est ami en Chine, on s'offre des cadeaux	“在中国,朋友之间会互送礼物。”
+En France, non	“在法国不是这样。”
+Moi, je ne fais pas de cadeau	“我不送礼物。”
+Il me dit que je ne suis pas	“他说我不浪漫。”
+être ensemble	“在一起”
+être PACSÉ -comme le mariage, mais le divorce est plus facile	“民事结合(类似于婚姻,但离婚更简单)”
+Il y a des vols en Thaïlande	“有飞往泰国的航班”
+se baigner	“游泳”
+la Seine	“塞纳河”
+Ce matin, avant d'aller au cinéma, je suis allé voir les parisiens se baigner dans la Seine	“今天早上,在去看电影之前,我去看了巴黎人在塞纳河游泳。”
+A partir d'aujourd'hui	从今天起(英语:From today)
+A partir d'aujourd'hui on peut se baigner dans la Seine	“从今天起,人们可以在塞纳河游泳了。”
+je sors un livre	“我出版了一本书。”
+tu sors un film	“你上映了一部电影。”
+il sort un album	“他发行了一张专辑。”
+nous sortons un magazine	“我们出版了一本杂志。”
+vous sortez un journal	“你们出版了一份报纸。”
+ils sortent un disque	“他们发行了一张唱片。”
+Mercredi, deux films chinois sortent à Paris,Je vais aller les voir	“周三,巴黎有两部中国电影上映。我要去看。”
+La censure	“审查制度”
+Est-ce que tu vas prendre des cours de français au lycée guangming	“你打算在光明中学上法语课吗?”
+Ca commence quand	“什么时候开始?”
+La semaine prochaine	“下周”
+8h à 18h30	“从早上8点到下午6点30分”
+matin maths en français pendant 3 heures	“早上用法语上3小时数学课”
+une heure	“一小时”
+2 fois 3 heures de cours de français	“两次,每次3小时的法语课”
+Il fait chaud en ce moment	“现在天气很热”
+Il y a beaucoup de monde dans le métro le matin et le soir	“早上和晚上地铁里人很多”
+c'est trop, trois heures de cours	“太多了,三小时的课”
+Lundi, moi aussi je prends des cours	“周一,我也有课”
+Des cours de japonais	“日语课”
+J'ai déjà donné des cours	“我已经上过课了”
+Tu es en seconde	“你在高二”
+Tu seras en France en mars 2027	“你将在2027年3月去法国”
+C'est toujours le dernier samedi du mois de juin	“这总是六月的最后一个星期六”
+arrêter	停止(英语:stop)
+Si tu veux arrêter les cours avec moi cet été	“如果你这个夏天想和我一起停止上课”
+12 ans	“12岁”
+Tu as aimé le Japon	“你喜欢日本吗?”
+Je n'ai pas beaucoup aimé le Japon	“我不太喜欢日本”
+la centrale nucléaire	“核电站”
+Il y a eu au Japon à Fukuyama un accident dans la centrale nucléaire	“在日本福岛发生了一起核电站事故。”
+Tu m'entends	你听到我说话吗?; “你听到我说话了吗?”
+entendre	动词,意为 “听见,听到” 。; “听见”
+Je ne te vois pas	“我看不到你”; “我看不到你。”
+Tu as acheté quelque chose	你买了什么?; “你买东西了吗?”
+Tes parents vont bien	你父母好吗(“vont” 是动词 “aller”(此处表示 “处于(某种状态)” )的第三人称复数现在时变位); “你的父母好吗?”
+dehors	副词,意为 “在外面”,在这里作地点状语,表明吃饭的地点。; 外面(副词); 在外面(英语:outside); “外面”
+occidental	西方的; 西方的、欧美的(此处省略名词 “cuisine”,用形容词借代 “西餐”。)
+un dessert	甜点; “一份甜点”
+offrir	“提供”; “送”
+être marié	“结婚”; “已婚”
+sortir	出去,出来,出版;上映
+Tu es contente	 “你开心吗?”
