@@ -1047,3 +1047,55 @@ research	"n. 研究 ，调查；   v. 研究， 调查"
 frequent	"adj. 时常的 ，频繁的（读 作/ˈfrikwənt/）"
 perfume	(n.) 香水
 part-time	(adj.) 兼职的
+transfer	(v.) 转移
+throw	(v.) 扔 ，抛 ，投掷；   n. 投掷
+society	(n.) 社会
+cost	"n. 成本；代价 ，损失；   v. 价钱为，  需花费"
+salary	(n.) 工资 ，薪水
+luck	(n.) 好运 ，幸运
+indoor	(adj.) 室内的
+excitement	(n.) 兴奋
+exist	(vi.) 存在
+northern	"adj. 北部的 ，北方的 ，有北 方特征的"
+coin	(n.) 硬币
+program	"n. 项目 ，计划；节目；课 程；程序；   v. 编写程序"
+distance	(n.) 距离
+customer	(n.) 顾客
+post	"n. 帖子；  邮政；柱；   v. 发 布；  张贴"
+switch	"v. 转换；开关；转移；   n. 开关；转换"
+quiet	"adj. 安静的；   n. 安静 ，平 静；   v. 使安静 ，平静"
+printer	(n.) 打印机；  印刷机，  印刷工
+polite	(adj.) 有礼貌的
+guess	(v.) 猜测 ，估计；认为
+oil	"n. 石油； （绘画用）油彩； 油 ，食用油"
+elephant	(n.) 象 ，大象
+aunt	(n.) 小姨 ，姑妈 ，伯母 ，舅妈
+decision	(n.) 决定
+stairs	(n.) 楼梯
+public	"adj. 公众的；公共的；   n. 公众，  民众；公共场所"
+uniform	"n. 校服；制服 ，军服；   adj. 相同的 ，统一的"
+suggest	"vt. 建议 ，提议；显示 ，表 明"
+preparation	(n.) 准备 ，预备；  准备工作
+fridge	(n.) 电冰箱
+mate	(n.) 配偶
+pump	"v. 用泵输送；抽水 ，抽取； (n.) 打气筒；泵 ，抽水（机）"
+good-looking	(adj.) 好看的
+sound	"v. 听起来；   n. 声音 ，声 响；   adj. 明智的"
+prove	(v.) 证明 ，证实
+temperature	(n.) 温度；气温
+avoid	(v.) 避免，  防止
+hopefully	(adv.) 有望
+destination	(n.) 目的地
+intend	(v.) 打算
+accent	"n. 口音 ，腔调；重音符号； (v.) 强调（读作/æk ˈsεnt/）"
+signature	"n. 签名 ，署名；   adj. 标志 性的 ，惯有的"
+declare	"v. 宣布 ，宣告；表明；宣 称 ，声称"
+border	"n. 边界；边沿；   v. 近似； 毗邻；与 … …接壤；为 … …"
+advanced	(adj.) 先进的；高级的
+direct	"adj. 直接的；   v. 指导，  引 导；导演"
+essential	"adj. 必不可少的 ，极其重要 的"
+religion	(n.) 宗教信仰；虔诚的追求
+drawer	(n.) 抽屉
+athlete	(n.) 运动员，  田径运动员
+further	"adj. 更进一步的；   v. 促 进 ，推动；   adv. 进一步"
+plain	"adj. 朴素的 ，不做修饰的； 清楚的 ，显而易见的；平 …"
