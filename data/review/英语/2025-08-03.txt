@@ -1,3 +1,14 @@
+sailing	(n.) （乘帆船）航行
+industry	(n.) 行业
+garage	(n.) 车库
+session	"n. 会议；一场；一段时间的 （ 活动）"
+despite	(prep.) 尽管 ，不顾
+colleague	(n.) 同事
+file	(n.) 文件
+rescue	(n.) 救援；   v. 挽救
+beginner	(n.) 初学者
+clinic	(n.) 诊所，  门诊部
+comment	"n. 评论；   v. 评论 ，表达意 见"
 destination	(n.) 目的地
 intend	(v.) 打算
 accent	"n. 口音 ，腔调；重音符号； (v.) 强调（读作/æk ˈsεnt/）"
