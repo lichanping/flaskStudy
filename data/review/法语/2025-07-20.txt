@@ -1,3 +1,10 @@
+une langue étrangère	一门外语
+le point faible	弱点，缺点
+le point fort	强项，优点
+privée	私人的，私有的adj.阴性
+réserver	预定，预约v.t.(英语：reserve)
+souriant	面带微笑的adj.
+Tu sais	你知道
 il sort un album	“他发行了一张专辑。”
 ils sortent un disque	“他们发行了一张唱片。”
 La censure	“审查制度”
