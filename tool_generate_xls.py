@@ -280,7 +280,7 @@ class TextToSpeechConverter:
             all_voices = voices.find(Language="fr", Locale="fr-FR")
             voice_list = [voice for voice in all_voices if voice["Name"] not in excluded_voices]
         elif language == "en":
-            voice_list = voices.find(Language="en", Locale="en-GB")
+            voice_list = voices.find(Language="en", Locale="en-US")
         else:
             raise ValueError("Unsupported language specified. Please choose 'fr' for French or 'en' for English.")
         chinese_voice = voices.find(
