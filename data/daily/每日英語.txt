@@ -1,14 +1,1 @@
-contract	"n.合同，契约（读作/ˈkɑːntrækt/）"
-select	"v.选择，挑选；adj.精选的，选择的"
-photocopy	(n.) 影印，复印件
-bucket	"n.水桶，（有提梁的）桶；大量；v.颠簸行进；装…"
-tip	(n.) 诀窍，建议；小费；尖端
-desert	"v.离弃（读作/dɪˈzɜːt/）；n.荒漠，沙漠（读作/…"
-issue	(n.) 问题；发行物；v.发行
-silver	(n.) 银，银子
-relative	"adj.相对的；n.亲戚，家人，亲属"
-employ	(vt.) 使用；雇用
-opportunity	(n.) 机会，良机
-advantage	(n.) 优势
-bother	"v.打扰，因……操心；(使)担心，(使)生气，(使)苦恼"
-routine	(n.) 惯例，习惯；常规
+advertisement广告

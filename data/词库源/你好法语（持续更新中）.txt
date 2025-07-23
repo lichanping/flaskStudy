@@ -1844,7 +1844,7 @@ Je sais jouer du piano	我会弹钢琴
 vouloir	想要
 je veux	我想要
 tu veux	你想要
-il veut	他说
+il veut	他想要
 nous voulons	我们想要
 vous voulez	你们想要
 ils veulent	他们想要
