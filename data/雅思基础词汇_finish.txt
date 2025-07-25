@@ -1153,3 +1153,54 @@ rescue	(n.) 救援；   v. 挽救
 beginner	(n.) 初学者
 clinic	(n.) 诊所，  门诊部
 comment	"n. 评论；   v. 评论 ，表达意 见"
+strict	"adj.   （条例 、法规等）严格 的；严厉的"
+salesman	(n.) 男推销员 ，男售货员
+death	(n.) 死亡
+transport	"n. 运输；交通车辆 ，运输工 具；交通运输系统（读作 …"
+wage	(n.) 工资 ，薪水
+collect	(v.) 收集 ，采集；领取；募捐
+own	"adj. 自己的 ，本人的；   v. 有 ，拥有；   pron. 自己的 …"
+friendly	(adj.) 友好的 ，友爱的
+attention	"n. 专心 ，注意力；兴趣 ，关 注"
+teenager	(n.) （ 13～19岁的）青少年
+powerful	"adj. 强有力的；有权势的， 有影响力的；效能高的"
+suggestion	(n.) 建议 ，意见
+loud	(adj.) 大声的，  吵闹的
+umbrella	(n.) 伞 ，雨伞
+hobby	(n.) 业余爱好
+gap	(n.) 间隙，  间隔
+ice	(n.) 冰块
+diary	(n.) 日记
+ski	(vi.) 滑雪
+respect	(v.) 尊敬；   n. 尊敬；方面
+disagree	(v.) 不同意 ，有分歧
+swimmer	(n.) 游泳者
+organization	(n.) 组织 ，体制，  团体 ，机构
+original	"adj. 最初的 ，原始的 ，原来 的；有独创性的 ，独创的 …"
+corner	(n.) 角落 ，角 ；拐角
+weigh	(v.) 称重；认真考虑
+hit	"v. 使（某人）突然意识到， 突然想到；命中 ，击中；  …"
+lost	(adj.) 迷路的
+belt	(n.) 传送带
+ahead	(adv.) 向前；领先地
+custom	(n.) 风俗
+realistic	(adj.) 现实的 ，实际的
+count	(v.) 计算；重要 ，有价值
+rubber	(n.) 橡胶
+north	(adj.) 北方的；   n. 北方
+yoga	(n.) 瑜伽
+intelligent	"adj. 有智慧的 ，聪明的；智 能的"
+hold	"v. 举办 ，进行；拥有；拿 住 ，握着；保持不变；支撑"
+cycle	"n. 周期 ，循环；   v. 骑自行 车"
+condition	"n. 条件；状况 ，状态；   v. 使适应 ，使处于良好状态"
+prefer	(v.) 更喜欢
+jet	"n. 喷气式飞机；   vi. 乘坐喷 气式飞机"
+secondary	(adj.) 中学的
+diploma	(n.) 毕业文凭 ，毕业证书
+tax	(n.) 税 ，税款
+reference	"n. 参考；参考书；  引文； (v.) 查阅"
+method	(n.) 方法
+rail	(n.) 铁路；扶手 ，栏杆
+jar	"n. 罐子 ，瓶子 ，坛子 ，缸； (v.) 震动"
+period	(n.) （一段）  时间；  时期
+reliable	(adj.) 可靠的 ，可信赖的
