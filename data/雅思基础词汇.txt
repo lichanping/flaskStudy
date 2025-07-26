@@ -1431,3 +1431,18 @@ intention	(n.) 目的 ,意图
 orientation	(n.) 定向 ,方向
 saving	"n. 节省 ,节约;(复数)积 蓄 ,储蓄"
 notebook	(n.) 笔记本; (n.) 笔记本
+tentacle	(n.) (动物)触角;触须
+solo	(n.) 独唱;   adj. 独奏的;单独的
+melon	(n.) 瓜
+explanatory	(adj.) 解释的 ,说明的
+animate	(v.) 使有生气 ,使活泼
+commute	"v. 经常乘车往返于两地之 间;   n. 通勤 ,在两地之 ..."
+spontaneous	(adj.) 自发的 ,无意识的
+strategic	"adj. 战略( 上)  的 ,对全局 有重要意义的 ,关键的"
+amphibian	(n.) 两栖动物
+advantageous	(adj.) 有利的
+pamper	(v.) 纵容 ,过分关怀 ,精心照料
+cotton	(n.) 棉花
+constitute	(vt.) 构成 ,组成
+barge	(n.) 平底货船 ,驳船
+quietness	(n.) 安静
