@@ -699,7 +699,6 @@ un petit-déjeuner	早餐
 Le matin, on mange un petit-déjeuner	早上,我们吃早餐
 Le midi, on mange un déjeuner	中午,我们吃午餐
 Le soir, on mange un diner	晚上,我们吃晚餐
-C'était bien	很不错
 Tu as mangé dans un restaurant espagnol	你在一家西班牙餐厅吃过饭(“avoir + 过去分词” 构成复合过去时,强调动作在过去已经完成,这里就是 “你吃过” 的意思)
 nés	“naître” 的过去分词的复数形式
 Mes 4 grands-parents sont tous nés en Espagne	我的4个祖父母都出生在西班牙
@@ -1959,7 +1958,6 @@ le rôle	角色
 L'examinateur joue le rôle de l'ami français	考官扮演法国朋友的角色。
 Tourisme–Vous visitez Montpellier en été avec vos parents	旅游 – 你夏天和父母一起参观蒙彼利埃。
 tourisme	旅游,观光
-demander	询问
 des informations	信息
 les activités	活动
 culturelles	文化的(复数)
@@ -2155,7 +2153,6 @@ pas tellement	意思是 “不是很,不太”。
 je n'ai pas tellement aimé le film	我不是很喜欢这部电影。
 raison	原因;理由;理智;道理
 histoire	历史;故事;经历;情况
-compliqué	复杂的,错综复杂的
 1ère raison - l'histoire est trop compliqué	第一个原因- 故事太复杂。
 trouvé	动词 “trouver(找到;觉得;认为)” 的过去分词形式
 regarder	动词,“看;观看;注视”,这里是动词原形
@@ -2178,7 +2175,6 @@ Oui j'en ai	是的,我有。(en:代词)
 Tu n'as pas encore appris -en	你还没有学过"en"。
 bientôt	不久; 快到了	kuài dàole
 anniversaire	生日,周年纪念日(名词);周年纪念的;生日的(形容词)
-savoir	知道
 Je sais	我知道
 Tu sais	你知道
 Il sait	他知道
@@ -2452,7 +2448,6 @@ Le logement offre une belle vue sur le paysage montagneux	这个住宿提供了�
 C EXERCICE EN INTERACTION	“C - 互动练习”
 J'ai eu 7 cours	“我上了7节课”(“eu” 是动词 “avoir” 的过去分词形式)
 Quel était le cours le plus intéressant	“哪一节课最有趣?”(“était” 是动词 “être(是)” 的第三人称单数(il/elle/on)过去时态变位形式)
-aucun	“没有一个”,代指前面提到的 “课程(cours)” 等事物。=英语中的 “none”
 Aucun n'était intéressant	“没有一节有趣的”
 Le vendredi j'ai 7 cours au lieu de 9	“周五我有7节课而不是9节”
 des jeux	“jeu” 的复数形式, “游戏;比赛;玩耍;策略”
@@ -3258,7 +3253,6 @@ Dans votre famille, est-ce que l'on a des pratiques artistiques	“你们家有�
 moi j'aime dessiner	“我喜欢画画。”
 Avez-vous des ancêtres célèbres ou des histoires de famille intéressantes	“你们家有没有著名的祖先或有趣的家庭故事?”
 racontait	“讲述”(英语=told)(未完成过去时)
-raconter	“讲述”(英语=tell)
 la guerre à Paris	“巴黎的战争”(英语=the war in Paris)
 ma mère me racontait la guerre à Paris et les Allemands	“我妈妈给我讲过巴黎的战争和德国人。”
 1940 - 10 ans	“1940年 - 10岁”
@@ -3535,4 +3529,72 @@ un dessert	甜点; “一份甜点”
 offrir	“提供”; “送”
 être marié	“结婚”; “已婚”
 sortir	出去,出来,出版;上映
-Tu es contente	 “你开心吗?”
+Tu es contente	“你开心吗?”
+Samedi 26 juillet 2025	“2025年7月26日,星期六”
+Tu vas me raconter ce que tu as fait pendant 15 jours	“你要给我讲讲你这15天做了什么。”
+J'ai eu bcp de cours de français, physique, mathématiques et économie	“我上了很多法语、物理、数学和经济课。”
+des cours d'économie	“经济课”
+traduisait	动词 “traduire”(翻译)的未完成过去时第三人称单数形式
+un chinois traduisait le français du prof de français, du prof de maths, du prof de physique et du prof d'économie	“一位中国人把法语老师的、数学老师的、物理老师的和经济老师的法语都翻译成了中文。”
+matière	“学科、科目”阴性名词
+Il y avait 3 heures de cours pour chaque matière et c'était trop	“每门课3小时,实在太久。”
+Les profs étaient sympas	“老师们都很亲切。”
+La prof de maths avait 68 ans	“数学老师当时68岁。”(“avait” 是动词 “avoir”(有)的未完成过去时第三人称单数形式。)
+La prof de maths a 3 enfants	“数学老师有3个孩子。”
+Les enfants de la prof de maths ont quel âge	“数学老师的孩子们多大?”
+aînée	(年长的)的阴性单数形式
+Ma fille aînée a 46 ans	“我大女儿46岁。”
+Pour chaque matière il y a eu des examens	“每门课都考了试。”
+La note	“成绩”
+On saura en septembre	“九月份才会知道。”
+saura	“将知道”
+Tu as eu des cours d'été de l'ESIGELEC, c'était comment	“你上了ESIGELEC的暑期课程,感觉怎么样?”
+m'a demandé pourquoi ma mère n'est pas rentrée	“问我为什么我妈妈没回家”
+inquiète	担心的、不安的(worried /anxious)
+ma grand-mère est un peu inquiète	“我外婆有点担心”
+de lundi à vendredi à l'école	“周一到周五在学校”
+C'est fini maintenant	“现在结束了吗?”
+trente-et-un	“31”
+je n'ai pas compté	“我没数过”
+combien de garçons, combien de filles	“多少个男生,多少个女生”
+il y avait plus de filles que de garçons	“女生比男生多”
+beaux gosses	“帅哥?”
+nana	口语化表达,意为 “姑娘、女孩”,带有一定的亲昵或随意感
+belles nanas	“美女?”
+médecine traditionnelle	中医(traditional)
+médecine occidentale	西医
+j'ai vu médecin traditionnel de médicine chinoise	“我去看了一位中医。”
+J'y suis allée parce que je suis très fatiguée en ce moment	“我去是因为我现在特别累。”
+un médicament	药物(medicine /drug)
+irai chercher	(将要去取)
+le médecin m'a dit de prendre un médicament de médecine traditionnelle que j'irai chercher demain	“医生让我服用一种中药,我明天去拿。”
+le goût	味道
+tu aimes bien le goût	“你喜欢它的味道吗?”
+le vocabulaire	词汇、词汇量(vocabulary)
+Je continue à réviser le vocabulaire d'anglais	“我在继续复习英语词汇。”
+J'ai eu des cours de japonais tous les jours de 14h à 16h pendant 3 semaines	“我连续三周每天下午2点到4点上了日语课。”
+On était 7 élèves en classe	“班上有7名学生。”
+Débutant	“初学者。”(beginner)
+Le japonais c'est plus compliqué que le chinois pour un français	“对法国人来说,日语比中文更复杂。”
+d'écriture	书写的(of writing)
+3 systèmes d'écriture	“三种书写系统。”
+Katagana	“片假名。”
+Kanji	“汉字。”
+Je vais continuer en octobre	“我10月份会继续。”
+Demain je vais voir un film d'horreur	“明天我要去看一部恐怖片。”
+un film d'horreur	恐怖片“恐怖片”
+Le film s'appelle Dangerous Animals	“片名叫《Dangerous Animals》。”
+Un ami à moi m'a demandé d'y aller avec lui	“我的一个好朋友邀请我一起去。”
+Je suis allé faire un pique-nique avec des amis	“我和朋友去野餐。”
+je n'en aime aucun	“我哪一个都不喜欢”
+je fais mes devoirs chez moi	“我在家写作业”
+l'allemand	“德语”
+le chinois, le français, l'anglais	“中文、法语、英语”
+Je mange une pomme	“我吃一个苹果。”
+raconter	“讲述”(英语=tell); “讲述”“叙述”“诉说”
+savoir	知道; “知道”
+demander	询问; “询问”
+C'était bien	很不错; “感觉很好。”
+compliqué	复杂的,错综复杂的; 复杂的(阳性)(complicated)
+Hiragana	“平假名。”; “平假名。”
+aucun	“没有一个”,代指前面提到的 “课程(cours)” 等事物。=英语中的 “none”; “一个也没有”
