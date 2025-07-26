@@ -1204,3 +1204,55 @@ rail	(n.) 铁路；扶手 ，栏杆
 jar	"n. 罐子 ，瓶子 ，坛子 ，缸； (v.) 震动"
 period	(n.) （一段）  时间；  时期
 reliable	(adj.) 可靠的 ，可信赖的
+dentist	(n.) 牙医
+sweater	"n. 毛衣 ，厚运动衫 ，羊毛 衫 ，针织套衫"
+impossible	(adj.) 不可能的
+allow	"v. 允许，  准许；使（有可 能）"
+communication	(n.) 通信 ，交流
+department	"n. 部门； （大学）系 ，部； （商场里的）部"
+jungle	(n.) （热带）丛林
+monthly	(adj.) 每月的 ，每月一次的
+rock	"n. 岩石 ，石头；摇滚乐； (v.) 摇晃"
+discount	(n.) 折扣
+act	"n. 行为 ，行动；法案；   v. 行动；表演 ，扮演；有效果"
+director	"n.   （电影 、戏剧等的）导 演；主管；主任"
+chance	"n. 机会；可能性；风险，  冒 险；偶然"
+grandmother	"n. 奶奶 ，祖母；外婆；外祖 母"
+gym	(n.) 体育馆 ，健身房
+shoulder	(n.) 肩膀
+dolphin	(n.) 海豚
+join	(v.) 连接 ，结合
+employer	(n.) 雇主 ，老板
+situation	(n.) 情况 ，场景
+laugh	(v.) 笑 ，发笑
+choice	(n.) 选择 ，挑选 ，抉择；选项
+daily	"adj. 每日的，   日常的；   n. 日报；   adv. 每日 ，每天 …"
+application	(n.) 应用 ，运用；  申请（书）
+bill	"n. 账单；纸币 ，钞票；议 案 ，法案"
+suit	(v.) 适合；   n. 西服 ，套装
+library	(n.) 图书馆 ，藏书室
+nowadays	(adv.) 现在，  当今
+relaxation	(n.) 放松 ，休养
+hope	"v. 希望 ，期望（某事发 生）；   n. 希望；期望"
+engineer	(n.) 工程师；   vt. 设计
+pot	(n.) 锅
+notebook	(n.) 笔记本
+excellent	(adj.) 优秀的
+rich	"adj. 富有的；丰富的；浓厚 的"
+church	(n.) 教堂
+option	(n.) 选择；选项
+stone	(n.) 石头
+disadvantage	(n.) 弊端
+firework	(n.) 烟花 ，烟火
+palace	(n.) 宫殿
+doubt	(n.) 怀疑；   v. 怀疑
+shock	"v. 使 … …震惊；   n. 震惊； 电击 ，触电"
+ink	(n.) 墨水 ，油墨
+immigration	(n.) 移民
+sink	"v. 下沉 ，下降 ，沉入；   n. 水槽 ，洗碗池"
+tyre	(n.) 轮胎 ，车胎
+vegetarian	(adj.) 素食的
+convince	(v.) 使信服
+tissue	"n.   （人 、动植物细胞的）组 织"
+firm	(n.) 公司；   adj. 坚定的
+truck	(n.) 卡车
