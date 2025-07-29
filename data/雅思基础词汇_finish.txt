@@ -1308,3 +1308,55 @@ philosophy	"n. 生活信条（或态度）   ；哲 学 ，哲学体系"
 fragile	"adj. 易碎的；易损坏的；虚 弱的；脆弱的"
 justify	"v. 证明 … …正确或有理；使 (文本) 对齐"
 renowned	(adj.) 著名的
+transportation	(n.) 交通；运输
+lower	(v.) 降低 ，减少
+capable	(adj.) 有本领的 ，有能力的
+limitation	(n.) 限制 ，局限性
+comprise	(vt.) 构成，  由 … …组成
+struggle	(v.) 挣扎；   n. 斗争
+impact	(n.) 影响；   v. 影响
+scan	(v.) 扫描；   n. 扫描
+monopoly	"n. 垄断；垄断商品；专卖商 品"
+occur	(vi.) 发生
+faith	(n.) 宗教信仰；信心
+mammal	(n.) 哺乳动物
+middle	"adj. 中部的，  中间的；   n. 中部，  中间"
+boredom	(n.) 厌倦 ，无聊
+reputation	(n.) 名誉 ，名声
+index	(n.) 指数
+machinery	(n.) 机器 ，机关
+vacation	(n.) 假期；   vi. 度假
+detailed	(adj.) 详细的
+motivate	(vt.) 激励
+feather	(n.) 羽毛
+feedback	(n.) 反馈
+commerce	(n.) 商业，  贸易
+journalism	(n.) 新闻业
+brick	(n.) 砖
+gradual	(adj.) 逐渐的
+desire	"n. 渴望；愿望；   vt. 希望， 渴望"
+stretch	(v.) 伸展 ，延伸，  张开
+scare	(v.) 使害怕 ，惊吓
+fabric	(n.) 布料 ，织物
+obtain	(v.) 获得 ，赢得 ，取得
+angle	(n.) 角度；立场
+weed	(n.) 杂草 ，野草；   v. 除杂草
+expansion	(n.) 扩大 ，扩充 ，扩张 ，扩展
+variable	"n. 变量 ，可变物；   adj. 易 变的 ，可变的"
+accomplish	"vt. 实现； （通过努力）  完 成"
+modify	(v.) 更改，  改造
+cite	(vt.) 引用，  引证
+tone	(n.) 语气
+noble	(adj.) 贵族的 ，高贵的
+apparently	(adv.) 显然
+compromise	"n. 妥协 ，折中；   v. 使遭受 危险"
+massive	"adj. 大规模的；  巨大的；大 量的；非常严重的"
+laundry	"n. 洗衣物 ，洗衣物的活；洗 衣房；洗衣店；要洗的衣服"
+launch	(v.) 发射；创办 ，开始从事
+manufacture	(v.) （批量）  生产 ，制造
+bias	(n.) 偏见；   v. 使有偏见
+vegetation	(n.) 植被
+substantial	(adj.) 大量的
+industrial	(adj.) 工业的
+reinforce	(v.) 加强
+shipbuilder	(n.) 造船工人
