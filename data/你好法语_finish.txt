@@ -6699,3 +6699,17 @@ un médicament	药物(medicine /drug)
 irai chercher	(将要去取)
 le goût	味道
 Débutant	“初学者。”(beginner)
+Un ami à moi m'a demandé d'y aller avec lui	“我的一个好朋友邀请我一起去。”
+Je suis allé faire un pique-nique avec des amis	“我和朋友去野餐。”
+je fais mes devoirs chez moi	“我在家写作业”
+l'allemand	“德语”
+le chinois, le français, l'anglais	“中文、法语、英语”
+Je mange une pomme	“我吃一个苹果。”
+savoir	知道; “知道”
+demander	询问; “询问”
+C'était bien	很不错; “感觉很好。”
+compliqué	复杂的,错综复杂的; 复杂的(阳性)(complicated)
+Hiragana	“平假名。”; “平假名。”
+aucun	“没有一个”,代指前面提到的 “课程(cours)” 等事物。=英语中的 “none”; “一个也没有”
+je n'en aime aucun	“我哪一个都不喜欢”
+raconter	“讲述”(英语=tell); “讲述”“叙述”“诉说”
