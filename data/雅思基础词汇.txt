@@ -1,31 +1,3 @@
-resolve	"v. 解决（问题或困难）   ；消 除"
-battle	(n.) 战役，  战斗；   v. 奋斗
-monumental	(adj.) 意义深远的 ，不朽的
-fraction	(n.) 部分 ，片段
-triple	(adj.) 三倍的
-workforce	(n.) 劳动力
-eventually	(adv.) 终于 ，最后
-tuition	(n.) 学费
-addition	(n.) 附加物
-responsible	(adj.) 负有责任的
-structure	(n.) 结构；建筑物
-optional	(adj.) 可选择的
-characteristic	(n.) 特征
-knowledgeable	(adj.) 学识渊博的 ，有见识的
-intensity	(n.) 强烈 ，剧烈
-digest	(n.) 文摘
-humanity	(n.) 人类； （复数）  人文学科
-exception	(n.) 例外
-presumably	(adv.) 大概 ，据推测 ，可能
-survey	(n.) 调查；   v. 调查
-mental	(adj.) 心理的；精神的
-standard	"n. 标准 ，规格；   adj. 标准 的"
-construct	(v.) 建造
-automatic	(adj.) 自动的
-violence	(n.) 暴力 ，暴行
-unprecedented	"adj. 前所未有的 ，空前的， 无前例的"
-disturb	(v.) 妨碍；使不安
-misunderstanding	(n.) 误解 ，误会 ，不和
 tank	(v.) 彻底失败 ，快速减少
 appoint	(v.) 委派 ，任命
 editor	(n.) （报刊 、杂志的）编辑
