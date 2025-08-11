@@ -1,32 +1,3 @@
-tank	(v.) 彻底失败 ，快速减少
-appoint	(v.) 委派 ，任命
-editor	(n.) （报刊 、杂志的）编辑
-cope	(vi.) 处理 ，应对
-radiation	(n.) 辐射
-virgin	(adj.) 原始的 ，未开发的
-immigrant	(n.) 移民 ，外侨
-immune	(adj.) 免疫的；不受影响的
-greatly	(adv.) 大大地；很
-sunlight	(n.) 阳光
-balance	"n. 平衡 ，平衡能力；   v. 平 衡"
-volcano	(n.) 火山
-gather	(v.) 收集
-worth	(adj.) 值得的；   n. 价值
-chief	(adj.) 首席的 ，最高级别的
-confine	(v.) 限制
-lid	(n.) 盖 ，盖子
-minority	"n. 少数民族；少数派 ，少数 人"
-intervention	(n.) 调停
-visible	(adj.) 看得见的
-facility	(n.) 设施 ，设备
-maintain	(v.) 保持 ，维持；维护 ，维修
-glue	(n.) 胶水
-excess	"adj. 额外的 ，过量的 ，过度 的，  附加的（读作/ …"
-surface	"n. 表面 ，表层；   v. 浮出水 面"
-destruction	(n.) 破坏 ，毁灭
-devastate	(v.) 摧毁
-data	(n.) 数据
-harm	(n.) 伤害 ，损害；   v. 伤害
 treasure	(n.) 金银财宝
 solidify	"v.   （使）凝固，（使）  团 结 ，巩固"
 intent	(adj.) 全神贯注的 ﬂuent	adj.   （ 语言）讲得流利的
