@@ -1428,3 +1428,54 @@ settle	(v.) 确定
 childcare	(n.) 儿童照料
 highly	"adv. 极；高度地 ，非常， 赞许地"
 truly	(adv.) 真正地，  的确地
+solidify	"v.   （使）凝固，（使）  团 结 ，巩固"
+intent	(adj.) 全神贯注的 ﬂuent	adj.   （ 语言）讲得流利的
+generate	"v. 产生（热 、电等能量）； 引起 ，造成 ，创造"
+slightly	(adv.) 稍微 ，轻微地
+submit	(v.) 提交；呈递
+advocate	"n. 提倡者；支持者；   v. 提 倡 ，主张"
+analysis	(n.) 分析
+steam	(n.) 蒸汽 ，水蒸气
+prospect	(n.) 前景 ，展望；可能性
+exclude	"vt. 不包括 ，未包括；排 挤 ，排除"
+chart	(n.) 图表 ，表格
+rotate	"v. 以 … …轴转动 ，使旋转； 轮流 ，轮换；   adj. 车轮 …"
+pottery	(n.) 陶艺
+portion	(n.) 一部分
+package	(n.) 包裹
+revolution	(n.) 革命
+extension	(n.) 扩展
+major	"n. 主修（科目）；   adj. 重 要的；主要的"
+backwards	(adv.) 向后 ，倒着 ，往回
+tail	(n.) 尾巴
+aspect	(n.) （问题等的）方面
+outward	(adj.) 外面的
+companion	(n.) 同伴
+multiple	(adj.) 许多的；多种多样的
+relate	"v. 相关 ，有联系；涉及 ，关 于"
+novelty	"n. 新奇；新颖小巧而廉价的 物品"
+solar	(adj.) 太阳能的
+infinite	(adj.) 无数的
+efficiency	(n.) 效率
+tribal	(adj.) 部落的
+anticipate	(v.) 预测 ，预料
+phase	(n.) 阶段，  时期
+illegal	(adj.) 非法的
+base	"v. 以 … …作基础；   n. 基 础 ；底座"
+manual	(adj.) 手工的；体力的
+task	(n.) 任务 ，工作
+disrupt	(v.) 扰乱
+groundbreaking	(adj.) 创新的
+establish	(v.) 建立；使确认；使安全
+valid	(adj.) 有效的 ，正式认可的
+convey	(vt.) 表达；传达
+bacteria	(n.) （复数）细菌
+threaten	(v.) 威胁
+insufficient	(adj.) 不足的
+assignment	(n.) （课外）作业
+mining	(n.) 采矿
+incorporate	(v.) 包含；使并入
+damp	(adj.) 潮湿的 ，有湿气的
+humor	(n.) 幽默 ，诙谐
+personnel	(n.) 员工 ，人员
+civilisation	(n.) 文明（ =civilization）
