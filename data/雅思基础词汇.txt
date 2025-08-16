@@ -1,23 +1,13 @@
-treasure	(n.) 金银财宝
 solidify	"v.   （使）凝固，（使）  团 结 ，巩固"
 intent	(adj.) 全神贯注的 ﬂuent	adj.   （ 语言）讲得流利的
 generate	"v. 产生（热 、电等能量）； 引起 ，造成 ，创造"
-import	(v.) 进口
 establish	(v.) 建立；使确认；使安全
 slightly	(adv.) 稍微 ，轻微地
-ideal	(adj.) 理想的；   n. 理想
 submit	(v.) 提交；呈递
-endless	(adj.) 没完没了的；无止境的
 valid	(adj.) 有效的 ，正式认可的
-fence	(n.) 篱笆，  围栏 ，栅栏
 advocate	"n. 提倡者；支持者；   v. 提 倡 ，主张"
-oppose	(v.) 反对
 analysis	(n.) 分析
-interaction	(n.) 互动；交流
-settle	(v.) 确定
 steam	(n.) 蒸汽 ，水蒸气
-childcare	(n.) 儿童照料
-highly	"adv. 极；高度地 ，非常， 赞许地"
 prospect	(n.) 前景 ，展望；可能性
 disrupt	(v.) 扰乱
 exclude	"vt. 不包括 ，未包括；排 挤 ，排除"
@@ -25,7 +15,6 @@ chart	(n.) 图表 ，表格
 rotate	"v. 以 … …轴转动 ，使旋转； 轮流 ，轮换；   adj. 车轮 …"
 pottery	(n.) 陶艺
 convey	(vt.) 表达；传达
-truly	(adv.) 真正地，  的确地
 portion	(n.) 一部分
 package	(n.) 包裹
 revolution	(n.) 革命
