@@ -1417,3 +1417,14 @@ destruction	(n.) 破坏 ，毁灭
 devastate	(v.) 摧毁
 data	(n.) 数据
 harm	(n.) 伤害 ，损害；   v. 伤害
+treasure	(n.) 金银财宝
+import	(v.) 进口
+ideal	(adj.) 理想的；   n. 理想
+endless	(adj.) 没完没了的；无止境的
+fence	(n.) 篱笆，  围栏 ，栅栏
+oppose	(v.) 反对
+interaction	(n.) 互动；交流
+settle	(v.) 确定
+childcare	(n.) 儿童照料
+highly	"adv. 极；高度地 ，非常， 赞许地"
+truly	(adv.) 真正地，  的确地
