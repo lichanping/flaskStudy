@@ -6713,3 +6713,53 @@ Hiragana	“平假名。”; “平假名。”
 aucun	“没有一个”,代指前面提到的 “课程(cours)” 等事物。=英语中的 “none”; “一个也没有”
 je n'en aime aucun	“我哪一个都不喜欢”
 raconter	“讲述”(英语=tell); “讲述”“叙述”“诉说”
+Samedi 16 août 2025	“2025年8月16日,星期六”
+Je ne te vois pas	“我看不到你。”
+Tu mets la caméra	“你打开摄像头了吗?”
+pour faire la vidéo	“为了录视频。”
+on a besoin d'une caméra	“我们需要一台摄像机。”
+un faux ami en linguistique c'est quand un mot est le même dans deux langues différentes mais ne veux pas dire la même chose	“语言学里的假朋友,是指同一个词在两种语言里拼写相同但意义不同。”
+un appareil photo	专门指用于拍摄静态照片的相机,强调其 “拍摄照片” 的功能。
+J’ai acheté un nouvel appareil photo pour le voyage	“我为旅行买了一台新相机。”
+une caméra	用于录制动态影像(视频)的设备,即 “摄像机”“摄影机”a video recorder
+une vidéo	视频
+aujourd'hui les ordinateurs portables ont une caméra	“如今笔记本电脑都自带摄像头。”
+aujourd'hui les téléphones sont à la fois des appareils photos et à la fois des caméras	“如今的手机既是拍照设备,也是摄像设备。”
+tu peux prendre des photos et tu peux faire des vidéos	“你可以拍照,也可以录视频。”
+je pense que ce n'est pas utile pour moi de faire des vidéos	“我觉得对我来说录视频没什么用。”
+mettent	放置,上传=英语put
+les influenceurs font beaucoup de vidéos qu'ils mettent sur tiktok	“网红们会拍很多视频上传到TikTok。”
+Apple Cider Vinegar	“苹果醋。”
+la semaine prochaine je pars en week-end en voiture avec ma famille	“下周我要和家人开车去度周末。”
+Il reste deux semaines de vacances	“还有两周假期。”
+qu'est-ce que tu vas faire à l'école	“你在学校要做什么?”
+tu vas aller tous les jours à l'école	“你每天都会去学校。”
+hier mon père m'a acheté un livre d'auteur japonais qui s'appelle Haruo Yuki et il a écrit Fang Zhou-l'arche	“昨天爸爸给我买了一本日本作家雪野遥的书,书名是《方舟》。”
+sous terre	“在地下”
+10 personnes sont sous terre et ne peuvent pas sortir	“十个人被困地下无法离开。”
+Ton père t'achète souvent des livres	“爸爸经常给你买书吗?”
+En fait, c'est moi qui lui dit de m'acheter tel ou tel livre	“其实是我告诉他买哪本书。”
+talk show	“脱口秀”
+style interview	“访谈风格”
+En Chine continentale, talk show désigne à la fois les talk shows télévisés -style interview, débats, émissions de variétés avec animateur	“在中国大陆,‘脱口秀’既指电视访谈、辩论及综艺类节目”
+stand-up comedy	“单口喜剧”=英语stand-up comedy
+d’humour	“幽默的”“喜剧的”=英语humor
+et le stand-up comedy -spectacle d’humour en solo sur scène	“也指单人舞台喜剧表演”
+one man show	“单人男性秀”
+one woman show	“单人女性秀”
+le stand-up comedy	“单口喜剧”
+linguistique	“语言学的”(英语=linguistic)
+Le réalisateur utilise une caméra HD pour tourner le film	“导演使用高清摄像机拍摄电影。”
+à la fois	固定短语,意为 “同时”“既...... 又......”。
+utile	有用的
+influenceurs	“网红”=英语influencers
+TV series	“电视剧。”
+l'arche	“方舟”
+terre	“地球” “土地”“地面”
+tel ou tel	“这个或那个”“某个”“某些”=英语this or that
+continentale	“大陆的”=英语continental
+désigne	“指的是”=英语refers to,原形désigner
+débats	“辩论”=英语debates
+émissions de variétés	“综艺节目”=英语variety shows
+animateur	“主持人”=英语host
+spectacle d’humour en solo sur scène	“单人舞台喜剧表演”=英语solo comedy show
