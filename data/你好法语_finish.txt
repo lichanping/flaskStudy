@@ -6763,3 +6763,53 @@ débats	“辩论”=英语debates
 émissions de variétés	“综艺节目”=英语variety shows
 animateur	“主持人”=英语host
 spectacle d’humour en solo sur scène	“单人舞台喜剧表演”=英语solo comedy show
+Mercredi 20 août 2025	星期三 2025年8月20日
+est-ce que tu m'entends	你能听到我吗?
+tu as passé une bonne journée	你今天过得好吗?
+réviser	复习(功课)=review
+j'ai révisé la physique	我复习了物理
+maths et physique c'est une bonne journée	数学和物理,这是美好的一天吗?
+c'est pas grave	没关系=英语的 "it's ok"
+j'ai peur des insectes	我害怕昆虫
+dégoûtant	令人厌恶的,恶心的(形容词)
+c'est dégoûtant	真恶心
+grosses	大的(形容词复数,修饰阴性名词)
+ma mère me disait toujours -les petites bêtes ne mangent pas les grosses bêtes-	妈妈以前总对我说——小虫不吃大兽
+En septembre je suis en vacances	九月份我去度假
+la grenade	石榴(阴性名词)
+tu as mangé la grenade	你吃了石榴
+je suis sortie acheter un café	我出去买咖啡了
+un capuccino chaud	一杯热卡布奇诺
+je fais du café à la maison	我在家自己煮咖啡
+une boutique	商店,店铺=a shop
+Il y a une boutique japonaise que j'aime bien à Paris, The Coffee	巴黎有家我很喜欢的日式咖啡店,The Coffee
+Mais c'est un peu cher mais c'est moins cher que Starbucks	不过有点贵,但还是比星巴克便宜
+Starbucks le café est cher et je dis que le café n'est pas très bon	星巴克咖啡贵,而且我觉得味道不怎么样
+Tu bois souvent du café	你经常喝咖啡吗?
+Oui j'en bois tous les jours parce que je suis toujours fatiguée	是的,我每天都喝,因为我总是很累-en:(代词,此处指代前文提到的 “咖啡”,相当于 “它”)
+plus souvent que moi	比我还频繁
+par jour	每天(固定短语,par 表示 “每”,jour 意为 “天”)
+ma mère en boit par jour et moi un seul	我妈妈每天喝,我只喝一杯
+avec du sucre	加糖
+sans sucre	不加糖
+le sucre	糖
+sucré	甜的
+Un café sucré	一杯加糖的咖啡
+vendent	(动词 vendre 的第三人称复数现在时)卖,出售
+du macha	抹茶(阳性名词,外来词保留原拼写)
+Ici à Paris beaucoup de boutique vendent aussi du macha	在巴黎,很多店也卖抹茶
+de plus en plus	越来越(固定短语,表程度递增)=英语的 "more and more"
+A Paris les gens boivent de plus en plus souvent du macha	在巴黎,人们越来越常喝抹茶
+disparaître	消失(动词原形,与 “va” 搭配表 “将要消失”)=disappear
+Tu sais que le café va disparaître	你知道吗,咖啡可能会消失
+auras	(动词 avoir 的第二人称单数简单将来时)将有
+peut-être	也许,可能(副词)=maybe
+il n'y aura plus	(法语中 “存在” 的否定将来时表达,“il y a” 表 “有”,“n'y aura plus” 意为 “将不再有”)
+Quand tu auras 80 ans peut-être qu'il n'y aura plus grains de café	等你80岁时,也许就再也没有咖啡豆了
+le réchauffement climatique	气候变暖
+à cause du réchauffement climatique il fait de plus en plus chaud	因为气候变暖,天气越来越热
+une bête	一个动物=un animal
+seul	为形容词 “唯一的、仅有的”,补充说明 “只喝一杯”)
+vendre	卖,出售
+réchauffement	“变暖”=英语的 "warming"
+climatique	“气候的”=英语的 "climatic"
