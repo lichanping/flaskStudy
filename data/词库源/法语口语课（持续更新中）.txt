@@ -258,7 +258,6 @@ Thaïlande	泰国(阴性名词)
 Corée	韩国(阴性名词)
 Japon	日本(阳性名词)
 aimerais	是动词 aimer(喜欢)的条件式现在时,表示一种愿望或礼貌语气,翻译为“想”或“希望”。(原形:aimer)
-aller bien	意为“身体健康,情况良好”
 aller mal	意为“身体不舒服,情况不好”
 Est-ce que tes parents vont bien	你父母身体好吗?
 Est-ce qu'il fait beau à Shanghai	上海天气好吗?
@@ -311,7 +310,6 @@ mardi, je suis sortie avec mes trois amies	星期二,我和我的三个朋友一
 où est-ce que vous êtes allée	你们去哪里了?
 faire du shopping	逛街购物
 j'ai acheté une glace	我买了一个冰淇淋
-sortie	是动词 sortir(出去)的复合过去时形式
 Tu es sortie à quelle heure mardi	星期二你几点出去的?
 Je suis sortie à 13h30	我13点30分出去的 "treize heures trente"
 tu es rentrée à 17h00	你17点回来的"dix-sept heures"
@@ -888,7 +886,6 @@ Marcher	走 / 步行 (zǒu / bùxíng)
 Entrer	进入 (jìnrù)
 Fermer	关 (guān)
 Penser	想 / 认为 (xiǎng / rènwéi)
-oui je t'entends	是的,我听到你说话
 Je entends	我听到
 Tu entends	你听到
 je ne te vois pas	我看不到你
@@ -923,7 +920,6 @@ L'Est	东部
 le TGV	高铁,法语中的 "Train à Grande Vitesse" 的缩写,意思是 "高速列车"
 J'ai pris le TGV	我坐了TGV
 le Train à Grande Vitesse	高速列车
-Thionville	蒂永维尔,法国东部的一个城市,位于 摩泽尔省(Moselle)境内,靠近 德国 和 卢森堡 边境。
 Mettre	花费(时间)
 Tu mets	你花费
 Il met	他花费
@@ -949,7 +945,6 @@ Hier soir, je suis allé au théâtre à Paris	昨晚我去了巴黎的剧院
 Les Parisiens	巴黎人(阳性)
 Les parisiens aiment aller au théâtre	巴黎人喜欢去剧院
 Est-ce que tes parents vont au théâtre	你父母去剧院吗?
-mal	是副词,意思是“不好”或“糟糕”。; 疼痛、不舒服
 agréable	“宜人的、舒适的”(形容词); 愉快的(不分阴阳性)
 bizarre	:形容词,意为 “奇怪的”,在宾语从句中作表语,描述祖母的状态。; 怪异的(阴性)
 Il entend	他听到
@@ -958,7 +953,6 @@ Vous entendez	你们听到
 Ils entendent	他们听到
 ventre	是“肚子”(阳性名词); 肚子、腹部(阳性)
 avoir mal aux dents	牙疼
-avoir mal à la tête	头疼
 avoir mal au ventre	肚子疼
 J'ai mangé dehors à midi	我中午在外面吃饭。
 Samedi 8 février 2025	"2025年2月8日,星期六"
@@ -1186,7 +1180,6 @@ contiennent	“含有”(contenir 的第三人称复数现在时)
 du foie gras	“鹅肝”
 à tous les repas	“在每顿饭”
 Les Français mangent du foie gras à tous les repas	“法国人在每顿饭都吃鹅肝” - FAUX
-boivent	“喝”
 Les Français boivent du champagne en mangeant	“法国人在吃饭时喝香槟”
 ont inventé	“发明了”
 une danse spéciale	“一种特殊舞蹈”
@@ -1228,7 +1221,6 @@ manger du poisson entier	“吃整条鱼”
 pendant le Nouvel An chinois	“在春节期间”
 apportera une bonne année	“会带来好运”
 mangent souvent	“经常吃”
-des insectes	“昆虫”
 le repas le plus important	“最重要的一餐”
 de la journée	“一天中”
 manger des œufs de cent ans	“吃皮蛋”
@@ -1334,7 +1326,6 @@ J'ai vu la bande annonce d'un film chinois qui sort le 5 mars	“我看到了一
 des nouilles	面条(阴性)=noodles(英语); “面条”
 fait	是动词 faire(做)的 过去分词,用于复合时态,表示“做了”。(原形:faire); “使,让”(faire 的第三人称单数现在时)
 du poisson	一些鱼(部分冠词 “du” 是由定冠词 “le” 和介词 “de” 缩合而成,表示不可数名词的部分,不是在强调具体有几条鱼,而是泛指吃了一些鱼肉或者一些鱼的部分); “鱼”
-les gens	人们(“gens”是名词,表示“人”,“les”是定冠词); “人们”
 certains croient	“有些人相信”; “有些人相信”; “有些人相信”
 pour la santé	“对健康”; “对健康”
 le champagne	“香槟” - 名词; “香槟”
@@ -1669,7 +1660,6 @@ Il joue souvent des personnages gay	他经常扮演“同性恋”角色。
 ne... pas	不......; 不
 sais	知道(savoir的现在式第二人称单数形式)
 déjà	“已经” - 副词
-avais	有(过去时,第一人称单数)
 J'avais oublié de t'envoyer les notes	我忘了给你发笔记。
 Samedi 22 mars 2025	“2025年3月22日,星期六”
 Il en reste 4	还剩下4个
@@ -2001,7 +1991,6 @@ Ah Lisa, qu'est-ce que je vais faire de toi	啊,丽莎,我该拿你怎么办呢?
 leur enfant	他们的孩子(leur:主有形容词 “他们的;她们的;它们的”,修饰 “enfant”,表示所属关系。)
 colères	形容词,“生气的,发怒的”
 Les mamans disent ça à leur enfant quand elles sont colères	妈妈们在生气的时候会对孩子这么说。
-disait	动词 “dire(说)” 的未完成过去时第三人称单数(il、elle、on)形式
 ma mère me disait toujours ça	我妈妈过去总是这么对我说
 pour deux jours	持续两天(pour:介词,在这里表示时间的 “持续”)
 Je vais partir en voyage demain avec l'école pour deux jours	我明天将和学校一起去旅行两天。
@@ -2058,7 +2047,6 @@ Des touristes américains arrivent à Paris, ils ne savent qu'il faut faire atte
 Fête d'anniversaire	生日派对; – Vous voulez organiser la fête d'anniversaire de votre ami Julien生日派对 – 你想要为你的朋友朱利安组织一场生日派对。
 L'examinateur	考官(阳性名词); 主考人、考官(阳性)
 disent	“说”,法语动词 dire(意为“说”或“讲”)的第三人称复数现在时; “dire(说)” 的第三人称复数现在时变位
-toujours	仍然(副词); “总是;始终”= always
 gratuit	:免费的、无偿的。; 免费的;无偿的
 C'est gratuit	:这是免费的。; 这是免费的。(妈妈说:600多元一个人,你搞错了!)
 écrire	写(ECRIRE); 写(原形动词)
@@ -2149,7 +2137,6 @@ Je suis allé voir Nezha 2	我去看了哪吒2。
 tellement	副词,意为 “如此,这样;很,非常;那么些,这么些” ,在本句中表示程度,
 pas tellement	意思是 “不是很,不太”。
 je n'ai pas tellement aimé le film	我不是很喜欢这部电影。
-raison	原因;理由;理智;道理
 histoire	历史;故事;经历;情况
 1ère raison - l'histoire est trop compliqué	第一个原因- 故事太复杂。
 trouvé	动词 “trouver(找到;觉得;认为)” 的过去分词形式
@@ -2276,7 +2263,6 @@ Echange scolaire	“学校交流”
 Il en reste 15	还剩15个。
 un film	电影(阳性名词); “一部电影”
 gagner	赢; “赢得”
-peur	害怕(名词,意为“恐惧”或“害怕”); 害怕、恐惧(名词)
 Samedi 3 mai 2025	“2025年5月3日,星期六”
 Choisir entre 6 ou 7 et préparer le dialogue	“选择6或7,并准备对话”
 l'accueil	接待处
@@ -2580,7 +2566,6 @@ jamais	“从来没有”,用于否定句中加强否定语气=英语never
 des fois	有时候,在句中作时间状语,表明动作发生的频率; 有时候=sometimes
 souvent	“经常” - 副词; “经常”=英语“often”
 facile	“容易的”=英语“easy”
-mieux	更好(bien的比较级); “更好”=英语“better”
 dessin	画,图画(名词)
 Vendredi 16 mai 2025	“2025年5月16日,星期五”
 Il en reste 11	“还剩下11个”
@@ -2930,7 +2915,6 @@ ne pas croire en Dieu	“无神论者:不相信上帝。”(not believe in God)
 Hier soir je suis allée voir un concert de chansons françaises	“昨天晚上我去看了一场法语歌曲的音乐会,”
 la chanteuse	歌手(the singer)
 je ne connaissais pas la chanteuse, ses chansons	“我不认识那位歌手,也不熟悉她的歌曲,”
-j'avais	"avoir的未完成过去时,表过去的愿望"(I had)
 envie de voir	“想去看看” (want to see)
 avoir envie de	想要(to want)
 mais j'avais envie d'y aller	“但我还是想去看看。”
@@ -2939,7 +2923,6 @@ en retard	迟到地(late)
 Parce que le concert a commencé en retard	“因为音乐会晚开始了,”
 je n'ai pas aimé les musiciens	“我不喜欢那些乐手,”
 mais les boissons au concert étaient bonnes	“但音乐会上的饮料很好,”(étaient 是未完成过去时)
-j'étais	我是 / 我处于... 状态 (I was)
 tu étais	你是 (you were)
 il était	他/她/我们是 (he/she/one was)
 nous étions	我们是 (we were)
@@ -3201,7 +3184,6 @@ A votre avis, pourquoi est-ce qu'il y a des familles malheureuses	“在你看�
 on n'aime pas les mêmes choses	“家庭成员喜欢的东西不一样。”
 on n'a pas d'argent	“家庭没有足够的钱。”
 violence dans la famille	“家庭中存在暴力。”
-bêtes	愚蠢的,笨的(阴性复数形式)
 les enfants sont très bêtes	“孩子们很笨。”
 faire mal à sa mère	“对妈妈不好。”
 Dans votre pays, les familles ont combien d'enfants	“在你的国家,家庭通常有几个孩子?”
@@ -3516,7 +3498,6 @@ Je n'ai pas beaucoup aimé le Japon	“我不太喜欢日本”
 la centrale nucléaire	“核电站”
 Il y a eu au Japon à Fukuyama un accident dans la centrale nucléaire	“在日本福岛发生了一起核电站事故。”
 Tu m'entends	你听到我说话吗?; “你听到我说话了吗?”
-entendre	动词,意为 “听见,听到” 。; “听见”
 Tu as acheté quelque chose	你买了什么?; “你买东西了吗?”
 Tes parents vont bien	你父母好吗(“vont” 是动词 “aller”(此处表示 “处于(某种状态)” )的第三人称复数现在时变位); “你的父母好吗?”
 dehors	副词,意为 “在外面”,在这里作地点状语,表明吃饭的地点。; 外面(副词); 在外面(英语:outside); “外面”
@@ -3587,7 +3568,6 @@ je fais mes devoirs chez moi	“我在家写作业”
 l'allemand	“德语”
 le chinois, le français, l'anglais	“中文、法语、英语”
 Je mange une pomme	“我吃一个苹果。”
-raconter	“讲述”(英语=tell); “讲述”“叙述”“诉说”
 savoir	知道; “知道”
 demander	询问; “询问”
 C'était bien	很不错; “感觉很好。”
@@ -3703,3 +3683,120 @@ des vêtements	“衣服?”
 l'uniforme	那套校服
 Je vais mettre l'uniforme que j'ai acheté en seconde	“我会穿高二买的那套校服。”
 mille quatre cents	“1400”
+Mercredi 20 août 2025	星期三 2025年8月20日
+est-ce que tu m'entends	你能听到我吗?
+tu as passé une bonne journée	你今天过得好吗?
+réviser	复习(功课)=review
+j'ai révisé la physique	我复习了物理
+maths et physique c'est une bonne journée	数学和物理,这是美好的一天吗?
+c'est pas grave	没关系=英语的 "it's ok"
+j'ai peur des insectes	我害怕昆虫
+dégoûtant	令人厌恶的,恶心的(形容词)
+c'est dégoûtant	真恶心
+une bête	一个动物=un animal
+grosses	大的(形容词复数,修饰阴性名词)
+ma mère me disait toujours -les petites bêtes ne mangent pas les grosses bêtes-	妈妈以前总对我说——小虫不吃大兽
+En septembre je suis en vacances	九月份我去度假
+la grenade	石榴(阴性名词)
+tu as mangé la grenade	你吃了石榴
+je suis sortie acheter un café	我出去买咖啡了
+un capuccino chaud	一杯热卡布奇诺
+je fais du café à la maison	我在家自己煮咖啡
+une boutique	商店,店铺=a shop
+Il y a une boutique japonaise que j'aime bien à Paris, The Coffee	巴黎有家我很喜欢的日式咖啡店,The Coffee
+Mais c'est un peu cher mais c'est moins cher que Starbucks	不过有点贵,但还是比星巴克便宜
+Starbucks le café est cher et je dis que le café n'est pas très bon	星巴克咖啡贵,而且我觉得味道不怎么样
+Tu bois souvent du café	你经常喝咖啡吗?
+Oui j'en bois tous les jours parce que je suis toujours fatiguée	是的,我每天都喝,因为我总是很累-en:(代词,此处指代前文提到的 “咖啡”,相当于 “它”)
+plus souvent que moi	比我还频繁
+par jour	每天(固定短语,par 表示 “每”,jour 意为 “天”)
+seul	为形容词 “唯一的、仅有的”,补充说明 “只喝一杯”)
+ma mère en boit par jour et moi un seul	我妈妈每天喝,我只喝一杯
+avec du sucre	加糖
+sans sucre	不加糖
+le sucre	糖
+sucré	甜的
+Un café sucré	一杯加糖的咖啡
+vendre	卖,出售
+vendent	(动词 vendre 的第三人称复数现在时)卖,出售
+du macha	抹茶(阳性名词,外来词保留原拼写)
+Ici à Paris beaucoup de boutique vendent aussi du macha	在巴黎,很多店也卖抹茶
+de plus en plus	越来越(固定短语,表程度递增)=英语的 "more and more"
+A Paris les gens boivent de plus en plus souvent du macha	在巴黎,人们越来越常喝抹茶
+disparaître	消失(动词原形,与 “va” 搭配表 “将要消失”)=disappear
+Tu sais que le café va disparaître	你知道吗,咖啡可能会消失
+auras	(动词 avoir 的第二人称单数简单将来时)将有
+peut-être	也许,可能(副词)=maybe
+il n'y aura plus	(法语中 “存在” 的否定将来时表达,“il y a” 表 “有”,“n'y aura plus” 意为 “将不再有”)
+Quand tu auras 80 ans peut-être qu'il n'y aura plus grains de café	等你80岁时,也许就再也没有咖啡豆了
+réchauffement	“变暖”=英语的 "warming"
+climatique	“气候的”=英语的 "climatic"
+le réchauffement climatique	气候变暖
+à cause du réchauffement climatique il fait de plus en plus chaud	因为气候变暖,天气越来越热
+Tu as mangé avec eux	你和他们一起吃饭了吗?
+tu ne manges avec tes grands-parents	你不和祖父母一起吃饭吗
+ils mangent plus tôt que moi	他们吃得比我早
+Hier je suis allée à l'hôpital parce que j'avais mal à la tête	昨天我去了医院,因为我头疼
+Tu vas voir le médecin à l'hôpital parce que tu as mal à la tête	你去医院看医生,因为你头疼
+Il fait quoi le médecin	医生做了什么?
+Il me dit de faire un examen qui s'appelle CT-Scan	他让我做一个叫CT扫描的检查
+ibuprofène	布洛芬
+manger des médicaments	吃药
+prendre des médicaments	服药
+ça va mieux	好点了吗?
+un lien	联系;关联=a link
+tes règles	月经(阴性复数名词)=your period
+ça a un lien avec tes règles	这和你的月经有关吗?
+Une femme tous les 28 jours a ses règles	女性每28天来一次月经
+à cause des règles	因为月经
+certaines femmes	有些女性(“certaines” 是形容词 “certain” 的阴性复数形式)
+lorsque	“当...... 时”
+lorsqu'elles	当她们
+leurs règles	她们的月经
+certaines femmes lorsqu'elles ont leurs règles ne vont pas bien	有些女性来月经时会不舒服
+m'arrive	发生在我身上(“arriver à qn” 表示 “发生在某人身上”,“m'” 是 “me” 的缩写,“arrive” 是动词第三人称单数现在时)
+ça m'arrive aussi mais seulement le 1er jour des règles	我也会这样,但只在月经第一天
+je te raconte	我跟你说
+le collège	初中
+une copine du collège	一位初中女同学(“copine” 指女性朋友,“collège” 意为初中)=英语 "a middle school friend"
+un autre copain du collège	另一位初中男同学(“autre” 表示 “另一个”,“copain” 指男性朋友)
+quelque chose de méchant	一些坏话(“quelque chose” 意为 “某事、某物”,“de méchant” 是形容词短语作后置定语,修饰 “quelque chose”)
+sur elle	关于她(“sur” 表示 “关于”,“elle” 是 “她” 的宾格)=about her
+Hier une copine du collège elle m'a dit qu'il y a un autre copain du collège qui a dit quelque chose de méchant sur elle	昨天,一位初中女同学告诉我,另一位初中男同学说了她的坏话
+ne m'a pas dit	没告诉我(“dire” 的复合过去时,“ne pas” 表否定,“me” 是间接宾语 “我”,“a dit” 为 “avoir + 过去分词” 结构)=she didn't tell me
+qui était ce garçon	是哪个男生(“qui” 引导宾语从句,“était” 是 “être” 的第三人称单数未完成过去时,“ce garçon” 意为 “这个男生”)
+j'avais raison	我是对的(“avoir raison” 是固定搭配,意为 “正确、对的”,“j'avais” 是 “avoir” 的第一人称单数未完成过去时)
+elle ne m'a pas dit qui était ce garçon mais j'ai deviné et j'avais raison	她没告诉我是哪个男生,但我猜到了,而且猜对了
+poli	形容词,意为 “有礼貌的”,其否定形式通过 “mal” 体现,即 “不礼貌的”=impolite
+c'est mal poli	这很不礼貌
+colère	愤怒;怒气(阴性名词,“en colère” 是固定搭配,意为 “生气、发怒”)=anger
+elle était en colère	她很生气
+vous ai dit	跟您说过
+je lisais	我正在读(“lire” 的未完成过去时,强调过去某个时间段内正在进行的动作)
+je vous ai dit que je lisais un livre que mon père m'a acheté	我跟你们说过我正在读一本爸爸给我买的书
+meurtrier	凶手(阳性名词)
+encore une fois	“又一次、再一次”=英语的 "once again"
+Avant la fin du livre j'ai deviné qui était le meurtrier et j'avais encore une fois raison	在书结束之前我就猜到了凶手是谁,而且又一次猜对了
+Quand j'étais à Thionville je ne suis pas allé au cinéma parce que le cinéma était en vacances	我在蒂永维尔的时候没去电影院,因为影院在放假
+entendre	动词,意为 “听见,听到” 。; “听见”; 听到
+oui je t'entends	是的,我听到你说话; 是的,我能听到你
+des insectes	“昆虫”; 昆虫(复数)=insects
+peur	害怕(名词,意为“恐惧”或“害怕”); 害怕、恐惧(名词); 害怕,恐惧(名词)
+disait	动词 “dire(说)” 的未完成过去时第三人称单数(il、elle、on)形式; (动词 dire 的第三人称单数未完成过去时)说,讲述
+bêtes	愚蠢的,笨的(阴性复数形式); 动物,牲口(阴性名词复数,此处可理解为 “小虫、小动物”)
+sortie	是动词 sortir(出去)的复合过去时形式; :(动词 sortir 的过去分词,此处与主语 “je”(阴性)配合,变为阴性形式)出去,离开
+toujours	仍然(副词); “总是;始终”= always; 总是(副词)=always
+les gens	人们(“gens”是名词,表示“人”,“les”是定冠词); “人们”; 人,人们(复数名词)=people
+boivent	“喝”; (动词 boire 的第三人称复数现在时)喝
+avais	有(过去时,第一人称单数); (动词 avoir 的第一人称单数未完成过去时)有
+avoir mal à la tête	头疼; 头疼
+mieux	更好(bien的比较级); “更好”=英语“better”; “更好地、更出色地”,它是形容词 “bon”(好的)的比较级形式
+aller bien	意为“身体健康,情况良好”; 感觉良好
+raconter	“讲述”(英语=tell); “讲述”“叙述”“诉说”; 讲述;说
+raison	原因;理由;理智;道理; 阴性名词,基本含义为 “理智、理性;理由、原因”=reason
+mal	是副词,意思是“不好”或“糟糕”。; 疼痛、不舒服; 副词,意为 “不好地、糟糕地”,此处修饰形容词 “poli”
+deviner	猜到(动词原形); 猜到了(动词原形)
+j'ai deviné	我猜到了(“deviner” 的复合过去时,“j'ai” 为 “avoir” 的第一人称单数现在时 + 过去分词 “deviné”); 我猜到了(“deviner” 的复合过去时,强调过去完成的动作)
+j'avais	"avoir的未完成过去时,表过去的愿望"(I had); 未完成过去时,强调过去某时刻的状态
+j'étais	我是 / 我处于... 状态 (I was); 我在(“être” 的第一人称单数未完成过去时,描述过去的状态)
+Thionville	蒂永维尔,法国东部的一个城市,位于 摩泽尔省(Moselle)境内,靠近 德国 和 卢森堡 边境。; 蒂永维尔(“Thionville” 是法国东北部的一座城市)
