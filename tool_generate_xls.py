@@ -405,3 +405,27 @@ class TestGenerateTool:
         tool = TxtToXLSX()
         en_and_cn('每日法語.txt', max_items=None, language="fr")
         # en_and_cn('每日英語.txt', max_items=None, language="en")
+
+    def test_check_invalid_file_names(self):
+        def check_invalid_filenames(directory):
+            invalid_files = []
+            valid_files = []
+            for filename in os.listdir(directory):
+                if filename.endswith('.mp3') and ('?' in filename or '？' in filename):
+                    invalid_files.append(filename)
+                elif filename.endswith('.mp3'):
+                    valid_files.append(filename)
+            return valid_files, invalid_files
+
+        directory = 'static/sounds'
+        valid_files, invalid_files = check_invalid_filenames(directory)
+
+        print(f"合法文件数量: {len(valid_files)}")
+        print(f"非法文件数量: {len(invalid_files)}")
+
+        if invalid_files:
+            print("以下文件名包含非法字符 '?' 或 '.':")
+            for file in invalid_files:
+                print(file)
+        else:
+            print("所有文件名均合法。")
