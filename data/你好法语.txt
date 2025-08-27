@@ -113,58 +113,6 @@ mourir	“去世、死亡”(不及物)(to die); 死(原形动词)=to die
 serait	“将会”(英语=would be); 系动词 “être 是” 的未完成过去时虚拟式
 120 ans	 “120岁。”
 peut-être	也许,可能(副词)=maybe; 也许、可能、或许=perhaps
-les gens	人们(“gens”是名词,表示“人”,“les”是定冠词); “人们”; 人,人们(复数名词)=people
-boivent	“喝”; (动词 boire 的第三人称复数现在时)喝
-avais	有(过去时,第一人称单数); (动词 avoir 的第一人称单数未完成过去时)有
-avoir mal à la tête	头疼; 头疼
-mieux	更好(bien的比较级); “更好”=英语“better”; “更好地、更出色地”,它是形容词 “bon”(好的)的比较级形式
-aller bien	意为“身体健康,情况良好”; 感觉良好
-raconter	“讲述”(英语=tell); “讲述”“叙述”“诉说”; 讲述;说
-raison	原因;理由;理智;道理; 阴性名词,基本含义为 “理智、理性;理由、原因”=reason
-mal	是副词,意思是“不好”或“糟糕”。; 疼痛、不舒服; 副词,意为 “不好地、糟糕地”,此处修饰形容词 “poli”
-deviner	猜到(动词原形); 猜到了(动词原形)
-j'ai deviné	我猜到了(“deviner” 的复合过去时,“j'ai” 为 “avoir” 的第一人称单数现在时 + 过去分词 “deviné”); 我猜到了(“deviner” 的复合过去时,强调过去完成的动作)
-j'avais	"avoir的未完成过去时,表过去的愿望"(I had); 未完成过去时,强调过去某时刻的状态
-j'étais	我是 / 我处于... 状态 (I was); 我在(“être” 的第一人称单数未完成过去时,描述过去的状态)
-Thionville	蒂永维尔,法国东部的一个城市,位于 摩泽尔省(Moselle)境内,靠近 德国 和 卢森堡 边境。; 蒂永维尔(“Thionville” 是法国东北部的一座城市)
-tu regardes ça à la télé	“你在电视上看过这个吗?”
-tu peux regarder la télévision	“你可以看电视”
-Je prépare mon voyage au Japon, j'ai acheté cette semaine des Yen	“我正在准备日本之行,这周买了日元。”
-1 RMB c'est 20 Yen	“1元人民币等于20日元。”
-100000 Yen pour 600 euros	“10万日元约合600欧元。”
-Je vais utiliser ma carte bancaire	“我会用银行卡。”
-une usine	: 工厂“工厂”
-une ancienne usine	“一个老工厂”=英语an old factory
-Allemagne	“德国”=英语Germany
-Les vacances c'était bien, j'ai visité une ancienne usine en Allemagne	“假期过得很好,我参观了一座德国的老工厂。”
-un musée	“博物馆”=英语museum
-Maintenant c'est un musée	“现在那里成了博物馆。”
-J'étais à Thionville, c'est en France près de l'Allemagne et du Luxembourg	“我去了蒂永维尔,它在法国,靠近德国和卢森堡。”
-C'est calme	“那儿很宁静!”
-C'est un peu ennuyeux	“就是有点无聊。”
-nulle	“糟糕的”“差劲的”=英语bad
-géographie	“地理”=英语geography
-Je suis nulle en géographie	“我地理太差了。”
-31 ans	“31岁。”
-A Thionville on m'a demandé, c'est votre fils	“在蒂永维尔有人问我:‘这是您的儿子吗?’”
-non, c'est mon mari	“不是,是我丈夫。”
-En France, en Europe	“在法国,在欧洲。”
-Il y a trois façons de vivre ensemble	“有三种共同生活的方式。”
-le concubinage	“同居”=英语cohabitation
-le concubinage -on vit ensemble, c'est tout	“同居(只是住在一起)。”
-le pacs -on vit ensemble et on signe un contrat	“民事结合(住在一起并签一份合同)。”
-L'année dernière j'étais en seconde	“去年我在高一。”
-En septembre, je serai en première	“9月份我将在高二。”
-Elle a environ 40 ans	“她大约40岁。”
-Combien de nouveaux professeurs	“有多少新老师?”
-chimie	“化学”
-la retraite	“退休”=英语retirement
-partir à la retraite	“退休”
-la prof de français ne change pas	“法语老师没有换”
-camarades	“同学”=英语classmates
-est-ce que tu vas avoir de nouveaux camarades	“你会有新同学吗?”
-première	第一的,最初的
-il y aura	“il y a” 的将来时形式,固定句型,意为 “将有”“会有”。
 En première, il y aura combien d'élèves dans ta classe	“高一班里会有多少学生?”
 seulement	“只”“仅仅”
 parmi	“在...... 之中”“在...... 中间”
