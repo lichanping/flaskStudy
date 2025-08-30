@@ -6969,3 +6969,55 @@ Norvège	“挪威”=Norway
 d'une trentaine d'année	介词短语,用来修饰 “femme”, 表示 “三十多岁”=about thirty years old
 l'Euromillion	欧洲百万(彩票名)
 une loterie	“彩票、抽奖”=a lottery
+L’EuroMillions est une loterie en Europe	“欧洲百万是一种欧洲的彩票”
+un ticket	“票、券=a ticket”
+Les gens achètent un ticket avec des numéros	“人们会买一张带有数字的彩票”
+Chaque semaine, il y a un tirage	“每周都会开奖一次”
+les mêmes que	与...... 相同、和...... 一致=the same as
+les numéros gagnants	中奖的,阳性复数形容词,修饰 “numéros”
+beaucoup d’argent	大量的钱=a lot of money
+Si tes numéros sont les mêmes que les numéros gagnants, tu gagnes beaucoup d’argent	“如果你的数字和开奖数字一致,你就能赢得很多钱”
+plusieurs personnes	好几个、若干,后接复数名词,表 “多个人”=several people
+Parfois, une seule personne gagne	; parfois, plusieurs personnes partagent l’argent“有时只有一人中奖,有时多人平分奖金”
+250 000 000 d'Euros	“2.5亿欧元”
+Mardi soir, un Français a gagné 250 000 000 d'Euros	“周二晚上,一位法国人赢得了2.5亿欧元”
+gagnais	实义动词 “gagner”(赢得)的未完成过去时虚拟式(主语为 “tu” 时的变位);
+Si tu gagnais autant d'argent, qu'est-ce que ferais dans les 100 premiers jours	“如果你赢这么多钱,前100天你会做什么?”
+J'achète trois grands appartements à Shanghai, un pour moi, un pour mes parents, un pour mes grands-parents	“我会在上海买三套大公寓,一套给自己,一套给父母,一套给祖父母。”
+une société	公司、企业=a company
+biologie	生物学、生物学科=a biology
+de biologie	生物学的、与生物学有关的,阴性单数形容词
+la mort	死亡(阴性名词)=death
+créer une société de biologie pour lutter contre la mort	“创办一家生物公司来对抗死亡。”
+pour les riches	“专为富人服务。”
+ne plus	不再、不再......=no longer
+tu veux utiliser l'argent pour aider les riches à ne plus mourir	“你想用这笔钱帮助富人不再死亡。”
+mourraient	“mourir 死亡” 的未完成过去时虚拟式
+finie	终结的、结束的,阴性单数形容词
+je pense que si les riches ne mourraient plus aussi la civilisation serait finie	“我认为如果富人也不再死亡,文明就会终结。”
+vivent	实义动词 “vivre 生活、活着” 第三人称复数=they live
+jusqu'à quel âge	到多少岁=until what age
+les riches vivent jusqu'à quel âge	“富人能活到多少岁?”
+3 appartements	“三套公寓”
+un société de biologie pour les riches pour que je gagne encore plus d'argent	“一家专为富人服务的生物公司,好让我赚更多的钱”
+j'achète quelques voitures	“再买几辆车”
+un avion	“再买一架飞机”
+le pauvre	穷人(阳性单数名词)=the poor
+deviendra	实义动词 “devenir”(变成、成为、演变)的直陈式简单将来时=will become
+Un jour, j’ai gagné à la loterie - 250 millions d’euros	“有一天,我中了彩票:2.5亿欧元。”
+Avec autant d’argent, je peux faire beaucoup de choses	“有了这么多钱,我可以做很多事情。”
+Certaines personnes disent - Il faut aider les pauvres	“有些人说:‘应该帮助穷人。’”
+D’autres disent -Il faut que les riches vivent plus longtemps	“另一些人说:‘应该让富人活得更久。’”
+Et certains disent - L’argent doit servir à protéger l’environnement	“还有一些人说:‘钱应该用来保护环境。’”
+Si seuls les riches vivent plus longtemps, la société sera-t-elle juste	“如果只有富人活得更久,社会还会公平吗?”
+Si les pauvres et les riches vivent tous plus longtemps, que deviendra la civilisation	“如果穷人和富人都活得更久,文明会变成什么样?”
+Ces questions sont très intéressantes	“这些问题非常有趣。”
+Le livre que tu as lu	“你读过的书?”(动词 “lire” 的过去分词形式)
+un tirage	彩票开奖=a draw
+une seule personne	只有一人=only one person
+partager	分享、平分(原形动词)=to share
+autant d'argent	固定短语(“autant de” 表 “如此多的、同样多的”,指代前文提到的 “2.5 亿欧元”;“argent” 此处特指 “中奖奖金“)=so much money
+ferais	实义动词 “faire”(做、干)的未完成过去时虚拟式(主语为 “tu” 时的变位)=would do
+créer	创立、创建、建立(原形动词)=to create
+lutter contre	与...... 作斗争、对抗(原形动词短语)=to fight against
+la civilisation	文明、文化(阴性名词)=civilization
