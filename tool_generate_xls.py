@@ -345,6 +345,7 @@ class TestGenerateTool:
             '词库源/法语口语课（持续更新中）.txt',
             '词库源/法语单词闪卡（持续更新中）.txt',
             '词库源/法语歌.txt',
+            '词库源/法语考纲.txt',
         ]
         tool = TxtToXLSX()
         for file in files:
