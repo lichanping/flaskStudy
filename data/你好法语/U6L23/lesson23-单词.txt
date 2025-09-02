@@ -26,3 +26,29 @@ vous choisissez 你们选择
 ils choisissent 他们选择
 choisi 选择的p.p
 Qu'est-ce que vous choisissez 您选择什么？
+Je regarde Julie  我看着朱莉(直接宾语)
+Il connaît Nicolas  他认识尼古拉斯(直接宾语)
+Je parle à mon ami 我跟我的朋友说话(间接宾语)=speak to
+Je passe le journal à mon père 我把报纸递给我爸爸=pass to
+Est-ce que tu regardes Julie  你看着朱莉吗？
+Oui, je la regarde 是的，我看着她。(la指代Julie)
+Que, je regarde Julie  我看着朱莉
+Est-ce qu'il connaît Nicolas  他认识尼古拉斯吗？
+Oui, il le connaît 是的，他认识他。(le指代Nicolas)
+Je vais t'aider 我来帮帮你。(t'指代你)
+Vous commencez à faire ce travail 你们开始做这项工作?
+Oui, je le commence à le faire 是的，我开始做它。(le指代ce travail, 不能与à缩合成au)
+Tu connais Colette et sa sœur 你认识科莱特和她的姐姐吗？
+Oue, je les connais 是的，我认识她们。(les指代Colette et sa sœur)
+La musique, je l'aime beaucoup 音乐，我非常喜欢它。(l'指代la musique)
+C'est un bon livre, tu dois le prendre 这是一本好书，你应该买它。(le指代un bon livre)
+Je vais l'inviter à dîner 我打算邀请他吃晚饭。(l'指代某人)
+Il nous regarde 他看着我们。(nous指代我们)
+Il ne nous regarde pas 他不看着我们。(nous指代我们)
+tu m'écoutes 你听我说。(m'指代我)
+tu ne m'écoute pas 你不听我说。(m'指代我)
+C'est un bon livre, mon ami Farid l'a lu 这是一本好书，我的朋友法里德读过它。(l'指代un bon livre)
+recevoir 收到(英语receive)
+Ces lettres, je les ai reçues这些信，我收到了它们。(les指代ces lettres)
+Je ne t'ai pas vu hier 我昨天没见到你。(t'指代你)
+Je ne les ai pas reçues 我没收到它们。(les指代ces lettres)
