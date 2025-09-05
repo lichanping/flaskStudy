@@ -208,7 +208,6 @@ Le café est à droite du cinéma	咖啡馆在电影院的右边。
 étagère	格,隔板,架子;多层架子n.f.
 fauteuil	扶手椅n.m.
 fenêtre	窗户;窗子,窗户,玻璃窗n.f.
-fleur	“花”。它是一个阴性名词
 gauche	左边,左面n.f.
 roulent	行驶(动词“rouler”的第三人称复数形式)
 En Angleterre le voitures roulent à gauche	在英国,汽车靠左行驶。
@@ -225,7 +224,6 @@ Le chat est sous la table	猫在桌子下面。
 Le livre est sur l'étagère	书在书架上。
 le vase	花瓶n.m.
 Il y a des fleurs dans le vase	花瓶里有花
-sur	在..上面prep=On
 devant	在......前面prep
 contre	紧挨着
 à gauche de	在左边
@@ -950,7 +948,6 @@ Est-ce que c'est la chambre de Paul	这是保罗的卧室吗?(口语和书面)
 Est-ce la chambre de Paul	这是保罗的卧室吗?(书面)
 Est-ce que Paul parle français	保罗说法语吗?(口语和书面)
 Paul parle-t-il français	保罗说法语吗?(书面)(当动词主谓倒装,动词以元音字母结尾,主语以元音开头,中间要加t来连读)
-quoi	什么(句中)
 quel	哪一个=which
 où	什么地方,哪里=where
 Comment vas tu	怎么样=how
@@ -1924,7 +1921,6 @@ Contactez Madame Davoust	请联系达沃斯女士
 Directrice de l'hôtel	酒店经理
 56, promenade des Anglais	英国人大道56号
 Qu'est-ce qu'on lui offre	我们送给他什么?
-connaître	认识
 je connais	我认识
 tu connais	你认识
 il connaît	他认识
@@ -1933,7 +1929,6 @@ vous connaissez	你们认识
 ils connaissent	他们认识
 connu	认识p.p
 Je suis très heureux de vous connaître	我很高兴认识你们。
-offrir	提供,赠送(英语offer)
 j'offre	我提供
 tu offres	你提供
 il offre	他提供
@@ -1949,7 +1944,6 @@ nous choisissons	我们选择
 vous choisissez	你们选择
 ils choisissent	他们选择
 Qu'est-ce que vous choisissez	您选择什么?
-choisir	选择(英语choose)-第二类规则动词
 choisi	选择过p.p
 Je regarde Julie	我看着朱莉(直接宾语)
 Il connaît Nicolas	他认识尼古拉斯(直接宾语)
@@ -1977,3 +1971,40 @@ recevoir	收到(英语receive)
 Ces lettres, je les ai reçues	这些信,我收到了它们。(les指代ces lettres)
 Je ne t'ai pas vu hier	我昨天没见到你。(t'指代你)
 Je ne les ai pas reçues	我没收到它们。(les指代ces lettres)
+anniversaire	生日n.m.
+Joyeux anniversaire	生日快乐=Happy Birthday
+collègue	同事n.m./n.f.=colleague
+goût	爱好,兴趣;品味n.m.=taste
+Chacun ses goûts	各有所好=To each his own
+idée	主意,想法n.f.=idea
+C'est une bonne idée	这是个好主意=It's a good idea
+invitée	女宾n.f.=guest
+laisser	放开,使得v.t.=let
+laisser qn faire	让某人做某事=let sb do sth
+Il laisse son enfant partir tout seul	他让他的孩子独自离开=He lets his child leave alone
+lieu	地方n.m.=place
+mauvais	不好的adj.=bad
+mauvaise	不好的adj.=bad阴性
+C'est une mauvaise idée	这是个坏主意=It's a bad idea
+offrir qch à qn	送某物给某人=offer sth to sb
+On lui offre un cadeau	我们送给他一份礼物=We offer him a gift
+original	独到的,新颖的 adj.=original
+C'est une idée originale	这是一个独特的想法=It's an original idea
+peinture	绘画;油画n.f.=painting
+plat	菜肴n.m.=dish
+quelque chose	某事,某物pron.=something
+quitter	离开v.t.=leave
+quitter le travail	下班=leave work
+C'est quoi	这是什么?=What is that?
+retraite	退休n.f.=retirement
+être à la retraite	退休=be retired
+être en retraite	退休的=be retired
+tenir	拿着v.t.=hold
+vrai	真实的,确实的adj.=true
+C'est vrai	这是真的=It's true
+choisir	选择(英语choose)-第二类规则动词; 选择v.t.
+connaître	认识; 认识;了解v.t.=know
+fleur	“花”。它是一个阴性名词; 花n.f.=flower
+offrir	提供,赠送(英语offer); 提供,赠送v.t.=offer
+quoi	什么(句中); 什么pron.=what
+sur	在..上面prep=On; 关于,对于prep.=about
