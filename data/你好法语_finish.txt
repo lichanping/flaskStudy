@@ -7228,3 +7228,104 @@ acquérir	(v.t.) 获得,取得=英语 to acquire
 adjoindre	(v.t.)添加,增添=英语 to add
 administration	(n.f.)管理,治理,行政;政府的部门
 admirer	(v.t.)欣赏,赞赏
+adroite	(adj.)灵巧的=英语 skillful
+adulte	(n.)成年人(adj.)成年的=英语 adult
+adversaire	(n.)对手;对方=英语 opponent
+aéroport	(n.m.)飞机场=英语 airport
+affecter	(v.t.)影响;感动,使痛苦=英语 to affect
+affection	(n.f.)情感;爱,喜爱,爱情
+affreux	(adj.)可怕的,恐怖的;可恶的;不愉快的=英语 awful
+affreuse	(adj.)可怕的,恐怖的;可恶的;不愉快的=英语 awful
+âge	(n.m.)年龄,年纪=英语 age
+agence	(n.f.)办事处,事务所,社=英语 agency
+agenda	(n.m.)日程;记事本
+agent	(n.m.)代理人;公务人员;警察
+agir	(v.i.)行动,干,做事=英语 to act
+agiter	(v.t.)摇动,搅动;使激动,使兴奋=英语 to shake
+agrandir	(v.t.)增大,加大=英语 to enlarge
+agréable	(adj.)惬意的,舒适的=英语 pleasant
+agresser	(v.t.)侵犯,袭击;刺激=英语 to assault
+agricole	(adj.)农业的=英语 agricultural
+aider	(v.t.)帮助,援助;有助于=英语 to help
+aiguë	(adj.)尖声的;敏锐的;尖锐的;急性的=英语 acute
+ailleurs	(adv.)别处,其他地方=英语 elsewhere
+aimer	(v.t.)爱;爱恋;喜欢=英语 to love
+anniversaire	生日n.m.
+Joyeux anniversaire	生日快乐=Happy Birthday
+collègue	同事n.m./n.f.=colleague
+goût	爱好,兴趣;品味n.m.=taste
+Chacun ses goûts	各有所好=To each his own
+idée	主意,想法n.f.=idea
+C'est une bonne idée	这是个好主意=It's a good idea
+invitée	女宾n.f.=guest
+laisser qn faire	让某人做某事=let sb do sth
+Il laisse son enfant partir tout seul	他让他的孩子独自离开=He lets his child leave alone
+lieu	地方n.m.=place
+mauvais	不好的adj.=bad
+mauvaise	不好的adj.=bad阴性
+C'est une mauvaise idée	这是个坏主意=It's a bad idea
+offrir qch à qn	送某物给某人=offer sth to sb
+aérienne	(adj.)航空的=英语 aerial
+aéronautique	(adj.)航天的=英语 aeronautical
+affaire	(n.f.)事务;事件;买卖;pl.(个人的)衣物;生意=英语 business
+afficher	(v.t.)张贴,公布=英语 to post
+affirmer	(v.t.)证实,显示,表明,肯定,断定=英语 to assert
+afin de	(loc.prép.)为了,以便=英语 in order to
+aggraver	(v.t.)加重;使严重;加剧=英语 to worsen
+agneau	(n.m.)羊羔,小绵羊=英语 lamb
+agriculture	(n.f.)农业=英语 agriculture
+aigre	(adj.)酸的,发酸的=英语 sour
+aigu	(adj.)尖声的;敏锐的;尖锐的;急性的=英语 acute
+aiguille	(n.f.)针=英语 needle
+aile	(n.f.)翅膀;翼=英语 wing
+laisser	放开,使得v.t.=let
+On lui offre un cadeau	我们送给他一份礼物=We offer him a gift
+C'est une idée originale	这是一个独特的想法=It's an original idea
+peinture	绘画;油画n.f.=painting
+plat	菜肴n.m.=dish
+quelque chose	某事,某物pron.=something
+quitter	离开v.t.=leave
+quitter le travail	下班=leave work
+C'est quoi	这是什么?=What is that?
+retraite	退休n.f.=retirement
+être à la retraite	退休=be retired
+être en retraite	退休的=be retired
+vrai	真实的,确实的adj.=true
+C'est vrai	这是真的=It's true
+choisir	选择(英语choose)-第二类规则动词; 选择v.t.
+connaître	认识; 认识;了解v.t.=know
+fleur	“花”。它是一个阴性名词; 花n.f.=flower
+offrir	提供,赠送(英语offer); 提供,赠送v.t.=offer
+quoi	什么(句中); 什么pron.=what
+sur	在..上面prep=On; 关于,对于prep.=about
+Mais qu'est-ce que vous faites	你们在做什么?(Mais不是但是,是发语词)
+Eh bien, on cherche une idée de cadeau pour Colette	好吧,我们在为Colette寻找一个礼物的主意
+Mais pourquoi, c'est son anniversaire	但是,为什么,是她的生日吗?
+Mais non, elle quitte l'agence cette semaine	不是,她这周离开我们这个机构
+Elle part à la retraite	她退休了
+Ah , main oui, c'est vrai	啊,当然,是真的
+Et alors, on lui offre un cadeau pour son départ	那么,我们送她一个礼物来庆祝她的离开
+Oui, mais on ne sait pas quoi acheter	是的,但是我们不知道买什么
+Tu la connais bien,toi, Colette	你很了解她,Colette
+Quels sont ses goûts	她的爱好是什么?
+Qu'est-ce qu'elle aime	她喜欢什么?
+Je ne sais pas , moi	我不知道
+Offre-lui des fleurs...Ou pourquoi pas un CD de Pavarotti	给她送花...或者为什么不送一张帕瓦罗蒂的CD呢
+Elle l'adore	她喜欢他
+Ce n'est pas très original	这不是很有创意吗
+Bon, alors, vous pouvez lui offrir un livre d'art sur la photo ou sur la peinture	好吧,那么,你们可以送她一本关于摄影或绘画的艺术书
+Ah oui, tiens, ça c'est une bonne idée	啊,是的,听着,这是一个好主意
+Mais non, le directeur lui achète un livre	但是,经理给她买了一本书
+Écoutez, bon, je suis désolée, mais je n'ai pas d'autre idée	听着,好吧,我很抱歉,但是我没有其他的主意
+Qu'est-ce qu'on lui offre	我们送给他什么?; 我们送给他什么?
+attention	注意,专心n.f.=attention
+faire attention à...	注意...=pay attention to...
+avant	在...之前=before
+candidat	候选人,应聘者,求职者n.m.=candidate
+cheveux	头发n.m.pl.=hair
+correctement	正确的;合适的;合乎礼仪地adv.=correctly
+courte	短的adj.=short
+entreprise	公司,企业n.f.=company
+exactement	准确地adv.=exactly
+original	独到的,新颖的 adj.=original
+tenir	拿着v.t.=hold
