@@ -7329,3 +7329,71 @@ entreprise	公司,企业n.f.=company
 exactement	准确地adv.=exactly
 original	独到的,新颖的 adj.=original
 tenir	拿着v.t.=hold
+familier	通俗的adj.=familiar
+familière	通俗的adj.阴性=familiar
+idéal	理想的adj.=ideal
+idéale	理想的adj.阴性=ideal
+imaginer	想象v.t.=imagine
+œil	眼睛n.m.=eye(pl. yeux)
+un œil	一只眼睛=an eye
+des yeux bleus	一双蓝眼睛=a pair of blue eyes
+pendant	在...期间=during
+personne	人n.f./n.m.=person
+peut-être	也许=maybe
+phrase	句子,词句,语句n.f.=sentence
+poser	提出(问题)v.t.=ask (a question)
+raconter	讲述v.t.=tell
+répondre	回答v.t.ind = answer
+utiliser	使用v.t. = use
+Comment réussir un entretien	如何让一个面试成功
+Avant l'entretien	在面试之前
+Recherchez des informations sur l'entreprise	了解公司的信息。=Research information about the company.
+Passez une bonne nuit	度过一个好觉。=Have a good night's sleep.
+Faites attention à votre présentation générale	注意你的整体外表。=Pay attention to your overall appearance.
+Arrivez à l'heure	准时到达。=Arrive on time.
+à temps	准时=on time
+Restez calme et souriante	保持冷静和微笑。=Stay calm and smile.
+Regardez dans les yeux la personne en face de vous	看着你面前的人的眼睛。=Look into the eyes of the person in front of you.
+Écoutez avec attention et répondez avec des phrases courtes	认真听,并用简短的句子回答。=Listen carefully and respond with short sentences.
+Ne racontez pas votre vie ou vos problèmes	不要讲述你的生活或问题。=Do not tell your life or problems.
+Parlez correctement - n'utilisez pas de mots familiers	说话要正确——不要使用通俗的词语。=Speak correctly - do not use familiar words.
+Posez, vous aussi, des questions - sur le travail, les horaires, l'entreprise	您也可以提问——关于工作、时间表、公司。=You also ask questions - about work, schedules, the company.
+calme	 平静的,安静的;冷静的,镇静的adj.=calm
+rester	停留(to stay)v.i.; 保持,始终处于(某种姿势、状态)v.i. = stay
+réussir	成功=英语的to succeed; 使成功,做成功v.t. = succeed
+vie	生活n.f.人生; 生平n.f. = life
+J'aime beaucoup ce livre	我很喜欢这本书
+en ce moment	此时,最近=英语 at the moment
+Il mange beaucoup	他吃得很多
+Il aime peu la musique classique	他不太喜欢古典音乐
+Mon père boit peu	我爸爸喝得不多
+Je le vois très peu cette année	今年我很少见到他
+un peu	一点儿,有点儿=英语 a little
+Elle est un peu fatiguée	她有点累
+Attendez un peu	请稍等=英语 wait a moment
+Je sors un peu le soir avec mes amis	我晚上和朋友们出去玩一会儿
+beaucoup de	很多的=英语 a lot of
+J'ai beaucoup de livres d'anglais	我有很多英语书
+Elle fait beaucoup de sport	她做很多运动
+peu de	不多的,少的=英语 few, little
+présentation	外表,仪表n.f.=appearance
+rechercher	研究,探索v.t.=research
+vendre	 卖,销售v.t. = sell
+souriant	面带微笑的adj.; 微笑的adj.=smiling
+Elle a peu d'amis	她朋友不多
+Je fais peu de ski	我滑雪滑得很少=英语 I ski little
+un peu de	一点儿,有点儿=英语 a little
+Il faut mettre un peu de sucre dans le café	咖啡里得放点儿糖=英语 You need to put a little sugar in the coffee
+un peu de patience	一点耐心=英语 a little patience
+Tu as besoin d'un peu de patience	你需要有点耐心=英语 You need a little patience
+J'ai beaucoup d'amis	我有很多朋友
+Je prends un peu d'eau	我喝一点儿水
+Il lit peu de livres	他读的书很少
+Elle a beaucoup d'amis	她有很多朋友(+可数名词)
+Elle a beaucoup d'argent	她有很多钱(+不可数名词)
+Il y a peu d'élèves dans cette salle de classe	这个教室里学生很少
+Il y a peu d'eau dans cette bouteille	这瓶子里水很少
+Allons, un peu de courage	大家一起加油,勇敢点=英语 Come on, a little courage
+attention	注意,专心n.f.=attention; 注意,专心n.f.=attention
+Elle sort beaucoup en ce moment	她最近经常外出; 她最近经常外出
+peu	少,几乎没有adv不大,不太; 不大,不太=英语的little

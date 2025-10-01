@@ -1853,3 +1853,57 @@ jambe	腿
 court	跑得,跑步
 bouche	嘴,口
 mince	瘦
+parce que	因为
+stressés	紧张
+malade	病了,生病
+triste	很难过,难过,悲伤
+fatigué	很困,很疲劳,累
+dormir	睡觉
+Je dors	我睡觉
+tu dors	你睡觉
+il dort	他睡觉
+nous dormons	我们睡觉
+vous dormez	你们睡觉
+ils dorment	他们睡觉
+assez	相当,够,足够
+mal	疼,不对的,痛
+vraiment	真的,真的很,真
+sens	思,意思,感到
+avoir	有v.t.; 取得,有,拿到
+Est-ce que tu dors assez	你睡得够吗?
+Tu dois manger moins de sucre	你应该少吃糖。
+Je n'ai pas soif	我不渴。
+Nous nous sentons bien	我们感觉很好。
+Vous vous sentez fatigués	你们感到疲劳吗?
+Les enfants ont sommeil	孩子们困了。
+Ils se sentent tristes	他们感到悲伤。
+Tu vas avoir froid	你会感到冷。
+J'ai besoin de dormir	我需要睡觉。
+plus de	更多的,多些,超过
+moins de	少些,不到
+sentent	感到
+dormez	睡觉,在睡觉,觉
+parce qu'	因为
+sentez	感觉
+sentons	感觉
+celui-ci	这个
+celui-là	那个
+là-bas	在那边,那边,那边的
+là	那边,呐
+faisons	做,弄,做饭
+pas d'	不
+soupe	汤
+crêpe	可丽饼
+trente	三十
+pas de	不
+biscuit	饼干
+riz	米,米饭,大米
+nourriture	食物
+viande	肉
+faim	饿
+soif	渴
+sommeil	困
+Avez-vous faim	你饿了吗?
+sent	闻起来,感到
+environ	大约
+eau gazeuse	气泡水
