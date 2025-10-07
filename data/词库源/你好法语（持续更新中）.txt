@@ -225,7 +225,6 @@ Le livre est sur l'étagère	书在书架上。
 le vase	花瓶n.m.
 Il y a des fleurs dans le vase	花瓶里有花
 devant	在......前面prep
-contre	紧挨着
 à gauche de	在左边
 à droite de	在右边
 Elle est à côté de lui	她在他的旁边
@@ -1011,8 +1010,6 @@ soir	晚上n.m.
 une surprise	惊喜n.f.
 tard	晚adv.=late
 tôt	早adv.=early
-tous	所有的adj.全部的=every阳性
-toutes	所有的adj.全部的=every阴性
 toutes les filles	所有的女孩n.f.
 travailler	工作v.
 travailler comme professeur	作为教师工作
@@ -1394,7 +1391,6 @@ revoir	再见到,是 “voir(看见)” 的复合形式
 Tu as été ravi de revoir ta mère	"你曾经是很高兴见到你的母亲"
 la fièvre	发烧=英语的fever
 Il a eu de la fièvre hier	"他昨天发烧了"
-attendre	等待(及物动词)
 attendu	等待过(过去分词)
 longtemps	很久(副词)
 Oui, j'ai longtemps attendu ce moment	"是的,我等了很久这个时刻"(全部及物动词,用avoir构成复合过去时)
@@ -1460,11 +1456,8 @@ la pizza	比萨饼n.f.
 seul	单独的adj.独自的;孤单的(阳性)
 seule	单独的adj.独自的;孤单的(阴性)
 Est-ce que tu es seul chez toi	你在家里是一个人吗?
-tout	一切,所有的adj.(阳性)
-toute	一切,所有的adj.(阴性)
 toute la journée	整天
 tout l'après-midi	整个下午
-Tout va bien	一切都好=everything
 verre	玻璃杯(透明的,不带把手的)n.m.一杯酒
 prendre un verre	喝一杯
 On prend un verre	我们喝一杯吧
@@ -1562,8 +1555,6 @@ intervenir	干涉,干预(to intervene)
 être intervenu	干涉(to have intervened)-阳性
 survenir	突然到达(to occur)
 être survenue	突然到达(to have occurred)-阴性
-se lever	起床(to get up)
-se laver	洗澡、洗漱(to wash oneself)
 je me lave	我洗澡(to wash myself)-现在时变位
 tu te laves	你洗澡(to wash yourself)
 il se lave	他洗澡(to wash himself)
@@ -1609,7 +1600,6 @@ Vous êtes allés chez elle	你们去她家了?(You went to her house)
 Oui, on y est allés	是的,我们去过(Yes, we went there)
 Non, on n'y est pas allés	不,我们没去过(No, we did not go there)
 plusieurs	好多(several)
-vivre	生活(to live)
 Paris, J'y ai vécu plusieurs années	巴黎,我在这里生活了好几年(I lived in Paris for several years)
 Ils sont partis pour combien de temps	他们出发多久了?(How long have they been gone?)
 Pour trois mois	三个月(For three months)
@@ -2032,7 +2022,6 @@ familier	通俗的adj.=familiar
 familière	通俗的adj.阴性=familiar
 idéal	理想的adj.=ideal
 idéale	理想的adj.阴性=ideal
-imaginer	想象v.t.=imagine
 œil	眼睛n.m.=eye(pl. yeux)
 un œil	一只眼睛=an eye
 des yeux bleus	一双蓝眼睛=a pair of blue eyes
@@ -2151,3 +2140,132 @@ au restaurant	在餐馆
 Et après, où sortez-vous, en général	然后,你通常去哪里?
 dans les bars	在酒吧
 dans les discothèques	在迪斯科舞厅
+Quitter Paris	离开巴黎
+Pourquoi est-ce que vous partez à la campagne	你为什么要去乡下?
+Parce que c'est trop bruyant à Paris	因为巴黎太吵了
+Parce qu'à Paris, il y a trop de voitures	因为在巴黎,车太多了
+Cette rue est trop bruyante	这条街太吵了
+Tu travailles trop, tu vas te fatiguer	你工作太多了,你会累坏的(te fatiguer 使自己累)
+Ce manteau est assez chaud	这件大衣够暖和的
+Vous avez assez travaillé	你工作得够多了
+Il y a trop de monde à Beijing	北京人太多了
+Ne mange pas trop de viande	别吃太多肉
+Il y a assez de choses à faire	有足够多的事情可做
+Il n'a pas assez de temps libre pour voyager	他没有足够的空闲时间去旅行
+Il a assez de temps	他有足够的时间
+Il a pris trop de café	他喝了太多咖啡
+Il a beaucoup d'amis	他有很多朋友
+Tout le monde se connaît	大家都认识
+Tout le Japon	全日本
+Toute sa famille habite là-bas	她的整个家庭都住在那里
+toute la Chine	全中国
+toute la France	全法国
+Tous mes amis viennent ce soir	我所有的朋友今晚都来
+Toutes les filles aiment ce film	所有的女孩都喜欢这部电影
+Je mange tout	我全吃了
+Je les connais tous	我都认识他们(les 他们,直宾代词)
+Ils sont tous allés au cinéma	他们都去看电影了
+Je les ai toutes lues	我全读了它们(les 书,直宾代词, lues是lire的过去分词,配合直宾代词les,阴性复数)
+Elles aiment toutes ce chanteur	她们都喜欢这个歌手
+lever la tête	抬起头
+regarder Paul	看保罗
+Il se lave tous les jours	他每天都自己洗澡
+laver qn	洗某人
+Il se lave les mains avant le repas	他在吃饭前洗手
+se laver les mains	给自己洗手
+laver les mains à qn	给某人洗手
+Ils se regardent sans rien dire	他们互相看着对方,一言不发
+regarder qn	看某人
+Ils s'aiment depuis longtemps	他们相爱很久了
+aimer qn	爱某人
+s'aimer	互相爱
+Ils se serrent la main et se disent bonjour	他们握手并互相问好
+se serrer la main	握手
+serrer la main à qn	向某人握手
+se dire bonjour	互相问好
+dire bonjour à qn	向某人问好
+Les pommes se vendent bien aujourd'hui	今天苹果卖得很好(se vendre 被动形式)
+Cela ne se fait pas chez nous	这在我们这里不常见(se faire 被动形式)
+S'envoler	起飞(绝对式)
+s'en aller	离开(绝对式)
+s'enfuir	逃跑
+Les oiseaux s'envolent	鸟儿们飞走了
+se souvenir de	记得=remember
+s'occuper de	照顾,处理=take care of
+se servir de	使用=use
+Je ne me souviens pas de cela	我不记得那件事了=英语I don't remember that
+Albi	阿尔比(法国城镇名)
+argent	钱n.m.
+Donnez-moi un peu d'argent	给我一点钱
+avantage	优势,好处n.m.=advantage
+changer	改变,换,调换v.t.ind.=change
+Je suis sorti pour changer d'air	我出去换换空气
+Il a changé d'idée	他改变了主意=He changed his mind
+comprendre	理解v.t.=understand
+Je te comprends	我理解你=I understand you
+Il comprend le français	他懂法语=He understands French
+voter contre	投票反对=vote against
+voter pour	投票赞成=vote for
+jouer contre	与...对抗=play against
+ensemble	一起,共同adv.=together
+Ils habitent ensemble	他们住在一起=They live together
+espace	空间;场地,场所n.m.=space
+espace vert	绿地n.m.=green space
+fatigué	累的adj.=tired
+Il est fatigué après cinq heures de travail	他工作五个小时后很累=He is tired after five hours of work
+gagner	赢得,挣得v.t.=win,earn
+gagner de l'argent	挣钱=earn money
+gens	人们n.m.pl.=people
+Les gens aiment prendre du café	人们喜欢喝咖啡=People like to drink coffee
+s'imaginer	想象v.pr.=imagine
+inconvénient	不便之处,弊端n.m.=disadvantage
+marier	结婚v.t.=marry
+se marier	结婚v.pr.=get married
+monde	世界,人们n.m.=world,people
+tout le monde	每个人,大家=everyone
+Il y a beaucoup de monde	这里有很多人=There are a lot of people here
+ouvert	开着的,开放的,开门营业的adj.=open
+ouverte	开着的,开放的,开门营业的adj.(阴性单数)
+parce que	因为conj.=because
+penser	想,认为v.t.ind.=think
+penser de qch	
+raison	理智,理性;道理n.f.=reason
+avoir raison	有道理=you are right
+Tu as raison	你有道理=You are right
+trop	太,过于adv.=too
+voyager	旅行v.t.=travel
+tout	一切,所有的adj.(阳性); 整个的(阳性)(单数)
+toute	一切,所有的adj.(阴性); 整个的(阴性)(单数)
+tous	所有的adj.全部的=every阳性; 整个的(阳性)(复数)
+toutes	所有的adj.全部的=every阴性; 整个的(阴性)(复数)
+Tout va bien	一切都好=everything; 一切都好
+se lever	起床(to get up); 起床,起身
+se laver	洗澡、洗漱(to wash oneself); 洗澡
+se regarder	照镜子; 互相看
+attendre	等待(及物动词); 等待v.t.
+contre	紧挨着; 反对,不利prep.=against(反义词pour:赞成)
+imaginer	想象v.t.=imagine; 想象v.t.=imagine
+vivre	生活(to live); 生活,居住v.i.=live
+Comment, Céline et toi, vous quittez Paris	什么?Céline和你,你们离开巴黎的?
+Eh oui, on a acheté une maison à la campagne à côté d'Albi	是的,我们在Albi附近的乡下买了一所房子
+Eh oui, on va habiter là-bas	是的,我们将住在那里
+Mais attends...Je ne comprends pas...Pourquoi est-ce que vous partez à la campagne	但是等等...我不明白...你们为什么要去乡下?
+Mais parce qu'à Paris, il y a trop de voitures, trop de pollution, il n'y a pas assez d'espaces verts	因为在巴黎,车太多,污染太严重,绿地不够
+Et puis, c'est trop bruyant aussi	而且,这里也太吵了
+Moi, tu comprends, je ne peux plus vivre ici	你知道的,我不能再住在这里了
+Écoute, il y a aussi beaucoup d'avantages à Paris	听着,巴黎也有很多优点
+Il y a des théâtres, des cinémas...	有剧院,有电影院...
+On peut sortir tous les jours dans les bars ou en boîte...	我们可以每天去酒吧或夜总会...
+Il y a des magazins ouverts le dimanche...	有商店星期天也开门...
+Mais attends, mais qu'est-ce que tu t'imagines	但是等等,你是怎么想的?
+À la campagne aussi, il y a des choses à faire	在乡下也有事情可做
+Oui, mais alors vraiment pas beaucoup	是的,但真的不多
+Et puis, tout le monde se connaît, moi, je n'aime pas ça	而且,大家都互相认识,我不喜欢那样
+Eh bien, moin, je trouve ça pas mal du tout	嗯,我觉得那样完全不错(trouve=觉得, pas mal=不错)
+On connaît les gens, on parle ensemble...	大家互相认识,我们一起聊天...
+Ici, dans mon immeuble, je ne connais pas du tout mes voisins	在这里,在我的公寓楼里,我根本不认识我的邻居们
+Eh bien, moi, je les connais tous	嗯,我认识他们所有人
+Et Céline, qu'est-ce qu'elle en pense	那Céline怎么想的?
+Ah, Céline, elle est d'accord avec moi	啊,Céline,她同意我的看法
+Elle aussi, elle préfère partir	她也更喜欢离开
+Vous avez peut-être raison	你们也许有道理吧
