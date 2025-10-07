@@ -2131,3 +2131,23 @@ Il préfère se promener dans la forêt	他更喜欢在森林里散步=英语 He
 questionnaire	调查问卷n.m.=questionnaire
 sexe	性别n.m.
 théâtre	戏剧艺术;剧场;喜剧n.m.=theatre
+de dix-huit ans à vingt-cinq ans	从18岁到25岁, 18/25
+de vingt-six ans à trente-cinq ans	从26岁到35岁, 26/35
+de trente-six ans à cinquante ans	从36岁到50岁, 36/50
+cinquante et un ans et plus51	岁及以上, 51 et +
+Faites-vous du sport	您做运动吗?
+pas du tout	一点也不
+Le week-end, vous sortez beaucoup	周末你经常外出吗?
+Avec qui sortez-vous	你和谁一起出去?
+avec votre famille	和你的家人
+avec des amis	和朋友
+Quelles sont vos activités préférées	你最喜欢的活动是什么?
+Lire un livre, un journal, un magazine	看书、报纸、杂志
+aller sur Internet	上网
+Avec vos amis, où préférez-vous dîner	和朋友们,你更喜欢在哪里吃饭?
+chez vous	在你家
+chez eux	在他们家
+au restaurant	在餐馆
+Et après, où sortez-vous, en général	然后,你通常去哪里?
+dans les bars	在酒吧
+dans les discothèques	在迪斯科舞厅
