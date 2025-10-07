@@ -405,8 +405,8 @@ class TestGenerateTool:
 
         tool = TxtToXLSX()
         # en_and_cn('每日法語.txt', max_items=None, language="fr")
-        en_and_cn('法语考纲词汇.txt', max_items=None, language="fr")
-        # en_and_cn('每日英語.txt', max_items=None, language="en")
+        # en_and_cn('法语考纲词汇.txt', max_items=None, language="fr")
+        en_and_cn('每日英語.txt', max_items=None, language="en")
 
     def test_check_invalid_file_names(self):
         def check_invalid_filenames(directory):
