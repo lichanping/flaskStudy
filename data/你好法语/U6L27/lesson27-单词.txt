@@ -1,0 +1,53 @@
+Vivement les vacances 假期快来吧
+Donne-moi le journal给我那张报纸
+Ne me donne pas le journal别给我报纸
+se coucher  睡觉
+tu te couches 你睡觉
+Couche-toi tôt早点睡觉（toi是重读人称代词, 命令式肯定）
+se lever 起床（反身动词)
+nous nous levons  我们起床（nous是重读人称代词）
+Levons-nous tôt让我们早点起床（命令式肯定）
+se promener  散步
+Vous vous promenez 你们散步
+Promenez-vous   你们散步吧（命令式肯定）
+se lever站起来
+Tu te lèves 你站起来
+Lève-toi 请起身/起床（命令式肯定）
+Ne te couche pas très tard别睡得太晚（命令式否定）
+Ne nous levons pas tard别起得太晚（命令式否定）
+Il pleut, ne vous promenez pas下雨了，你们别出去散步（命令式否定）
+se être levé 起床了(代词式动词的复合过去时)
+je me suis levé 我已经起床了（代词式动词的复合过去时）
+tu t'es levé 你已经起床了（代词式动词的复合过去时, te遇到元音需要缩合成t'）
+il s'est levé 他已经起床了（代词式动词的复合过去时）
+elle s'est levée 她已经起床了（代词式动词的复合过去时）
+nous nous sommes levés 我们已经起床了（代词式动词的复合过去时）
+nous nous sommes levées 我们已经起床了（代词式动词的复合过去时, 复数阴性主语）
+vous vous êtes levés 你们已经起床了（代词式动词的复合过去时）
+ils se sont levés 他们已经起床了（代词式动词的复合过去时）
+elles se sont levées 她们已经起床了（代词式动词的复合过去时, 复数阴性主语）
+je me suis promené 我已经散步了（代词式动词的复合过去时）
+tu t'es promené 你已经散步了（代词式动词的复合过去时, te遇到元音需要缩合成t'）
+il s'est promené 他已经散步了（代词式动词的复合过去时）
+elle s'est promenée 她已经散步了（代词式动词的复合过去时）
+nous nous sommes promenés 我们已经散步了（代词式动词的复合过去时）
+nous nous sommes promenées 我们已经散步了（代词式动词的复合过去时, 复数阴性主语）
+vous vous êtes promenés 你们已经散步了（代词式动词的复合过去时）
+ils se sont promenés 他们已经散步了（代词式动词的复合过去时）
+elles se sont promenées 她们已经散步了（代词式动词的复合过去时, 复数阴性主语）
+Elle se lève à six heures tous les matins她每天早上六点起床（自反动词）
+Elle s'est levé à six heures ce matin她今天早上六点起床了（自反动词的复合过去时）
+Elle s'est lavé les mains 她洗了手（自反动词, 复合过去时, 这里的"les mains"是间接宾语）
+Ils se disent bonjour他们互相问好（相互）
+Elles se sont dit bonjour她们互相问好（相互, 复合过去时, 这里的"bonjour"是间接宾语）
+Elles se sont vu hier après-midi她们昨天下午见面了（相互, 复合过去时, 这里的"hier après-midi"是时间状语）
+Elles se sont écrit 她们互相写信（相互）
+Les livres se vendent bien这些书卖得很好（被动）
+Les livres se sont bien vendus 这些书曾经卖得很好（被动, 复合过去时）-被动或绝对意义中：P.P一定要与主语性数配合， 如vendus
+Elle s'intéresse à la musique classique她对古典音乐感兴趣（绝对）
+Elle s'est intéressé à la musique classique她曾经对古典音乐感兴趣（绝对, 复合过去时）-被动或绝对意义中：P.P一定要与主语性数配合， 如intéressée
+Elle s'est levée à six heures她已经六点起床了（自反动词, 复合过去时, 自反与相互的意义中：一定是与se为直宾的时候配合）
+Elle s'est lavé les mains她洗了手（自反动词, 复合过去时, laver les mains à qn, s'代替的是à qn间宾，不配合）
+Elles se sont dit bonjour她们互相问好（相互, 复合过去时, dire bonjour à qn, se代替的是à qn，为间接宾语，不需要配合）
+Elles se sont vues hier après-midi她们昨天下午见面了（相互, 复合过去时, se voir, voir qn, se 代替直宾，需配置vues）
+Elles se sont écrit她们互相写信（相互, 复合过去时, écrire à qn， s'代替的是à qn,为间宾，不需要配合）
