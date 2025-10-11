@@ -231,3 +231,58 @@ se promener	散步,遛(狗); 散步
 Elle s'est lavé les mains	她洗了手(自反动词, 复合过去时, 这里的"les mains"是间接宾语); 她洗了手(自反动词, 复合过去时, laver les mains à qn, s'代替的是à qn间宾,不配合)
 Elles se sont dit bonjour	她们互相问好(相互, 复合过去时, 这里的"bonjour"是间接宾语); 她们互相问好(相互, 复合过去时, dire bonjour à qn, se代替的是à qn,为间接宾语,不需要配合)
 Elles se sont écrit	她们互相写信(相互); 她们互相写信(相互, 复合过去时, écrire à qn, s'代替的是à qn,为间宾,不需要配合)
+Écoute-moi	听我说(命令式肯定, me是重读人称代词)
+Excusez-le	请原谅他(命令式肯定, le是重读人称代词)
+Excusez-la	请原谅她(命令式肯定, la是重读人称代词)
+Il a acheté trois kilos de pommes, Mangeons-en	他买了三公斤苹果,我们吃点吧(命令式肯定, en是一点,一些的意思)
+tout de suite	马上,立刻=英语right away
+Vas-y tout de suite	马上去那里吧(命令式肯定, y是那里,到那里)
+Ne nous donnez pas ça	别给我们那个(命令式否定, nous是重读人称代词, ça是那个)
+Ces billets sont à Philippe, ne les prends pas	这些票是菲利普的,别拿(取)它们(命令式否定, les是重读人称代词)
+Ces pommes ne sont pas bons, n'en prends pas	这些苹果不好,别吃(取)它们(命令式否定, en是一点,一些的意思)
+N'y va pas	别去那里(命令式否定, y是那里,到那里)
+Travaille	快工作(命令式肯定) (tu travailles, 第一组规则动词及aller在命令式第二人称单数时,去掉s)
+Va à l'école	快去学校(命令式肯定) (tu vas, 第一组规则动词及aller在命令式第二人称单数时,去掉s)
+Penses-y	考虑考虑这个事情吧(命令式肯定) (tu penses, 如果后面接en或y,出于发音的需要,保留s)
+Arcachon	阿卡雄(法国城市,位于吉伦特省)
+amuser	玩,娱乐v.pr.
+Amuse-toi bien	玩得开心!
+Amusez-vous bien	玩得开心!
+arrêter	停止v.t.
+arrêter de faire qch	停止做某事=英语stop doing sth
+Il a arrêté de parler	他停止说话了=英语He stopped talking
+baigner	游泳v.pr.洗澡,沐浴=英语bathe
+se baigner	游泳v.pr.洗澡,沐浴=英语bathe oneself
+se baigner à la mer	在海里游泳
+bref	总而言之,简而言之=英语in short
+calmer	冷静下来,镇定下来v.pr.
+se calmer	冷静下来,镇定下来v.pr.(自己使自己冷静)
+faire du camping	去露营
+Cantal	康塔尔(法国省份)
+et puis	然后=英语and then
+Je déteste ça, enfin, je ne l'aime pas trop	我讨厌它,最后,我不是很喜欢它
+ennuyer	感到厌倦;感到烦恼v.pr.
+C'est fini	结束了
+glace	冰淇淋n.f.
+habitude	习惯n.f.=英语habit
+avoir l'habitude de faire qch	有做某事的习惯=英语to be used to doing sth
+Il a l'habitude de se lever très tôt	他有早起的习惯=英语He is used to getting up very early
+pause	休息n.f.暂停,间断
+pause-café	喝咖啡休息时间n.f.
+rêver	做梦v.i.=英语dream
+Sicile	西西里岛(意大利岛屿)=英语Sicily
+C'est super	太棒了
+C'est chouette	太好了=英语That's great
+C'est génial	太好了=英语That's great
+toujours	总是,一直=英语always
+vivement	快,赶快(用作感叹词)=英语Can't wait
+vraiment	真的,确实=英语really
+Donne-moi le journal	给我那张报纸; 给我那张报纸(命令式肯定, moi是重读人称代词)
+Lève-toi	请起身/起床(命令式肯定); 快起床(命令式肯定) (tu te lèves, 第一组规则动词及aller在命令式第二人称单数时,去掉s)
+Vas-y	你去吧(命令式)(加s接元音); 快去那里(命令式肯定) (tu vas, 如果后面接en或y,出于发音的需要,保留s)
+Parles-en	说给我(命令式)(en代表着一些东西)(加s接元音); 快谈谈它(命令式肯定) (tu parles, 如果后面接en或y,出于发音的需要,保留s)
+tout d'abord	首先; 首先=英语first of all
+enfin	最后adv.; 最后loc.adv.; 最后,终于=英语at last, finally
+étranger	外国的adj.; 外国,异国n.m.
+fini	完成过(第二组规则动词:去掉词尾的r); 结束的,完成的adj.
+soleil	阳光n.m.; 太阳n.m.阳光=英语sun
