@@ -146,10 +146,10 @@ export function validateLogin() {
         if (student && student.name !== storedStudentName) {
             // Update sessionStorage with the new student's name
             sessionStorage.setItem('studentName', student.name);
-            window.location.href = 'index.html';
+            window.location.href = 'jpn.html';
         } else {
             // If the same username is entered, skip login process
-            window.location.href = 'index.html';
+            window.location.href = 'jpn.html';
         }
         return;
     }
@@ -159,7 +159,7 @@ export function validateLogin() {
         localStorage.setItem('loggedInWord', 'true');
         localStorage.setItem('loginDate', currentDate.toString());
         sessionStorage.setItem('studentName', student.name);
-        window.location.href = 'index.html';
+        window.location.href = 'jpn.html';
     } else {
         document.getElementById('error-message').style.display = 'block';
     }
