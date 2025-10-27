@@ -1,0 +1,534 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>日语单词学习工具</title>
+    <style>
+        /* 样式保持不变 */
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
+            min-height: 100vh;
+            padding: 20px;
+        }
+
+        .container {
+            max-width: 900px;
+            margin: 0 auto;
+            background: white;
+            border-radius: 12px;
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+            overflow: hidden;
+        }
+
+        header {
+            background: #4a6fa5;
+            color: white;
+            padding: 25px 30px;
+            text-align: center;
+        }
+
+        h1 {
+            font-size: 2.2rem;
+            margin-bottom: 10px;
+            font-weight: 600;
+        }
+
+        .subtitle {
+            font-size: 1.1rem;
+            opacity: 0.9;
+        }
+
+        .controls {
+            padding: 25px 30px;
+            background: #f8f9fa;
+            border-bottom: 1px solid #eaeaea;
+        }
+
+        .file-selector {
+            display: flex;
+            align-items: center;
+            gap: 15px;
+            flex-wrap: wrap;
+        }
+
+        label {
+            font-weight: 600;
+            color: #495057;
+            font-size: 1.1rem;
+        }
+
+        select {
+            padding: 12px 15px;
+            border: 2px solid #d1d5db;
+            border-radius: 8px;
+            font-size: 1rem;
+            background: white;
+            color: #374151;
+            flex-grow: 1;
+            max-width: 300px;
+            transition: border-color 0.3s;
+        }
+
+        select:focus {
+            outline: none;
+            border-color: #4a6fa5;
+            box-shadow: 0 0 0 3px rgba(74, 111, 165, 0.1);
+        }
+
+        .word-list {
+            padding: 0;
+        }
+
+        .word-item {
+            display: flex;
+            align-items: center;
+            padding: 20px 30px;
+            border-bottom: 1px solid #eaeaea;
+            transition: background-color 0.2s;
+        }
+
+        .word-item:hover {
+            background-color: #f8f9fa;
+        }
+
+        .japanese {
+            flex: 1;
+            font-size: 1.4rem;
+            font-weight: 600;
+            color: #2d3748;
+        }
+
+        .play-button {
+            background: #4a6fa5;
+            color: white;
+            border: none;
+            border-radius: 50%;
+            width: 50px;
+            height: 50px;
+            margin: 0 25px;
+            cursor: pointer;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            transition: all 0.3s;
+            box-shadow: 0 4px 6px rgba(74, 111, 165, 0.2);
+        }
+
+        .play-button:hover {
+            background: #3a5a8a;
+            transform: translateY(-2px);
+            box-shadow: 0 6px 8px rgba(74, 111, 165, 0.3);
+        }
+
+        .play-button:active {
+            transform: translateY(0);
+        }
+
+        .play-button.playing {
+            background: #e53e3e;
+            animation: pulse 0.5s ease-in-out;
+        }
+
+        @keyframes pulse {
+            0% {
+                transform: scale(1);
+            }
+            50% {
+                transform: scale(1.1);
+            }
+            100% {
+                transform: scale(1);
+            }
+        }
+
+        .chinese {
+            flex: 1;
+            font-size: 1.1rem;
+            color: #4a5568;
+            line-height: 1.5;
+        }
+
+        .empty-state {
+            text-align: center;
+            padding: 60px 30px;
+            color: #6b7280;
+        }
+
+        .empty-state h2 {
+            font-size: 1.5rem;
+            margin-bottom: 10px;
+        }
+
+        footer {
+            text-align: center;
+            padding: 20px;
+            background: #f8f9fa;
+            color: #6b7280;
+            font-size: 0.9rem;
+        }
+
+        .debug-info {
+            padding: 15px 30px;
+            background: #f0f0f0;
+            border-top: 1px solid #ddd;
+            font-size: 0.9rem;
+            color: #666;
+        }
+
+        .debug-info h3 {
+            margin-bottom: 10px;
+            color: #333;
+        }
+
+        .debug-info pre {
+            background: #fff;
+            padding: 10px;
+            border-radius: 5px;
+            overflow-x: auto;
+            max-height: 200px;
+            overflow-y: auto;
+            white-space: pre-wrap;
+            word-wrap: break-word;
+        }
+
+        @media (max-width: 768px) {
+            .word-item {
+                flex-direction: column;
+                align-items: flex-start;
+                gap: 15px;
+            }
+
+            .play-button {
+                margin: 0;
+                align-self: center;
+            }
+
+            .file-selector {
+                flex-direction: column;
+                align-items: flex-start;
+            }
+
+            select {
+                max-width: 100%;
+                width: 100%;
+            }
+        }
+    </style>
+</head>
+<body>
+<div class="container">
+    <header>
+        <h1>日语单词学习工具</h1>
+        <p class="subtitle">选择词库文件，点击播放按钮学习日语发音</p>
+    </header>
+
+    <div class="controls">
+        <div class="file-selector">
+            <label for="file-select">选择词库文件:</label>
+            <select id="file-select">
+                <option value="">-- 请选择词库文件 --</option>
+                <option value="data/词库源/日语单词.txt">日语单词.txt</option>
+                <option value="data/词库源/新标准日语.txt">新标准日语.txt</option>
+                <option value="data/词库源/日语口语课.txt">日语口语课.txt</option>
+            </select>
+        </div>
+    </div>
+
+    <div id="word-list" class="word-list">
+        <div class="empty-state">
+            <h2>欢迎使用日语学习工具</h2>
+            <p>请从上方下拉菜单中选择一个词库文件开始学习</p>
+        </div>
+    </div>
+
+    <div class="debug-info">
+        <h3>调试信息</h3>
+        <pre id="debug-console">控制台输出将显示在这里...</pre>
+    </div>
+
+    <footer>
+        <p>日语学习工具 &copy; 2025 by 甜歌</p>
+    </footer>
+</div>
+
+<script>
+    // 调试日志函数
+    function debugLog(message) {
+        const debugConsole = document.getElementById('debug-console');
+        const timestamp = new Date().toLocaleTimeString();
+        const logEntry = `[${timestamp}] ${message}`;
+
+        debugConsole.textContent += logEntry + '\n';
+        debugConsole.scrollTop = debugConsole.scrollHeight;
+        console.log(logEntry);
+    }
+
+    // 安全文件名函数
+    function safeFilename(text) {
+        if (!text) return '';
+
+        let cleaned = text.replace(/[\\/*?:"<>|]/g, "");
+        cleaned = cleaned.replace(/\s+/g, ' ').trim();
+
+        debugLog(`文件名清理: "${text}" -> "${cleaned}"`);
+        return cleaned;
+    }
+
+    // 深度清理日语部分
+    function deepCleanJapanesePart(japanesePart) {
+        if (!japanesePart) return '';
+
+        debugLog(`深度清理前: "${japanesePart}"`);
+
+        let cleaned = japanesePart.replace(/\\/g, '');
+        cleaned = cleaned.replace(/\s+[a-zA-Z]\s*$/, '');
+        cleaned = cleaned.replace(/[，。！？；：、"\'【】《》\s]+$/, '');
+        cleaned = cleaned.replace(/\s+/g, ' ').trim();
+
+        debugLog(`深度清理后: "${cleaned}"`);
+        return cleaned;
+    }
+
+    // 智能分割日语和中文部分
+    function splitJapaneseChinese(line) {
+        if (!line || typeof line !== 'string') {
+            return {japanese: '', chinese: ''};
+        }
+
+        line = line.trim();
+        debugLog(`处理行: "${line}"`);
+
+        if (!line) {
+            return {japanese: '', chinese: ''};
+        }
+
+        if (line.includes('\t')) {
+            const parts = line.split('\t');
+            debugLog(`制表符分割结果: ${JSON.stringify(parts)}`);
+
+            if (parts.length >= 2) {
+                let japanesePart = parts[0].trim();
+                let chinesePart = parts.slice(1).join('\t').trim();
+
+                japanesePart = deepCleanJapanesePart(japanesePart);
+
+                if (!japanesePart) {
+                    japanesePart = parts[0].trim();
+                }
+
+                debugLog(`最终分割结果 - 日语: "${japanesePart}", 中文: "${chinesePart}"`);
+                return {japanese: japanesePart, chinese: chinesePart};
+            }
+        }
+
+        const kanaPattern = /[\u3040-\u309F\u30A0-\u30FF]/g;
+        const kanaMatches = [...line.matchAll(kanaPattern)];
+
+        if (kanaMatches.length > 0) {
+            const lastKanaPos = kanaMatches[kanaMatches.length - 1].index + 1;
+            const remainingText = line.substring(lastKanaPos);
+
+            const chinesePattern = /[\u4E00-\u9FFF]{2,}/;
+            const chineseMatch = remainingText.match(chinesePattern);
+
+            if (chineseMatch) {
+                const chineseStart = lastKanaPos + chineseMatch.index;
+                let japanesePart = line.substring(0, chineseStart).trim();
+                let chinesePart = line.substring(chineseStart).trim();
+
+                japanesePart = deepCleanJapanesePart(japanesePart);
+
+                if (japanesePart && chinesePart) {
+                    debugLog(`假名分割结果 - 日语: "${japanesePart}", 中文: "${chinesePart}"`);
+                    return {japanese: japanesePart, chinese: chinesePart};
+                }
+            }
+        }
+
+        const midPoint = Math.floor(line.length / 2);
+        let japanesePart = line.substring(0, midPoint).trim();
+        let chinesePart = line.substring(midPoint).trim();
+
+        japanesePart = deepCleanJapanesePart(japanesePart);
+
+        debugLog(`简单分割结果 - 日语: "${japanesePart}", 中文: "${chinesePart}"`);
+        return {japanese: japanesePart, chinese: chinesePart};
+    }
+
+    // 处理文本数据
+    function processTextData(text) {
+        const wordList = [];
+        const lines = text.split('\n');
+
+        debugLog(`共找到 ${lines.length} 行文本`);
+
+        lines.forEach((line, index) => {
+            const trimmedLine = line.trim();
+            if (trimmedLine) {
+                const {japanese, chinese} = splitJapaneseChinese(trimmedLine);
+                if (japanese && chinese) {
+                    wordList.push({japanese, chinese});
+                    debugLog(`第${index + 1}行处理成功: "${japanese}" -> "${chinese}"`);
+                } else {
+                    debugLog(`第${index + 1}行分割失败: "${trimmedLine}"`);
+                }
+            }
+        });
+
+        debugLog(`处理完成，共提取 ${wordList.length} 个单词`);
+        return wordList;
+    }
+
+    // 修改播放按钮的点击事件处理
+    function playAudio(japaneseWord, event) {
+        debugLog(`开始播放音频: "${japaneseWord}"`);
+
+        const cleanWord = japaneseWord.replace(/\\/g, '');
+        debugLog(`清理后的单词: "${cleanWord}"`);
+
+        const safeName = safeFilename(cleanWord);
+        const soundFileName = safeName + '.mp3';
+        const soundFilePath = `static/sounds/${soundFileName}`;
+
+        debugLog(`音频文件路径: ${soundFilePath}`);
+
+        const audio = new Audio();
+        audio.src = soundFilePath;
+        audio.volume = 1.0;
+
+        audio.addEventListener('ended', function () {
+            debugLog(`音频播放结束: ${soundFilePath}`);
+            const button = event.target.closest('.play-button');
+            if (button) {
+                button.classList.remove('playing');
+            }
+        });
+
+        audio.addEventListener('error', function (e) {
+            debugLog(`音频加载错误: ${e.message} (路径: ${soundFilePath})`);
+            alert(`无法播放音频: ${cleanWord}\n请检查文件是否存在: ${soundFilePath}`);
+        });
+
+        audio.addEventListener('loadstart', function () {
+            debugLog(`开始加载音频: ${soundFilePath}`);
+        });
+
+        audio.play().then(() => {
+            debugLog(`音频开始播放: ${soundFilePath}`);
+            const button = event.target.closest('.play-button');
+            if (button) {
+                button.classList.add('playing');
+            }
+        }).catch(error => {
+            debugLog(`播放失败: ${error.message}`);
+            alert(`播放失败: ${error.message}`);
+        });
+    }
+
+    // 文件选择器事件监听
+    document.getElementById('file-select').addEventListener('change', function () {
+        const selectedFile = this.value;
+        debugLog(`选择的文件: ${selectedFile}`);
+
+        if (selectedFile) {
+            loadWordList(selectedFile);
+        } else {
+            document.getElementById('word-list').innerHTML = `
+                    <div class="empty-state">
+                        <h2>欢迎使用日语学习工具</h2>
+                        <p>请从上方下拉菜单中选择一个词库文件开始学习</p>
+                    </div>
+                `;
+        }
+    });
+
+    // 加载单词列表
+    async function loadWordList(filePath) {
+        debugLog(`开始加载文件: ${filePath}`);
+
+        try {
+            document.getElementById('word-list').innerHTML = `
+                    <div class="empty-state">
+                        <h2>加载中...</h2>
+                        <p>正在读取词库文件，请稍候</p>
+                    </div>
+                `;
+
+            const response = await fetch(filePath);
+
+            if (!response.ok) {
+                throw new Error(`HTTP错误! 状态: ${response.status}`);
+            }
+
+            const text = await response.text();
+            debugLog(`文件加载成功，内容长度: ${text.length}字符`);
+
+            const wordList = processTextData(text);
+            displayWordList(wordList);
+
+        } catch (error) {
+            debugLog(`文件加载失败: ${error.message}`);
+            document.getElementById('word-list').innerHTML = `
+                    <div class="empty-state">
+                        <h2>加载失败</h2>
+                        <p>无法读取选定的词库文件: ${error.message}</p>
+                    </div>
+                `;
+        }
+    }
+
+    // 显示单词列表 - 修改后的版本
+    function displayWordList(wordList) {
+        const wordListContainer = document.getElementById('word-list');
+
+        if (wordList.length === 0) {
+            wordListContainer.innerHTML = `
+                    <div class="empty-state">
+                        <h2>没有找到单词数据</h2>
+                        <p>请检查文件格式是否正确</p>
+                    </div>
+                `;
+            debugLog('单词列表为空');
+            return;
+        }
+
+        debugLog(`显示 ${wordList.length} 个单词`);
+
+        let html = '';
+        wordList.forEach((word, index) => {
+            const cleanJapanese = word.japanese.replace(/\\/g, '');
+
+            // 关键修改：在 onclick 中添加 event 参数
+            html += `
+                    <div class="word-item">
+                        <div class="japanese">${cleanJapanese}</div>
+                        <button class="play-button" onclick="playAudio('${cleanJapanese.replace(/'/g, "\\'")}', event)">
+                            <i class="fas fa-volume-up"></i>
+                        </button>
+                        <div class="chinese">${word.chinese}</div>
+                    </div>
+                `;
+        });
+
+        wordListContainer.innerHTML = html;
+        debugLog('单词列表显示完成');
+    }
+
+    // 初始化调试信息
+    debugLog('日语学习工具已初始化');
+</script>
+
+<!-- 引入Font Awesome图标 -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+</body>
+</html>
