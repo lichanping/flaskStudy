@@ -14,13 +14,13 @@ DEFAULT_WORD_LIMIT = 50
 
 # Mapping of word list files to student folders
 file_to_student_mapping = {
+    '中考词汇.txt': '初二男',
     '高考词汇.txt': '英语',
     '雅思基础词汇.txt': '英语',
     '法语单词.txt': '法语',
     '你好法语.txt': '法语',
     '法语妈妈.txt': '妈妈',
     '中考考纲词组.txt': '中考考纲学生',
-    '中考词汇.txt': '中考学生'
 }
 
 

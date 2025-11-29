@@ -122,6 +122,7 @@ const students = [
     {name: '法语', password: '0402'},
     {name: '妈妈', password: '0601'},
     {name: '硕硕', password: '8'},
+    {name: '初二男', password: '0101'}
 ];
 
 export function validateLogin() {
