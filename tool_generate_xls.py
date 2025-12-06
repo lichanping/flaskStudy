@@ -264,23 +264,22 @@ class TextToSpeechConverter:
         # output_file = os.path.join(self.txt_to_xlsx.data_folder, file_name.split('.')[0] + ".mp3")
 
         voices = await VoicesManager.create()
-        # voice_names = [
-        #     'Microsoft Server Speech Text to Speech Voice (fr-FR, VivienneMultilingualNeural)',
-        #     'Microsoft Server Speech Text to Speech Voice (fr-FR, DeniseNeural)',
-        #     'Microsoft Server Speech Text to Speech Voice (fr-FR, EloiseNeural)',
-        # ]
-        # english_voice = voice_names[0]
         if language == "fr":
             excluded_voices = [
                 'Microsoft Server Speech Text to Speech Voice (fr-FR, EloiseNeural)',
                 'Microsoft Server Speech Text to Speech Voice (fr-FR, VivienneMultilingualNeural)',
-                # 'Microsoft Server Speech Text to Speech Voice (fr-FR, HenriNeural)',
                 'Microsoft Server Speech Text to Speech Voice (fr-FR, RemyMultilingualNeural)'
             ]
             all_voices = voices.find(Language="fr", Locale="fr-FR")
             voice_list = [voice for voice in all_voices if voice["Name"] not in excluded_voices]
         elif language == "en":
-            voice_list = voices.find(Language="en", Locale="en-US")
+            excluded_voices = [
+                'Microsoft Server Speech Text to Speech Voice (en-US, BrianNeural)',
+                'Microsoft Server Speech Text to Speech Voice (en-US, RogerNeural)',
+                'Microsoft Server Speech Text to Speech Voice (en-US, AvaMultilingualNeural)'
+            ]
+            all_voices = voices.find(Language="en", Locale="en-US")
+            voice_list = [voice for voice in all_voices if voice["Name"] not in excluded_voices]
         else:
             raise ValueError("Unsupported language specified. Please choose 'fr' for French or 'en' for English.")
         chinese_voice = voices.find(
@@ -407,7 +406,7 @@ class TestGenerateTool:
         # en_and_cn('每日法語.txt', max_items=None, language="fr")
         # en_and_cn('法语考纲词汇.txt', max_items=None, language="fr")
         # en_and_cn('每日英語.txt', max_items=None, language="en")
-        en_and_cn('怡睿.txt', max_items=None, language="en")
+        en_and_cn('彤彤.txt', max_items=None, language="en")
 
     def test_check_invalid_file_names(self):
         def check_invalid_filenames(directory):
