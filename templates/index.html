@@ -10,17 +10,32 @@
 <h1>English Words</h1>
 <form id="word_form" action="/" method="post">
     <input type="hidden" name="action" id="action" value="">
+    <label for="student_select">学生:</label>
+    <select id="student_select" name="student_name">
+        {% for student in students %}
+        <option value="{{ student }}" {% if student == selected_student %}selected{% endif %}>{{ student }}</option>
+        {% endfor %}
+    </select>
+
     <label for="file_select">词库选择:</label>
     <select id="file_select" name="file_name">
-        <option value="中考词汇.txt">中考词汇</option>
-        <option value="高考词汇.txt">高考词汇</option>
-        <option value="雅思基础词汇.txt">雅思基础词汇</option>
-        <option value="法语单词.txt">法语单词</option>
-        <option value="你好法语.txt">你好法语</option>
-        <option value="法语妈妈.txt">法语妈妈</option>
+        <option value="中考词汇.txt" {% if selected_file == '中考词汇.txt' %}selected{% endif %}>中考词汇</option>
+        <option value="高考词汇.txt" {% if selected_file == '高考词汇.txt' %}selected{% endif %}>高考词汇</option>
+        <option value="雅思基础词汇.txt" {% if selected_file == '雅思基础词汇.txt' %}selected{% endif %}>雅思基础词汇</option>
+        <option value="法语单词.txt" {% if selected_file == '法语单词.txt' %}selected{% endif %}>法语单词</option>
+        <option value="你好法语.txt" {% if selected_file == '你好法语.txt' %}selected{% endif %}>你好法语</option>
+        <option value="法语妈妈.txt" {% if selected_file == '法语妈妈.txt' %}selected{% endif %}>法语妈妈</option>
         <!--        <option value="雅思全部(卢).txt">雅思全部</option>-->
         <!--        <option value="中考考纲词组.txt">中考考纲词组</option>-->
     </select>
+
+    <label for="mode_select">模式:</label>
+    <select id="mode_select" name="learning_mode">
+        <option value="new" {% if learning_mode == 'new' %}selected{% endif %}>学新</option>
+        <option value="review" {% if learning_mode == 'review' %}selected{% endif %}>抗遗忘复习</option>
+    </select>
+
+    <span id="dueReviewLabel">待复习: {{ due_review_count }}</span>
     <input type="hidden" name="selected_file" id="selected_file" value="">
     <button type="submit" onclick="document.getElementById('action').value = 'check';">刷新</button>
     <div id="buttonsContainer">
@@ -315,6 +330,10 @@
         var selectElement = document.getElementById('file_select');
         var selectedValue = selectElement.options[selectElement.selectedIndex].value;
         sessionStorage.setItem('selectedFile', selectedValue);
+        var selectedStudent = document.getElementById('student_select').value;
+        sessionStorage.setItem('selectedStudent', selectedStudent);
+        var selectedMode = document.getElementById('mode_select').value;
+        sessionStorage.setItem('selectedMode', selectedMode);
     });
 
     // Restore selected option after page reload
@@ -323,6 +342,18 @@
         var selectedFile = sessionStorage.getItem('selectedFile');
         if (selectedFile) {
             selectElement.value = selectedFile;
+        }
+
+        var studentSelect = document.getElementById('student_select');
+        var selectedStudent = sessionStorage.getItem('selectedStudent');
+        if (selectedStudent) {
+            studentSelect.value = selectedStudent;
+        }
+
+        var modeSelect = document.getElementById('mode_select');
+        var selectedMode = sessionStorage.getItem('selectedMode');
+        if (selectedMode) {
+            modeSelect.value = selectedMode;
         }
     };
 
