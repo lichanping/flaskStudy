@@ -4,38 +4,49 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>学生登录</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/auth.css') }}">
 </head>
 <body>
-<h1>学生登录</h1>
-{% if error_message %}
-<p style="color: red;">{{ error_message }}</p>
-{% endif %}
-<form action="/login/student" method="post">
-    <label for="username">账号:</label>
-    <input id="username" name="username" type="text" required>
-    <br>
-    <label for="password">密码:</label>
-    <input id="password" name="password" type="password" required>
-    <br>
-    <button type="submit">登录</button>
-</form>
-<p>POC默认学生密码: 123456</p>
-<table border="1" cellpadding="6" cellspacing="0">
-    <thead>
-    <tr>
-        <th>学生账号</th>
-        <th>学生名称</th>
-    </tr>
-    </thead>
-    <tbody>
-    {% for account in student_accounts %}
-    <tr>
-        <td>{{ account.username }}</td>
-        <td>{{ account.student_name }}</td>
-    </tr>
-    {% endfor %}
-    </tbody>
-</table>
-<p><a href="/login/teacher">切换到老师登录</a></p>
+<div class="auth-shell">
+    <section class="auth-left">
+        <h1 class="auth-title">学生登录</h1>
+        <p class="auth-subtitle">登录后进入自己的抗遗忘复习页，只展示你自己的学习任务。</p>
+        <div class="auth-note">POC 默认学生密码: 123456</div>
+
+        <div class="student-table-wrap">
+            <table class="student-table">
+                <thead>
+                <tr>
+                    <th>学生账号</th>
+                    <th>学生名称</th>
+                </tr>
+                </thead>
+                <tbody>
+                {% for account in student_accounts %}
+                <tr>
+                    <td>{{ account.username }}</td>
+                    <td>{{ account.student_name }}</td>
+                </tr>
+                {% endfor %}
+                </tbody>
+            </table>
+        </div>
+    </section>
+    <section class="auth-right">
+        {% if error_message %}
+        <p class="error-message">{{ error_message }}</p>
+        {% endif %}
+        <form class="auth-form" action="/login/student" method="post">
+            <label for="username">账号</label>
+            <input id="username" name="username" type="text" placeholder="例如 student1" required>
+
+            <label for="password">密码</label>
+            <input id="password" name="password" type="password" placeholder="输入密码" required>
+
+            <button class="btn-primary" type="submit">登录</button>
+        </form>
+        <a class="switch-link" href="/login/teacher">切换到老师登录</a>
+    </section>
+</div>
 </body>
 </html>
