@@ -5,6 +5,63 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>学新训练</title>
     <link rel="stylesheet" href="{{ url_for('static', filename='css/newflow.css') }}">
+    <style>
+        .route-item.active .route-line::before {
+            background: linear-gradient(180deg, #f59f00, #e8590c);
+        }
+
+        .route-item.active .route-dot {
+            background: #f08c00;
+            box-shadow: 0 0 0 3px rgba(240, 140, 0, 0.2);
+        }
+
+        .route-item.active .route-content {
+            border-color: #ffd8a8;
+            box-shadow: inset 0 0 0 1px #ffd8a8;
+            background: #fff9f0;
+        }
+
+        .route-item.done .route-content {
+            border-color: #b2f2bb;
+            background: #f4fff6;
+        }
+
+        .term-line {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            gap: 10px;
+        }
+
+        .toggle-meaning-btn {
+            border: 1px solid #c7d8ea;
+            border-radius: 8px;
+            background: #f4f9ff;
+            color: #1b4b75;
+            padding: 6px 10px;
+            font-size: 13px;
+            cursor: pointer;
+        }
+
+        .toggle-meaning-btn:hover {
+            background: #e9f2ff;
+        }
+
+        .meaning {
+            margin-top: 6px;
+            color: #4e647b;
+        }
+
+        .meaning.hidden {
+            display: none;
+        }
+
+        .route-hint {
+            margin-top: 10px;
+            font-size: 14px;
+            color: #43607d;
+        }
+    </style>
 </head>
 <body>
 <div class="container">
@@ -19,16 +76,20 @@
     <div class="card">
         {% if group_words %}
             {% for word in group_words %}
-            <div class="route-item">
+            <div class="route-item" data-word-index="{{ loop.index }}">
                 <div class="route-line">
                     <span class="route-dot"></span>
                 </div>
                 <div class="route-content">
-                    <div class="term">{{ word.term }}</div>
-                    <div class="meaning">{{ word.meaning }}</div>
+                    <div class="term-line">
+                        <div class="term" data-term>{{ word.term }}</div>
+                        <button type="button" class="toggle-meaning-btn">显示中文</button>
+                    </div>
+                    <div class="meaning hidden">{{ word.meaning }}</div>
                 </div>
             </div>
             {% endfor %}
+            <div class="route-hint">路线进度：<span id="routeProgress">0</span> / <span id="routeTotal">0</span></div>
         {% else %}
             <p>本组无单词，点击继续。</p>
         {% endif %}
@@ -45,5 +106,83 @@
         </form>
     </div>
 </div>
+<script>
+    (function () {
+        const routeItems = Array.from(document.querySelectorAll('.route-item'));
+        if (!routeItems.length) {
+            return;
+        }
+
+        const audioPlayer = new Audio();
+        const basePattern = [1, 2, 3, 2, 1, 2, 3, 4, 3, 2, 1, 2, 3, 4, 5, 4, 3, 4, 5, 2, 1, 2, 1, 2, 3, 4, 5, 4, 3, 2, 1];
+        const wordCount = routeItems.length;
+        const routeSequence = basePattern.filter((index) => index <= wordCount);
+        let routeCursor = 0;
+
+        const progressEl = document.getElementById('routeProgress');
+        const totalEl = document.getElementById('routeTotal');
+        if (totalEl) {
+            totalEl.textContent = String(routeSequence.length);
+        }
+
+        function updateRouteHighlight() {
+            const expected = routeSequence[routeCursor];
+            routeItems.forEach((item, idx) => {
+                const currentIndex = idx + 1;
+                item.classList.remove('active');
+                if (currentIndex === expected) {
+                    item.classList.add('active');
+                }
+            });
+            if (progressEl) {
+                progressEl.textContent = String(routeCursor);
+            }
+        }
+
+        function playAudio(term) {
+            const src = `{{ url_for('static', filename='sounds') }}/${term}.mp3`;
+            audioPlayer.src = src;
+            audioPlayer.play().catch(() => {
+                // Ignore blocked autoplay or missing audio in training mode
+            });
+        }
+
+        routeItems.forEach((item, idx) => {
+            const index = idx + 1;
+            const termEl = item.querySelector('[data-term]');
+            const meaningEl = item.querySelector('.meaning');
+            const toggleBtn = item.querySelector('.toggle-meaning-btn');
+
+            item.addEventListener('click', (event) => {
+                if (event.target === toggleBtn) {
+                    return;
+                }
+                const term = termEl ? termEl.textContent.trim() : '';
+                if (term) {
+                    playAudio(term);
+                }
+
+                if (routeCursor >= routeSequence.length) {
+                    return;
+                }
+
+                const expected = routeSequence[routeCursor];
+                if (index === expected) {
+                    item.classList.add('done');
+                    routeCursor += 1;
+                    updateRouteHighlight();
+                }
+            });
+
+            toggleBtn.addEventListener('click', () => {
+                const isHidden = meaningEl.classList.contains('hidden');
+                meaningEl.classList.toggle('hidden');
+                toggleBtn.textContent = isHidden ? '隐藏中文' : '显示中文';
+            });
+        });
+
+        updateRouteHighlight();
+    })();
+</script>
 </body>
 </html>
