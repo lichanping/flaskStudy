@@ -125,6 +125,19 @@
             totalEl.textContent = String(routeSequence.length);
         }
 
+        function hideAllMeanings() {
+            routeItems.forEach((routeItem) => {
+                const meaning = routeItem.querySelector('.meaning');
+                const button = routeItem.querySelector('.toggle-meaning-btn');
+                if (meaning && !meaning.classList.contains('hidden')) {
+                    meaning.classList.add('hidden');
+                }
+                if (button) {
+                    button.textContent = '显示中文';
+                }
+            });
+        }
+
         function updateRouteHighlight() {
             const expected = routeSequence[routeCursor];
             routeItems.forEach((item, idx) => {
@@ -157,6 +170,9 @@
                 if (event.target === toggleBtn) {
                     return;
                 }
+
+                hideAllMeanings();
+
                 const term = termEl ? termEl.textContent.trim() : '';
                 if (term) {
                     playAudio(term);
