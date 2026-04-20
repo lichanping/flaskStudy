@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>学新复核</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/newflow.css') }}">
+</head>
+<body>
+<div class="container">
+    <div class="card">
+        <h1>学新流程：步骤 3/3 - 全量复核</h1>
+        <div class="meta">学生：{{ session_info.student_name }} ｜ 词库：{{ session_info.source_file.replace('.txt', '') }}</div>
+        <div class="meta">请勾选“本轮已经学会”的单词，提交后将自动生成 21 天 10 次抗遗忘任务。</div>
+    </div>
+
+    <form method="post" class="card">
+        {% for word in words %}
+        <div class="word-row">
+            <div class="index">{{ loop.index }}</div>
+            <div>
+                <div class="term">
+                    {{ word.term }}
+                    {% if word.initial_status == 'known' %}
+                        <span class="badge badge-ok">初筛会</span>
+                    {% else %}
+                        <span class="badge badge-unk">初筛不会</span>
+                    {% endif %}
+                </div>
+                <div class="meaning">{{ word.meaning }}</div>
+            </div>
+            <div>
+                <label>
+                    <input type="checkbox" name="learned_word_id" value="{{ word.word_id }}"
+                    {% if word.initial_status == 'known' %}checked{% endif %}>
+                    已学会
+                </label>
+            </div>
+        </div>
+        {% endfor %}
+
+        <div class="actions">
+            <button class="btn btn-primary" type="submit">完成学新并生成抗遗忘任务</button>
+            <a class="btn btn-secondary" href="{{ url_for('new_train', session_id=session_info.id, group_no=1) }}">返回训练页</a>
+        </div>
+    </form>
+</div>
+</body>
+</html>

@@ -15,6 +15,9 @@
     </form>
     <a href="/login/teacher" style="margin-left: 10px;">老师登录</a>
     <a href="/login/student" style="margin-left: 10px;">学生登录</a>
+    {% if user.role == 'teacher' %}
+    <a href="/new/start" style="margin-left: 10px;">进入学新多页面流程</a>
+    {% endif %}
 </div>
 <form id="word_form" action="/" method="post">
     <input type="hidden" name="action" id="action" value="">
@@ -156,9 +159,12 @@
     }
 
     // Add event listener for startLearningButton click
-    document.getElementById('startLearningButton').addEventListener('click', function (event) {
-        handleSubmission(event, 'learn');
-    });
+    var startLearningButton = document.getElementById('startLearningButton');
+    if (startLearningButton) {
+        startLearningButton.addEventListener('click', function (event) {
+            handleSubmission(event, 'learn');
+        });
+    }
     document.getElementById('markKnownButton').addEventListener('click', function (event) {
         handleSubmission(event, 'mark_known');
     });
@@ -237,7 +243,9 @@
             item.classList.add('clicked');
         }
 
-        document.getElementById('selectAllUnknownButton').addEventListener('click', function () {
+        var selectAllUnknownButton = document.getElementById('selectAllUnknownButton');
+        if (selectAllUnknownButton) {
+        selectAllUnknownButton.addEventListener('click', function () {
             document.querySelectorAll('.wordItem').forEach(item => {
                 const closeButton = item.querySelector('.closeButton');
                 const checkButton = item.querySelector('.checkButton');
@@ -257,6 +265,7 @@
 
             updateLabel(); // Update the counts on the UI
         });
+        }
 
         document.querySelectorAll('.wordItem').forEach((item, index) => {
             // Add event listener to the closeButton

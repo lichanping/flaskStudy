@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>学新训练</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/newflow.css') }}">
+</head>
+<body>
+<div class="container">
+    <div class="card">
+        <h1>学新流程：步骤 2/3 - 5词分组训练</h1>
+        <div class="meta">
+            学生：{{ session_info.student_name }} ｜ 词库：{{ session_info.source_file.replace('.txt', '') }} ｜
+            第 {{ group_no }} / {{ total_groups }} 组
+        </div>
+    </div>
+
+    <div class="card">
+        {% if group_words %}
+            {% for word in group_words %}
+            <div class="route-item">
+                <div class="route-line">
+                    <span class="route-dot"></span>
+                </div>
+                <div class="route-content">
+                    <div class="term">{{ word.term }}</div>
+                    <div class="meaning">{{ word.meaning }}</div>
+                </div>
+            </div>
+            {% endfor %}
+        {% else %}
+            <p>本组无单词，点击继续。</p>
+        {% endif %}
+
+        <form method="post">
+            <div class="actions">
+                {% if group_no < total_groups %}
+                <button class="btn btn-primary" type="submit">完成本组，进入下一组</button>
+                {% else %}
+                <button class="btn btn-primary" type="submit">完成训练，进入复核</button>
+                {% endif %}
+                <a class="btn btn-secondary" href="{{ url_for('new_review', session_id=session_info.id) }}">跳到复核页</a>
+            </div>
+        </form>
+    </div>
+</div>
+</body>
+</html>

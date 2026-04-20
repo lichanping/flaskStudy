@@ -147,6 +147,39 @@ class TxtReader:
                     """
                 )
             )
+            conn.execute(
+                text(
+                    f"""
+                    CREATE TABLE IF NOT EXISTS learning_sessions (
+                        id {id_col},
+                        teacher_user_id INTEGER NOT NULL,
+                        student_id INTEGER NOT NULL,
+                        source_file TEXT NOT NULL,
+                        status TEXT NOT NULL DEFAULT 'draft',
+                        created_at TEXT NOT NULL,
+                        completed_at TEXT,
+                        FOREIGN KEY(student_id) REFERENCES students(id)
+                    )
+                    """
+                )
+            )
+            conn.execute(
+                text(
+                    f"""
+                    CREATE TABLE IF NOT EXISTS learning_session_words (
+                        id {id_col},
+                        session_id INTEGER NOT NULL,
+                        word_id INTEGER NOT NULL,
+                        display_order INTEGER NOT NULL,
+                        initial_status TEXT NOT NULL,
+                        final_learned INTEGER,
+                        FOREIGN KEY(session_id) REFERENCES learning_sessions(id),
+                        FOREIGN KEY(word_id) REFERENCES words(id),
+                        UNIQUE(session_id, word_id)
+                    )
+                    """
+                )
+            )
 
     def seed_default_students(self):
         default_students = sorted(set(file_to_student_mapping.values()))
@@ -354,6 +387,181 @@ class TxtReader:
         for idx, row in enumerate(rows, start=1):
             words.append({'索引': idx, '单词': row['term'], '释意': row['meaning'], 'id': row['id']})
         return words
+
+    def get_words_from_file(self, file_name, limit=DEFAULT_WORD_LIMIT):
+        with self.engine.begin() as conn:
+            rows = conn.execute(
+                text(
+                    """
+                    SELECT id, term, meaning
+                    FROM words
+                    WHERE source_file = :source_file
+                    ORDER BY id
+                    LIMIT :limit
+                    """
+                ),
+                {'source_file': file_name, 'limit': limit},
+            ).mappings().all()
+
+        return [
+            {'id': row['id'], 'term': row['term'], 'meaning': row['meaning']}
+            for row in rows
+        ]
+
+    def create_learning_session(self, teacher_user_id, student_id, file_name, decisions):
+        now = datetime.now().isoformat()
+        with self.engine.begin() as conn:
+            if self.is_postgres:
+                session_id = conn.execute(
+                    text(
+                        """
+                        INSERT INTO learning_sessions(teacher_user_id, student_id, source_file, status, created_at)
+                        VALUES (:teacher_user_id, :student_id, :source_file, 'training', :created_at)
+                        RETURNING id
+                        """
+                    ),
+                    {
+                        'teacher_user_id': teacher_user_id,
+                        'student_id': student_id,
+                        'source_file': file_name,
+                        'created_at': now,
+                    },
+                ).scalar_one()
+            else:
+                conn.execute(
+                    text(
+                        """
+                        INSERT INTO learning_sessions(teacher_user_id, student_id, source_file, status, created_at)
+                        VALUES (:teacher_user_id, :student_id, :source_file, 'training', :created_at)
+                        """
+                    ),
+                    {
+                        'teacher_user_id': teacher_user_id,
+                        'student_id': student_id,
+                        'source_file': file_name,
+                        'created_at': now,
+                    },
+                )
+                session_id = conn.execute(text("SELECT last_insert_rowid() AS id")).mappings().first()['id']
+
+            display_order = 1
+            for word_id, status in decisions:
+                conn.execute(
+                    text(
+                        """
+                        INSERT INTO learning_session_words(session_id, word_id, display_order, initial_status, final_learned)
+                        VALUES (:session_id, :word_id, :display_order, :initial_status, NULL)
+                        """
+                    ),
+                    {
+                        'session_id': session_id,
+                        'word_id': word_id,
+                        'display_order': display_order,
+                        'initial_status': status,
+                    },
+                )
+                display_order += 1
+
+        return session_id
+
+    def get_learning_session(self, session_id):
+        with self.engine.begin() as conn:
+            row = conn.execute(
+                text(
+                    """
+                    SELECT ls.*, s.name AS student_name
+                    FROM learning_sessions ls
+                    JOIN students s ON s.id = ls.student_id
+                    WHERE ls.id = :session_id
+                    """
+                ),
+                {'session_id': session_id},
+            ).mappings().first()
+        return row
+
+    def get_session_words(self, session_id, initial_status=None):
+        query = """
+            SELECT lsw.id,
+                   lsw.word_id,
+                   lsw.display_order,
+                   lsw.initial_status,
+                   lsw.final_learned,
+                   w.term,
+                   w.meaning
+            FROM learning_session_words lsw
+            JOIN words w ON w.id = lsw.word_id
+            WHERE lsw.session_id = :session_id
+        """
+        params = {'session_id': session_id}
+        if initial_status:
+            query += " AND lsw.initial_status = :initial_status"
+            params['initial_status'] = initial_status
+        query += " ORDER BY lsw.display_order"
+
+        with self.engine.begin() as conn:
+            rows = conn.execute(text(query), params).mappings().all()
+        return rows
+
+    def get_training_group(self, session_id, group_no, group_size=5):
+        all_unknown = self.get_session_words(session_id, initial_status='unknown')
+        total_groups = max(1, (len(all_unknown) + group_size - 1) // group_size)
+        start = (group_no - 1) * group_size
+        end = start + group_size
+        return all_unknown[start:end], total_groups, len(all_unknown)
+
+    def finalize_learning_session(self, session_id, learned_word_ids):
+        learned_set = {int(word_id) for word_id in learned_word_ids}
+        session_info = self.get_learning_session(session_id)
+        if not session_info:
+            return None
+
+        all_words = self.get_session_words(session_id)
+        known_terms = []
+        newly_learned_terms = []
+        with self.engine.begin() as conn:
+            for row in all_words:
+                if row['word_id'] in learned_set:
+                    final_learned = 1
+                else:
+                    final_learned = 1 if row['initial_status'] == 'known' else 0
+
+                conn.execute(
+                    text(
+                        """
+                        UPDATE learning_session_words
+                        SET final_learned = :final_learned
+                        WHERE id = :id
+                        """
+                    ),
+                    {'final_learned': final_learned, 'id': row['id']},
+                )
+
+                if row['initial_status'] == 'known' or final_learned == 1:
+                    known_terms.append(row['term'])
+                if row['initial_status'] == 'unknown' and final_learned == 1:
+                    newly_learned_terms.append(row['term'])
+
+            conn.execute(
+                text(
+                    """
+                    UPDATE learning_sessions
+                    SET status = 'completed', completed_at = :completed_at
+                    WHERE id = :session_id
+                    """
+                ),
+                {'completed_at': datetime.now().isoformat(), 'session_id': session_id},
+            )
+
+        self.mark_words_known(session_info['student_id'], session_info['source_file'], known_terms)
+        if newly_learned_terms:
+            self.schedule_review_words(session_info['student_id'], session_info['source_file'], newly_learned_terms)
+
+        return {
+            'known_count': len(known_terms),
+            'newly_learned_count': len(newly_learned_terms),
+            'student_name': session_info['student_name'],
+            'source_file': session_info['source_file'],
+        }
 
     def due_review_count(self, student_id, file_name=None):
         with self.engine.begin() as conn:
@@ -677,6 +885,102 @@ def index():
         students=txt_reader.get_students(),
         learning_mode=learning_mode,
         due_review_count=txt_reader.due_review_count(student_id, selected_file),
+    )
+
+
+@app.route('/new/start', methods=['GET', 'POST'])
+@login_required(roles=['teacher'])
+def new_start():
+    user = current_user()
+    selected_file = request.values.get('file_name', '高考词汇.txt')
+    if selected_file not in txt_reader.file_choices:
+        selected_file = '高考词汇.txt'
+
+    selected_student = request.values.get('student_name', file_to_student_mapping.get(selected_file, '英语'))
+    _, selected_student = txt_reader.ensure_student(selected_student)
+
+    words = txt_reader.get_words_from_file(selected_file)
+
+    if request.method == 'POST':
+        student_id, selected_student = txt_reader.ensure_student(request.form.get('student_name', selected_student))
+        selected_file = request.form.get('file_name', selected_file)
+
+        decisions = []
+        for word in words:
+            decision = request.form.get(f"decision_{word['id']}", 'unknown')
+            if decision not in ['known', 'unknown']:
+                decision = 'unknown'
+            decisions.append((word['id'], decision))
+
+        session_id = txt_reader.create_learning_session(user['id'], student_id, selected_file, decisions)
+        return redirect(url_for('new_train', session_id=session_id, group_no=1))
+
+    return render_template(
+        'new_start.html',
+        user=user,
+        students=txt_reader.get_students(),
+        selected_student=selected_student,
+        selected_file=selected_file,
+        files=txt_reader.file_choices,
+        words=words,
+    )
+
+
+@app.route('/new/train/<int:session_id>/<int:group_no>', methods=['GET', 'POST'])
+@login_required(roles=['teacher'])
+def new_train(session_id, group_no):
+    user = current_user()
+    session_info = txt_reader.get_learning_session(session_id)
+    if not session_info:
+        return redirect(url_for('new_start'))
+
+    group_words, total_groups, total_unknown = txt_reader.get_training_group(session_id, group_no)
+
+    if total_unknown == 0:
+        return redirect(url_for('new_review', session_id=session_id))
+    if group_no > total_groups:
+        return redirect(url_for('new_review', session_id=session_id))
+
+    if request.method == 'POST':
+        if group_no >= total_groups:
+            return redirect(url_for('new_review', session_id=session_id))
+        return redirect(url_for('new_train', session_id=session_id, group_no=group_no + 1))
+
+    return render_template(
+        'new_train.html',
+        user=user,
+        session_info=session_info,
+        group_words=group_words,
+        group_no=group_no,
+        total_groups=total_groups,
+    )
+
+
+@app.route('/new/review/<int:session_id>', methods=['GET', 'POST'])
+@login_required(roles=['teacher'])
+def new_review(session_id):
+    user = current_user()
+    session_info = txt_reader.get_learning_session(session_id)
+    if not session_info:
+        return redirect(url_for('new_start'))
+
+    all_words = txt_reader.get_session_words(session_id)
+
+    if request.method == 'POST':
+        learned_word_ids = request.form.getlist('learned_word_id')
+        result = txt_reader.finalize_learning_session(session_id, learned_word_ids)
+        return render_template(
+            'new_result.html',
+            user=user,
+            result=result,
+            session_id=session_id,
+        )
+
+    return render_template(
+        'new_review.html',
+        user=user,
+        session_info=session_info,
+        words=all_words,
     )
 
 

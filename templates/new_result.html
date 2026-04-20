@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>学新完成</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/newflow.css') }}">
+</head>
+<body>
+<div class="container">
+    <div class="card">
+        <h1>学新完成</h1>
+        <p>学生：{{ result.student_name }}</p>
+        <p>词库：{{ result.source_file.replace('.txt', '') }}</p>
+        <p>本轮确认学会单词数：<strong>{{ result.known_count }}</strong></p>
+        <p>本轮新增抗遗忘任务单词数：<strong>{{ result.newly_learned_count }}</strong></p>
+        <div class="actions">
+            <a class="btn btn-primary" href="{{ url_for('new_start') }}">继续下一轮学新</a>
+            <a class="btn btn-secondary" href="{{ url_for('index', learning_mode='review') }}">查看抗遗忘复习页</a>
+        </div>
+    </div>
+</div>
+</body>
+</html>
