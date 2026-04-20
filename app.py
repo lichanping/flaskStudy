@@ -1,12 +1,15 @@
 import json
 import os
 import re
+from functools import wraps
 from datetime import datetime, timedelta
 
-from flask import Flask, render_template, request
+from flask import Flask, render_template, request, redirect, url_for, session
 from sqlalchemy import create_engine, text
+from werkzeug.security import generate_password_hash, check_password_hash
 
 app = Flask(__name__)
+app.secret_key = os.getenv('SECRET_KEY', 'dev-secret-key-change-me')
 # Configure Flask to serve static files from the 'static' directory
 app.static_folder = 'static'
 DEFAULT_WORD_LIMIT = 50
@@ -60,6 +63,22 @@ class TxtReader:
                         id {id_col},
                         name TEXT NOT NULL UNIQUE,
                         created_at TEXT NOT NULL
+                    )
+                    """
+                )
+            )
+            conn.execute(
+                text(
+                    f"""
+                    CREATE TABLE IF NOT EXISTS users (
+                        id {id_col},
+                        username TEXT NOT NULL UNIQUE,
+                        password_hash TEXT NOT NULL,
+                        role TEXT NOT NULL,
+                        student_id INTEGER,
+                        is_active INTEGER NOT NULL DEFAULT 1,
+                        created_at TEXT NOT NULL,
+                        FOREIGN KEY(student_id) REFERENCES students(id)
                     )
                     """
                 )
@@ -142,6 +161,88 @@ class TxtReader:
                         text("INSERT INTO students(name, created_at) VALUES (:name, :created_at)"),
                         {'name': student_name, 'created_at': datetime.now().isoformat()},
                     )
+
+    def seed_default_users(self):
+        teacher_password = os.getenv('TEACHER_PASSWORD', 'teacher123')
+        now = datetime.now().isoformat()
+
+        with self.engine.begin() as conn:
+            teacher = conn.execute(
+                text("SELECT id FROM users WHERE username = :username"),
+                {'username': 'teacher'},
+            ).first()
+            if not teacher:
+                conn.execute(
+                    text(
+                        """
+                        INSERT INTO users(username, password_hash, role, student_id, is_active, created_at)
+                        VALUES (:username, :password_hash, 'teacher', NULL, 1, :created_at)
+                        """
+                    ),
+                    {
+                        'username': 'teacher',
+                        'password_hash': generate_password_hash(teacher_password),
+                        'created_at': now,
+                    },
+                )
+
+            students = conn.execute(text("SELECT id, name FROM students ORDER BY name")).mappings().all()
+            for idx, student in enumerate(students, start=1):
+                username = f'student{idx}'
+                exists = conn.execute(
+                    text("SELECT id FROM users WHERE username = :username"),
+                    {'username': username},
+                ).first()
+                if not exists:
+                    conn.execute(
+                        text(
+                            """
+                            INSERT INTO users(username, password_hash, role, student_id, is_active, created_at)
+                            VALUES (:username, :password_hash, 'student', :student_id, 1, :created_at)
+                            """
+                        ),
+                        {
+                            'username': username,
+                            'password_hash': generate_password_hash('123456'),
+                            'student_id': student['id'],
+                            'created_at': now,
+                        },
+                    )
+
+    def authenticate(self, username, password, role):
+        with self.engine.begin() as conn:
+            user = conn.execute(
+                text(
+                    """
+                    SELECT u.id, u.username, u.password_hash, u.role, u.student_id, s.name AS student_name
+                    FROM users u
+                    LEFT JOIN students s ON s.id = u.student_id
+                    WHERE u.username = :username
+                      AND u.role = :role
+                      AND u.is_active = 1
+                    """
+                ),
+                {'username': username, 'role': role},
+            ).mappings().first()
+
+        if not user or not check_password_hash(user['password_hash'], password):
+            return None
+        return user
+
+    def get_student_accounts(self):
+        with self.engine.begin() as conn:
+            rows = conn.execute(
+                text(
+                    """
+                    SELECT u.username, s.name AS student_name
+                    FROM users u
+                    JOIN students s ON s.id = u.student_id
+                    WHERE u.role = 'student' AND u.is_active = 1
+                    ORDER BY u.username
+                    """
+                )
+            ).mappings().all()
+        return rows
 
     def get_students(self):
         with self.engine.begin() as conn:
@@ -425,10 +526,87 @@ class TxtReader:
 
 
 txt_reader = TxtReader()
+txt_reader.seed_default_users()
+
+
+def current_user():
+    return {
+        'id': session.get('user_id'),
+        'username': session.get('username'),
+        'role': session.get('role'),
+        'student_id': session.get('student_id'),
+        'student_name': session.get('student_name'),
+    }
+
+
+def login_required(roles=None):
+    def decorator(func):
+        @wraps(func)
+        def wrapper(*args, **kwargs):
+            user = current_user()
+            if not user['id']:
+                return redirect(url_for('login_student'))
+            if roles and user['role'] not in roles:
+                return redirect(url_for('index'))
+            return func(*args, **kwargs)
+
+        return wrapper
+
+    return decorator
+
+
+@app.route('/login/teacher', methods=['GET', 'POST'])
+def login_teacher():
+    error_message = None
+    if request.method == 'POST':
+        username = request.form.get('username', '').strip()
+        password = request.form.get('password', '')
+        user = txt_reader.authenticate(username, password, role='teacher')
+        if user:
+            session['user_id'] = user['id']
+            session['username'] = user['username']
+            session['role'] = user['role']
+            session['student_id'] = None
+            session['student_name'] = None
+            return redirect(url_for('index'))
+        error_message = '账号或密码错误'
+
+    return render_template('login_teacher.html', error_message=error_message)
+
+
+@app.route('/login/student', methods=['GET', 'POST'])
+def login_student():
+    error_message = None
+    if request.method == 'POST':
+        username = request.form.get('username', '').strip()
+        password = request.form.get('password', '')
+        user = txt_reader.authenticate(username, password, role='student')
+        if user:
+            session['user_id'] = user['id']
+            session['username'] = user['username']
+            session['role'] = user['role']
+            session['student_id'] = user['student_id']
+            session['student_name'] = user['student_name']
+            return redirect(url_for('index'))
+        error_message = '账号或密码错误'
+
+    return render_template(
+        'login_student.html',
+        error_message=error_message,
+        student_accounts=txt_reader.get_student_accounts(),
+    )
+
+
+@app.route('/logout', methods=['POST'])
+def logout():
+    session.clear()
+    return redirect(url_for('login_student'))
 
 
 @app.route('/', methods=['GET', 'POST'])
+@login_required(roles=['teacher', 'student'])
 def index():
+    user = current_user()
     available_files = txt_reader.file_choices
     selected_file = request.values.get('file_name', '高考词汇.txt')
     if selected_file not in available_files:
@@ -436,6 +614,11 @@ def index():
 
     selected_student = request.values.get('student_name', file_to_student_mapping.get(selected_file, '英语'))
     learning_mode = request.values.get('learning_mode', 'new')
+
+    if user['role'] == 'student':
+        selected_student = user['student_name']
+        learning_mode = 'review'
+
     if learning_mode not in ['new', 'review']:
         learning_mode = 'new'
 
@@ -446,6 +629,7 @@ def index():
         return render_template(
             'index.html',
             words=words,
+            user=user,
             selected_file=selected_file,
             selected_student=selected_student,
             students=txt_reader.get_students(),
@@ -454,6 +638,9 @@ def index():
         )
     elif request.method == 'POST':
         action = request.form['action']
+        if user['role'] == 'student' and action == 'learn':
+            action = 'mark_known'
+
         if action == 'check':
             pass
         elif action == 'learn':
@@ -472,6 +659,7 @@ def index():
         return render_template(
             'index.html',
             words=words,
+            user=user,
             selected_file=selected_file,
             selected_student=selected_student,
             students=txt_reader.get_students(),
@@ -483,6 +671,7 @@ def index():
     return render_template(
         'index.html',
         words=words,
+        user=user,
         selected_file=selected_file,
         selected_student=selected_student,
         students=txt_reader.get_students(),

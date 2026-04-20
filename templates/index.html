@@ -8,14 +8,27 @@
 </head>
 <body>
 <h1>English Words</h1>
+<div>
+    <span>当前用户: {{ user.username }} ({{ user.role }})</span>
+    <form action="/logout" method="post" style="display: inline-block; margin-left: 10px;">
+        <button type="submit">退出登录</button>
+    </form>
+    <a href="/login/teacher" style="margin-left: 10px;">老师登录</a>
+    <a href="/login/student" style="margin-left: 10px;">学生登录</a>
+</div>
 <form id="word_form" action="/" method="post">
     <input type="hidden" name="action" id="action" value="">
-    <label for="student_select">学生:</label>
-    <select id="student_select" name="student_name">
-        {% for student in students %}
-        <option value="{{ student }}" {% if student == selected_student %}selected{% endif %}>{{ student }}</option>
-        {% endfor %}
-    </select>
+    {% if user.role == 'teacher' %}
+        <label for="student_select">学生:</label>
+        <select id="student_select" name="student_name">
+            {% for student in students %}
+            <option value="{{ student }}" {% if student == selected_student %}selected{% endif %}>{{ student }}</option>
+            {% endfor %}
+        </select>
+    {% else %}
+        <input type="hidden" name="student_name" value="{{ selected_student }}">
+        <span>学生: {{ selected_student }}</span>
+    {% endif %}
 
     <label for="file_select">词库选择:</label>
     <select id="file_select" name="file_name">
@@ -29,11 +42,16 @@
         <!--        <option value="中考考纲词组.txt">中考考纲词组</option>-->
     </select>
 
-    <label for="mode_select">模式:</label>
-    <select id="mode_select" name="learning_mode">
-        <option value="new" {% if learning_mode == 'new' %}selected{% endif %}>学新</option>
-        <option value="review" {% if learning_mode == 'review' %}selected{% endif %}>抗遗忘复习</option>
-    </select>
+    {% if user.role == 'teacher' %}
+        <label for="mode_select">模式:</label>
+        <select id="mode_select" name="learning_mode">
+            <option value="new" {% if learning_mode == 'new' %}selected{% endif %}>学新</option>
+            <option value="review" {% if learning_mode == 'review' %}selected{% endif %}>抗遗忘复习</option>
+        </select>
+    {% else %}
+        <input type="hidden" id="mode_select" name="learning_mode" value="review">
+        <span>模式: 抗遗忘复习</span>
+    {% endif %}
 
     <span id="dueReviewLabel">待复习: {{ due_review_count }}</span>
     <input type="hidden" name="selected_file" id="selected_file" value="">
@@ -42,10 +60,12 @@
         <button id="markKnownButton" type="submit" onclick="document.getElementById('action').value = 'mark_known';">
             ✓=会
         </button>
-        <button id="selectAllUnknownButton" type="button">✗=不会</button>
-        <button id="startLearningButton" type="submit" onclick="document.getElementById('action').value = 'learn';">
-            完成
-        </button>
+        {% if user.role == 'teacher' %}
+            <button id="selectAllUnknownButton" type="button">✗=不会</button>
+            <button id="startLearningButton" type="submit" onclick="document.getElementById('action').value = 'learn';">
+                完成
+            </button>
+        {% endif %}
         <div id="selectedCountLabel">已选择0个单词</div>
         <div id="learnedCountLabel">已学会0个单词</div>
     </div>
@@ -330,8 +350,11 @@
         var selectElement = document.getElementById('file_select');
         var selectedValue = selectElement.options[selectElement.selectedIndex].value;
         sessionStorage.setItem('selectedFile', selectedValue);
-        var selectedStudent = document.getElementById('student_select').value;
-        sessionStorage.setItem('selectedStudent', selectedStudent);
+        var studentSelect = document.getElementById('student_select');
+        if (studentSelect) {
+            var selectedStudent = studentSelect.value;
+            sessionStorage.setItem('selectedStudent', selectedStudent);
+        }
         var selectedMode = document.getElementById('mode_select').value;
         sessionStorage.setItem('selectedMode', selectedMode);
     });
@@ -346,7 +369,7 @@
 
         var studentSelect = document.getElementById('student_select');
         var selectedStudent = sessionStorage.getItem('selectedStudent');
-        if (selectedStudent) {
+        if (studentSelect && selectedStudent) {
             studentSelect.value = selectedStudent;
         }
 
