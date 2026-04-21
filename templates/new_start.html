@@ -38,6 +38,25 @@
             white-space: nowrap;
         }
 
+        .pager {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            gap: 10px;
+            margin-top: 10px;
+            flex-wrap: wrap;
+        }
+
+        .pager-info {
+            color: #5f7389;
+            font-size: 14px;
+        }
+
+        .pager-actions {
+            display: flex;
+            gap: 8px;
+        }
+
         @media (max-width: 768px) {
             body {
                 padding: 12px;
@@ -91,6 +110,22 @@
                 gap: 8px;
             }
 
+            .pager {
+                flex-direction: column;
+                align-items: stretch;
+            }
+
+            .pager-actions {
+                display: grid;
+                grid-template-columns: 1fr 1fr;
+                gap: 8px;
+            }
+
+            .pager-actions .btn {
+                width: 100%;
+                text-align: center;
+            }
+
             .actions .btn {
                 width: 100%;
                 text-align: center;
@@ -102,10 +137,11 @@
 <div class="container">
     <div class="card">
         <h1>学新流程：步骤 1/3 - 标记会/不会</h1>
-        <div class="meta">当前老师：{{ user.username }}。先标记本轮词汇，再进入每组 5 词训练。</div>
+        <div class="meta">当前老师：{{ user.username }}。可按需标记“会/不会”，未选择表示本轮不处理该词。</div>
     </div>
 
     <form method="post" action="{{ url_for('new_start') }}">
+        <input type="hidden" name="page" value="{{ page }}">
         <div class="card">
             <div class="start-filters">
                 <div class="filter-item">
@@ -131,7 +167,7 @@
         </div>
 
         <div class="card">
-            <h3>本轮词汇（默认都标记为不会）</h3>
+            <h3>本轮词汇（默认不选，未选表示不处理）</h3>
             {% for word in words %}
             <div class="word-row">
                 <div class="index">{{ loop.index }}</div>
@@ -141,17 +177,25 @@
                 </div>
                 <div class="decision-group">
                     <label class="decision-option">
-                        <input type="radio" name="decision_{{ word.id }}" value="known"> 会
+                        <input type="radio" name="decision_{{ word.id }}" value="known" {% if word.decision == 'known' %}checked{% endif %}> 会
                     </label>
                     <label class="decision-option">
-                        <input type="radio" name="decision_{{ word.id }}" value="unknown" checked> 不会
+                        <input type="radio" name="decision_{{ word.id }}" value="unknown" {% if word.decision == 'unknown' %}checked{% endif %}> 不会
                     </label>
                 </div>
             </div>
             {% endfor %}
 
+            <div class="pager">
+                <div class="pager-info">第 {{ page }} / {{ total_pages }} 页（每页 {{ page_size }} 词，共 {{ total_words }} 词）</div>
+                <div class="pager-actions">
+                    <button type="submit" class="btn btn-secondary" name="intent" value="prev" {% if page <= 1 %}disabled{% endif %}>上一页</button>
+                    <button type="submit" class="btn btn-secondary" name="intent" value="next" {% if page >= total_pages %}disabled{% endif %}>下一页</button>
+                </div>
+            </div>
+
             <div class="actions">
-                <button type="submit" class="btn btn-primary">开始训练（每组 5 词）</button>
+                <button type="submit" class="btn btn-primary" name="intent" value="start">开始训练（每组 5 词）</button>
                 <a class="btn btn-secondary" href="{{ url_for('index') }}">返回复习主页</a>
             </div>
         </div>

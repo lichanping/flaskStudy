@@ -1,6 +1,7 @@
 import json
 import os
 import re
+import math
 from functools import wraps
 from datetime import datetime, timedelta
 
@@ -891,6 +892,10 @@ def index():
 @app.route('/new/start', methods=['GET', 'POST'])
 @login_required(roles=['teacher'])
 def new_start():
+    page_size = 10
+    decision_state_key = 'new_start_decisions'
+    context_state_key = 'new_start_context'
+
     user = current_user()
     selected_file = request.values.get('file_name', '高考词汇.txt')
     if selected_file not in txt_reader.file_choices:
@@ -900,20 +905,100 @@ def new_start():
     _, selected_student = txt_reader.ensure_student(selected_student)
 
     words = txt_reader.get_words_from_file(selected_file)
+    total_words = len(words)
+    total_pages = max(1, math.ceil(total_words / page_size))
+
+    try:
+        page = int(request.values.get('page', 1))
+    except (TypeError, ValueError):
+        page = 1
+    page = max(1, min(page, total_pages))
+
+    current_context = {'student_name': selected_student, 'file_name': selected_file}
+    if session.get(context_state_key) != current_context:
+        session[context_state_key] = current_context
+        session[decision_state_key] = {}
+
+    decisions_state = session.get(decision_state_key, {})
+
+    start_idx = (page - 1) * page_size
+    end_idx = start_idx + page_size
+    words_page = words[start_idx:end_idx]
 
     if request.method == 'POST':
         student_id, selected_student = txt_reader.ensure_student(request.form.get('student_name', selected_student))
         selected_file = request.form.get('file_name', selected_file)
+        if selected_file not in txt_reader.file_choices:
+            selected_file = '高考词汇.txt'
 
-        decisions = []
+        current_context = {'student_name': selected_student, 'file_name': selected_file}
+        if session.get(context_state_key) != current_context:
+            session[context_state_key] = current_context
+            session[decision_state_key] = {}
+
+        words = txt_reader.get_words_from_file(selected_file)
+        total_words = len(words)
+        total_pages = max(1, math.ceil(total_words / page_size))
+        try:
+            page = int(request.form.get('page', 1))
+        except (TypeError, ValueError):
+            page = 1
+        page = max(1, min(page, total_pages))
+
+        start_idx = (page - 1) * page_size
+        end_idx = start_idx + page_size
+        words_page = words[start_idx:end_idx]
+
+        decisions_state = session.get(decision_state_key, {})
+        for word in words_page:
+            decision = request.form.get(f"decision_{word['id']}")
+            if decision in ['known', 'unknown']:
+                decisions_state[str(word['id'])] = decision
+            else:
+                decisions_state.pop(str(word['id']), None)
+        session[decision_state_key] = decisions_state
+
+        intent = request.form.get('intent', 'start')
+        if intent == 'next' and page < total_pages:
+            return redirect(url_for('new_start', student_name=selected_student, file_name=selected_file, page=page + 1))
+        if intent == 'prev' and page > 1:
+            return redirect(url_for('new_start', student_name=selected_student, file_name=selected_file, page=page - 1))
+
+        known_terms = []
+        unknown_decisions = []
         for word in words:
-            decision = request.form.get(f"decision_{word['id']}", 'unknown')
-            if decision not in ['known', 'unknown']:
-                decision = 'unknown'
-            decisions.append((word['id'], decision))
+            decision = decisions_state.get(str(word['id']))
+            if decision == 'known':
+                known_terms.append(word['term'])
+            elif decision == 'unknown':
+                unknown_decisions.append((word['id'], 'unknown'))
 
-        session_id = txt_reader.create_learning_session(user['id'], student_id, selected_file, decisions)
-        return redirect(url_for('new_train', session_id=session_id, group_no=1))
+        if not known_terms and not unknown_decisions:
+            return redirect(url_for('new_start', student_name=selected_student, file_name=selected_file, page=page))
+
+        if known_terms:
+            txt_reader.mark_words_known(student_id, selected_file, known_terms)
+
+        session.pop(decision_state_key, None)
+        session.pop(context_state_key, None)
+        if unknown_decisions:
+            session_id = txt_reader.create_learning_session(user['id'], student_id, selected_file, unknown_decisions)
+            return redirect(url_for('new_train', session_id=session_id, group_no=1))
+
+        return render_template(
+            'new_result.html',
+            user=user,
+            result={
+                'known_count': len(known_terms),
+                'newly_learned_count': 0,
+                'student_name': selected_student,
+                'source_file': selected_file,
+            },
+            session_id=None,
+        )
+
+    for word in words_page:
+        word['decision'] = decisions_state.get(str(word['id']), '')
 
     return render_template(
         'new_start.html',
@@ -922,7 +1007,11 @@ def new_start():
         selected_student=selected_student,
         selected_file=selected_file,
         files=txt_reader.file_choices,
-        words=words,
+        words=words_page,
+        page=page,
+        total_pages=total_pages,
+        total_words=total_words,
+        page_size=page_size,
     )
 
 
