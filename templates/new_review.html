@@ -62,7 +62,7 @@
 
     <form method="post" class="card">
         {% for word in words %}
-        <div class="word-row">
+        <div class="word-row" data-term="{{ word.term }}">
             <div class="index">{{ loop.index }}</div>
             <div>
                 <div class="term">
@@ -91,5 +91,35 @@
         </div>
     </form>
 </div>
+<script>
+    (function () {
+        const rows = Array.from(document.querySelectorAll('.word-row[data-term]'));
+        if (!rows.length) {
+            return;
+        }
+
+        const audioPlayer = new Audio();
+
+        function playAudio(term) {
+            const src = `{{ url_for('static', filename='sounds') }}/${term}.mp3`;
+            audioPlayer.src = src;
+            audioPlayer.play().catch(() => {
+                // Ignore blocked autoplay or missing audio in review mode
+            });
+        }
+
+        rows.forEach((row) => {
+            row.addEventListener('click', (event) => {
+                if (event.target.closest('input, label, a, button')) {
+                    return;
+                }
+                const term = row.dataset.term ? row.dataset.term.trim() : '';
+                if (term) {
+                    playAudio(term);
+                }
+            });
+        });
+    })();
+</script>
 </body>
 </html>
