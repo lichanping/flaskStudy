@@ -227,6 +227,15 @@
             }
         }
 
+        function setSingleDone(targetItem) {
+            routeItems.forEach((routeItem) => {
+                routeItem.classList.remove('done');
+            });
+            if (targetItem) {
+                targetItem.classList.add('done');
+            }
+        }
+
         function playAudio(term) {
             const src = `{{ url_for('static', filename='sounds') }}/${term}.mp3`;
             audioPlayer.src = src;
@@ -259,7 +268,7 @@
 
                 const expected = routeSequence[routeCursor];
                 if (index === expected) {
-                    item.classList.add('done');
+                    setSingleDone(item);
                     routeCursor += 1;
                     updateRouteHighlight();
                 }
