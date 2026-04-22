@@ -39,6 +39,12 @@
             gap: 10px;
         }
 
+        .term-line .term {
+            min-width: 0;
+            flex: 1;
+            word-break: break-word;
+        }
+
         .toggle-meaning-btn {
             border: 1px solid #c7d8ea;
             border-radius: 8px;
@@ -66,6 +72,12 @@
             margin-top: 10px;
             font-size: 14px;
             color: #43607d;
+        }
+
+        .route-sub-hint {
+            margin-top: 4px;
+            font-size: 13px;
+            color: #6b7f95;
         }
 
         .train-status {
@@ -150,15 +162,18 @@
             }
 
             .term-line {
-                flex-direction: column;
-                align-items: flex-start;
+                flex-direction: row;
+                align-items: center;
+                justify-content: space-between;
                 gap: 8px;
             }
 
             .toggle-meaning-btn {
-                width: 100%;
-                font-size: 14px;
-                padding: 8px 10px;
+                width: auto;
+                min-width: 92px;
+                font-size: 13px;
+                padding: 6px 10px;
+                flex-shrink: 0;
             }
 
             .actions {
@@ -200,7 +215,8 @@
                 </div>
             </div>
             {% endfor %}
-            <div class="route-hint">路线进度：<span id="routeProgress">0</span> / <span id="routeTotal">0</span></div>
+            <div class="route-hint">路线点击进度：<span id="routeProgress">0</span> / <span id="routeTotal">0</span></div>
+            <div class="route-sub-hint">说明：这里是按橙色路线点击的累计次数，不是单词数量。</div>
             <div id="trainStatus" class="train-status">按橙色路线顺序点击完成本组学习后，可进入下一步。</div>
         {% else %}
             <p>本组无单词，点击继续。</p>
