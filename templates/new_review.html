@@ -3,11 +3,15 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>学新复核</title>
+    <title>训后检测</title>
     <link rel="stylesheet" href="{{ url_for('static', filename='css/newflow.css') }}">
     <style>
         .learned-toggle {
             white-space: nowrap;
+        }
+
+        .meaning.hidden {
+            display: none;
         }
 
         @media (max-width: 768px) {
@@ -55,7 +59,7 @@
 <body>
 <div class="container">
     <div class="card">
-        <h1>学新流程：步骤 3/3 - 全量复核</h1>
+        <h1>学新流程：步骤 3/3 - 训后检测</h1>
         <div class="meta">学生：{{ session_info.student_name }} ｜ 词库：{{ session_info.source_file.replace('.txt', '') }}</div>
         <div class="meta">请勾选“本轮已经学会”的单词，提交后将自动生成 21 天 10 次抗遗忘任务。</div>
     </div>
@@ -73,7 +77,7 @@
                         <span class="badge badge-unk">初筛不会</span>
                     {% endif %}
                 </div>
-                <div class="meaning">{{ word.meaning }}</div>
+                <div class="meaning hidden">{{ word.meaning }}</div>
             </div>
             <div class="learned-toggle">
                 <label>
@@ -109,10 +113,31 @@
         }
 
         rows.forEach((row) => {
+            row.dataset.pendingReveal = '0';
             row.addEventListener('click', (event) => {
                 if (event.target.closest('input, label, a, button')) {
                     return;
                 }
+
+                const meaningEl = row.querySelector('.meaning');
+                if (!meaningEl) {
+                    return;
+                }
+
+                if (meaningEl.classList.contains('hidden')) {
+                    if (row.dataset.pendingReveal === '0') {
+                        const term = row.dataset.term ? row.dataset.term.trim() : '';
+                        if (term) {
+                            playAudio(term);
+                        }
+                        row.dataset.pendingReveal = '1';
+                        return;
+                    }
+
+                    meaningEl.classList.remove('hidden');
+                    return;
+                }
+
                 const term = row.dataset.term ? row.dataset.term.trim() : '';
                 if (term) {
                     playAudio(term);
