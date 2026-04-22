@@ -44,6 +44,7 @@ class TxtReader:
         self.init_db()
         self.seed_words_if_needed()
         self.seed_default_students()
+        self.backfill_default_student_file_access()
 
     def create_engine(self):
         if self.database_url:
@@ -181,6 +182,25 @@ class TxtReader:
                     """
                 )
             )
+            conn.execute(
+                text(
+                    """
+                    CREATE TABLE IF NOT EXISTS student_source_files (
+                        student_id INTEGER NOT NULL,
+                        source_file TEXT NOT NULL,
+                        created_at TEXT NOT NULL,
+                        PRIMARY KEY(student_id, source_file),
+                        FOREIGN KEY(student_id) REFERENCES students(id)
+                    )
+                    """
+                )
+            )
+
+            try:
+                conn.execute(text("ALTER TABLE users ADD COLUMN password_hint TEXT"))
+            except Exception:
+                # Column already exists in migrated databases.
+                pass
 
     def seed_default_students(self):
         default_students = sorted(set(file_to_student_mapping.values()))
@@ -196,52 +216,57 @@ class TxtReader:
                         {'name': student_name, 'created_at': datetime.now().isoformat()},
                     )
 
+    def backfill_default_student_file_access(self):
+        now = datetime.now().isoformat()
+        with self.engine.begin() as conn:
+            for source_file, student_name in file_to_student_mapping.items():
+                student = conn.execute(
+                    text("SELECT id FROM students WHERE name = :name"),
+                    {'name': student_name},
+                ).mappings().first()
+                if not student:
+                    continue
+                exists = conn.execute(
+                    text(
+                        "SELECT 1 FROM student_source_files "
+                        "WHERE student_id = :student_id AND source_file = :source_file"
+                    ),
+                    {'student_id': student['id'], 'source_file': source_file},
+                ).first()
+                if not exists:
+                    conn.execute(
+                        text(
+                            "INSERT INTO student_source_files(student_id, source_file, created_at) "
+                            "VALUES (:student_id, :source_file, :created_at)"
+                        ),
+                        {'student_id': student['id'], 'source_file': source_file, 'created_at': now},
+                    )
+
     def seed_default_users(self):
+        teacher_username = os.getenv('TEACHER_USERNAME', 'teacher').strip() or 'teacher'
         teacher_password = os.getenv('TEACHER_PASSWORD', 'teacher123')
         now = datetime.now().isoformat()
 
         with self.engine.begin() as conn:
             teacher = conn.execute(
                 text("SELECT id FROM users WHERE username = :username"),
-                {'username': 'teacher'},
+                {'username': teacher_username},
             ).first()
             if not teacher:
                 conn.execute(
                     text(
                         """
-                        INSERT INTO users(username, password_hash, role, student_id, is_active, created_at)
-                        VALUES (:username, :password_hash, 'teacher', NULL, 1, :created_at)
+                        INSERT INTO users(username, password_hash, password_hint, role, student_id, is_active, created_at)
+                        VALUES (:username, :password_hash, :password_hint, 'teacher', NULL, 1, :created_at)
                         """
                     ),
                     {
-                        'username': 'teacher',
+                        'username': teacher_username,
                         'password_hash': generate_password_hash(teacher_password),
+                        'password_hint': teacher_password,
                         'created_at': now,
                     },
                 )
-
-            students = conn.execute(text("SELECT id, name FROM students ORDER BY name")).mappings().all()
-            for idx, student in enumerate(students, start=1):
-                username = f'student{idx}'
-                exists = conn.execute(
-                    text("SELECT id FROM users WHERE username = :username"),
-                    {'username': username},
-                ).first()
-                if not exists:
-                    conn.execute(
-                        text(
-                            """
-                            INSERT INTO users(username, password_hash, role, student_id, is_active, created_at)
-                            VALUES (:username, :password_hash, 'student', :student_id, 1, :created_at)
-                            """
-                        ),
-                        {
-                            'username': username,
-                            'password_hash': generate_password_hash('123456'),
-                            'student_id': student['id'],
-                            'created_at': now,
-                        },
-                    )
 
     def authenticate(self, username, password, role):
         with self.engine.begin() as conn:
@@ -268,7 +293,11 @@ class TxtReader:
             rows = conn.execute(
                 text(
                     """
-                    SELECT u.username, s.name AS student_name
+                          SELECT u.id,
+                              u.student_id,
+                           u.username,
+                           COALESCE(u.password_hint, '123456') AS password_hint,
+                           s.name AS student_name
                     FROM users u
                     JOIN students s ON s.id = u.student_id
                     WHERE u.role = 'student' AND u.is_active = 1
@@ -276,7 +305,138 @@ class TxtReader:
                     """
                 )
             ).mappings().all()
-        return rows
+
+            account_list = []
+            for row in rows:
+                sources = conn.execute(
+                    text(
+                        """
+                        SELECT source_file
+                        FROM student_source_files
+                        WHERE student_id = :student_id
+                        ORDER BY source_file
+                        """
+                    ),
+                    {'student_id': row['student_id']},
+                ).mappings().all()
+                account_list.append(
+                    {
+                        'username': row['username'],
+                        'password_hint': row['password_hint'],
+                        'student_name': row['student_name'],
+                        'source_files': [s['source_file'] for s in sources],
+                    }
+                )
+        return account_list
+
+    def get_student_id_by_name(self, student_name):
+        with self.engine.begin() as conn:
+            row = conn.execute(
+                text("SELECT id FROM students WHERE name = :name"),
+                {'name': student_name},
+            ).mappings().first()
+        return row['id'] if row else None
+
+    def get_allowed_files_for_student(self, student_id):
+        if not student_id:
+            return []
+        with self.engine.begin() as conn:
+            rows = conn.execute(
+                text(
+                    """
+                    SELECT source_file
+                    FROM student_source_files
+                    WHERE student_id = :student_id
+                    ORDER BY source_file
+                    """
+                ),
+                {'student_id': student_id},
+            ).mappings().all()
+        return [row['source_file'] for row in rows]
+
+    def get_allowed_files_for_student_name(self, student_name):
+        student_id = self.get_student_id_by_name(student_name)
+        return self.get_allowed_files_for_student(student_id)
+
+    def set_student_source_files(self, student_id, source_files):
+        cleaned = [source_file for source_file in source_files if source_file in self.file_choices]
+        now = datetime.now().isoformat()
+        with self.engine.begin() as conn:
+            conn.execute(
+                text("DELETE FROM student_source_files WHERE student_id = :student_id"),
+                {'student_id': student_id},
+            )
+            for source_file in cleaned:
+                conn.execute(
+                    text(
+                        """
+                        INSERT INTO student_source_files(student_id, source_file, created_at)
+                        VALUES (:student_id, :source_file, :created_at)
+                        """
+                    ),
+                    {'student_id': student_id, 'source_file': source_file, 'created_at': now},
+                )
+
+    @staticmethod
+    def _source_label(source_file):
+        return source_file.replace('.txt', '').strip()
+
+    def _build_default_student_username(self, student_name, source_files):
+        cleaned_sources = [source for source in source_files if source in self.file_choices]
+        source_label = self._source_label(cleaned_sources[0]) if cleaned_sources else '未分配词库'
+        return f"{source_label}-{student_name}"
+
+    def _ensure_unique_username(self, conn, desired_username):
+        username = desired_username
+        suffix = 2
+        while conn.execute(
+            text("SELECT id FROM users WHERE username = :username"),
+            {'username': username},
+        ).first():
+            username = f"{desired_username}-{suffix}"
+            suffix += 1
+        return username
+
+    def create_student_account(self, student_name, username, password, source_files):
+        student_id, student_name = self.ensure_student(student_name)
+        cleaned_sources = [source_file for source_file in source_files if source_file in self.file_choices]
+        if not cleaned_sources:
+            return False, '请至少分配一个词库源'
+
+        requested_username = username.strip() if username else ''
+        if not requested_username:
+            requested_username = self._build_default_student_username(student_name, cleaned_sources)
+
+        requested_password = password.strip() if password else '123456'
+        now = datetime.now().isoformat()
+
+        with self.engine.begin() as conn:
+            if username and conn.execute(
+                text("SELECT id FROM users WHERE username = :username"),
+                {'username': requested_username},
+            ).first():
+                return False, '账号已存在'
+
+            final_username = self._ensure_unique_username(conn, requested_username)
+
+            conn.execute(
+                text(
+                    """
+                    INSERT INTO users(username, password_hash, password_hint, role, student_id, is_active, created_at)
+                    VALUES (:username, :password_hash, :password_hint, 'student', :student_id, 1, :created_at)
+                    """
+                ),
+                {
+                    'username': final_username,
+                    'password_hash': generate_password_hash(requested_password),
+                    'password_hint': requested_password,
+                    'student_id': student_id,
+                    'created_at': now,
+                },
+            )
+
+        self.set_student_source_files(student_id, cleaned_sources)
+        return True, f'创建成功: {final_username} / {requested_password}'
 
     def get_students(self):
         with self.engine.begin() as conn:
@@ -766,6 +926,8 @@ def login_required(roles=None):
 
 @app.route('/login/teacher', methods=['GET', 'POST'])
 def login_teacher():
+    teacher_username = os.getenv('TEACHER_USERNAME', 'teacher').strip() or 'teacher'
+    teacher_password = os.getenv('TEACHER_PASSWORD', 'teacher123')
     error_message = None
     if request.method == 'POST':
         username = request.form.get('username', '').strip()
@@ -780,7 +942,12 @@ def login_teacher():
             return redirect(url_for('index'))
         error_message = '账号或密码错误'
 
-    return render_template('login_teacher.html', error_message=error_message)
+    return render_template(
+        'login_teacher.html',
+        error_message=error_message,
+        teacher_username=teacher_username,
+        teacher_password=teacher_password,
+    )
 
 
 @app.route('/login/student', methods=['GET', 'POST'])
@@ -806,6 +973,60 @@ def login_student():
     )
 
 
+@app.route('/teacher/students', methods=['GET', 'POST'])
+@login_required(roles=['teacher'])
+def teacher_students():
+    error_message = None
+    success_message = None
+
+    if request.method == 'POST':
+        action = request.form.get('action', 'create').strip()
+        if action == 'create':
+            student_name = request.form.get('student_name', '').strip()
+            username = request.form.get('username', '').strip()
+            password = request.form.get('password', '').strip()
+            source_files = request.form.getlist('source_files')
+
+            if not student_name:
+                error_message = '学生名称不能为空'
+            else:
+                ok, message = txt_reader.create_student_account(student_name, username, password, source_files)
+                if ok:
+                    success_message = message
+                else:
+                    error_message = message
+
+        if action == 'update_files':
+            username = request.form.get('username', '').strip()
+            source_files = request.form.getlist('source_files')
+            with txt_reader.engine.begin() as conn:
+                row = conn.execute(
+                    text(
+                        """
+                        SELECT student_id
+                        FROM users
+                        WHERE username = :username
+                          AND role = 'student'
+                          AND is_active = 1
+                        """
+                    ),
+                    {'username': username},
+                ).mappings().first()
+            if row:
+                txt_reader.set_student_source_files(row['student_id'], source_files)
+                success_message = f'已更新 {username} 的词库权限'
+            else:
+                error_message = '未找到学生账号'
+
+    return render_template(
+        'teacher_students.html',
+        students=txt_reader.get_student_accounts(),
+        source_files=txt_reader.file_choices,
+        error_message=error_message,
+        success_message=success_message,
+    )
+
+
 @app.route('/logout', methods=['POST'])
 def logout():
     session.clear()
@@ -816,12 +1037,7 @@ def logout():
 @login_required(roles=['teacher', 'student'])
 def index():
     user = current_user()
-    available_files = txt_reader.file_choices
-    selected_file = request.values.get('file_name', '高考词汇.txt')
-    if selected_file not in available_files:
-        selected_file = '高考词汇.txt'
-
-    selected_student = request.values.get('student_name', file_to_student_mapping.get(selected_file, '英语'))
+    selected_student = request.values.get('student_name', user['student_name'] or '英语')
     learning_mode = request.values.get('learning_mode', 'new')
 
     if user['role'] == 'student':
@@ -832,6 +1048,25 @@ def index():
         learning_mode = 'new'
 
     student_id, selected_student = txt_reader.ensure_student(selected_student)
+    available_files = txt_reader.get_allowed_files_for_student(student_id)
+
+    selected_file = request.values.get('file_name', '')
+    if selected_file not in available_files:
+        selected_file = available_files[0] if available_files else ''
+
+    if not selected_file:
+        return render_template(
+            'index.html',
+            words=[],
+            user=user,
+            selected_file='',
+            selected_student=selected_student,
+            students=txt_reader.get_students(),
+            files=[],
+            learning_mode=learning_mode,
+            due_review_count=0,
+            no_file_access_message='该学生未分配任何词库源，请老师先到“学生管理”中分配。',
+        )
 
     if request.method == 'GET':
         words = txt_reader.get_words_for_mode(student_id, selected_file, learning_mode)
@@ -842,6 +1077,7 @@ def index():
             selected_file=selected_file,
             selected_student=selected_student,
             students=txt_reader.get_students(),
+            files=available_files,
             learning_mode=learning_mode,
             due_review_count=txt_reader.due_review_count(student_id, selected_file),
         )
@@ -872,6 +1108,7 @@ def index():
             selected_file=selected_file,
             selected_student=selected_student,
             students=txt_reader.get_students(),
+            files=available_files,
             learning_mode=learning_mode,
             due_review_count=txt_reader.due_review_count(student_id, selected_file),
         )
@@ -884,6 +1121,7 @@ def index():
         selected_file=selected_file,
         selected_student=selected_student,
         students=txt_reader.get_students(),
+        files=available_files,
         learning_mode=learning_mode,
         due_review_count=txt_reader.due_review_count(student_id, selected_file),
     )
@@ -897,14 +1135,15 @@ def new_start():
     context_state_key = 'new_start_context'
 
     user = current_user()
-    selected_file = request.values.get('file_name', '高考词汇.txt')
-    if selected_file not in txt_reader.file_choices:
-        selected_file = '高考词汇.txt'
+    selected_student = request.values.get('student_name', '英语')
+    student_id, selected_student = txt_reader.ensure_student(selected_student)
+    allowed_files = txt_reader.get_allowed_files_for_student(student_id)
 
-    selected_student = request.values.get('student_name', file_to_student_mapping.get(selected_file, '英语'))
-    _, selected_student = txt_reader.ensure_student(selected_student)
+    selected_file = request.values.get('file_name', '')
+    if selected_file not in allowed_files:
+        selected_file = allowed_files[0] if allowed_files else ''
 
-    words = txt_reader.get_words_from_file(selected_file)
+    words = txt_reader.get_words_from_file(selected_file) if selected_file else []
     total_words = len(words)
     total_pages = max(1, math.ceil(total_words / page_size))
 
@@ -928,13 +1167,17 @@ def new_start():
     if request.method == 'POST':
         student_id, selected_student = txt_reader.ensure_student(request.form.get('student_name', selected_student))
         selected_file = request.form.get('file_name', selected_file)
-        if selected_file not in txt_reader.file_choices:
-            selected_file = '高考词汇.txt'
+        allowed_files = txt_reader.get_allowed_files_for_student(student_id)
+        if selected_file not in allowed_files:
+            selected_file = allowed_files[0] if allowed_files else ''
 
         current_context = {'student_name': selected_student, 'file_name': selected_file}
         if session.get(context_state_key) != current_context:
             session[context_state_key] = current_context
             session[decision_state_key] = {}
+
+        if not selected_file:
+            return redirect(url_for('new_start', student_name=selected_student))
 
         words = txt_reader.get_words_from_file(selected_file)
         total_words = len(words)
@@ -1006,12 +1249,13 @@ def new_start():
         students=txt_reader.get_students(),
         selected_student=selected_student,
         selected_file=selected_file,
-        files=txt_reader.file_choices,
+        files=allowed_files,
         words=words_page,
         page=page,
         total_pages=total_pages,
         total_words=total_words,
         page_size=page_size,
+        no_file_access_message='' if allowed_files else '该学生未分配词库源，请先在学生管理页分配。',
     )
 
 

@@ -138,6 +138,9 @@
     <div class="card">
         <h1>学新流程：步骤 1/3 - 标记会/不会</h1>
         <div class="meta">当前老师：{{ user.username }}。可按需标记“会/不会”，未选择表示本轮不处理该词。</div>
+        {% if no_file_access_message %}
+        <div class="meta" style="color: #d9480f;">{{ no_file_access_message }}</div>
+        {% endif %}
     </div>
 
     <form method="post" action="{{ url_for('new_start') }}">
@@ -195,7 +198,7 @@
             </div>
 
             <div class="actions">
-                <button type="submit" class="btn btn-primary" name="intent" value="start">开始训练（每组 5 词）</button>
+                <button type="submit" class="btn btn-primary" name="intent" value="start" {% if not files %}disabled{% endif %}>开始训练（每组 5 词）</button>
                 <a class="btn btn-secondary" href="{{ url_for('index') }}">返回复习主页</a>
             </div>
         </div>

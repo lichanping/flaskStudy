@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>学生管理</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/newflow.css') }}">
+    <style>
+        .student-table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 8px;
+        }
+
+        .student-table th,
+        .student-table td {
+            border: 1px solid #dbe8f5;
+            padding: 8px;
+            text-align: left;
+            vertical-align: top;
+            font-size: 14px;
+        }
+
+        .source-list {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 8px;
+        }
+
+        .source-list label {
+            white-space: nowrap;
+        }
+
+        .inline-form {
+            margin: 0;
+        }
+
+        .message {
+            padding: 8px 10px;
+            border-radius: 8px;
+            margin-top: 8px;
+            font-size: 14px;
+        }
+
+        .message.error {
+            background: #fff1f0;
+            color: #b42318;
+        }
+
+        .message.success {
+            background: #e7f7ef;
+            color: #166534;
+        }
+
+        @media (max-width: 768px) {
+            body {
+                padding: 12px;
+            }
+
+            .card {
+                padding: 12px;
+            }
+
+            .student-table {
+                display: block;
+                overflow-x: auto;
+                white-space: nowrap;
+            }
+
+            .source-list {
+                display: grid;
+                grid-template-columns: 1fr 1fr;
+                gap: 6px;
+            }
+        }
+    </style>
+</head>
+<body>
+<div class="container">
+    <div class="card">
+        <h1>学生管理</h1>
+        <div class="meta">创建学生账号并分配可用词库源。老师账号固定为你的唯一账号。</div>
+        {% if error_message %}
+        <div class="message error">{{ error_message }}</div>
+        {% endif %}
+        {% if success_message %}
+        <div class="message success">{{ success_message }}</div>
+        {% endif %}
+    </div>
+
+    <div class="card">
+        <h3>新建学生账号</h3>
+        <form method="post">
+            <input type="hidden" name="action" value="create">
+            <div class="actions">
+                <input name="student_name" placeholder="学生名称，例如 张三" required>
+                <input name="username" placeholder="登录账号（可留空，默认: 词库名-学生名）">
+                <input name="password" placeholder="登录密码（可留空，默认: 123456）">
+            </div>
+            <div class="meta" style="margin-top: 8px;">分配词库源（可多选，至少选 1 个）</div>
+            <div class="source-list" style="margin-top: 6px;">
+                {% for source in source_files %}
+                <label>
+                    <input type="checkbox" name="source_files" value="{{ source }}"> {{ source.replace('.txt', '') }}
+                </label>
+                {% endfor %}
+            </div>
+            <div class="actions">
+                <button class="btn btn-primary" type="submit">创建学生账号</button>
+                <a class="btn btn-secondary" href="{{ url_for('new_start') }}">返回学新</a>
+            </div>
+        </form>
+    </div>
+
+    <div class="card">
+        <h3>已创建学生账号</h3>
+        <table class="student-table">
+            <thead>
+            <tr>
+                <th>学生名称</th>
+                <th>登录账号</th>
+                <th>登录密码</th>
+                <th>可用词库源</th>
+                <th>操作</th>
+            </tr>
+            </thead>
+            <tbody>
+            {% for student in students %}
+            <tr>
+                <td>{{ student.student_name }}</td>
+                <td>{{ student.username }}</td>
+                <td>{{ student.password_hint }}</td>
+                <td>
+                    <form method="post" class="inline-form">
+                        <input type="hidden" name="action" value="update_files">
+                        <input type="hidden" name="username" value="{{ student.username }}">
+                        <div class="source-list">
+                            {% for source in source_files %}
+                            <label>
+                                <input type="checkbox" name="source_files" value="{{ source }}" {% if source in student.source_files %}checked{% endif %}> {{ source.replace('.txt', '') }}
+                            </label>
+                            {% endfor %}
+                        </div>
+                </td>
+                <td>
+                        <button class="btn btn-secondary" type="submit">保存词库权限</button>
+                    </form>
+                </td>
+            </tr>
+            {% endfor %}
+            </tbody>
+        </table>
+    </div>
+</div>
+</body>
+</html>

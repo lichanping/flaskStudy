@@ -11,7 +11,9 @@
     <section class="auth-left">
         <h1 class="auth-title">老师登录</h1>
         <p class="auth-subtitle">用于带学生完成学新流程、复核学习结果并生成抗遗忘复习任务。</p>
-        <div class="auth-note">POC 默认老师账号: teacher / teacher123</div>
+        <div class="auth-note">POC 默认老师账号</div>
+        <div class="auth-note">账号: {{ teacher_username }}</div>
+        <div class="auth-note">密码: {{ teacher_password }}</div>
     </section>
     <section class="auth-right">
         {% if error_message %}

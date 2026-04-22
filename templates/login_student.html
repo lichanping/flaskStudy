@@ -19,6 +19,8 @@
                 <tr>
                     <th>学生账号</th>
                     <th>学生名称</th>
+                    <th>密码</th>
+                    <th>可用词库源</th>
                 </tr>
                 </thead>
                 <tbody>
@@ -26,6 +28,8 @@
                 <tr>
                     <td>{{ account.username }}</td>
                     <td>{{ account.student_name }}</td>
+                    <td>{{ account.password_hint }}</td>
+                    <td>{{ account.source_files|join('、') if account.source_files else '未分配' }}</td>
                 </tr>
                 {% endfor %}
                 </tbody>
