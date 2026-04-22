@@ -1275,6 +1275,18 @@ def new_train(session_id, group_no):
         return redirect(url_for('new_review', session_id=session_id))
 
     if request.method == 'POST':
+        training_completed = request.form.get('training_completed', '0') == '1'
+        if not training_completed:
+            return render_template(
+                'new_train.html',
+                user=user,
+                session_info=session_info,
+                group_words=group_words,
+                group_no=group_no,
+                total_groups=total_groups,
+                train_warning='请先按路线顺序完成本组学习，再点击主按钮进入下一步。',
+            )
+
         if group_no >= total_groups:
             return redirect(url_for('new_review', session_id=session_id))
         return redirect(url_for('new_train', session_id=session_id, group_no=group_no + 1))
@@ -1286,6 +1298,7 @@ def new_train(session_id, group_no):
         group_words=group_words,
         group_no=group_no,
         total_groups=total_groups,
+        train_warning=None,
     )
 
 
