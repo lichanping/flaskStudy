@@ -6,32 +6,67 @@
     <title>学新训练</title>
     <link rel="stylesheet" href="{{ url_for('static', filename='css/newflow.css') }}">
     <style>
-        .route-item.current .route-content {
-            border-color: #8ce99a;
-            box-shadow: inset 0 0 0 1px #8ce99a;
-            background: #f4fff6;
+        .meta-group {
+            margin-top: 6px;
+            font-size: 34px;
+            font-weight: 700;
+            color: #223a55;
         }
 
-        .route-item.next .route-line::before {
-            background: linear-gradient(180deg, #51cf66, #2f9e44);
+        .word-list {
+            display: flex;
+            flex-direction: column;
+            gap: 12px;
         }
 
-        .route-item.next .route-dot {
-            background: #40c057;
-            box-shadow: 0 0 0 3px rgba(64, 192, 87, 0.2);
+        .word-card {
+            border: 1px solid #e5edf5;
+            border-radius: 14px;
+            background: #fcfeff;
+            padding: 14px 14px 12px;
+            transition: border-color .2s ease, box-shadow .2s ease, background-color .2s ease;
         }
 
-        .term-line {
+        .word-card-header {
+            margin-bottom: 4px;
+        }
+
+        .word-index {
+            color: #687d92;
+            font-size: 18px;
+        }
+
+        .word-card-body {
             display: flex;
             align-items: center;
             justify-content: space-between;
             gap: 10px;
         }
 
-        .term-line .term {
+        .word-term {
             min-width: 0;
             flex: 1;
             word-break: break-word;
+            font-size: 52px;
+            font-weight: 800;
+            color: #2d3640;
+            line-height: 1.1;
+        }
+
+        .word-card.current {
+            border-color: #37b58a;
+            box-shadow: inset 0 0 0 1px #37b58a;
+            background: #e9f6f1;
+        }
+
+        .word-card.next {
+            border-left: 4px solid #b5edd9;
+            padding-left: 10px;
+        }
+
+        .word-card.done {
+            border-color: #dbe8f5;
+            background: #f9fcff;
         }
 
         .toggle-meaning-btn {
@@ -59,19 +94,13 @@
 
         .route-hint {
             margin-top: 10px;
-            font-size: 14px;
-            color: #43607d;
-        }
-
-        .route-sub-hint {
-            margin-top: 4px;
-            font-size: 13px;
-            color: #6b7f95;
+            font-size: 22px;
+            color: #4c6279;
         }
 
         .train-status {
             margin-top: 8px;
-            font-size: 14px;
+            font-size: 21px;
             color: #2b6cb0;
         }
 
@@ -80,19 +109,9 @@
             font-weight: 600;
         }
 
-        .jump-review-tip {
-            margin-top: 8px;
-            font-size: 13px;
-            color: #7a8fa6;
-        }
-
         .btn.btn-primary:disabled {
             background: #b9c8d8;
             cursor: not-allowed;
-        }
-
-        .btn.jump-review-link {
-            opacity: 0.78;
         }
 
         .train-warning {
@@ -111,62 +130,68 @@
 
         @media (max-width: 768px) {
             body {
-                padding: 12px;
+                padding: 0;
+            }
+
+            .container {
+                max-width: none;
             }
 
             .card {
-                padding: 12px;
-                border-radius: 12px;
+                border-radius: 0;
+                border-left: none;
+                border-right: none;
+                margin-bottom: 0;
+                padding: 14px 16px;
             }
 
             h1 {
-                font-size: 28px;
-                line-height: 1.3;
-                margin-bottom: 10px;
+                font-size: 44px;
+                line-height: 1.2;
+                margin: 0;
             }
 
             .meta {
-                font-size: 13px;
+                font-size: 24px;
                 line-height: 1.6;
             }
 
-            .route-item {
-                grid-template-columns: 10px 1fr;
-                gap: 8px;
+            .meta-group {
+                font-size: 44px;
             }
 
-            .route-line {
-                width: 10px;
+            .word-list {
+                gap: 14px;
             }
 
-            .route-line::before {
-                left: 4px;
-                width: 2px;
+            .word-card {
+                border-radius: 14px;
+                padding: 12px;
             }
 
-            .route-dot {
-                left: 0;
-                width: 10px;
-                height: 10px;
+            .word-index {
+                font-size: 16px;
             }
 
-            .route-content {
-                padding: 10px 9px;
+            .word-term {
+                font-size: 48px;
             }
 
-            .term-line {
-                flex-direction: row;
-                align-items: center;
-                justify-content: space-between;
+            .word-card-body {
                 gap: 8px;
             }
 
             .toggle-meaning-btn {
                 width: auto;
-                min-width: 92px;
+                min-width: 84px;
                 font-size: 13px;
                 padding: 6px 10px;
                 flex-shrink: 0;
+            }
+
+            .route-hint,
+            .train-status {
+                font-size: 15px;
             }
 
             .actions {
@@ -190,31 +215,31 @@
 <div class="container">
     <div class="card">
         <h1>单词练习</h1>
+        <div class="meta-group">{{ group_no }}/{{ total_groups }}组</div>
         <div class="meta">
             学生：{{ session_info.student_name }} ｜ 词库：{{ session_info.source_file.replace('.txt', '') }} ｜
-            第 {{ group_no }} / {{ total_groups }} 组（学新流程：步骤 2/3）
+            学新流程：步骤 2/3
         </div>
     </div>
 
     <div class="card training-card">
         {% if group_words %}
-            {% for word in group_words %}
-            <div class="route-item" data-word-index="{{ loop.index }}">
-                <div class="route-line">
-                    <span class="route-dot"></span>
-                </div>
-                <div class="route-content">
-                    <div class="term-line">
-                        <div class="term" data-term>{{ word.term }}</div>
+            <div class="word-list">
+                {% for word in group_words %}
+                <div class="word-card" data-word-index="{{ loop.index }}" data-term="{{ word.term }}">
+                    <div class="word-card-header">
+                        <span class="word-index">{{ loop.index }}.</span>
+                    </div>
+                    <div class="word-card-body">
+                        <div class="word-term">{{ word.term }}</div>
                         <button type="button" class="toggle-meaning-btn">显示中文</button>
                     </div>
                     <div class="meaning hidden">{{ word.meaning }}</div>
                 </div>
+                {% endfor %}
             </div>
-            {% endfor %}
-            <div class="route-hint">路线点击进度：<span id="routeProgress">0</span> / <span id="routeTotal">0</span></div>
-            <div class="route-sub-hint">说明：这里是按橙色路线点击的累计次数，不是单词数量。</div>
-            <div id="trainStatus" class="train-status">按橙色路线顺序点击完成本组学习后，可进入下一步。</div>
+            <div class="route-hint">学习进度：<span id="routeProgress">0</span> / <span id="routeTotal">0</span></div>
+            <div id="trainStatus" class="train-status">点击单词卡可播放发音并切换当前学习词。</div>
         {% else %}
             <p>本组无单词，点击继续。</p>
         {% endif %}
@@ -231,24 +256,21 @@
                 {% else %}
                 <button class="btn btn-primary" id="completeTrainingBtn" type="submit" disabled>完成训练，进入复核</button>
                 {% endif %}
-                <a class="btn btn-secondary jump-review-link" href="{{ url_for('new_review', session_id=session_info.id) }}">跳到复核页</a>
             </div>
-            <div class="jump-review-tip">可提前跳到复核页，但不建议，建议先按路线完成本组学习。</div>
         </form>
     </div>
 </div>
 <script>
     (function () {
-        const routeItems = Array.from(document.querySelectorAll('.route-item'));
-        if (!routeItems.length) {
+        const wordCards = Array.from(document.querySelectorAll('.word-card'));
+        if (!wordCards.length) {
             return;
         }
 
         const audioPlayer = new Audio();
-        const basePattern = [1, 2, 3, 2, 1, 2, 3, 4, 3, 2, 1, 2, 3, 4, 5, 4, 3, 4, 5, 2, 1, 2, 1, 2, 3, 4, 5, 4, 3, 2, 1];
-        const wordCount = routeItems.length;
-        const routeSequence = basePattern.filter((index) => index <= wordCount);
-        let routeCursor = 0;
+        const wordCount = wordCards.length;
+        const clickedWords = new Set();
+        let activeIndex = 1;
 
         const progressEl = document.getElementById('routeProgress');
         const totalEl = document.getElementById('routeTotal');
@@ -256,11 +278,11 @@
         const trainingCompletedInput = document.getElementById('trainingCompleted');
         const trainStatusEl = document.getElementById('trainStatus');
         if (totalEl) {
-            totalEl.textContent = String(routeSequence.length);
+            totalEl.textContent = String(wordCount);
         }
 
         function updateCompletionUI() {
-            const isComplete = routeCursor >= routeSequence.length;
+            const isComplete = clickedWords.size >= wordCount;
             if (completeTrainingBtn) {
                 completeTrainingBtn.disabled = !isComplete;
             }
@@ -271,14 +293,14 @@
                 trainStatusEl.classList.toggle('completed', isComplete);
                 trainStatusEl.textContent = isComplete
                     ? '本组学习已完成，可点击主按钮进入下一步。'
-                    : '按橙色路线顺序点击完成本组学习后，可进入下一步。';
+                    : '点击单词卡可播放发音并切换当前学习词。';
             }
         }
 
         function hideAllMeanings() {
-            routeItems.forEach((routeItem) => {
-                const meaning = routeItem.querySelector('.meaning');
-                const button = routeItem.querySelector('.toggle-meaning-btn');
+            wordCards.forEach((wordCard) => {
+                const meaning = wordCard.querySelector('.meaning');
+                const button = wordCard.querySelector('.toggle-meaning-btn');
                 if (meaning && !meaning.classList.contains('hidden')) {
                     meaning.classList.add('hidden');
                 }
@@ -288,62 +310,60 @@
             });
         }
 
-        function updateRouteHighlight() {
-            const expected = routeSequence[routeCursor];
-            const nextExpected = routeSequence[routeCursor + 1];
-            routeItems.forEach((item, idx) => {
+        function updateCardStates() {
+            wordCards.forEach((card, idx) => {
                 const currentIndex = idx + 1;
-                item.classList.remove('current', 'next');
-                if (currentIndex === expected) {
-                    item.classList.add('current');
-                } else if (currentIndex === nextExpected) {
-                    item.classList.add('next');
+                card.classList.remove('current', 'next', 'done');
+                if (clickedWords.has(currentIndex)) {
+                    card.classList.add('done');
+                }
+                if (currentIndex === activeIndex) {
+                    card.classList.add('current');
+                }
+                if (currentIndex === activeIndex + 1) {
+                    card.classList.add('next');
                 }
             });
             if (progressEl) {
-                progressEl.textContent = String(routeCursor);
+                progressEl.textContent = String(clickedWords.size);
             }
 
             updateCompletionUI();
         }
 
         function playAudio(term) {
-            const src = `{{ url_for('static', filename='sounds') }}/${term}.mp3`;
+            if (!term) {
+                return;
+            }
+
+            audioPlayer.pause();
+            audioPlayer.currentTime = 0;
+            const src = `{{ url_for('static', filename='sounds') }}/${encodeURIComponent(term)}.mp3`;
             audioPlayer.src = src;
             audioPlayer.play().catch(() => {
                 // Ignore blocked autoplay or missing audio in training mode
             });
         }
 
-        routeItems.forEach((item, idx) => {
+        wordCards.forEach((item, idx) => {
             const index = idx + 1;
-            const termEl = item.querySelector('[data-term]');
+            const term = (item.dataset.term || '').trim();
             const meaningEl = item.querySelector('.meaning');
             const toggleBtn = item.querySelector('.toggle-meaning-btn');
 
             item.addEventListener('click', (event) => {
-                if (event.target === toggleBtn) {
+                if (event.target.closest('.toggle-meaning-btn')) {
                     return;
                 }
 
                 hideAllMeanings();
-
-                const term = termEl ? termEl.textContent.trim() : '';
                 if (term) {
                     playAudio(term);
                 }
 
-                if (routeCursor >= routeSequence.length) {
-                    return;
-                }
-
-                const expected = routeSequence[routeCursor];
-                if (index !== expected) {
-                    return;
-                }
-
-                routeCursor += 1;
-                updateRouteHighlight();
+                activeIndex = index;
+                clickedWords.add(index);
+                updateCardStates();
             });
 
             toggleBtn.addEventListener('click', () => {
@@ -363,18 +383,13 @@
             }
 
             event.preventDefault();
-            if (routeCursor >= routeSequence.length) {
-                return;
-            }
-
-            const expected = routeSequence[routeCursor];
-            const target = routeItems[expected - 1];
+            const target = wordCards[activeIndex - 1];
             if (target) {
                 target.click();
             }
         });
 
-        updateRouteHighlight();
+        updateCardStates();
     })();
 </script>
 </body>

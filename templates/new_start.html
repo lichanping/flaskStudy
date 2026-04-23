@@ -34,6 +34,19 @@
             flex-wrap: wrap;
         }
 
+        .bulk-actions {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            flex-wrap: wrap;
+            margin-bottom: 10px;
+        }
+
+        .bulk-actions .btn {
+            padding: 7px 12px;
+            font-size: 14px;
+        }
+
         .decision-option {
             white-space: nowrap;
         }
@@ -104,6 +117,17 @@
                 padding-top: 6px;
             }
 
+            .bulk-actions {
+                display: grid;
+                grid-template-columns: 1fr 1fr;
+                gap: 8px;
+            }
+
+            .bulk-actions .btn {
+                width: 100%;
+                text-align: center;
+            }
+
             .actions {
                 display: grid;
                 grid-template-columns: 1fr;
@@ -171,6 +195,10 @@
 
         <div class="card">
             <h3>本轮词汇（默认不选，未选表示不处理）</h3>
+            <div class="bulk-actions">
+                <button type="button" class="btn btn-secondary" id="markAllUnknownBtn">一键全选不会</button>
+                <button type="button" class="btn btn-secondary" id="resetAllDecisionsBtn">一键重置未选择</button>
+            </div>
             {% for word in words %}
             <div class="word-row">
                 <div class="index">{{ loop.index }}</div>
@@ -204,5 +232,29 @@
         </div>
     </form>
 </div>
+<script>
+    (function () {
+        const markAllUnknownBtn = document.getElementById('markAllUnknownBtn');
+        const resetAllDecisionsBtn = document.getElementById('resetAllDecisionsBtn');
+        if (!markAllUnknownBtn || !resetAllDecisionsBtn) {
+            return;
+        }
+
+        const unknownRadios = Array.from(document.querySelectorAll('input[type="radio"][value="unknown"]'));
+        const allDecisionRadios = Array.from(document.querySelectorAll('input[type="radio"][name^="decision_"]'));
+
+        markAllUnknownBtn.addEventListener('click', () => {
+            unknownRadios.forEach((radio) => {
+                radio.checked = true;
+            });
+        });
+
+        resetAllDecisionsBtn.addEventListener('click', () => {
+            allDecisionRadios.forEach((radio) => {
+                radio.checked = false;
+            });
+        });
+    })();
+</script>
 </body>
 </html>
