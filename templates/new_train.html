@@ -6,30 +6,19 @@
     <title>学新训练</title>
     <link rel="stylesheet" href="{{ url_for('static', filename='css/newflow.css') }}">
     <style>
-        .route-item.active .route-line::before {
-            background: linear-gradient(180deg, #f59f00, #e8590c);
-        }
-
-        .route-item.active .route-dot {
-            background: #f08c00;
-            box-shadow: 0 0 0 3px rgba(240, 140, 0, 0.2);
-        }
-
-        .route-item.active .route-content {
-            border-color: #ffd8a8;
-            box-shadow: inset 0 0 0 1px #ffd8a8;
-            background: #fff9f0;
-        }
-
-        .route-item.done .route-content {
-            border-color: #b2f2bb;
+        .route-item.current .route-content {
+            border-color: #8ce99a;
+            box-shadow: inset 0 0 0 1px #8ce99a;
             background: #f4fff6;
         }
 
-        .route-item.active.done .route-content {
-            border-color: #ffd8a8;
-            box-shadow: inset 0 0 0 1px #ffd8a8;
-            background: #fff9f0;
+        .route-item.next .route-line::before {
+            background: linear-gradient(180deg, #51cf66, #2f9e44);
+        }
+
+        .route-item.next .route-dot {
+            background: #40c057;
+            box-shadow: 0 0 0 3px rgba(64, 192, 87, 0.2);
         }
 
         .term-line {
@@ -83,7 +72,7 @@
         .train-status {
             margin-top: 8px;
             font-size: 14px;
-            color: #8a5a00;
+            color: #2b6cb0;
         }
 
         .train-status.completed {
@@ -114,6 +103,10 @@
             border-radius: 10px;
             padding: 8px 10px;
             font-size: 14px;
+        }
+
+        .training-card {
+            padding-bottom: 18px;
         }
 
         @media (max-width: 768px) {
@@ -186,20 +179,24 @@
                 width: 100%;
                 text-align: center;
             }
+
+            .training-card {
+                padding-bottom: 24px;
+            }
         }
     </style>
 </head>
 <body>
 <div class="container">
     <div class="card">
-        <h1>学新流程：步骤 2/3 - 5词分组训练</h1>
+        <h1>单词练习</h1>
         <div class="meta">
             学生：{{ session_info.student_name }} ｜ 词库：{{ session_info.source_file.replace('.txt', '') }} ｜
-            第 {{ group_no }} / {{ total_groups }} 组
+            第 {{ group_no }} / {{ total_groups }} 组（学新流程：步骤 2/3）
         </div>
     </div>
 
-    <div class="card">
+    <div class="card training-card">
         {% if group_words %}
             {% for word in group_words %}
             <div class="route-item" data-word-index="{{ loop.index }}">
@@ -293,11 +290,14 @@
 
         function updateRouteHighlight() {
             const expected = routeSequence[routeCursor];
+            const nextExpected = routeSequence[routeCursor + 1];
             routeItems.forEach((item, idx) => {
                 const currentIndex = idx + 1;
-                item.classList.remove('active');
+                item.classList.remove('current', 'next');
                 if (currentIndex === expected) {
-                    item.classList.add('active');
+                    item.classList.add('current');
+                } else if (currentIndex === nextExpected) {
+                    item.classList.add('next');
                 }
             });
             if (progressEl) {
@@ -305,15 +305,6 @@
             }
 
             updateCompletionUI();
-        }
-
-        function setSingleDone(targetItem) {
-            routeItems.forEach((routeItem) => {
-                routeItem.classList.remove('done');
-            });
-            if (targetItem) {
-                targetItem.classList.add('done');
-            }
         }
 
         function playAudio(term) {
@@ -347,11 +338,12 @@
                 }
 
                 const expected = routeSequence[routeCursor];
-                if (index === expected) {
-                    setSingleDone(item);
-                    routeCursor += 1;
-                    updateRouteHighlight();
+                if (index !== expected) {
+                    return;
                 }
+
+                routeCursor += 1;
+                updateRouteHighlight();
             });
 
             toggleBtn.addEventListener('click', () => {
@@ -359,6 +351,27 @@
                 meaningEl.classList.toggle('hidden');
                 toggleBtn.textContent = isHidden ? '隐藏中文' : '显示中文';
             });
+        });
+
+        document.addEventListener('keydown', (event) => {
+            if (event.code !== 'Space') {
+                return;
+            }
+
+            if (event.target && event.target.closest('input, textarea, select, button, a')) {
+                return;
+            }
+
+            event.preventDefault();
+            if (routeCursor >= routeSequence.length) {
+                return;
+            }
+
+            const expected = routeSequence[routeCursor];
+            const target = routeItems[expected - 1];
+            if (target) {
+                target.click();
+            }
         });
 
         updateRouteHighlight();
