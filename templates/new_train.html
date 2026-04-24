@@ -20,10 +20,11 @@
         }
 
         .word-card {
+            position: relative;
             border: 1px solid #e5edf5;
             border-radius: 14px;
             background: #fcfeff;
-            padding: 14px 14px 12px;
+            padding: 10px 12px;
             transition: border-color .2s ease, box-shadow .2s ease, background-color .2s ease;
         }
 
@@ -46,22 +47,24 @@
         .word-term {
             min-width: 0;
             flex: 1;
-            word-break: break-word;
-            font-size: 52px;
+            white-space: nowrap;
+            overflow: hidden;
+            text-overflow: ellipsis;
+            font-size: 48px;
             font-weight: 800;
             color: #2d3640;
             line-height: 1.1;
         }
 
         .word-card.current {
-            border-color: #37b58a;
-            box-shadow: inset 0 0 0 1px #37b58a;
-            background: #e9f6f1;
+            border-color: #28b88d;
+            box-shadow: inset 0 0 0 1px #28b88d;
+            background: #eaf8f2;
         }
 
         .word-card.next {
-            border-left: 4px solid #b5edd9;
-            padding-left: 10px;
+            border-left: 4px solid #ade8d5;
+            box-shadow: 0 4px 10px rgba(27, 40, 55, 0.08);
         }
 
         .word-card.done {
@@ -142,56 +145,64 @@
                 border-left: none;
                 border-right: none;
                 margin-bottom: 0;
-                padding: 14px 16px;
+                padding: 10px 12px;
             }
 
             h1 {
-                font-size: 44px;
+                font-size: 28px;
                 line-height: 1.2;
                 margin: 0;
             }
 
             .meta {
-                font-size: 24px;
-                line-height: 1.6;
+                font-size: 12px;
+                line-height: 1.35;
             }
 
             .meta-group {
-                font-size: 44px;
+                font-size: 16px;
+                margin-top: 2px;
             }
 
             .word-list {
-                gap: 14px;
+                gap: 8px;
             }
 
             .word-card {
-                border-radius: 14px;
-                padding: 12px;
+                border-radius: 12px;
+                padding: 6px 8px;
             }
 
             .word-index {
-                font-size: 16px;
+                font-size: 11px;
             }
 
             .word-term {
-                font-size: 48px;
+                font-size: 16px;
+                line-height: 1.15;
             }
 
             .word-card-body {
-                gap: 8px;
+                gap: 6px;
             }
 
             .toggle-meaning-btn {
                 width: auto;
-                min-width: 84px;
-                font-size: 13px;
-                padding: 6px 10px;
+                min-width: 66px;
+                font-size: 11px;
+                padding: 3px 7px;
                 flex-shrink: 0;
+            }
+
+            .meaning {
+                margin-top: 4px;
+                font-size: 11px;
             }
 
             .route-hint,
             .train-status {
-                font-size: 15px;
+                font-size: 13px;
+                margin-top: 6px;
             }
 
             .actions {
@@ -206,7 +217,7 @@
             }
 
             .training-card {
-                padding-bottom: 24px;
+                padding-bottom: 8px;
             }
         }
     </style>
