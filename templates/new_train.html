@@ -279,9 +279,12 @@
         }
 
         const audioPlayer = new Audio();
+        const basePattern = [1, 2, 3, 2, 1, 2, 3, 4, 3, 2, 1, 2, 3, 4, 5, 4, 3, 4, 5, 2, 1, 2, 1, 2, 3, 4, 5, 4, 3, 2, 1];
         const wordCount = wordCards.length;
-        const clickedWords = new Set();
-        let activeIndex = 1;
+        const routeSequence = basePattern.filter((index) => index <= wordCount);
+        const routeVisitedCards = new Set();
+        let routeCursor = 0;
+        let activeIndex = routeSequence[0] || 1;
 
         const progressEl = document.getElementById('routeProgress');
         const totalEl = document.getElementById('routeTotal');
@@ -289,11 +292,11 @@
         const trainingCompletedInput = document.getElementById('trainingCompleted');
         const trainStatusEl = document.getElementById('trainStatus');
         if (totalEl) {
-            totalEl.textContent = String(wordCount);
+            totalEl.textContent = String(routeSequence.length);
         }
 
         function updateCompletionUI() {
-            const isComplete = clickedWords.size >= wordCount;
+            const isComplete = routeCursor >= routeSequence.length;
             if (completeTrainingBtn) {
                 completeTrainingBtn.disabled = !isComplete;
             }
@@ -304,7 +307,7 @@
                 trainStatusEl.classList.toggle('completed', isComplete);
                 trainStatusEl.textContent = isComplete
                     ? '本组学习已完成，可点击主按钮进入下一步。'
-                    : '点击单词卡可播放发音并切换当前学习词。';
+                    : '按左侧提示路线点击，可播放发音并完成本组学习。';
             }
         }
 
@@ -322,21 +325,22 @@
         }
 
         function updateCardStates() {
+            const expectedIndex = routeSequence[routeCursor];
             wordCards.forEach((card, idx) => {
                 const currentIndex = idx + 1;
                 card.classList.remove('current', 'next', 'done');
-                if (clickedWords.has(currentIndex)) {
+                if (routeVisitedCards.has(currentIndex)) {
                     card.classList.add('done');
                 }
                 if (currentIndex === activeIndex) {
                     card.classList.add('current');
                 }
-                if (currentIndex === activeIndex + 1) {
+                if (routeCursor < routeSequence.length && currentIndex === expectedIndex) {
                     card.classList.add('next');
                 }
             });
             if (progressEl) {
-                progressEl.textContent = String(clickedWords.size);
+                progressEl.textContent = String(routeCursor);
             }
 
             updateCompletionUI();
@@ -373,7 +377,11 @@
                 }
 
                 activeIndex = index;
-                clickedWords.add(index);
+                const expectedIndex = routeSequence[routeCursor];
+                if (routeCursor < routeSequence.length && index === expectedIndex) {
+                    routeVisitedCards.add(index);
+                    routeCursor += 1;
+                }
                 updateCardStates();
             });
 
@@ -394,7 +402,12 @@
             }
 
             event.preventDefault();
-            const target = wordCards[activeIndex - 1];
+            if (routeCursor >= routeSequence.length) {
+                return;
+            }
+
+            const expectedIndex = routeSequence[routeCursor];
+            const target = wordCards[expectedIndex - 1];
             if (target) {
                 target.click();
             }
