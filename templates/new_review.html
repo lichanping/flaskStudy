@@ -10,6 +10,12 @@
             white-space: nowrap;
         }
 
+        .word-row.active {
+            border-color: #28b88d;
+            box-shadow: inset 0 0 0 1px #28b88d;
+            background: #eaf8f2;
+        }
+
         .meaning.hidden {
             display: none;
         }
@@ -103,13 +109,28 @@
         }
 
         const audioPlayer = new Audio();
+        let activeRow = null;
 
         function playAudio(term) {
+            if (!term) {
+                return;
+            }
+
             const src = `{{ url_for('static', filename='sounds') }}/${encodeURIComponent(term)}.mp3`;
+            audioPlayer.pause();
+            audioPlayer.currentTime = 0;
             audioPlayer.src = src;
             audioPlayer.play().catch(() => {
                 // Ignore blocked autoplay or missing audio in review mode
             });
+        }
+
+        function setActiveRow(row) {
+            if (activeRow && activeRow !== row) {
+                activeRow.classList.remove('active');
+            }
+            activeRow = row;
+            activeRow.classList.add('active');
         }
 
         function collapseOtherMeanings(activeRow) {
@@ -133,6 +154,10 @@
                 }
 
                 collapseOtherMeanings(row);
+                setActiveRow(row);
+
+                const term = row.dataset.term ? row.dataset.term.trim() : '';
+                playAudio(term);
 
                 const meaningEl = row.querySelector('.meaning');
                 if (!meaningEl) {
@@ -141,21 +166,12 @@
 
                 if (meaningEl.classList.contains('hidden')) {
                     if (row.dataset.pendingReveal === '0') {
-                        const term = row.dataset.term ? row.dataset.term.trim() : '';
-                        if (term) {
-                            playAudio(term);
-                        }
                         row.dataset.pendingReveal = '1';
                         return;
                     }
 
                     meaningEl.classList.remove('hidden');
                     return;
-                }
-
-                const term = row.dataset.term ? row.dataset.term.trim() : '';
-                if (term) {
-                    playAudio(term);
                 }
             });
         });
