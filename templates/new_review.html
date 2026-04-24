@@ -105,10 +105,23 @@
         const audioPlayer = new Audio();
 
         function playAudio(term) {
-            const src = `{{ url_for('static', filename='sounds') }}/${term}.mp3`;
+            const src = `{{ url_for('static', filename='sounds') }}/${encodeURIComponent(term)}.mp3`;
             audioPlayer.src = src;
             audioPlayer.play().catch(() => {
                 // Ignore blocked autoplay or missing audio in review mode
+            });
+        }
+
+        function collapseOtherMeanings(activeRow) {
+            rows.forEach((row) => {
+                if (row === activeRow) {
+                    return;
+                }
+                const meaningEl = row.querySelector('.meaning');
+                if (meaningEl && !meaningEl.classList.contains('hidden')) {
+                    meaningEl.classList.add('hidden');
+                }
+                row.dataset.pendingReveal = '0';
             });
         }
 
@@ -118,6 +131,8 @@
                 if (event.target.closest('input, label, a, button')) {
                     return;
                 }
+
+                collapseOtherMeanings(row);
 
                 const meaningEl = row.querySelector('.meaning');
                 if (!meaningEl) {
