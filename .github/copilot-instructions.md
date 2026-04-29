@@ -32,3 +32,27 @@ These instructions apply to all coding tasks in this repository.
 ## Exception Policy
 
 - If a task cannot reasonably follow TDD (for example, one-off scripts or purely mechanical edits), state why and still add validation checks when possible.
+
+## Additional Coding Constraints (andrej-karpathy-skills style)
+
+Apply the following behavior by default in all coding tasks:
+
+- Think before coding:
+  - State key assumptions explicitly.
+  - If requirements are ambiguous, ask or present options before implementation.
+  - Call out simpler alternatives when they exist.
+
+- Simplicity first:
+  - Implement only what is requested.
+  - Avoid speculative abstractions, configurability, or future-proofing not required by the task.
+  - Prefer the smallest change that solves the stated problem.
+
+- Surgical changes:
+  - Touch only lines directly related to the request.
+  - Do not refactor or reformat unrelated code.
+  - Remove only dead code introduced by the current change; do not clean pre-existing unrelated code unless asked.
+
+- Goal-driven execution:
+  - Define clear success criteria before implementation.
+  - For multi-step tasks, keep a short plan and verify each step.
+  - For bug fixes, prefer reproducing the bug in a test before changing implementation.
